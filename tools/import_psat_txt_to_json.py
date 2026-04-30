@@ -201,7 +201,7 @@ def split_by_module(questions):
     exam_num = next(iter(exams))
 
     if prefix not in SECTION_MAP:
-        raise ValueError(f"Unsupported SAT section prefix: {prefix}")
+        raise ValueError(f"Unsupported PSAT/NMSQT section prefix: {prefix}")
 
     module_1 = []
     module_2 = []
