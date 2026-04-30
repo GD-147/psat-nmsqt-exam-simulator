@@ -40,7 +40,7 @@ function normalizeQuestion(q) {
 async function loadQuestionsForSection(examId, section) {
   const files = (section.examFiles && section.examFiles.length)
     ? section.examFiles
-    : [`${section.id}.json`];
+    : [];
 
   const all = [];
   for (const f of files) {
@@ -237,6 +237,20 @@ if (section.type === "essay") {
 
   // Carica domande MCQ (supporta più examFiles)
   const examSets = await loadQuestionsForSection(examId, section);
+
+  if (!examSets.length) {
+    const metaEl = qs("metaLine");
+    if (metaEl) metaEl.textContent = "Practice exams will be available soon.";
+    const questionEl = qs("questionText");
+    if (questionEl) questionEl.textContent = "This PSAT/NMSQT module is being prepared. Please check back after the practice exams have been added.";
+    const choicesEl = qs("choices");
+    if (choicesEl) choicesEl.innerHTML = "";
+    const nextBtn = qs("nextBtn");
+    if (nextBtn) nextBtn.style.display = "none";
+    const submitBtn = qs("submitBtn");
+    if (submitBtn) submitBtn.style.display = "none";
+    return;
+  }
 
   // Pool globale per Practice Mode (tutte le domande di tutti gli exam)
   const pooledQs = examSets.flatMap(s => s.questions);
