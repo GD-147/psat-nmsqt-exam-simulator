@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW5-M2-001",
+    "prompt": "In her installations, artist El Anatsui often uses discarded bottle caps and wire to create large, shimmering works that resemble cloth. The materials may seem ordinary at first, but in Anatsui’s hands they become visually rich objects that invite viewers to reconsider ideas about waste, value, and transformation. His work therefore ______ the boundary between discarded material and fine art.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "blurs",
+      "B": "repairs",
+      "C": "postpones",
+      "D": "repeats"
+    },
+    "correct": "A",
+    "explanation": "Anatsui’s work transforms discarded materials into fine art, so it blurs the boundary between those categories."
+  },
+  {
+    "id": "RW5-M2-002",
+    "prompt": "When researchers study tree rings, they can learn more than a tree’s age. Wide rings may indicate years of strong growth, while narrow rings may reflect drought, cold, or other stressful conditions. By comparing patterns across many trees, scientists can reconstruct environmental changes that occurred before modern weather records were kept.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Tree rings can help scientists understand past environmental conditions.",
+      "B": "Tree rings show only how tall a tree was during a particular year.",
+      "C": "Modern weather records are unnecessary because tree rings predict future weather exactly.",
+      "D": "Trees form wide rings only when they are exposed to drought and cold."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that ring patterns reveal growth conditions and environmental changes before modern weather records."
+  },
+  {
+    "id": "RW5-M2-003",
+    "prompt": "In some cities, alleys behind buildings have been redesigned as small public spaces with lighting, seating, and plants. These changes can make neglected areas feel safer and more inviting, but they also require regular maintenance so that the spaces remain clean and usable.\nWhich choice is the best inference from the text?",
+    "choices": {
+      "A": "Redesigning alleys can improve public space, but the improvements must be maintained.",
+      "B": "Alleys become less useful when they include lighting and seating.",
+      "C": "Public spaces are successful only when they are built far from buildings.",
+      "D": "Maintenance is unnecessary after an alley has been redesigned."
+    },
+    "correct": "A",
+    "explanation": "The text says redesigned alleys can become safer and more inviting but require regular maintenance."
+  },
+  {
+    "id": "RW5-M2-004",
+    "prompt": "A student’s draft about mathematician Maryam Mirzakhani includes the following sentences.\nMirzakhani studied complex geometric surfaces, often drawing sketches as she worked through abstract problems. These drawings did not replace formal mathematical reasoning; instead, they helped her explore patterns and relationships that could later be expressed more precisely.\nWhat is the main function of the second sentence in the text?",
+    "choices": {
+      "A": "It clarifies how Mirzakhani’s sketches supported her mathematical thinking.",
+      "B": "It argues that sketches are more accurate than mathematical proofs.",
+      "C": "It explains why Mirzakhani stopped studying geometric surfaces.",
+      "D": "It lists the tools used by mathematicians in every branch of math."
+    },
+    "correct": "A",
+    "explanation": "The second sentence explains that the sketches helped her explore patterns without replacing formal reasoning."
+  },
+  {
+    "id": "RW5-M2-005",
+    "prompt": "A researcher compared the average number of minutes visitors spent in four museum galleries before and after new audio stations were added.\nGallery | Before audio stations | After audio stations\nAncient Art | 12 | 16\nModern Design | 18 | 20\nNatural History | 25 | 22\nPhotography | 14 | 19\nWhich choice best describes the data?",
+    "choices": {
+      "A": "Visitors spent more time in Ancient Art, Modern Design, and Photography after the audio stations were added, but less time in Natural History.",
+      "B": "Visitors spent less time in all four galleries after the audio stations were added.",
+      "C": "Natural History had the greatest increase after the audio stations were added.",
+      "D": "Ancient Art and Photography had the same visitor time after the audio stations were added."
+    },
+    "correct": "A",
+    "explanation": "Visitor time increased in three galleries and decreased in Natural History from 25 to 22 minutes."
+  },
+  {
+    "id": "RW5-M2-006",
+    "prompt": "A rooftop painted a light color can reflect more sunlight than a dark roof. ______ a green roof covered with plants can also cool a building by shading the surface and releasing water vapor.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Similarly,",
+      "B": "However,",
+      "C": "For this reason,",
+      "D": "In contrast,"
+    },
+    "correct": "A",
+    "explanation": "The sentence adds another example of a roof feature that can cool a building."
+  },
+  {
+    "id": "RW5-M2-007",
+    "prompt": "The article discusses three inventions that changed home food storage ______ the refrigerator, the canning jar, and the freezer.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "storage",
+      "B": "storage:",
+      "C": "storage,",
+      "D": "storage;"
+    },
+    "correct": "B",
+    "explanation": "A colon correctly introduces the list of three inventions."
+  },
+  {
+    "id": "RW5-M2-008",
+    "prompt": "Standing at the edge of the marsh with binoculars, ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "a flock of sandpipers moved across the mudflat",
+      "B": "the mudflat was crossed by a flock of sandpipers",
+      "C": "we watched a flock of sandpipers move across the mudflat",
+      "D": "there was a flock of sandpipers moving across the mudflat"
+    },
+    "correct": "C",
+    "explanation": "The introductory modifier “Standing at the edge of the marsh with binoculars” must logically describe “we.”"
+  },
+  {
+    "id": "RW5-M2-009",
+    "prompt": "The director consulted the stage manager before the rehearsal, and ______ decided that the scene change needed more time.\nWhich choice completes the text so that it conforms to the conventions of Standard English and avoids ambiguity?",
+    "choices": {
+      "A": "they",
+      "B": "she",
+      "C": "the director",
+      "D": "it"
+    },
+    "correct": "C",
+    "explanation": "Repeating “the director” avoids ambiguity about whether “they” refers to the director and stage manager together."
+  },
+  {
+    "id": "RW5-M2-010",
+    "prompt": "Before the guest speaker arrived, the students ______ their questions on note cards.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "prepare",
+      "B": "have prepared",
+      "C": "had prepared",
+      "D": "preparing"
+    },
+    "correct": "C",
+    "explanation": "The past perfect tense shows that the students prepared the questions before the speaker arrived."
+  },
+  {
+    "id": "RW5-M2-011",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Maya Lin designed the Vietnam Veterans Memorial in Washington, DC.\n• She was an undergraduate student when her design was selected.\n• The memorial features a long wall of polished black granite.\n• The names of more than 58,000 service members are inscribed on the wall.\n• The reflective surface allows visitors to see themselves alongside the names.\nThe student wants to explain how the memorial’s design affects visitors. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Maya Lin was an undergraduate student when her design for the Vietnam Veterans Memorial was selected.",
+      "B": "The Vietnam Veterans Memorial lists more than 58,000 names on a wall in Washington, DC.",
+      "C": "The memorial’s polished black granite surface allows visitors to see their reflections alongside the inscribed names, connecting them visually to those being remembered.",
+      "D": "The Vietnam Veterans Memorial was designed by Maya Lin and is located in Washington, DC."
+    },
+    "correct": "C",
+    "explanation": "This choice explains how the design affects visitors by linking the reflective surface to the names on the wall."
+  },
+  {
+    "id": "RW5-M2-012",
+    "prompt": "A student is revising an essay about using drones to inspect bridges. The student wants to add a sentence that explains a possible advantage of this practice. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "Drones can allow inspectors to examine hard-to-reach parts of a bridge without immediately sending workers into dangerous areas.",
+      "B": "Some drones are small aircraft that can be controlled from the ground.",
+      "C": "Bridges are built from materials such as steel, concrete, and wood.",
+      "D": "Drone operators must follow rules about where and when they can fly."
+    },
+    "correct": "A",
+    "explanation": "This sentence directly explains a possible advantage of drone bridge inspections."
+  },
+  {
+    "id": "RW5-M2-013",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) Some restaurants use digital menus that customers view on phones. (2) These menus can be updated quickly when prices or ingredients change. (3) They can also include photographs or allergy information. (4) However, restaurants should still consider customers who do not have phones or who prefer printed menus.\nWhere should the following sentence be placed to best support the logical flow of the paragraph?\nThis flexibility is one reason digital menus have become popular.",
+    "choices": {
+      "A": "After sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "B",
+    "explanation": "The added sentence comments on the flexibility described in sentence 2 before sentence 3 gives another feature of digital menus."
+  },
+  {
+    "id": "RW5-M2-014",
+    "prompt": "The editor’s comments on the draft were not ______; rather than simply saying the essay was weak, she pointed to the exact paragraphs where the evidence needed to be stronger.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "vague",
+      "B": "helpful",
+      "C": "recent",
+      "D": "formal"
+    },
+    "correct": "A",
+    "explanation": "The editor gave exact paragraph-level feedback rather than unclear comments, so the comments were not vague."
+  },
+  {
+    "id": "RW5-M2-015",
+    "prompt": "Researchers studying a coastal fish species found that juveniles raised near seagrass beds survived at higher rates than juveniles raised in areas without seagrass. Because seagrass beds can provide shelter from predators, the researchers concluded that protecting these habitats may support young fish populations.\nWhich choice best describes the relationship between the evidence and the researchers’ conclusion?",
+    "choices": {
+      "A": "The higher survival rate near seagrass beds supports the conclusion that protecting those habitats may benefit young fish.",
+      "B": "The evidence proves that adult fish never use seagrass habitats.",
+      "C": "The conclusion rejects the idea that predators affect juvenile fish.",
+      "D": "The evidence shows that seagrass beds make coastal waters unsuitable for fish."
+    },
+    "correct": "A",
+    "explanation": "The evidence connects higher juvenile fish survival with areas near seagrass beds, which can provide shelter."
+  },
+  {
+    "id": "RW5-M2-016",
+    "prompt": "The handbook describes the scholarship requirements, ______ it also explains how applications will be evaluated.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "requirements, it",
+      "B": "requirements and",
+      "C": "requirements; and",
+      "D": "requirements, and"
+    },
+    "correct": "D",
+    "explanation": "A comma plus “and” correctly joins two independent clauses."
+  },
+  {
+    "id": "RW5-M2-017",
+    "prompt": "An environmental scientist tested two soil coverings to see which reduced evaporation more effectively. She placed equal amounts of moist soil in identical containers, covered one container with straw and another with wood chips, and measured water loss after two days. The container covered with wood chips lost less water.\nWhich conclusion is best supported by the text?",
+    "choices": {
+      "A": "Under the conditions tested, wood chips reduced evaporation more effectively than straw did.",
+      "B": "Straw causes soil to lose all of its water immediately.",
+      "C": "Wood chips can reduce evaporation only when soil is completely dry.",
+      "D": "Soil coverings have no effect on water loss."
+    },
+    "correct": "A",
+    "explanation": "The wood-chip-covered container lost less water than the straw-covered container."
+  },
+  {
+    "id": "RW5-M2-018",
+    "prompt": "The paragraph first explains that some grocery stores donate unsold food to local shelters. ______ it describes a phone app that helps store employees quickly identify which items are ready for donation.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Then,",
+      "B": "Still,",
+      "C": "In contrast,",
+      "D": "Nevertheless,"
+    },
+    "correct": "A",
+    "explanation": "The paragraph moves from a general description of store donations to a related detail about an app that helps with donations."
+  },
+  {
+    "id": "RW5-M2-019",
+    "prompt": "The packet of instructions for the science project ______ diagrams, safety guidelines, and a materials checklist.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "contain",
+      "B": "contains",
+      "C": "containing",
+      "D": "are containing"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “packet” requires the singular verb “contains.”"
+  },
+  {
+    "id": "RW5-M2-020",
+    "prompt": "The ______ surface is covered with tiny grooves that help water flow away from the center of the leaf.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "leaf’s",
+      "B": "leafs",
+      "C": "leaves’",
+      "D": "leafes’"
+    },
+    "correct": "A",
+    "explanation": "The sentence refers to one leaf, so the singular possessive “leaf’s” is correct."
+  },
+  {
+    "id": "RW5-M2-021",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• The Navajo Code Talkers served during World War II.\n• They used the Navajo language to create a code for military messages.\n• The code helped transmit information quickly and securely.\n• The code was difficult for enemy forces to understand.\n• The Code Talkers’ contributions were not widely recognized until decades later.\nThe student wants to explain the importance of the Navajo Code Talkers’ work. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "The Navajo Code Talkers used the Navajo language to help transmit military messages quickly and securely during World War II.",
+      "B": "The Navajo language is one of many Indigenous languages spoken in the United States.",
+      "C": "The Navajo Code Talkers were not widely recognized until decades after the war.",
+      "D": "Military messages during World War II could be sent in several different ways."
+    },
+    "correct": "A",
+    "explanation": "This choice explains the importance of their work by connecting the Navajo language code to fast, secure communication."
+  },
+  {
+    "id": "RW5-M2-022",
+    "prompt": "A student is revising the following sentence.\nThe town’s mobile health clinic visits rural neighborhoods, and nurses provide basic screenings there.\nThe student wants to emphasize that the clinic both increases access to care and offers preventive services. Which choice best revises the sentence to accomplish this goal?",
+    "choices": {
+      "A": "By visiting rural neighborhoods and providing basic screenings, the town’s mobile health clinic brings preventive care closer to residents.",
+      "B": "The town’s mobile health clinic is a clinic that moves, and nurses work there.",
+      "C": "Rural neighborhoods are visited by the mobile health clinic, which is owned by the town.",
+      "D": "Nurses provide screenings at the mobile health clinic, and screenings can be basic."
+    },
+    "correct": "A",
+    "explanation": "This revision emphasizes both increased access and preventive services."
+  },
+  {
+    "id": "RW5-M2-023",
+    "prompt": "The first time Asha heard the old piano in the community center, several keys were out of tune. Still, she liked the way the notes seemed to linger in the empty room. Months later, after the piano had been repaired, its sound was clearer, but Asha missed the uneven tones that had made it feel familiar.\nWhich choice best describes what the text suggests about Asha?",
+    "choices": {
+      "A": "She feels affection for the piano’s earlier imperfections.",
+      "B": "She believes the repaired piano is impossible to play.",
+      "C": "She wants the community center to remove the piano.",
+      "D": "She dislikes music unless it is performed in a crowded room."
+    },
+    "correct": "A",
+    "explanation": "Although the repaired piano sounds clearer, Asha misses the uneven tones that once made it feel familiar."
+  },
+  {
+    "id": "RW5-M2-024",
+    "prompt": "The city added protected bike lanes along the avenue, ______ cyclists more space between themselves and moving cars.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "giving",
+      "B": "gave",
+      "C": "gives",
+      "D": "and giving"
+    },
+    "correct": "A",
+    "explanation": "The participle “giving” correctly shows the result of adding protected bike lanes."
+  },
+  {
+    "id": "RW5-M2-025",
+    "prompt": "Because the survey responses were anonymous, the researcher could not ______ individual comments to specific students.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "attribute",
+      "B": "decorate",
+      "C": "postpone",
+      "D": "simplify"
+    },
+    "correct": "A",
+    "explanation": "Because responses were anonymous, the researcher could not link comments to specific students."
+  },
+  {
+    "id": "RW5-M2-026",
+    "prompt": "The orientation session covers three topics for new volunteers: signing in for shifts, communicating with staff, and ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "following safety procedures",
+      "B": "safety procedures were followed",
+      "C": "to follow safety procedures",
+      "D": "followed safety procedures"
+    },
+    "correct": "A",
+    "explanation": "This choice keeps the list grammatically parallel: “signing,” “communicating,” and “following.”"
+  },
+  {
+    "id": "RW5-M2-027",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Beavers build dams using branches, mud, and stones.\n• Beaver dams can slow streams and create ponds.\n• These ponds may provide habitat for frogs, ducks, insects, and fish.\n• Slower water can also allow sediment to settle.\n• Some ecologists call beavers ecosystem engineers.\nThe student wants to emphasize how beaver dams can change habitats for other species. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Beavers use branches, mud, and stones to build dams in streams.",
+      "B": "Beaver dams can slow streams and create ponds that provide habitat for frogs, ducks, insects, and fish.",
+      "C": "Some ecologists call beavers ecosystem engineers because they are animals that build things.",
+      "D": "Slower water can allow sediment to settle in ponds and streams."
+    },
+    "correct": "B",
+    "explanation": "This choice emphasizes how beaver dams change habitats for other species."
+  }
+]

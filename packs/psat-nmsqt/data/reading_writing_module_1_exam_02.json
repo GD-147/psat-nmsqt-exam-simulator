@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW2-M1-001",
+    "prompt": "In the 1930s, librarian Pura Belpré began telling stories in Spanish and English at New York Public Library branches. At a time when many library programs offered few materials for Puerto Rican children, Belpré’s storytelling helped make the library feel more ______ to families who had recently moved to the city.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "welcoming",
+      "B": "temporary",
+      "C": "expensive",
+      "D": "mysterious"
+    },
+    "correct": "A",
+    "explanation": "The text says Belpré’s storytelling helped families feel included in the library, so “welcoming” is the most precise choice."
+  },
+  {
+    "id": "RW2-M1-002",
+    "prompt": "Some rivers carry dark-colored water because leaves and other plant materials release natural compounds as they decay. These “blackwater” rivers may look muddy, but many are actually low in sediment. Their color comes mostly from dissolved organic matter rather than from soil particles.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Blackwater rivers can appear muddy even though their dark color often comes from dissolved plant material.",
+      "B": "Blackwater rivers are always more polluted than clear rivers.",
+      "C": "Soil particles are the only reason river water can look dark.",
+      "D": "Decaying leaves prevent rivers from supporting plant and animal life."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that blackwater rivers may look muddy but usually get their color from dissolved organic matter."
+  },
+  {
+    "id": "RW2-M1-003",
+    "prompt": "A student recorded the number of reusable containers brought to the cafeteria over four days.\nDay | Reusable containers\nMonday | 34\nTuesday | 41\nWednesday | 39\nThursday | 48\nWhich choice best describes the data in the table?",
+    "choices": {
+      "A": "The number of reusable containers was highest on Thursday.",
+      "B": "The number of reusable containers decreased each day.",
+      "C": "Monday and Wednesday had the same number of reusable containers.",
+      "D": "Tuesday had fewer reusable containers than Monday."
+    },
+    "correct": "A",
+    "explanation": "Thursday’s value, 48, is greater than the values for Monday, Tuesday, and Wednesday."
+  },
+  {
+    "id": "RW2-M1-004",
+    "prompt": "Whenever Nia visited her grandfather, he pointed out the vegetables in his backyard garden as if introducing old friends. At first, Nia only nodded politely. But after helping him plant beans one spring, she began checking the garden before she even went inside the house.\nWhich choice best describes what the text suggests about Nia?",
+    "choices": {
+      "A": "She becomes more interested in the garden after taking part in planting.",
+      "B": "She dislikes visiting her grandfather because he talks about vegetables.",
+      "C": "She decides that the garden should be replaced with flowers.",
+      "D": "She already knows more about gardening than her grandfather does."
+    },
+    "correct": "A",
+    "explanation": "Nia first only nods politely, but after planting beans, she checks the garden before going inside."
+  },
+  {
+    "id": "RW2-M1-005",
+    "prompt": "In an article about early mapmaking, a writer explains that some maps from the Middle Ages included sea monsters near unknown waters. The writer adds, “These drawings did not always show what sailors had actually seen; instead, they often marked places that seemed dangerous or unfamiliar.”\nWhat is the main function of the quoted sentence?",
+    "choices": {
+      "A": "It explains what the sea monster drawings could represent on some maps.",
+      "B": "It proves that medieval sailors never traveled on the ocean.",
+      "C": "It compares medieval maps with modern satellite images.",
+      "D": "It gives instructions for drawing sea monsters accurately."
+    },
+    "correct": "A",
+    "explanation": "The quoted sentence explains that the drawings often marked danger or unfamiliar places rather than actual sightings."
+  },
+  {
+    "id": "RW2-M1-006",
+    "prompt": "The school’s outdoor classroom gives science teachers a place to lead lessons about soil, insects, and weather. ______ art teachers use the same space for sketching plants and practicing observation.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Similarly,",
+      "B": "Nevertheless,",
+      "C": "Instead,",
+      "D": "Earlier,"
+    },
+    "correct": "A",
+    "explanation": "The second sentence adds another example of teachers using the outdoor classroom, so “Similarly” is logical."
+  },
+  {
+    "id": "RW2-M1-007",
+    "prompt": "Neither of the two paintings ______ a signature, so the museum cannot be certain who created them.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "include",
+      "B": "including",
+      "C": "includes",
+      "D": "have included"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “Neither” requires the singular verb “includes.”"
+  },
+  {
+    "id": "RW2-M1-008",
+    "prompt": "The novel was written by Louise Erdrich, ______ author whose books often explore family, memory, and community.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "this"
+    },
+    "correct": "B",
+    "explanation": "“Author” begins with a vowel sound, so the article “an” is correct."
+  },
+  {
+    "id": "RW2-M1-009",
+    "prompt": "The hikers packed water, snacks, and flashlights before ______ began the trail.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "them",
+      "B": "they",
+      "C": "their",
+      "D": "themselves"
+    },
+    "correct": "B",
+    "explanation": "The subject pronoun “they” correctly refers to the hikers as the ones who began the trail."
+  },
+  {
+    "id": "RW2-M1-010",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Mary Golda Ross was an engineer and mathematician.\n• She was a member of the Cherokee Nation.\n• Ross worked on aerospace projects in the twentieth century.\n• She helped develop early designs related to spacecraft and satellites.\n• Ross encouraged more Native American students to study science and engineering.\nThe student wants to introduce Ross and her field of work. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Mary Golda Ross, a Cherokee engineer and mathematician, worked on twentieth-century aerospace projects.",
+      "B": "Mary Golda Ross encouraged students to study science and engineering, and many students choose those fields.",
+      "C": "Spacecraft and satellites were important twentieth-century technologies.",
+      "D": "The Cherokee Nation has included people who worked in many different professions."
+    },
+    "correct": "A",
+    "explanation": "This choice introduces Ross and identifies her field of work."
+  },
+  {
+    "id": "RW2-M1-011",
+    "prompt": "The new bus shelter has a roof that protects riders from rain. ______ it includes a bench and a digital sign showing arrival times.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In addition,",
+      "B": "By contrast,",
+      "C": "However,",
+      "D": "As a result,"
+    },
+    "correct": "A",
+    "explanation": "The second sentence adds more features of the bus shelter."
+  },
+  {
+    "id": "RW2-M1-012",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) A community newsletter can help neighbors share information. (2) It may include announcements about school events, local meetings, or volunteer opportunities. (3) Some newsletters are printed, while others are sent by email. (4) By gathering updates in one place, a newsletter can make it easier for residents to stay informed.\nTo make the paragraph most logical, sentence 3 should be placed",
+    "choices": {
+      "A": "where it is now.",
+      "B": "before sentence 1.",
+      "C": "after sentence 4.",
+      "D": "between sentence 1 and sentence 2."
+    },
+    "correct": "A",
+    "explanation": "Sentence 3 logically follows sentence 2 by continuing to describe kinds and formats of newsletters before the concluding benefit."
+  },
+  {
+    "id": "RW2-M1-013",
+    "prompt": "Yesterday, the photography club ______ portraits for the school yearbook.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "takes",
+      "B": "took",
+      "C": "will take",
+      "D": "taking"
+    },
+    "correct": "B",
+    "explanation": "“Yesterday” requires the past-tense verb “took.”"
+  },
+  {
+    "id": "RW2-M1-014",
+    "prompt": "______ during the winter, the pond is a popular place for ice-skating.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Frozen",
+      "B": "Freezing",
+      "C": "To freeze",
+      "D": "Freeze"
+    },
+    "correct": "A",
+    "explanation": "“Frozen during the winter” correctly modifies “the pond.”"
+  },
+  {
+    "id": "RW2-M1-015",
+    "prompt": "The student council postponed the picnic ______ thunderstorms were expected in the afternoon.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "picnic, thunderstorms",
+      "B": "picnic because thunderstorms",
+      "C": "picnic; because thunderstorms",
+      "D": "picnic, because, thunderstorms"
+    },
+    "correct": "B",
+    "explanation": "“Because” correctly introduces the reason the picnic was postponed without unnecessary punctuation."
+  },
+  {
+    "id": "RW2-M1-016",
+    "prompt": "To study how people navigate unfamiliar buildings, psychologists asked volunteers to walk through a virtual museum. The researchers then compared the routes the volunteers chose, hoping to ______ patterns in how people remember indoor spaces.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "identify",
+      "B": "decorate",
+      "C": "interrupt",
+      "D": "reduce"
+    },
+    "correct": "A",
+    "explanation": "The researchers compare routes to find patterns, so “identify” is most precise."
+  },
+  {
+    "id": "RW2-M1-017",
+    "prompt": "In many schools, peer mediation programs train students to help classmates resolve minor conflicts. Instead of deciding who is right or wrong, trained mediators ask questions and guide both sides toward a solution. These programs can help students practice listening, cooperation, and problem-solving skills.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Peer mediation programs can help students resolve conflicts while building useful communication skills.",
+      "B": "Peer mediation programs require teachers to choose winners and losers in student disagreements.",
+      "C": "Students should avoid discussing disagreements with their classmates.",
+      "D": "Listening skills are useful only for students who plan to become mediators."
+    },
+    "correct": "A",
+    "explanation": "The text explains that trained mediators guide classmates toward solutions and practice listening, cooperation, and problem-solving."
+  },
+  {
+    "id": "RW2-M1-018",
+    "prompt": "Researchers studying arctic foxes note that the animals’ fur changes color with the seasons. In winter, their white coats blend with snow, while in summer, their brown-gray coats better match rocks and plants.\nAccording to the text, how does the seasonal change in fur color help arctic foxes?",
+    "choices": {
+      "A": "It helps them blend into their surroundings.",
+      "B": "It allows them to grow larger in summer.",
+      "C": "It prevents snow from melting around them.",
+      "D": "It helps them find warmer places to sleep."
+    },
+    "correct": "A",
+    "explanation": "The text says the foxes’ coats match snow in winter and rocks and plants in summer."
+  },
+  {
+    "id": "RW2-M1-019",
+    "prompt": "A student is revising the following sentence.\nThe school added a makerspace, and students can use it to build models, repair devices, and test inventions.\nWhich choice best combines the ideas clearly and concisely?",
+    "choices": {
+      "A": "The school added a makerspace where students can build models, repair devices, and test inventions.",
+      "B": "The school added a makerspace, students can use it to build models, repair devices, and test inventions.",
+      "C": "The school added a makerspace and building models, repairing devices, and testing inventions.",
+      "D": "The school added a makerspace because students can use it and models, devices, and inventions."
+    },
+    "correct": "A",
+    "explanation": "This choice combines the ideas clearly and avoids a comma splice."
+  },
+  {
+    "id": "RW2-M1-020",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Bessie Coleman was born in Texas in 1892.\n• She became the first African American woman and first Native American woman to earn a pilot’s license.\n• Coleman had to train in France because US flight schools would not admit her.\n• She later performed in air shows.\n• She encouraged other African Americans to pursue aviation.\nThe student wants to emphasize a challenge Coleman faced while pursuing aviation. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Bessie Coleman was born in Texas in 1892 and later performed in air shows.",
+      "B": "Because US flight schools would not admit her, Bessie Coleman had to train in France to earn a pilot’s license.",
+      "C": "Bessie Coleman encouraged other African Americans to pursue aviation after she became a pilot.",
+      "D": "Aviation became an important field during the twentieth century."
+    },
+    "correct": "B",
+    "explanation": "This choice emphasizes the obstacle Coleman faced and how she responded to it."
+  },
+  {
+    "id": "RW2-M1-021",
+    "prompt": "A student recorded the number of pages read by four members of a book club in one week.\nReader | Pages read\nAmina | 86\nCarlos | 74\nJin | 91\nPriya | 68\nWhich choice is supported by the data in the table?",
+    "choices": {
+      "A": "Jin read the greatest number of pages.",
+      "B": "Priya read more pages than Amina.",
+      "C": "Carlos and Priya read the same number of pages.",
+      "D": "Amina read fewer pages than Carlos."
+    },
+    "correct": "A",
+    "explanation": "Jin read 91 pages, more than Amina, Carlos, or Priya."
+  },
+  {
+    "id": "RW2-M1-022",
+    "prompt": "In a paragraph about school music programs, a student writes, “At one middle school, band students performed at a local senior center and taught younger students how to care for instruments.”\nWhat is the most likely purpose of the sentence?",
+    "choices": {
+      "A": "To give examples of ways music students contributed to the community",
+      "B": "To explain why senior centers usually buy musical instruments",
+      "C": "To argue that all students should learn the same instrument",
+      "D": "To compare middle school music programs with high school programs"
+    },
+    "correct": "A",
+    "explanation": "The sentence describes students performing at a senior center and teaching younger students."
+  },
+  {
+    "id": "RW2-M1-023",
+    "prompt": "The survey, ______ was completed by more than 500 students, asked about after-school activities.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "which",
+      "B": "which,",
+      "C": "that",
+      "D": "that,"
+    },
+    "correct": "A",
+    "explanation": "“Which” correctly begins the nonessential clause set off by commas."
+  },
+  {
+    "id": "RW2-M1-024",
+    "prompt": "The guide explains how to choose a campsite, how to store food safely, and ______ a campfire responsibly.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "building",
+      "B": "to build",
+      "C": "built",
+      "D": "the building of"
+    },
+    "correct": "B",
+    "explanation": "The phrase completes the parallel structure: “how to choose,” “how to store,” and “to build.”"
+  },
+  {
+    "id": "RW2-M1-025",
+    "prompt": "The coach did not simply tell the runners to improve; she gave them ______ advice, such as shortening their stride on hills and relaxing their shoulders.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "specific",
+      "B": "distant",
+      "C": "private",
+      "D": "accidental"
+    },
+    "correct": "A",
+    "explanation": "The examples about stride and shoulders show that the coach gave detailed, precise advice."
+  },
+  {
+    "id": "RW2-M1-026",
+    "prompt": "A student wants to begin an essay about the importance of local history museums. Which choice would be the most effective opening sentence for the essay?",
+    "choices": {
+      "A": "Local history museums help communities preserve and understand stories about the places where they live.",
+      "B": "Some local history museums are open on Saturdays, but others are not.",
+      "C": "A museum is a building where objects are displayed for people to see.",
+      "D": "The museum closest to my school has a front door painted green."
+    },
+    "correct": "A",
+    "explanation": "This sentence clearly introduces the essay’s broad focus on why local history museums matter."
+  },
+  {
+    "id": "RW2-M1-027",
+    "prompt": "The class planted native flowers near the school entrance. ______ more bees and butterflies visited the area during the spring.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "As a result,",
+      "B": "On the other hand,",
+      "C": "For instance,",
+      "D": "In the meantime,"
+    },
+    "correct": "A",
+    "explanation": "More bee and butterfly visits are presented as an effect of planting native flowers.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

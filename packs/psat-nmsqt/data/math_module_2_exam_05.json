@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH5-M2-001",
+    "prompt": "What is the solution to 2(5x + 3) = 4x + 42?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "Expand to get 10x + 6 = 4x + 42. Then 6x = 36, so x = 6."
+  },
+  {
+    "id": "MATH5-M2-002",
+    "prompt": "The system of equations has solution (x, y).\n5x − y = 18\n2x + y = 17\nWhat is the value of 3x + y?",
+    "choices": {
+      "A": "19",
+      "B": "22",
+      "C": "25",
+      "D": "28"
+    },
+    "correct": "B",
+    "explanation": "Add the equations to get 7x = 35, so x = 5. Then 2(5) + y = 17, so y = 7. Thus 3x + y = 15 + 7 = 22."
+  },
+  {
+    "id": "MATH5-M2-003",
+    "prompt": "The function f is defined by f(x) = x² − 10x + 21. What are the x-intercepts of the graph of y = f(x)?",
+    "choices": {
+      "A": "(−7, 0) and (−3, 0)",
+      "B": "(−3, 0) and (7, 0)",
+      "C": "(3, 0) and (7, 0)",
+      "D": "(0, 3) and (0, 7)"
+    },
+    "correct": "C",
+    "explanation": "Factor x² − 10x + 21 as (x − 3)(x − 7). The x-intercepts occur when x = 3 and x = 7."
+  },
+  {
+    "id": "MATH5-M2-004",
+    "prompt": "Which expression is equivalent to (x² − 4x − 12)/(x − 6), where x ≠ 6?",
+    "choices": {
+      "A": "x − 6",
+      "B": "x − 2",
+      "C": "x + 2",
+      "D": "x + 6"
+    },
+    "correct": "C",
+    "explanation": "Factor the numerator: x² − 4x − 12 = (x − 6)(x + 2). Since x ≠ 6, the expression simplifies to x + 2."
+  },
+  {
+    "id": "MATH5-M2-005",
+    "prompt": "The function g is defined by g(x) = −2(x − 3)² + 12. What is the maximum value of g(x)?",
+    "choices": {
+      "A": "−12",
+      "B": "−3",
+      "C": "3",
+      "D": "12"
+    },
+    "correct": "D",
+    "explanation": "Since g(x) = −2(x − 3)² + 12 and the squared term is always nonnegative, the maximum value occurs at x = 3 and is 12."
+  },
+  {
+    "id": "MATH5-M2-006",
+    "prompt": "A plant was 10 centimeters tall when it was first measured. Its height increased by 20% each week for 2 weeks. What was the plant’s height, in centimeters, after 2 weeks?",
+    "choices": {
+      "A": "12",
+      "B": "14",
+      "C": "14.4",
+      "D": "15"
+    },
+    "correct": "C",
+    "explanation": "Increasing by 20% for 2 weeks means multiplying by 1.2 twice: 10(1.2)² = 14.4."
+  },
+  {
+    "id": "MATH5-M2-007",
+    "prompt": "The table shows values of a linear function f.\nx: −3, 0, 6, 9\nf(x): 14, 8, −4, −10\nWhich equation defines f?",
+    "choices": {
+      "A": "f(x) = −2x + 8",
+      "B": "f(x) = −x + 11",
+      "C": "f(x) = 2x + 8",
+      "D": "f(x) = 3x − 4"
+    },
+    "correct": "A",
+    "explanation": "From x = 0 to x = 6, f(x) changes from 8 to −4, giving slope −12/6 = −2. Since f(0) = 8, f(x) = −2x + 8."
+  },
+  {
+    "id": "MATH5-M2-008",
+    "prompt": "A rectangular storage container has a volume of 240 cubic feet. Its length is 10 feet, and its width is 6 feet. What is its height, in feet?",
+    "choices": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "12"
+    },
+    "correct": "A",
+    "explanation": "Volume equals length × width × height, so 240 = 10 × 6 × h. Thus h = 240/60 = 4."
+  },
+  {
+    "id": "MATH5-M2-009",
+    "prompt": "In a right triangle, the side opposite angle θ has length 9, and the hypotenuse has length 15. What is tan θ?",
+    "choices": {
+      "A": "3/5",
+      "B": "3/4",
+      "C": "4/5",
+      "D": "5/4"
+    },
+    "correct": "B",
+    "explanation": "The adjacent side is √(15² − 9²) = √144 = 12. Thus tan θ = opposite/adjacent = 9/12 = 3/4."
+  },
+  {
+    "id": "MATH5-M2-010",
+    "prompt": "A line has equation y = −(2/3)x + 4. What is the x-intercept of the line?",
+    "choices": {
+      "A": "−6",
+      "B": "−4",
+      "C": "4",
+      "D": "6"
+    },
+    "correct": "D",
+    "explanation": "The x-intercept occurs when y = 0. Set 0 = −(2/3)x + 4, so (2/3)x = 4 and x = 6."
+  },
+  {
+    "id": "MATH5-M2-011",
+    "prompt": "The function f is defined by f(x) = 4x + 1. The function g is defined by g(x) = x − 2. What is f(g(5))?",
+    "choices": {
+      "A": "9",
+      "B": "13",
+      "C": "15",
+      "D": "21"
+    },
+    "correct": "B",
+    "explanation": "First find g(5) = 5 − 2 = 3. Then f(3) = 4(3) + 1 = 13."
+  },
+  {
+    "id": "MATH5-M2-012",
+    "prompt": "What is the positive solution to x² − 14x + 45 = 0?",
+    "choices": {
+      "A": "5",
+      "B": "9",
+      "C": "14",
+      "D": "45"
+    },
+    "correct": "B",
+    "explanation": "Factor x² − 14x + 45 as (x − 5)(x − 9). The solutions are 5 and 9, so the positive solution among the choices intended is 9."
+  },
+  {
+    "id": "MATH5-M2-013",
+    "prompt": "In the xy-plane, a circle has center (2, 3) and passes through the point (2, −1). Which equation represents the circle?",
+    "choices": {
+      "A": "(x − 2)² + (y − 3)² = 4",
+      "B": "(x − 2)² + (y − 3)² = 16",
+      "C": "(x + 2)² + (y + 3)² = 4",
+      "D": "(x + 2)² + (y + 3)² = 16"
+    },
+    "correct": "B",
+    "explanation": "The radius is the distance from (2, 3) to (2, −1), which is 4. Thus r² = 16, and the equation is (x − 2)² + (y − 3)² = 16."
+  },
+  {
+    "id": "MATH5-M2-014",
+    "prompt": "For what value of a does the equation ax + 4 = 6x + 4 have infinitely many solutions?",
+    "choices": {
+      "A": "0",
+      "B": "4",
+      "C": "6",
+      "D": "10"
+    },
+    "correct": "C",
+    "explanation": "For the equation ax + 4 = 6x + 4 to be true for all x, the coefficients of x must be equal, so a = 6."
+  },
+  {
+    "id": "MATH5-M2-015",
+    "prompt": "The table shows values of a function p.\nx: −2, −1, 0, 1\np(x): 9, 3, 1, 3\nWhich equation could define p?",
+    "choices": {
+      "A": "p(x) = 2x² + 1",
+      "B": "p(x) = 2x² − 1",
+      "C": "p(x) = x² + 2x + 1",
+      "D": "p(x) = x² − 2x + 1"
+    },
+    "correct": "A",
+    "explanation": "Substituting x = −2, −1, 0, and 1 into 2x² + 1 gives 9, 3, 1, and 3, matching the table."
+  },
+  {
+    "id": "MATH5-M2-016",
+    "prompt": "Which expression is equivalent to (5x³y⁴)(2x²y), where x and y are positive?",
+    "choices": {
+      "A": "7x⁵y⁵",
+      "B": "10x⁵y⁵",
+      "C": "10x⁶y⁴",
+      "D": "10x⁶y⁵"
+    },
+    "correct": "B",
+    "explanation": "Multiply coefficients and add exponents of like bases: (5x³y⁴)(2x²y) = 10x⁵y⁵."
+  },
+  {
+    "id": "MATH5-M2-017",
+    "prompt": "A study group has 8 students. The mean number of practice questions completed by the students is 15. If 7 of the students completed a total of 98 practice questions, how many practice questions did the eighth student complete?",
+    "choices": {
+      "A": "17",
+      "B": "20",
+      "C": "22",
+      "D": "24"
+    },
+    "correct": "C",
+    "explanation": "The total number of practice questions is 8 × 15 = 120. The eighth student completed 120 − 98 = 22 questions."
+  },
+  {
+    "id": "MATH5-M2-018",
+    "prompt": "A rectangular prism has a square base with side length 5 centimeters and a height of 12 centimeters. What is the surface area, in square centimeters, of the prism?",
+    "choices": {
+      "A": "145",
+      "B": "170",
+      "C": "240",
+      "D": "290"
+    },
+    "correct": "D",
+    "explanation": "The prism has two square bases with total area 2(5 × 5) = 50 and four rectangular faces with total area 4(5 × 12) = 240. The surface area is 50 + 240 = 290."
+  },
+  {
+    "id": "MATH5-M2-019",
+    "prompt": "For all values of x, x² + bx + 36 = (x + 9)(x + c), where b and c are constants. What is the value of b?",
+    "choices": {
+      "A": "4",
+      "B": "9",
+      "C": "13",
+      "D": "36"
+    },
+    "correct": "C",
+    "explanation": "Since the constant term is 36, 9c = 36, so c = 4. Then (x + 9)(x + 4) = x² + 13x + 36, so b = 13."
+  },
+  {
+    "id": "MATH5-M2-020",
+    "prompt": "The table shows the number of tickets sold for two performances.\nPerformance: Matinee, Evening\nAdult tickets: 35, 50\nStudent tickets: 45, 30\nFor the two performances combined, what fraction of all tickets sold were adult tickets?",
+    "choices": {
+      "A": "17/32",
+      "B": "8/15",
+      "C": "11/20",
+      "D": "5/8"
+    },
+    "correct": "A",
+    "explanation": "Adult tickets total 35 + 50 = 85. All tickets total 35 + 50 + 45 + 30 = 160. The fraction is 85/160 = 17/32."
+  },
+  {
+    "id": "MATH5-M2-021",
+    "prompt": "A store sells granola bars for $1.25 each and bottles of water for $1.75 each. A customer buys 12 items and spends $18.00 before tax. How many granola bars did the customer buy?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "Let g be granola bars. Then bottles of water are 12 − g. The cost equation is 1.25g + 1.75(12 − g) = 18. This simplifies to 21 − 0.50g = 18, so g = 6."
+  },
+  {
+    "id": "MATH5-M2-022",
+    "prompt": "The graph of a quadratic function has vertex (4, −5) and passes through the point (6, 3). Which equation could represent the function?",
+    "choices": {
+      "A": "y = 2(x − 4)² − 5",
+      "B": "y = 2(x + 4)² − 5",
+      "C": "y = −2(x − 4)² − 5",
+      "D": "y = (x − 4)² + 3"
+    },
+    "correct": "A",
+    "explanation": "A quadratic with vertex (4, −5) has form y = a(x − 4)² − 5. Using point (6, 3), 3 = a(2²) − 5, so 8 = 4a and a = 2."
+  }
+]

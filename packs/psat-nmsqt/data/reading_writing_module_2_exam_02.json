@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW2-M2-001",
+    "prompt": "When paleontologists study footprints left by ancient animals, the tracks can reveal behavior that bones alone may not show. A line of footprints, for example, can suggest how quickly an animal moved or whether several animals traveled together. Thus, trackways can ______ skeletal fossils by adding evidence about movement and behavior.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "supplement",
+      "B": "erase",
+      "C": "imitate",
+      "D": "postpone"
+    },
+    "correct": "A",
+    "explanation": "Trackways add movement and behavior evidence to what skeletal fossils show, so they “supplement” those fossils."
+  },
+  {
+    "id": "RW2-M2-002",
+    "prompt": "Many people think of archives as collections of official documents, but archives can also preserve ordinary materials such as restaurant menus, postcards, and family letters. These objects may seem minor, yet they can show how people shopped, traveled, celebrated, and communicated in daily life.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Archives can preserve everyday materials that reveal important details about ordinary life.",
+      "B": "Archives should contain only government records and official reports.",
+      "C": "Restaurant menus are more useful to historians than family letters are.",
+      "D": "Ordinary materials are rarely connected to how people lived in the past."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that ordinary items in archives can show how people lived day to day."
+  },
+  {
+    "id": "RW2-M2-003",
+    "prompt": "Some species of mushrooms release spores when raindrops strike their caps. The impact sends tiny droplets carrying spores into the air, allowing the spores to travel farther than they would if they simply fell straight down. This process is most useful in damp environments where rain is frequent.\nWhich choice is the best inference from the text?",
+    "choices": {
+      "A": "Rain can help some mushrooms spread their spores.",
+      "B": "Mushrooms release spores only when the air is completely dry.",
+      "C": "Spores that fall straight down always travel farther than airborne spores.",
+      "D": "All mushrooms depend on animals to carry their spores."
+    },
+    "correct": "A",
+    "explanation": "The text describes raindrop impacts sending spore-carrying droplets into the air."
+  },
+  {
+    "id": "RW2-M2-004",
+    "prompt": "A student’s draft about the artist Faith Ringgold includes the following sentences.\nRinggold is known for story quilts that combine painted images, fabric borders, and written narratives. These works challenge the idea that painting, sewing, and storytelling must be treated as separate art forms.\nWhat is the main function of the second sentence in the text?",
+    "choices": {
+      "A": "It explains the broader significance of Ringgold’s use of multiple artistic methods.",
+      "B": "It lists the materials needed to make one of Ringgold’s quilts.",
+      "C": "It argues that written narratives are less important than painted images.",
+      "D": "It describes the process by which Ringgold learned to sew."
+    },
+    "correct": "A",
+    "explanation": "The second sentence explains that combining images, fabric, and narrative challenges boundaries between art forms."
+  },
+  {
+    "id": "RW2-M2-005",
+    "prompt": "A researcher measured the average amount of time students spent completing four online lessons.\nLesson | Average completion time before revision | Average completion time after revision\n1 | 26 minutes | 22 minutes\n2 | 31 minutes | 29 minutes\n3 | 24 minutes | 25 minutes\n4 | 35 minutes | 30 minutes\nWhich choice best describes the data?",
+    "choices": {
+      "A": "Lessons 1, 2, and 4 took less time to complete after revision, while Lesson 3 took slightly more time.",
+      "B": "All four lessons took more time to complete after revision.",
+      "C": "Lesson 3 had the greatest decrease in completion time after revision.",
+      "D": "Lessons 1 and 4 had the same completion time after revision."
+    },
+    "correct": "A",
+    "explanation": "Lessons 1, 2, and 4 decreased after revision, while Lesson 3 increased from 24 to 25 minutes."
+  },
+  {
+    "id": "RW2-M2-006",
+    "prompt": "A city may widen a road to ease traffic in the short term. ______ if the wider road encourages more people to drive, traffic may eventually become heavy again.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "However,",
+      "B": "Similarly,",
+      "C": "For example,",
+      "D": "Therefore,"
+    },
+    "correct": "A",
+    "explanation": "The second sentence contrasts the short-term benefit of widening a road with a possible later problem."
+  },
+  {
+    "id": "RW2-M2-007",
+    "prompt": "The student interviewed three people for the article ______ a firefighter, a nurse, and a small-business owner.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "article",
+      "B": "article:",
+      "C": "article,",
+      "D": "article;"
+    },
+    "correct": "B",
+    "explanation": "A colon correctly introduces the list of three people interviewed."
+  },
+  {
+    "id": "RW2-M2-008",
+    "prompt": "After reviewing the notes from the meeting, ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "several questions about the budget remained unanswered",
+      "B": "the budget still had several unanswered questions",
+      "C": "we noticed several unanswered questions about the budget",
+      "D": "there were several unanswered questions about the budget"
+    },
+    "correct": "C",
+    "explanation": "The introductory phrase “After reviewing the notes from the meeting” must logically modify “we.”"
+  },
+  {
+    "id": "RW2-M2-009",
+    "prompt": "The editor spoke with the reporter after the interview, and ______ agreed that one quotation needed to be checked for accuracy.\nWhich choice completes the text so that it conforms to the conventions of Standard English and avoids ambiguity?",
+    "choices": {
+      "A": "they",
+      "B": "she",
+      "C": "the editor",
+      "D": "it"
+    },
+    "correct": "C",
+    "explanation": "Repeating “the editor” avoids ambiguity about whether “they” refers to the editor and reporter or only one person."
+  },
+  {
+    "id": "RW2-M2-010",
+    "prompt": "Before the research team published its report, several volunteers ______ the survey questions for clarity.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "test",
+      "B": "have tested",
+      "C": "had tested",
+      "D": "testing"
+    },
+    "correct": "C",
+    "explanation": "The past perfect tense shows that the volunteers tested the questions before the team published the report."
+  },
+  {
+    "id": "RW2-M2-011",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Ellen Ochoa is an engineer and former astronaut.\n• In 1993, she became the first Hispanic woman to travel to space.\n• Ochoa flew on four space shuttle missions.\n• She later served as director of NASA’s Johnson Space Center.\n• Ochoa has spoken publicly about encouraging students to pursue STEM fields.\nThe student wants to emphasize Ochoa’s achievements in space exploration and leadership. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Ellen Ochoa has encouraged students to pursue STEM fields in public talks.",
+      "B": "Ellen Ochoa, an engineer and former astronaut, flew on four space shuttle missions and later directed NASA’s Johnson Space Center.",
+      "C": "NASA’s Johnson Space Center has had many directors and is connected to human spaceflight.",
+      "D": "In 1993, Ellen Ochoa became the first Hispanic woman to travel to space."
+    },
+    "correct": "B",
+    "explanation": "This choice emphasizes both Ochoa’s space exploration experience and later leadership role."
+  },
+  {
+    "id": "RW2-M2-012",
+    "prompt": "A student is revising an essay about the use of recycled materials in building design and wants to add a sentence that explains a possible limitation of this practice. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "Some builders use reclaimed wood, recycled metal, and crushed glass in new structures.",
+      "B": "Using recycled materials can reduce the amount of waste sent to landfills.",
+      "C": "Recycled materials may require extra testing to ensure that they are strong enough for a particular building project.",
+      "D": "Building designers often consider cost, safety, and appearance when choosing materials."
+    },
+    "correct": "C",
+    "explanation": "This sentence directly explains a possible limitation of using recycled materials in building design."
+  },
+  {
+    "id": "RW2-M2-013",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) Many coastal towns use dunes as natural barriers against storm waves. (2) Dune grasses help hold sand in place with their roots. (3) When people walk across dunes, they can damage these grasses. (4) For that reason, some towns build raised walkways that let beachgoers cross without harming the plants.\nWhere should the following sentence be placed to best support the logical flow of the paragraph?\nWithout healthy grasses, dunes may become less stable.",
+    "choices": {
+      "A": "After sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence explains the consequence of damaged grasses before sentence 4 presents raised walkways as a solution."
+  },
+  {
+    "id": "RW2-M2-014",
+    "prompt": "The engineer’s proposal for the new footbridge was not especially ______; instead of using an unusual design, it relied on a proven structure that could be built quickly and safely.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "experimental",
+      "B": "practical",
+      "C": "detailed",
+      "D": "affordable"
+    },
+    "correct": "A",
+    "explanation": "The proposal relied on a proven structure rather than an unusual design, so it was not especially experimental."
+  },
+  {
+    "id": "RW2-M2-015",
+    "prompt": "Scientists studying an island bird species found that birds with slightly thicker beaks were more likely to survive after a season when the main available seeds had unusually hard shells. The researchers concluded that food conditions may have favored birds with beaks better suited to cracking hard seeds.\nWhich choice best describes the relationship between the evidence and the researchers’ conclusion?",
+    "choices": {
+      "A": "The survival of thicker-beaked birds after hard-shelled seeds became common supports the conclusion that food conditions favored that trait.",
+      "B": "The evidence shows that birds with thinner beaks could not eat any type of seed.",
+      "C": "The conclusion rejects the idea that beak shape can affect how birds feed.",
+      "D": "The evidence proves that all island birds will develop thicker beaks within one generation."
+    },
+    "correct": "A",
+    "explanation": "The evidence links thicker beaks with survival under conditions involving hard-shelled seeds."
+  },
+  {
+    "id": "RW2-M2-016",
+    "prompt": "The mural includes portraits of neighborhood elders, ______ it also shows buildings that no longer stand.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "elders, it",
+      "B": "elders and",
+      "C": "elders; and",
+      "D": "elders, and"
+    },
+    "correct": "D",
+    "explanation": "A comma plus “and” correctly joins two independent clauses."
+  },
+  {
+    "id": "RW2-M2-017",
+    "prompt": "A chemist tested two methods for removing a dye from wastewater. She treated equal-sized samples of dyed water with Method A and Method B, kept the temperature the same, and measured dye concentration after one hour. The sample treated with Method B had a lower dye concentration than the sample treated with Method A.\nWhich conclusion is best supported by the text?",
+    "choices": {
+      "A": "Under the conditions tested, Method B removed more dye from the wastewater than Method A did.",
+      "B": "Method A works better than Method B at every temperature.",
+      "C": "Wastewater cannot contain more than one type of dye.",
+      "D": "Dye concentration cannot be measured after treatment."
+    },
+    "correct": "A",
+    "explanation": "Method B resulted in a lower dye concentration after one hour with temperature controlled."
+  },
+  {
+    "id": "RW2-M2-018",
+    "prompt": "The article first explains that some abandoned rail lines have been converted into walking and biking paths. ______ it describes how one such path increased visits to nearby shops.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Then,",
+      "B": "Even so,",
+      "C": "In contrast,",
+      "D": "Nevertheless,"
+    },
+    "correct": "A",
+    "explanation": "The article first gives general information and then moves to a specific effect of one converted path."
+  },
+  {
+    "id": "RW2-M2-019",
+    "prompt": "The group of students who volunteer at the animal shelter ______ every Saturday morning.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "arrive",
+      "B": "arrives",
+      "C": "arriving",
+      "D": "have arrived"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “group” requires the singular verb “arrives.”"
+  },
+  {
+    "id": "RW2-M2-020",
+    "prompt": "Several ______ nests were built under the edge of the roof, where they were protected from wind and rain.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "swallows’",
+      "B": "swallow’s",
+      "C": "swallows",
+      "D": "swallowes’"
+    },
+    "correct": "A",
+    "explanation": "The plural possessive “swallows’” correctly shows that the nests belong to multiple swallows."
+  },
+  {
+    "id": "RW2-M2-021",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• The Works Progress Administration (WPA) was a New Deal agency created in 1935.\n• The WPA employed artists, writers, musicians, and actors.\n• WPA artists painted murals in public buildings.\n• WPA writers collected oral histories and produced travel guides.\n• WPA theater projects brought performances to many communities.\nThe student wants to show the variety of cultural work supported by the WPA. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Created in 1935, the WPA was one of several agencies established during the New Deal.",
+      "B": "The WPA supported many kinds of cultural work, including murals by artists, oral histories by writers, and performances by theater workers.",
+      "C": "WPA writers produced travel guides, and travel guides can describe roads, towns, and landmarks.",
+      "D": "Many public buildings displayed murals created by artists employed through the WPA."
+    },
+    "correct": "B",
+    "explanation": "This choice uses examples from different cultural fields supported by the WPA."
+  },
+  {
+    "id": "RW2-M2-022",
+    "prompt": "A student is revising the following sentence.\nThe neighborhood tool library lets residents borrow drills and saws, and it also offers repair workshops.\nThe student wants to emphasize that the tool library both saves people money and teaches practical skills. Which choice best revises the sentence to accomplish this goal?",
+    "choices": {
+      "A": "By lending equipment and offering repair workshops, the neighborhood tool library helps residents avoid buying rarely used tools while learning practical skills.",
+      "B": "The neighborhood tool library has drills and saws that residents can borrow, and it is located in the neighborhood.",
+      "C": "Residents can borrow equipment from the neighborhood tool library, which also has workshops sometimes.",
+      "D": "The neighborhood tool library is useful because it has tools, and tools can be expensive for residents to buy."
+    },
+    "correct": "A",
+    "explanation": "This revision emphasizes both saving money through borrowing tools and learning skills through workshops."
+  },
+  {
+    "id": "RW2-M2-023",
+    "prompt": "Lena found the old recipe card tucked between the pages of a cookbook. The handwriting was her aunt’s, slanted and careful, and a small brown stain marked the corner. Lena had made the soup many times from memory, but holding the card made the recipe feel newly important.\nWhich choice best describes what the text suggests about Lena?",
+    "choices": {
+      "A": "She feels a stronger emotional connection to the recipe after finding the handwritten card.",
+      "B": "She is upset because the recipe card contains incorrect instructions.",
+      "C": "She has never made the soup before finding the card.",
+      "D": "She believes printed cookbooks are less useful than online recipes."
+    },
+    "correct": "A",
+    "explanation": "The text says Lena already knew the recipe, but holding the card made it feel newly important."
+  },
+  {
+    "id": "RW2-M2-024",
+    "prompt": "The librarian rearranged the display near the entrance, ______ the new biographies easier for visitors to find.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "made",
+      "B": "makes",
+      "C": "making",
+      "D": "and making"
+    },
+    "correct": "C",
+    "explanation": "The participle “making” correctly shows the result of rearranging the display."
+  },
+  {
+    "id": "RW2-M2-025",
+    "prompt": "Because many early films were recorded on materials that break down over time, film archivists work to ______ old movies before the images are lost.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "preserve",
+      "B": "predict",
+      "C": "decorate",
+      "D": "interrupt"
+    },
+    "correct": "A",
+    "explanation": "Since the films can break down and images may be lost, archivists work to preserve them."
+  },
+  {
+    "id": "RW2-M2-026",
+    "prompt": "The exhibit highlights three features of the ancient settlement: stone walls, narrow streets, and ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "storage rooms built beneath houses",
+      "B": "houses built storage rooms beneath",
+      "C": "storage rooms were built beneath houses",
+      "D": "building storage rooms beneath houses"
+    },
+    "correct": "A",
+    "explanation": "This choice keeps the list grammatically parallel: “stone walls, narrow streets, and storage rooms built beneath houses.”"
+  },
+  {
+    "id": "RW2-M2-027",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Prairie dogs live in underground burrow systems.\n• Their digging loosens soil and can help water move into the ground.\n• Abandoned prairie dog burrows may provide shelter for other animals.\n• Prairie dogs also serve as prey for hawks, coyotes, and black-footed ferrets.\n• Some ecologists describe prairie dogs as a keystone species.\nThe student wants to emphasize two ways prairie dogs can support other animals. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Prairie dogs live underground and dig burrow systems in open grassland areas.",
+      "B": "Prairie dogs can support other animals by creating burrows that may become shelters and by serving as prey for predators.",
+      "C": "Some ecologists describe prairie dogs as a keystone species because they affect their environments.",
+      "D": "Digging by prairie dogs loosens soil and may help water move into the ground."
+    },
+    "correct": "B",
+    "explanation": "This choice emphasizes two ways prairie dogs support other animals: providing shelter and serving as food."
+  }
+]

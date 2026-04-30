@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW4-M1-001",
+    "prompt": "In the 1920s and 1930s, sculptor Augusta Savage created portraits that captured the strength and individuality of her subjects. She also taught younger artists and helped open opportunities for Black artists in New York. Because of both her artwork and her support for others, Savage is considered a ______ figure in twentieth-century American art.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "minor",
+      "B": "central",
+      "C": "hidden",
+      "D": "accidental"
+    },
+    "correct": "B",
+    "explanation": "The text emphasizes Savage’s important artwork and support for other artists, so “central” best describes her role."
+  },
+  {
+    "id": "RW4-M1-002",
+    "prompt": "Tactile paving is made of raised bumps or bars on sidewalks and train platforms. People who are blind or have low vision can feel these patterns with a cane or underfoot. The patterns can warn them that they are near a street crossing, platform edge, or other area that requires caution.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Tactile paving helps people with limited vision move through public spaces more safely.",
+      "B": "Tactile paving is used mainly to decorate sidewalks and train platforms.",
+      "C": "People with low vision avoid public spaces that include street crossings.",
+      "D": "Raised patterns on sidewalks are useful only during bad weather."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that tactile paving warns people who are blind or have low vision about areas requiring caution."
+  },
+  {
+    "id": "RW4-M1-003",
+    "prompt": "A student recorded the number of students who signed up for four after-school clubs.\nClub | Students signed up\nChess | 22\nGardening | 18\nCoding | 31\nDrama | 27\nWhich choice is supported by the data in the table?",
+    "choices": {
+      "A": "The Coding Club had the most students sign up.",
+      "B": "The Gardening Club had more students sign up than the Drama Club.",
+      "C": "The Chess Club and Drama Club had the same number of students sign up.",
+      "D": "No club had more than 27 students sign up."
+    },
+    "correct": "A",
+    "explanation": "The Coding Club had 31 students sign up, more than the other clubs."
+  },
+  {
+    "id": "RW4-M1-004",
+    "prompt": "When Samira first joined the chess club, she moved her pieces quickly, hoping speed would make her seem confident. After losing several games, she began pausing before each move and imagining what her opponent might do next. Soon, her games lasted longer, and she noticed mistakes before making them.\nWhich choice best describes what happens in the text?",
+    "choices": {
+      "A": "Samira improves by slowing down and thinking ahead.",
+      "B": "Samira leaves the chess club because she dislikes competition.",
+      "C": "Samira wins every game by moving as quickly as possible.",
+      "D": "Samira teaches her opponent how to play chess."
+    },
+    "correct": "A",
+    "explanation": "Samira stops rushing, considers her opponent’s possible moves, and begins noticing mistakes before making them."
+  },
+  {
+    "id": "RW4-M1-005",
+    "prompt": "In a text about early bookshops, a historian notes that signs outside shops often displayed symbols such as birds, crowns, or stars. The historian adds, “These signs were not merely decorative; they helped customers find specific shops at a time when many streets did not yet have numbered addresses.”\nWhat is the main function of the quoted sentence?",
+    "choices": {
+      "A": "It explains a practical reason that symbols appeared on bookshop signs.",
+      "B": "It argues that numbered street addresses were more confusing than shop signs.",
+      "C": "It lists the most expensive decorations used by early bookshops.",
+      "D": "It shows that customers avoided shops with signs."
+    },
+    "correct": "A",
+    "explanation": "The sentence explains that symbols helped customers locate shops before numbered addresses were common."
+  },
+  {
+    "id": "RW4-M1-006",
+    "prompt": "The science fair included projects on plant growth, renewable energy, and water quality. ______ several students presented inventions designed to solve everyday problems.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Additionally,",
+      "B": "Nevertheless,",
+      "C": "Instead,",
+      "D": "Earlier,"
+    },
+    "correct": "A",
+    "explanation": "The second sentence adds another feature of the science fair."
+  },
+  {
+    "id": "RW4-M1-007",
+    "prompt": "The list of materials for the experiment ______ on the first page of the lab handout.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "appear",
+      "B": "appears",
+      "C": "appearing",
+      "D": "have appeared"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “list” requires the singular verb “appears.”"
+  },
+  {
+    "id": "RW4-M1-008",
+    "prompt": "The article describes the Andean condor, ______ one of the largest flying birds in the world.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "condor",
+      "B": "condor,",
+      "C": "condor;",
+      "D": "condor:"
+    },
+    "correct": "B",
+    "explanation": "A comma is needed before the nonessential phrase “one of the largest flying birds in the world.”"
+  },
+  {
+    "id": "RW4-M1-009",
+    "prompt": "Before the match began, the players checked ______ equipment and stretched on the field.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "their",
+      "B": "them",
+      "C": "they",
+      "D": "theirs"
+    },
+    "correct": "A",
+    "explanation": "The possessive pronoun “their” correctly refers to equipment belonging to the players."
+  },
+  {
+    "id": "RW4-M1-010",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Annie Easley was a mathematician and computer scientist.\n• She worked at NASA and its predecessor agency.\n• Easley wrote computer code for energy and rocket systems.\n• She also encouraged students, especially women and minorities, to study STEM fields.\n• Her career lasted more than three decades.\nThe student wants to introduce Easley and her professional field. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Annie Easley, a mathematician and computer scientist, wrote code for energy and rocket systems while working at NASA and its predecessor agency.",
+      "B": "Annie Easley encouraged students to study STEM fields, and many students are interested in science.",
+      "C": "NASA and its predecessor agency employed many people in different technical fields.",
+      "D": "Annie Easley’s career lasted more than three decades, which is a long time."
+    },
+    "correct": "A",
+    "explanation": "This choice introduces Easley and identifies her technical field and work."
+  },
+  {
+    "id": "RW4-M1-011",
+    "prompt": "The new language-learning app offers short daily lessons and clear pronunciation examples. ______ it requires users to pay for many advanced features.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "However,",
+      "B": "For example,",
+      "C": "Similarly,",
+      "D": "As a result,"
+    },
+    "correct": "A",
+    "explanation": "The second sentence contrasts the app’s helpful features with the cost of advanced features."
+  },
+  {
+    "id": "RW4-M1-012",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) Emergency kits can help families prepare for power outages or severe weather. (2) A basic kit might include water, flashlights, batteries, and first-aid supplies. (3) Families should also check the kit regularly to replace expired items. (4) With careful planning, an emergency kit can be ready when it is needed.\nTo make the paragraph most logical, sentence 3 should be placed",
+    "choices": {
+      "A": "where it is now.",
+      "B": "before sentence 1.",
+      "C": "after sentence 4.",
+      "D": "between sentence 1 and sentence 2."
+    },
+    "correct": "A",
+    "explanation": "Sentence 3 logically follows the list of items by explaining that the kit should be checked and updated."
+  },
+  {
+    "id": "RW4-M1-013",
+    "prompt": "Last week, the environmental club ______ posters about reducing food waste.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "creates",
+      "B": "created",
+      "C": "will create",
+      "D": "creating"
+    },
+    "correct": "B",
+    "explanation": "“Last week” requires the past-tense verb “created.”"
+  },
+  {
+    "id": "RW4-M1-014",
+    "prompt": "______ near the entrance of the park, the information board shows a map of the trails.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Located",
+      "B": "Locating",
+      "C": "To locate",
+      "D": "Locate"
+    },
+    "correct": "A",
+    "explanation": "“Located near the entrance of the park” correctly modifies “the information board.”"
+  },
+  {
+    "id": "RW4-M1-015",
+    "prompt": "The café closed early ______ the water main on the street was being repaired.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "early, the water",
+      "B": "early because the water",
+      "C": "early; because the water",
+      "D": "early, because, the water"
+    },
+    "correct": "B",
+    "explanation": "“Because” correctly introduces the reason the café closed early."
+  },
+  {
+    "id": "RW4-M1-016",
+    "prompt": "To better understand how students use the library, the librarian reviewed checkout records and seating counts. By studying this information together, she hoped to ______ trends in how the space was being used.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "analyze",
+      "B": "hide",
+      "C": "borrow",
+      "D": "forget"
+    },
+    "correct": "A",
+    "explanation": "The librarian studies records and counts in order to examine patterns, so “analyze” is the most precise choice."
+  },
+  {
+    "id": "RW4-M1-017",
+    "prompt": "Some schools have started lending calculators, art supplies, and sports equipment to students who need them. These lending programs can help students participate in class activities without requiring families to purchase items that may be used only occasionally.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "School lending programs can make supplies and equipment more accessible to students.",
+      "B": "Students should buy every item they might need for school activities.",
+      "C": "Calculators are more important than art supplies or sports equipment.",
+      "D": "Lending programs are useful only for students who play sports."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that lending programs help students participate without requiring families to buy occasional-use items."
+  },
+  {
+    "id": "RW4-M1-018",
+    "prompt": "Ornithologists studying owls note that many owl species have soft-edged wing feathers. These feathers reduce noise as the birds fly, making it easier for them to approach prey quietly at night.\nAccording to the text, how do soft-edged wing feathers help many owls?",
+    "choices": {
+      "A": "They allow owls to fly more quietly.",
+      "B": "They help owls build stronger nests.",
+      "C": "They make owls active only during the day.",
+      "D": "They prevent owls from needing food."
+    },
+    "correct": "A",
+    "explanation": "The text says soft-edged feathers reduce noise as owls fly."
+  },
+  {
+    "id": "RW4-M1-019",
+    "prompt": "A student is revising the following sentence.\nThe school started a morning announcements team, and students can use it to share news, celebrate achievements, and remind classmates about events.\nWhich choice best combines the ideas clearly and concisely?",
+    "choices": {
+      "A": "The school started a morning announcements team that lets students share news, celebrate achievements, and remind classmates about events.",
+      "B": "The school started a morning announcements team, students can use it to share news, celebrate achievements, and remind classmates about events.",
+      "C": "The school started a morning announcements team and sharing news, celebrating achievements, and reminding classmates.",
+      "D": "The school started a morning announcements team because students, news, achievements, and events."
+    },
+    "correct": "A",
+    "explanation": "This choice combines the ideas clearly and avoids a comma splice."
+  },
+  {
+    "id": "RW4-M1-020",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Dolores Huerta is a labor leader and civil rights activist.\n• She helped organize farmworkers in California.\n• Huerta cofounded the United Farm Workers with Cesar Chavez.\n• She advocated for better wages and safer working conditions.\n• Huerta has received national recognition for her activism.\nThe student wants to explain Huerta’s role in the farmworker movement. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Dolores Huerta, a labor leader and civil rights activist, helped organize farmworkers and advocated for better wages and safer working conditions.",
+      "B": "Dolores Huerta has received national recognition, and many activists have been recognized for their work.",
+      "C": "California has many farms, and farmworkers perform difficult jobs.",
+      "D": "Cesar Chavez cofounded the United Farm Workers with Dolores Huerta."
+    },
+    "correct": "A",
+    "explanation": "This choice explains Huerta’s role in organizing farmworkers and advocating for improved conditions."
+  },
+  {
+    "id": "RW4-M1-021",
+    "prompt": "A student recorded the number of library books checked out during four class visits.\nClass | Books checked out\nClass A | 19\nClass B | 24\nClass C | 21\nClass D | 16\nWhich choice is supported by the data in the table?",
+    "choices": {
+      "A": "Class B checked out the greatest number of books.",
+      "B": "Class D checked out more books than Class C.",
+      "C": "Class A and Class C checked out the same number of books.",
+      "D": "No class checked out more than 21 books."
+    },
+    "correct": "A",
+    "explanation": "Class B checked out 24 books, more than the other classes."
+  },
+  {
+    "id": "RW4-M1-022",
+    "prompt": "In a paragraph about school gardens, a writer states, “Students measured soil moisture, compared leaf shapes, and recorded the insects they observed on flowers.”\nWhat is the most likely purpose of the sentence?",
+    "choices": {
+      "A": "To give examples of learning activities students can do in a school garden",
+      "B": "To explain why flowers cannot grow in school gardens",
+      "C": "To argue that insects should be removed from all gardens",
+      "D": "To compare soil moisture with the height of school buildings"
+    },
+    "correct": "A",
+    "explanation": "The sentence lists activities students performed in the garden."
+  },
+  {
+    "id": "RW4-M1-023",
+    "prompt": "The documentary, ______ was filmed over three years, follows a group of young musicians.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "which",
+      "B": "which,",
+      "C": "that",
+      "D": "that,"
+    },
+    "correct": "A",
+    "explanation": "“Which” correctly begins the nonessential clause set off by commas."
+  },
+  {
+    "id": "RW4-M1-024",
+    "prompt": "The course teaches students to evaluate sources, to organize evidence, and ______ a clear argument.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "writing",
+      "B": "to write",
+      "C": "wrote",
+      "D": "the writing of"
+    },
+    "correct": "B",
+    "explanation": "The phrase completes the parallel structure: “to evaluate,” “to organize,” and “to write.”"
+  },
+  {
+    "id": "RW4-M1-025",
+    "prompt": "The museum label was too general, so the curator added dates, names, and locations to make the object’s history more ______.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "precise",
+      "B": "distant",
+      "C": "crowded",
+      "D": "silent"
+    },
+    "correct": "A",
+    "explanation": "Adding dates, names, and locations makes the object’s history more specific and exact."
+  },
+  {
+    "id": "RW4-M1-026",
+    "prompt": "A student wants to begin an essay about why schools should teach financial literacy. Which choice would be the most effective opening sentence for the essay?",
+    "choices": {
+      "A": "Financial literacy classes can help students make informed decisions about saving, spending, and borrowing money.",
+      "B": "Some students carry wallets, while others use backpacks with small pockets.",
+      "C": "Money can be made of paper, metal, or digital records.",
+      "D": "My school’s main hallway has a bulletin board about club meetings."
+    },
+    "correct": "A",
+    "explanation": "This sentence clearly introduces the essay’s focus on the value of financial literacy."
+  },
+  {
+    "id": "RW4-M1-027",
+    "prompt": "The town installed shaded seating at several bus stops. ______ riders had a cooler place to wait during hot afternoons.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Consequently,",
+      "B": "In contrast,",
+      "C": "For instance,",
+      "D": "Meanwhile,"
+    },
+    "correct": "A",
+    "explanation": "The cooler waiting area is presented as an effect of installing shaded seating.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

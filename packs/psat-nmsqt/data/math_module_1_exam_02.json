@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH2-M1-001",
+    "prompt": "If 4(x − 2) = 20, what is the value of x?",
+    "choices": {
+      "A": "5",
+      "B": "7",
+      "C": "12",
+      "D": "18"
+    },
+    "correct": "B",
+    "explanation": "Divide both sides by 4 to get x − 2 = 5, then add 2 to get x = 7."
+  },
+  {
+    "id": "MATH2-M1-002",
+    "prompt": "At a market, 3 pounds of apples cost $8.40. At this rate, what is the cost of 5 pounds of apples?",
+    "choices": {
+      "A": "$11.20",
+      "B": "$12.60",
+      "C": "$14.00",
+      "D": "$15.40"
+    },
+    "correct": "C",
+    "explanation": "The unit price is $8.40 ÷ 3 = $2.80 per pound, so 5 pounds cost 5 × $2.80 = $14.00."
+  },
+  {
+    "id": "MATH2-M1-003",
+    "prompt": "The daily high temperatures, in degrees Fahrenheit, for 5 days were 71, 69, 74, 67, and 70. What is the range of these temperatures?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "7",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "The range is the greatest value minus the least value: 74 − 67 = 7."
+  },
+  {
+    "id": "MATH2-M1-004",
+    "prompt": "A line has slope 3 and passes through the point (4, 17). Which equation represents the line?",
+    "choices": {
+      "A": "y = 3x + 4",
+      "B": "y = 3x + 5",
+      "C": "y = 4x + 1",
+      "D": "y = 5x − 3"
+    },
+    "correct": "B",
+    "explanation": "A line with slope 3 has form y = 3x + b. Substituting (4, 17) gives 17 = 12 + b, so b = 5."
+  },
+  {
+    "id": "MATH2-M1-005",
+    "prompt": "A student has at most 60 minutes to exercise. The student spends 15 minutes warming up and then rides a bike for p minutes. Which inequality represents this situation?",
+    "choices": {
+      "A": "p + 15 ≥ 60",
+      "B": "p − 15 ≤ 60",
+      "C": "p + 15 ≤ 60",
+      "D": "15p ≤ 60"
+    },
+    "correct": "C",
+    "explanation": "The total time is p minutes plus 15 minutes, and this total is at most 60 minutes."
+  },
+  {
+    "id": "MATH2-M1-006",
+    "prompt": "What is the solution to x/3 + 5 = 11?",
+    "choices": {
+      "A": "2",
+      "B": "6",
+      "C": "16",
+      "D": "18"
+    },
+    "correct": "D",
+    "explanation": "Subtract 5 from both sides to get x/3 = 6, then multiply by 3 to get x = 18."
+  },
+  {
+    "id": "MATH2-M1-007",
+    "prompt": "The sum of two numbers p and q is 30. If p = 2q, what is the value of p?",
+    "choices": {
+      "A": "10",
+      "B": "15",
+      "C": "20",
+      "D": "24"
+    },
+    "correct": "C",
+    "explanation": "Since p = 2q and p + q = 30, then 2q + q = 30, so q = 10 and p = 20."
+  },
+  {
+    "id": "MATH2-M1-008",
+    "prompt": "Which expression is equivalent to 7⁵ ÷ 7²?",
+    "choices": {
+      "A": "7²",
+      "B": "7³",
+      "C": "7⁷",
+      "D": "49³"
+    },
+    "correct": "B",
+    "explanation": "When dividing powers with the same base, subtract exponents: 7⁵ ÷ 7² = 7³."
+  },
+  {
+    "id": "MATH2-M1-009",
+    "prompt": "Which expression is equivalent to 4a − (a − 9)?",
+    "choices": {
+      "A": "3a − 9",
+      "B": "3a + 9",
+      "C": "5a − 9",
+      "D": "5a + 9"
+    },
+    "correct": "B",
+    "explanation": "Distribute the subtraction: 4a − (a − 9) = 4a − a + 9 = 3a + 9."
+  },
+  {
+    "id": "MATH2-M1-010",
+    "prompt": "One letter is chosen at random from the letters in the word MATHEMATICS. What is the probability that the letter chosen is M?",
+    "choices": {
+      "A": "1/11",
+      "B": "2/11",
+      "C": "1/5",
+      "D": "2/9"
+    },
+    "correct": "B",
+    "explanation": "MATHEMATICS has 11 letters, and 2 of them are M, so the probability is 2/11."
+  },
+  {
+    "id": "MATH2-M1-011",
+    "prompt": "A triangle has a base of 14 centimeters and a height of 6 centimeters. What is the area, in square centimeters, of the triangle?",
+    "choices": {
+      "A": "20",
+      "B": "36",
+      "C": "42",
+      "D": "84"
+    },
+    "correct": "C",
+    "explanation": "The area of a triangle is (1/2)bh, so the area is (1/2)(14)(6) = 42."
+  },
+  {
+    "id": "MATH2-M1-012",
+    "prompt": "A circle has radius 5 inches. What is the area, in square inches, of the circle?",
+    "choices": {
+      "A": "10π",
+      "B": "25π",
+      "C": "50π",
+      "D": "100π"
+    },
+    "correct": "B",
+    "explanation": "The area of a circle is πr². With r = 5, the area is π(5²) = 25π."
+  },
+  {
+    "id": "MATH2-M1-013",
+    "prompt": "The equation x(x − 8) = 0 has two solutions. What is the greater solution?",
+    "choices": {
+      "A": "0",
+      "B": "4",
+      "C": "8",
+      "D": "16"
+    },
+    "correct": "C",
+    "explanation": "Since x(x − 8) = 0, either x = 0 or x − 8 = 0. The greater solution is 8."
+  },
+  {
+    "id": "MATH2-M1-014",
+    "prompt": "If f(x) = 7 − 4x, what is f(−3)?",
+    "choices": {
+      "A": "−5",
+      "B": "5",
+      "C": "10",
+      "D": "19"
+    },
+    "correct": "D",
+    "explanation": "Substitute −3 for x: f(−3) = 7 − 4(−3) = 7 + 12 = 19."
+  },
+  {
+    "id": "MATH2-M1-015",
+    "prompt": "The number of students in a club increased from 50 to 58. By what percent did the number of students increase?",
+    "choices": {
+      "A": "8%",
+      "B": "12%",
+      "C": "16%",
+      "D": "20%"
+    },
+    "correct": "C",
+    "explanation": "The increase is 58 − 50 = 8. The percent increase is 8/50 = 0.16, or 16%."
+  },
+  {
+    "id": "MATH2-M1-016",
+    "prompt": "The table shows how 50 students travel to school.\nMethod: Bus, Train, Walk\nNumber of students: 24, 18, 8\nWhat fraction of the students walk to school?",
+    "choices": {
+      "A": "4/25",
+      "B": "8/25",
+      "C": "12/25",
+      "D": "21/25"
+    },
+    "correct": "A",
+    "explanation": "There are 50 students total and 8 walk, so the fraction is 8/50 = 4/25."
+  },
+  {
+    "id": "MATH2-M1-017",
+    "prompt": "In a triangle, two angle measures are 48° and 67°. What is the measure of the third angle?",
+    "choices": {
+      "A": "55°",
+      "B": "65°",
+      "C": "75°",
+      "D": "115°"
+    },
+    "correct": "B",
+    "explanation": "The angle measures in a triangle sum to 180°. The third angle is 180 − 48 − 67 = 65°."
+  },
+  {
+    "id": "MATH2-M1-018",
+    "prompt": "What is the value of ∛64 − √25?",
+    "choices": {
+      "A": "−1",
+      "B": "1",
+      "C": "3",
+      "D": "9"
+    },
+    "correct": "A",
+    "explanation": "∛64 = 4 and √25 = 5, so ∛64 − √25 = 4 − 5 = −1."
+  },
+  {
+    "id": "MATH2-M1-019",
+    "prompt": "A researcher records the number of hours of sunlight and the height of several plants of the same species. The data show that plants with more hours of sunlight generally have greater heights. Which statement best describes the association between hours of sunlight and plant height?",
+    "choices": {
+      "A": "There is a positive association.",
+      "B": "There is a negative association.",
+      "C": "There is no association.",
+      "D": "The association is impossible to determine from the description."
+    },
+    "correct": "A",
+    "explanation": "Since greater numbers of sunlight hours generally correspond to greater plant heights, the association is positive."
+  },
+  {
+    "id": "MATH2-M1-020",
+    "prompt": "The equation P = 10 + 2.5n models the total number of points P a player has after completing n levels of a game. What does 10 represent in this model?",
+    "choices": {
+      "A": "The number of points earned per level",
+      "B": "The number of levels completed",
+      "C": "The number of points the player has before completing any levels",
+      "D": "The total number of points after 10 levels"
+    },
+    "correct": "C",
+    "explanation": "In P = 10 + 2.5n, the constant 10 is the value of P when n = 0."
+  },
+  {
+    "id": "MATH2-M1-021",
+    "prompt": "The volume of a cylinder is V = πr²h, where r is the radius and h is the height. What is the volume of a cylinder with radius 2 inches and height 9 inches?",
+    "choices": {
+      "A": "18π",
+      "B": "24π",
+      "C": "36π",
+      "D": "81π"
+    },
+    "correct": "C",
+    "explanation": "Using V = πr²h with r = 2 and h = 9 gives V = π(2²)(9) = 36π."
+  },
+  {
+    "id": "MATH2-M1-022",
+    "prompt": "A train travels 144 miles in 4 hours at a constant speed. What is the train’s speed, in miles per hour?",
+    "choices": {
+      "A": "24",
+      "B": "36",
+      "C": "48",
+      "D": "58"
+    },
+    "correct": "B",
+    "explanation": "Speed is distance divided by time, so 144 ÷ 4 = 36 miles per hour.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

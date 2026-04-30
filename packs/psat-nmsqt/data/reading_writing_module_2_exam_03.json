@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW3-M2-001",
+    "prompt": "When composer Tania León blends Afro-Cuban rhythms with techniques from classical music, the result does not fit neatly into a single category. Critics often note that this mixture reflects León’s interest in movement across cultures rather than in musical boundaries. Her works therefore ______ easy labels.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "resist",
+      "B": "repeat",
+      "C": "require",
+      "D": "announce"
+    },
+    "correct": "A",
+    "explanation": "The text says León’s music does not fit neatly into a single category, so her works “resist” easy labels."
+  },
+  {
+    "id": "RW3-M2-002",
+    "prompt": "Researchers who study ancient pollen can learn about past environments. Because different plants produce distinct kinds of pollen, pollen grains preserved in lake sediments may show which plants once grew nearby. Over time, changes in the pollen found in sediment layers can reveal shifts in climate or land use.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Ancient pollen preserved in sediments can help researchers reconstruct past environments.",
+      "B": "Lake sediments rarely contain plant material that researchers can study.",
+      "C": "All plants produce identical pollen grains, making them difficult to distinguish.",
+      "D": "Pollen studies show that climate and land use never change over time."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that pollen grains in sediment layers reveal past plants and environmental changes."
+  },
+  {
+    "id": "RW3-M2-003",
+    "prompt": "Some theater companies stage plays in the round, with audience members seated on all sides of the performance area. This arrangement can make viewers feel close to the action, but it also limits the use of large background sets because those sets would block sight lines for some audience members.\nWhich choice is the best inference from the text?",
+    "choices": {
+      "A": "Staging a play in the round can create intimacy but requires careful set design.",
+      "B": "Plays staged in the round are performed without any audience members.",
+      "C": "Large background sets improve sight lines in every theater arrangement.",
+      "D": "Theater companies use in-the-round staging only for outdoor performances."
+    },
+    "correct": "A",
+    "explanation": "The text says seating on all sides can make viewers feel close but limits large sets because of sight lines."
+  },
+  {
+    "id": "RW3-M2-004",
+    "prompt": "A student’s draft about oceanographer Sylvia Earle includes the following sentences.\nEarle has spent thousands of hours exploring underwater environments. Her long experience below the surface gives unusual authority to her warnings about threats to the ocean.\nWhat is the main function of the second sentence in the text?",
+    "choices": {
+      "A": "It connects Earle’s firsthand experience to the credibility of her environmental warnings.",
+      "B": "It explains why Earle stopped exploring underwater environments.",
+      "C": "It compares Earle’s research methods with those of space scientists.",
+      "D": "It lists the specific species Earle observed on each dive."
+    },
+    "correct": "A",
+    "explanation": "The sentence explains that Earle’s underwater experience gives authority to her warnings."
+  },
+  {
+    "id": "RW3-M2-005",
+    "prompt": "A researcher recorded the average number of daily visitors to four nature trails before and after new signs were installed.\nTrail | Average daily visitors before signs | Average daily visitors after signs\nPine Loop | 46 | 58\nMeadow Path | 37 | 42\nRidge Trail | 51 | 49\nCreek Walk | 28 | 36\nWhich choice best describes the data?",
+    "choices": {
+      "A": "Pine Loop, Meadow Path, and Creek Walk had more visitors after the signs were installed, while Ridge Trail had fewer.",
+      "B": "All four trails had fewer visitors after the signs were installed.",
+      "C": "Ridge Trail had the greatest increase in visitors after the signs were installed.",
+      "D": "Meadow Path and Creek Walk had the same number of visitors after the signs were installed."
+    },
+    "correct": "A",
+    "explanation": "Visitors increased on Pine Loop, Meadow Path, and Creek Walk, but decreased on Ridge Trail."
+  },
+  {
+    "id": "RW3-M2-006",
+    "prompt": "Some students prefer handwritten notes because writing can slow them down enough to think carefully about what they record. ______ typed notes can be easier to search and reorganize later.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "On the other hand,",
+      "B": "For this reason,",
+      "C": "In other words,",
+      "D": "Similarly,"
+    },
+    "correct": "A",
+    "explanation": "The sentence contrasts one benefit of handwritten notes with a benefit of typed notes."
+  },
+  {
+    "id": "RW3-M2-007",
+    "prompt": "The essay examines three factors that influence sleep quality ______ light exposure, room temperature, and evening screen use.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "quality",
+      "B": "quality:",
+      "C": "quality,",
+      "D": "quality;"
+    },
+    "correct": "B",
+    "explanation": "A colon correctly introduces the list of three factors."
+  },
+  {
+    "id": "RW3-M2-008",
+    "prompt": "Looking through the telescope on a clear night, ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "the rings of Saturn appeared sharp and bright",
+      "B": "Saturn’s rings were sharp and bright",
+      "C": "we saw Saturn’s rings appear sharp and bright",
+      "D": "there were sharp and bright rings around Saturn"
+    },
+    "correct": "C",
+    "explanation": "The introductory modifier “Looking through the telescope” must logically describe “we.”"
+  },
+  {
+    "id": "RW3-M2-009",
+    "prompt": "The principal met with the club president after the assembly, and ______ agreed that the next event needed more student volunteers.\nWhich choice completes the text so that it conforms to the conventions of Standard English and avoids ambiguity?",
+    "choices": {
+      "A": "they",
+      "B": "the principal",
+      "C": "she",
+      "D": "it"
+    },
+    "correct": "B",
+    "explanation": "Repeating “the principal” avoids ambiguity about whether “they” refers to the principal and club president together."
+  },
+  {
+    "id": "RW3-M2-010",
+    "prompt": "By the time the hikers reached the overlook, the fog ______ enough for them to see the valley below.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "lifts",
+      "B": "has lifted",
+      "C": "had lifted",
+      "D": "lifting"
+    },
+    "correct": "C",
+    "explanation": "The past perfect tense shows that the fog lifted before the hikers reached the overlook."
+  },
+  {
+    "id": "RW3-M2-011",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Mathematician Gladys West worked with satellite data.\n• She helped develop mathematical models of Earth’s shape.\n• These models contributed to technology later used in GPS systems.\n• West worked at a naval research center beginning in the 1950s.\n• She was recognized decades later for her contributions.\nThe student wants to explain the significance of West’s work. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Gladys West began working at a naval research center in the 1950s and was recognized decades later.",
+      "B": "By helping develop mathematical models of Earth’s shape, Gladys West contributed to technology later used in GPS systems.",
+      "C": "Satellite data can be used for many purposes, including studying Earth from above.",
+      "D": "Mathematical models are sometimes created by researchers working in different fields."
+    },
+    "correct": "B",
+    "explanation": "This choice explains the significance of West’s work by connecting it to GPS technology."
+  },
+  {
+    "id": "RW3-M2-012",
+    "prompt": "A student is revising an essay about vertical farms, indoor farms where crops grow in stacked layers. The student wants to add a sentence that explains a possible advantage of vertical farms. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "Vertical farms may use less land than traditional farms because crops are grown in stacked layers.",
+      "B": "Some vertical farms are located in cities, while others are built near distribution centers.",
+      "C": "Farmers have grown crops outdoors for thousands of years.",
+      "D": "Vertical farms require lights, shelves, and systems for providing water."
+    },
+    "correct": "A",
+    "explanation": "This sentence directly explains a possible advantage of vertical farms."
+  },
+  {
+    "id": "RW3-M2-013",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) Some libraries lend objects as well as books. (2) For example, patrons at certain libraries can borrow musical instruments, board games, or sewing machines. (3) These collections may help people try new activities without buying expensive equipment. (4) Library staff usually create rules to make sure borrowed objects are returned safely.\nWhere should the following sentence be placed to best support the logical flow of the paragraph?\nThis service is sometimes called a library of things.",
+    "choices": {
+      "A": "After sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "A",
+    "explanation": "The added sentence names the service introduced in sentence 1 before sentence 2 gives examples of objects people can borrow."
+  },
+  {
+    "id": "RW3-M2-014",
+    "prompt": "The journalist’s article about the town budget is not ______; it does not argue for one department over another but instead explains where funds are currently allocated.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "persuasive",
+      "B": "readable",
+      "C": "recent",
+      "D": "public"
+    },
+    "correct": "A",
+    "explanation": "The article explains the allocation of funds rather than arguing for one department, so it is not persuasive."
+  },
+  {
+    "id": "RW3-M2-015",
+    "prompt": "Researchers studying coral reefs compared two areas after a heat wave. In the area with more herbivorous fish, algae covered less of the reef surface than it did in the area with fewer herbivorous fish. The researchers concluded that herbivorous fish may help reefs recover by limiting algae growth after heat stress.\nWhich choice best describes the relationship between the evidence and the researchers’ conclusion?",
+    "choices": {
+      "A": "The lower algae cover where herbivorous fish were more common supports the conclusion that these fish may help limit algae growth.",
+      "B": "The evidence proves that heat waves never affect reefs with herbivorous fish.",
+      "C": "The conclusion rejects the idea that algae can grow on reef surfaces.",
+      "D": "The evidence shows that all fish species eat the same amount of algae."
+    },
+    "correct": "A",
+    "explanation": "The evidence connects more herbivorous fish with less algae cover after heat stress."
+  },
+  {
+    "id": "RW3-M2-016",
+    "prompt": "The research article summarizes the survey results, ______ it also explains how the survey questions were developed.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "results, it",
+      "B": "results and",
+      "C": "results; and",
+      "D": "results, and"
+    },
+    "correct": "D",
+    "explanation": "A comma plus “and” correctly joins two independent clauses."
+  },
+  {
+    "id": "RW3-M2-017",
+    "prompt": "A botanist tested whether a certain wildflower grew taller in sandy soil or clay soil. She planted equal numbers of seeds in both soil types, kept light and water conditions the same, and measured the plants after eight weeks. The wildflowers in sandy soil were taller on average than those in clay soil.\nWhich conclusion is best supported by the text?",
+    "choices": {
+      "A": "Under the conditions tested, the wildflower grew taller in sandy soil than in clay soil.",
+      "B": "Clay soil prevents all wildflowers from germinating.",
+      "C": "Light and water conditions never affect plant growth.",
+      "D": "Sandy soil always contains more nutrients than clay soil."
+    },
+    "correct": "A",
+    "explanation": "The botanist controlled light and water, and the sandy-soil plants were taller on average."
+  },
+  {
+    "id": "RW3-M2-018",
+    "prompt": "The paragraph first explains that rooftop gardens can help absorb rainwater. ______ it describes how one apartment building used a rooftop garden to reduce runoff during heavy storms.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Then,",
+      "B": "Nevertheless,",
+      "C": "In contrast,",
+      "D": "Even so,"
+    },
+    "correct": "A",
+    "explanation": "The paragraph moves from a general explanation to a specific example."
+  },
+  {
+    "id": "RW3-M2-019",
+    "prompt": "The collection of essays about local food traditions ______ recipes, interviews, and historical photographs.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "include",
+      "B": "includes",
+      "C": "including",
+      "D": "are including"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “collection” requires the singular verb “includes.”"
+  },
+  {
+    "id": "RW3-M2-020",
+    "prompt": "The ______ wings beat so rapidly that they produce a faint humming sound as the bird hovers near flowers.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "hummingbirds",
+      "B": "hummingbird’s",
+      "C": "hummingbirds’",
+      "D": "hummingbirdes’"
+    },
+    "correct": "B",
+    "explanation": "The sentence refers to one bird, so the singular possessive “hummingbird’s” is correct."
+  },
+  {
+    "id": "RW3-M2-021",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• The Federal Theatre Project was active during the 1930s.\n• It employed actors, directors, stagehands, and playwrights.\n• Some productions were original plays about current social issues.\n• Other productions brought classic plays to audiences at low cost.\n• The project also supported performances in multiple languages.\nThe student wants to emphasize the range of theatrical work supported by the Federal Theatre Project. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "The Federal Theatre Project was active during the 1930s and employed many theater workers.",
+      "B": "The Federal Theatre Project supported a wide range of work, including original plays about social issues, low-cost productions of classics, and performances in multiple languages.",
+      "C": "Some theater productions in the 1930s were original plays, while others were based on older works.",
+      "D": "Actors, directors, stagehands, and playwrights can all contribute to a successful theater production."
+    },
+    "correct": "B",
+    "explanation": "This choice emphasizes multiple types of theatrical work supported by the project."
+  },
+  {
+    "id": "RW3-M2-022",
+    "prompt": "A student is revising the following sentence.\nThe community science fair displayed student projects, and local scientists answered questions from visitors.\nThe student wants to emphasize that the fair both showcased student work and connected the public with experts. Which choice best revises the sentence to accomplish this goal?",
+    "choices": {
+      "A": "The community science fair showcased student projects while giving visitors a chance to ask local scientists questions.",
+      "B": "Student projects were displayed at the community science fair, and the fair was held in the community.",
+      "C": "Local scientists answered questions from visitors, which is something scientists sometimes do at events.",
+      "D": "The community science fair had projects and visitors, and some of the visitors asked questions."
+    },
+    "correct": "A",
+    "explanation": "This revision emphasizes both student work and public access to experts."
+  },
+  {
+    "id": "RW3-M2-023",
+    "prompt": "The shop window displayed a row of handmade kites, each one painted with bright patterns. Amal paused in front of them on her way home from school. She had not flown a kite since her family moved from the coast, but the sight of the paper tails trembling in the air made her remember the beach wind.\nWhich choice best describes what the text suggests about Amal?",
+    "choices": {
+      "A": "Seeing the kites brings back memories of a place where she used to live.",
+      "B": "She plans to buy every kite displayed in the shop window.",
+      "C": "She dislikes windy places because they remind her of school.",
+      "D": "She has never seen a handmade kite before."
+    },
+    "correct": "A",
+    "explanation": "The kites remind Amal of the beach wind from before her family moved from the coast."
+  },
+  {
+    "id": "RW3-M2-024",
+    "prompt": "The counselor organized the workshop into small-group discussions, ______ quieter students more opportunities to speak.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "giving",
+      "B": "gave",
+      "C": "gives",
+      "D": "and giving"
+    },
+    "correct": "A",
+    "explanation": "The participle “giving” correctly shows the result of organizing the workshop into small groups."
+  },
+  {
+    "id": "RW3-M2-025",
+    "prompt": "Because handwritten census records can be difficult to read, historians often compare several documents to ______ names, dates, and addresses.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "verify",
+      "B": "invent",
+      "C": "decorate",
+      "D": "delay"
+    },
+    "correct": "A",
+    "explanation": "Comparing multiple records helps historians confirm names, dates, and addresses."
+  },
+  {
+    "id": "RW3-M2-026",
+    "prompt": "The field guide describes three signs of animal activity: tracks in the mud, feathers near the stream, and ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "claw marks on fallen logs",
+      "B": "fallen logs had claw marks",
+      "C": "claw marks were on fallen logs",
+      "D": "marking fallen logs with claws"
+    },
+    "correct": "A",
+    "explanation": "This choice keeps the list grammatically parallel: “tracks,” “feathers,” and “claw marks.”"
+  },
+  {
+    "id": "RW3-M2-027",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Kelp forests grow in cool coastal waters.\n• Kelp provides shelter for young fish and invertebrates.\n• Sea otters eat sea urchins.\n• Sea urchins eat kelp and can damage kelp forests when too numerous.\n• By limiting sea urchin populations, sea otters can help kelp forests remain healthy.\nThe student wants to emphasize how sea otters can indirectly support other marine life. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Kelp forests grow in cool coastal waters and include many kinds of seaweed.",
+      "B": "By eating sea urchins that feed on kelp, sea otters can help protect kelp forests that shelter young fish and invertebrates.",
+      "C": "Sea urchins eat kelp, while sea otters are animals that live in coastal waters.",
+      "D": "Kelp provides shelter for some marine animals, including young fish and invertebrates."
+    },
+    "correct": "B",
+    "explanation": "This choice emphasizes the indirect support: otters limit urchins, which helps kelp forests that shelter other marine life."
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH3-M1-001",
+    "prompt": "What is the solution to 2x + 9 = 5x − 6?",
+    "choices": {
+      "A": "3",
+      "B": "5",
+      "C": "9",
+      "D": "15"
+    },
+    "correct": "B",
+    "explanation": "Subtract 2x from both sides to get 9 = 3x − 6. Add 6 to get 15 = 3x, so x = 5."
+  },
+  {
+    "id": "MATH3-M1-002",
+    "prompt": "A taxi ride costs $4.50 plus $2.25 for each mile traveled. What is the total cost of a taxi ride that is 6 miles long?",
+    "choices": {
+      "A": "$13.50",
+      "B": "$16.00",
+      "C": "$18.00",
+      "D": "$22.50"
+    },
+    "correct": "C",
+    "explanation": "The total cost is 4.50 + 2.25(6) = 4.50 + 13.50 = 18.00."
+  },
+  {
+    "id": "MATH3-M1-003",
+    "prompt": "The numbers of pages read by 6 students in one day are 18, 22, 18, 25, 31, and 18. What is the mode of this data set?",
+    "choices": {
+      "A": "18",
+      "B": "22",
+      "C": "25",
+      "D": "31"
+    },
+    "correct": "A",
+    "explanation": "The mode is the value that appears most often. The number 18 appears three times."
+  },
+  {
+    "id": "MATH3-M1-004",
+    "prompt": "The equation y = −4x + 12 represents a line in the xy-plane. What is the y-coordinate of the point where the line crosses the y-axis?",
+    "choices": {
+      "A": "−4",
+      "B": "0",
+      "C": "4",
+      "D": "12"
+    },
+    "correct": "D",
+    "explanation": "In y = −4x + 12, the line crosses the y-axis when x = 0, giving y = 12."
+  },
+  {
+    "id": "MATH3-M1-005",
+    "prompt": "A ribbon is 7 yards long. If 1 yard equals 3 feet, how many feet long is the ribbon?",
+    "choices": {
+      "A": "10",
+      "B": "14",
+      "C": "21",
+      "D": "28"
+    },
+    "correct": "C",
+    "explanation": "Since 1 yard equals 3 feet, 7 yards equals 7 × 3 = 21 feet."
+  },
+  {
+    "id": "MATH3-M1-006",
+    "prompt": "What is the solution (x, y) to the system of equations?\nx = y + 4\n2x + y = 19",
+    "choices": {
+      "A": "(5, 9)",
+      "B": "(7, 3)",
+      "C": "(8, 4)",
+      "D": "(9, 5)"
+    },
+    "correct": "D",
+    "explanation": "Substitute x = y + 4 into 2x + y = 19 to get 2(y + 4) + y = 19. Then 3y + 8 = 19, so y = 5 and x = 9."
+  },
+  {
+    "id": "MATH3-M1-007",
+    "prompt": "Which inequality is equivalent to 6 − 2x > 14?",
+    "choices": {
+      "A": "x < −4",
+      "B": "x > −4",
+      "C": "x < 4",
+      "D": "x > 4"
+    },
+    "correct": "A",
+    "explanation": "Subtract 6 to get −2x > 8. Dividing by −2 reverses the inequality, so x < −4."
+  },
+  {
+    "id": "MATH3-M1-008",
+    "prompt": "For a positive integer n, which expression is equivalent to (n³)²?",
+    "choices": {
+      "A": "n⁵",
+      "B": "n⁶",
+      "C": "n⁹",
+      "D": "2n³"
+    },
+    "correct": "B",
+    "explanation": "Raising a power to a power means multiplying exponents: (n³)² = n⁶."
+  },
+  {
+    "id": "MATH3-M1-009",
+    "prompt": "Which expression is equivalent to 6m + 9?",
+    "choices": {
+      "A": "3(2m + 3)",
+      "B": "3(2m + 9)",
+      "C": "6(m + 9)",
+      "D": "9(m + 6)"
+    },
+    "correct": "A",
+    "explanation": "The greatest common factor of 6m and 9 is 3, so 6m + 9 = 3(2m + 3)."
+  },
+  {
+    "id": "MATH3-M1-010",
+    "prompt": "A spinner is divided into 10 equal sections numbered 1 through 10. If the spinner is spun once, what is the probability that it lands on a number greater than 7?",
+    "choices": {
+      "A": "1/10",
+      "B": "3/10",
+      "C": "7/10",
+      "D": "3/7"
+    },
+    "correct": "B",
+    "explanation": "The numbers greater than 7 are 8, 9, and 10, so 3 of the 10 equal sections are favorable."
+  },
+  {
+    "id": "MATH3-M1-011",
+    "prompt": "A parallelogram has a base of 11 centimeters and a height of 5 centimeters. What is the area, in square centimeters, of the parallelogram?",
+    "choices": {
+      "A": "16",
+      "B": "27.5",
+      "C": "55",
+      "D": "110"
+    },
+    "correct": "C",
+    "explanation": "The area of a parallelogram is base × height, so the area is 11 × 5 = 55."
+  },
+  {
+    "id": "MATH3-M1-012",
+    "prompt": "In the xy-plane, points A and B have coordinates (−3, 2) and (4, 2), respectively. What is the distance between A and B?",
+    "choices": {
+      "A": "1",
+      "B": "5",
+      "C": "7",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "The points have the same y-coordinate, so the distance is the difference in x-coordinates: 4 − (−3) = 7."
+  },
+  {
+    "id": "MATH3-M1-013",
+    "prompt": "What is the value of 2² + 3²?",
+    "choices": {
+      "A": "10",
+      "B": "12",
+      "C": "13",
+      "D": "25"
+    },
+    "correct": "C",
+    "explanation": "2² + 3² = 4 + 9 = 13."
+  },
+  {
+    "id": "MATH3-M1-014",
+    "prompt": "If q(x) = x² + 2x, what is q(5)?",
+    "choices": {
+      "A": "25",
+      "B": "30",
+      "C": "35",
+      "D": "45"
+    },
+    "correct": "C",
+    "explanation": "Substitute 5 for x: q(5) = 5² + 2(5) = 25 + 10 = 35."
+  },
+  {
+    "id": "MATH3-M1-015",
+    "prompt": "A map uses a scale of 1 inch to represent 6 miles. On the map, the distance between two towns is 4.5 inches. What is the actual distance, in miles, between the two towns?",
+    "choices": {
+      "A": "10.5",
+      "B": "24",
+      "C": "27",
+      "D": "30.5"
+    },
+    "correct": "C",
+    "explanation": "Each inch represents 6 miles, so 4.5 inches represents 4.5 × 6 = 27 miles."
+  },
+  {
+    "id": "MATH3-M1-016",
+    "prompt": "The table shows the number of cups of water remaining in a pitcher after different numbers of cups are poured out.\nCups poured out: 0, 1, 2, 3\nCups remaining: 12, 10, 8, 6\nIf the pattern continues, how many cups of water remain after 5 cups are poured out?",
+    "choices": {
+      "A": "0",
+      "B": "2",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "B",
+    "explanation": "The number of cups remaining decreases by 2 for each cup poured out. After 5 cups are poured out, 12 − 2(5) = 2 cups remain."
+  },
+  {
+    "id": "MATH3-M1-017",
+    "prompt": "A rectangular garden has an area of 96 square feet. The width of the garden is 8 feet. What is the length, in feet, of the garden?",
+    "choices": {
+      "A": "10",
+      "B": "12",
+      "C": "16",
+      "D": "24"
+    },
+    "correct": "B",
+    "explanation": "Area equals length × width, so 96 = length × 8. The length is 96 ÷ 8 = 12."
+  },
+  {
+    "id": "MATH3-M1-018",
+    "prompt": "Which value is equal to √81 − ∛27?",
+    "choices": {
+      "A": "3",
+      "B": "6",
+      "C": "9",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": "√81 = 9 and ∛27 = 3, so √81 − ∛27 = 6."
+  },
+  {
+    "id": "MATH3-M1-019",
+    "prompt": "A straight angle is divided into two angles. One angle measures 37°. What is the measure, in degrees, of the other angle?",
+    "choices": {
+      "A": "53",
+      "B": "90",
+      "C": "143",
+      "D": "153"
+    },
+    "correct": "C",
+    "explanation": "A straight angle measures 180°, so the other angle is 180 − 37 = 143°."
+  },
+  {
+    "id": "MATH3-M1-020",
+    "prompt": "A line in the xy-plane is represented by 2x + y = 9. Which ordered pair lies on this line?",
+    "choices": {
+      "A": "(1, 5)",
+      "B": "(2, 4)",
+      "C": "(3, 3)",
+      "D": "(4, 2)"
+    },
+    "correct": "C",
+    "explanation": "Substituting (3, 3) gives 2(3) + 3 = 9, which is true."
+  },
+  {
+    "id": "MATH3-M1-021",
+    "prompt": "A rectangular box has a length of 10 inches, a width of 3 inches, and a volume of 180 cubic inches. What is the height, in inches, of the box?",
+    "choices": {
+      "A": "3",
+      "B": "6",
+      "C": "9",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": "The volume is length × width × height, so 180 = 10 × 3 × h. Thus h = 6."
+  },
+  {
+    "id": "MATH3-M1-022",
+    "prompt": "A group of 40 students was asked whether they prefer drama, art, or music. The results are shown.\nPreference: Drama, Art, Music\nNumber of students: 9, 14, 17\nWhat percent of the students prefer art?",
+    "choices": {
+      "A": "14%",
+      "B": "28%",
+      "C": "35%",
+      "D": "40%"
+    },
+    "correct": "C",
+    "explanation": "The fraction that prefer art is 14/40 = 0.35, which is 35%.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

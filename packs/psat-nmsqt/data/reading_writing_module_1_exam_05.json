@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW5-M1-001",
+    "prompt": "In 1955, dancer Maria Tallchief became one of the first American ballet dancers to gain international fame. Critics praised her powerful technique, but they also noted her ability to make difficult movements seem effortless. Tallchief’s performances helped ______ the idea that world-class ballet could be centered only in Europe.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "challenge",
+      "B": "repeat",
+      "C": "hide",
+      "D": "measure"
+    },
+    "correct": "A",
+    "explanation": "The text says Tallchief’s success helped question the belief that world-class ballet had to be centered in Europe."
+  },
+  {
+    "id": "RW5-M1-002",
+    "prompt": "Permeable pavement is designed with tiny spaces that allow rainwater to pass through it and soak into the ground below. In parking lots and sidewalks, this material can reduce the amount of water that runs into storm drains during heavy rain. It can also help refill underground water supplies.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Permeable pavement can help manage rainwater by allowing it to soak into the ground.",
+      "B": "Permeable pavement is used only in places where it never rains.",
+      "C": "Storm drains are designed to refill underground water supplies directly.",
+      "D": "Parking lots made from permeable pavement are always smaller than other parking lots."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that permeable pavement lets rainwater pass through, reducing runoff and helping refill underground water supplies."
+  },
+  {
+    "id": "RW5-M1-003",
+    "prompt": "The number of students in the morning ceramics class ______ increased since the school added a second pottery wheel.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "have",
+      "B": "has",
+      "C": "are",
+      "D": "were"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “number” requires the singular verb “has.”"
+  },
+  {
+    "id": "RW5-M1-004",
+    "prompt": "A student recorded the number of minutes four volunteers spent sorting donated clothing.\nVolunteer | Minutes spent sorting\nElena | 42\nMarcus | 37\nNoor | 46\nTyler | 39\nWhich choice is supported by the data in the table?",
+    "choices": {
+      "A": "Noor spent the most time sorting clothing.",
+      "B": "Marcus spent more time sorting clothing than Elena.",
+      "C": "Tyler and Noor spent the same amount of time sorting clothing.",
+      "D": "No volunteer spent more than 42 minutes sorting clothing."
+    },
+    "correct": "A",
+    "explanation": "Noor spent 46 minutes sorting, more than Elena, Marcus, or Tyler."
+  },
+  {
+    "id": "RW5-M1-005",
+    "prompt": "In a text about traditional Japanese lacquerware, a writer explains that artisans apply many thin layers of lacquer to wooden objects. The writer adds, “Each layer must dry before the next is added, so a small box can require weeks or even months of work.”\nWhat is the main function of the quoted sentence?",
+    "choices": {
+      "A": "It explains why making lacquerware can take a long time.",
+      "B": "It argues that wooden objects should not be decorated.",
+      "C": "It compares lacquerware with metal tools.",
+      "D": "It shows that artisans usually finish lacquerware in one day."
+    },
+    "correct": "A",
+    "explanation": "The quoted sentence says each layer must dry before the next is added, which explains the long process."
+  },
+  {
+    "id": "RW5-M1-006",
+    "prompt": "The school replaced several old windows with better-sealed ones. ______ classrooms stayed warmer during the winter, and heating costs decreased.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "As a result,",
+      "B": "For instance,",
+      "C": "Nevertheless,",
+      "D": "In comparison,"
+    },
+    "correct": "A",
+    "explanation": "Warmer classrooms and lower heating costs are effects of replacing the windows."
+  },
+  {
+    "id": "RW5-M1-007",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Garrett Morgan was an inventor and business owner.\n• He improved an early traffic signal design.\n• His traffic signal included a warning position between “stop” and “go.”\n• Morgan also developed safety equipment used by firefighters and rescue workers.\n• His inventions addressed practical problems in public safety.\nThe student wants to introduce Morgan and the purpose of some of his inventions. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Garrett Morgan, an inventor and business owner, created practical safety devices, including an improved traffic signal and rescue equipment.",
+      "B": "Garrett Morgan owned a business, and many inventors have also been business owners.",
+      "C": "Traffic signals are used at intersections to direct drivers and pedestrians.",
+      "D": "Firefighters and rescue workers often rely on different types of safety equipment."
+    },
+    "correct": "A",
+    "explanation": "This choice introduces Morgan and connects his inventions to public safety."
+  },
+  {
+    "id": "RW5-M1-008",
+    "prompt": "The students placed the model bridges on the table and tested ______ by adding small weights.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "it",
+      "B": "them",
+      "C": "its",
+      "D": "they"
+    },
+    "correct": "B",
+    "explanation": "The plural pronoun “them” correctly refers to the model bridges."
+  },
+  {
+    "id": "RW5-M1-009",
+    "prompt": "The author visited the desert at sunrise, ______ she wanted to photograph the changing colors of the sand.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "sunrise she",
+      "B": "sunrise, she",
+      "C": "sunrise because",
+      "D": "sunrise; because"
+    },
+    "correct": "C",
+    "explanation": "“Because” correctly introduces the reason the author visited the desert at sunrise."
+  },
+  {
+    "id": "RW5-M1-010",
+    "prompt": "Many bats hunt at night by making high-pitched sounds and listening for the echoes that bounce back from nearby objects. These echoes help bats judge the size, shape, and location of insects in the dark.\nAccording to the text, how do echoes help many bats?",
+    "choices": {
+      "A": "They help bats locate insects at night.",
+      "B": "They keep bats from needing to fly.",
+      "C": "They allow bats to see colors more clearly.",
+      "D": "They prevent insects from moving."
+    },
+    "correct": "A",
+    "explanation": "The text states that echoes help bats judge the size, shape, and location of insects in the dark."
+  },
+  {
+    "id": "RW5-M1-011",
+    "prompt": "A student is revising the following sentence.\nThe school opened a quiet study room, and students can use it to read, complete homework, or prepare for tests.\nWhich choice best combines the ideas clearly and concisely?",
+    "choices": {
+      "A": "The school opened a quiet study room where students can read, complete homework, or prepare for tests.",
+      "B": "The school opened a quiet study room, students can use it to read, complete homework, or prepare for tests.",
+      "C": "The school opened a quiet study room and reading, completing homework, or preparing for tests.",
+      "D": "The school opened a quiet study room because students and homework, reading, and tests."
+    },
+    "correct": "A",
+    "explanation": "This choice clearly and concisely combines the two ideas without a comma splice."
+  },
+  {
+    "id": "RW5-M1-012",
+    "prompt": "The clay tablet was broken, but the writing on it was still partly visible. Because several lines could be read, the tablet remained ______ to historians studying trade records.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "useful",
+      "B": "imaginary",
+      "C": "heavy",
+      "D": "silent"
+    },
+    "correct": "A",
+    "explanation": "Because some writing on the tablet could still be read, it remained useful to historians."
+  },
+  {
+    "id": "RW5-M1-013",
+    "prompt": "______ from several kinds of fabric, the quilt shows patterns that represent different seasons.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Sewn",
+      "B": "Sewing",
+      "C": "To sew",
+      "D": "Sew"
+    },
+    "correct": "A",
+    "explanation": "“Sewn from several kinds of fabric” correctly modifies “the quilt.”"
+  },
+  {
+    "id": "RW5-M1-014",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• The prickly pear cactus grows in dry regions.\n• Its flat pads store water.\n• Its spines can protect it from animals.\n• Some prickly pear cacti produce edible fruit.\n• The cactus can survive long periods with little rainfall.\nThe student wants to emphasize an adaptation that helps the prickly pear cactus survive in dry places. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "The prickly pear cactus grows in dry regions and can produce edible fruit.",
+      "B": "The prickly pear cactus has flat pads that store water, helping it survive long periods with little rainfall.",
+      "C": "Some animals may avoid prickly pear cacti because the plants have spines.",
+      "D": "Many cacti live in dry places where rainfall is limited."
+    },
+    "correct": "B",
+    "explanation": "This choice emphasizes an adaptation that helps the cactus survive in dry conditions."
+  },
+  {
+    "id": "RW5-M1-015",
+    "prompt": "Although the new sports field is farther from the school building, it has smoother grass and better lighting than the old field. ______ many teams prefer practicing there.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Therefore,",
+      "B": "By contrast,",
+      "C": "For example,",
+      "D": "Earlier,"
+    },
+    "correct": "A",
+    "explanation": "Teams prefer the new field because it has smoother grass and better lighting."
+  },
+  {
+    "id": "RW5-M1-016",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) A rain barrel collects water that runs off a roof. (2) This water can later be used for gardens or outdoor cleaning. (3) Rain barrels are usually placed under downspouts. (4) By saving rainwater, households may reduce the amount of treated tap water they use outside.\nTo make the paragraph most logical, sentence 3 should be placed",
+    "choices": {
+      "A": "where it is now.",
+      "B": "before sentence 1.",
+      "C": "after sentence 4.",
+      "D": "between sentence 1 and sentence 2."
+    },
+    "correct": "A",
+    "explanation": "Sentence 3 logically explains where rain barrels are placed before the paragraph describes how the stored water can be used."
+  },
+  {
+    "id": "RW5-M1-017",
+    "prompt": "Next semester, the school newspaper ______ a monthly column about student art.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "publishes",
+      "B": "published",
+      "C": "will publish",
+      "D": "publishing"
+    },
+    "correct": "C",
+    "explanation": "“Next semester” requires a future-tense verb phrase."
+  },
+  {
+    "id": "RW5-M1-018",
+    "prompt": "A student recorded the number of plastic bags collected during four neighborhood cleanup routes.\nRoute | Bags collected\nNorth | 9\nEast | 14\nSouth | 11\nWest | 16\nWhich choice best describes the data in the table?",
+    "choices": {
+      "A": "The West route had the highest number of bags collected.",
+      "B": "The North and South routes had the same number of bags collected.",
+      "C": "The East route had fewer bags collected than the North route.",
+      "D": "No route had more than 14 bags collected."
+    },
+    "correct": "A",
+    "explanation": "The West route had 16 bags collected, more than the other routes."
+  },
+  {
+    "id": "RW5-M1-019",
+    "prompt": "In a paragraph about community kitchens, a writer states, “Volunteers chopped vegetables, packaged meals, and delivered food to residents who could not travel.”\nWhat is the most likely purpose of the sentence?",
+    "choices": {
+      "A": "To give examples of tasks volunteers performed in the community kitchen program",
+      "B": "To explain why vegetables should not be used in prepared meals",
+      "C": "To argue that residents should travel farther to buy food",
+      "D": "To compare community kitchens with restaurant kitchens"
+    },
+    "correct": "A",
+    "explanation": "The sentence lists specific volunteer tasks: chopping, packaging, and delivering food."
+  },
+  {
+    "id": "RW5-M1-020",
+    "prompt": "The song ______ the choir performed at the winter concert was arranged by a local composer.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "that",
+      "B": "who",
+      "C": "where",
+      "D": "when"
+    },
+    "correct": "A",
+    "explanation": "“That” correctly introduces the clause identifying which song was arranged by a local composer."
+  },
+  {
+    "id": "RW5-M1-021",
+    "prompt": "The workshop helps students revise essays by identifying weak evidence, improving transitions, and ______ sentence variety.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "increase",
+      "B": "increasing",
+      "C": "to increase",
+      "D": "increased"
+    },
+    "correct": "B",
+    "explanation": "The list is parallel: “identifying,” “improving,” and “increasing.”"
+  },
+  {
+    "id": "RW5-M1-022",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Hedy Lamarr was an actor and inventor.\n• During World War II, she worked with composer George Antheil on a radio guidance idea.\n• Their invention used changing frequencies to help make signals harder to interfere with.\n• Later technologies drew on similar principles.\n• Lamarr became better known for her scientific creativity later in life.\nThe student wants to emphasize Lamarr’s work as an inventor. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Hedy Lamarr, widely known as an actor, also helped develop a frequency-changing radio guidance idea during World War II.",
+      "B": "Hedy Lamarr worked with George Antheil, who was a composer.",
+      "C": "During World War II, many people worked on inventions related to communication.",
+      "D": "Hedy Lamarr became better known for her scientific creativity later in life."
+    },
+    "correct": "A",
+    "explanation": "This choice emphasizes Lamarr’s inventive work while acknowledging that she was also an actor."
+  },
+  {
+    "id": "RW5-M1-023",
+    "prompt": "A student wants to begin an essay about the benefits of walking to school when it is safe and practical. Which choice would be the most effective opening sentence for the essay?",
+    "choices": {
+      "A": "Walking to school can give students regular exercise while reducing traffic near campus.",
+      "B": "Some students wear sneakers, while others wear boots or sandals.",
+      "C": "A school is a building where students attend classes.",
+      "D": "The sidewalk near my school has cracks in two places."
+    },
+    "correct": "A",
+    "explanation": "This sentence clearly introduces the essay’s focus on benefits of walking to school."
+  },
+  {
+    "id": "RW5-M1-024",
+    "prompt": "The guidebook’s directions were too vague, so the hikers used a more ______ map that showed trail names, distances, and landmarks.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "detailed",
+      "B": "fragile",
+      "C": "crowded",
+      "D": "nervous"
+    },
+    "correct": "A",
+    "explanation": "A map showing trail names, distances, and landmarks would be more detailed than vague directions."
+  },
+  {
+    "id": "RW5-M1-025",
+    "prompt": "The school orchestra, ______ rehearses twice a week, will perform at the community arts festival.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "which",
+      "B": "which,",
+      "C": "that",
+      "D": "that,"
+    },
+    "correct": "A",
+    "explanation": "“Which” correctly begins the nonessential clause set off by commas."
+  },
+  {
+    "id": "RW5-M1-026",
+    "prompt": "Some birds collect shiny objects and place them near their nests. Researchers are still studying why this behavior occurs, but one possibility is that the objects help attract mates by making the nest area more noticeable.\nWhich choice best describes the purpose of the second sentence?",
+    "choices": {
+      "A": "It presents one possible explanation for a behavior researchers are studying.",
+      "B": "It proves that all birds collect shiny objects for the same reason.",
+      "C": "It explains why shiny objects are dangerous to birds.",
+      "D": "It argues that researchers should stop studying bird behavior."
+    },
+    "correct": "A",
+    "explanation": "The second sentence gives a possible reason some birds collect shiny objects."
+  },
+  {
+    "id": "RW5-M1-027",
+    "prompt": "The town created a shared calendar for local events. ______ residents could more easily learn about concerts, meetings, and volunteer opportunities.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Consequently,",
+      "B": "Nevertheless,",
+      "C": "For example,",
+      "D": "Meanwhile,"
+    },
+    "correct": "A",
+    "explanation": "Residents’ ability to learn about local events more easily is an effect of creating the shared calendar.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

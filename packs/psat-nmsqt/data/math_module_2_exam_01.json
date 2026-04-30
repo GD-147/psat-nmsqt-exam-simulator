@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH1-M2-001",
+    "prompt": "The system of equations has solution (a, b).\n2x + y = 17\nx − y = 4\nWhat is the value of a + b?",
+    "choices": {
+      "A": "7",
+      "B": "10",
+      "C": "13",
+      "D": "17"
+    },
+    "correct": "B",
+    "explanation": "Add the equations to get 3x = 21, so x = 7. Then 7 − y = 4, so y = 3. Thus a + b = 7 + 3 = 10."
+  },
+  {
+    "id": "MATH1-M2-002",
+    "prompt": "The function h is defined by h(x) = x² − 6x + 11. What is the minimum value of h(x)?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "11"
+    },
+    "correct": "B",
+    "explanation": "Complete the square: x² − 6x + 11 = (x − 3)² + 2. Since (x − 3)² ≥ 0, the minimum value is 2."
+  },
+  {
+    "id": "MATH1-M2-003",
+    "prompt": "Which expression is equivalent to (3x²y)(4xy³)?",
+    "choices": {
+      "A": "7x³y⁴",
+      "B": "12x²y³",
+      "C": "12x³y⁴",
+      "D": "12x³y³"
+    },
+    "correct": "C",
+    "explanation": "Multiply coefficients and add exponents of like bases: (3 × 4)x²⁺¹y¹⁺³ = 12x³y⁴."
+  },
+  {
+    "id": "MATH1-M2-004",
+    "prompt": "A population of bacteria doubles every hour. If the population is 300 at noon, which expression gives the population 5 hours after noon?",
+    "choices": {
+      "A": "300 + 2(5)",
+      "B": "300 × 2⁵",
+      "C": "300 × 5²",
+      "D": "2 × 300⁵"
+    },
+    "correct": "B",
+    "explanation": "Doubling each hour means multiplying by 2 for each hour. After 5 hours, the population is 300 × 2⁵."
+  },
+  {
+    "id": "MATH1-M2-005",
+    "prompt": "A line passes through the points (−2, 9) and (4, −3). What is the y-intercept of the line?",
+    "choices": {
+      "A": "−5",
+      "B": "1",
+      "C": "3",
+      "D": "5"
+    },
+    "correct": "D",
+    "explanation": "The slope is (−3 − 9)/(4 − (−2)) = −12/6 = −2. Using y = −2x + b and point (4, −3), −3 = −8 + b, so b = 5."
+  },
+  {
+    "id": "MATH1-M2-006",
+    "prompt": "A jacket originally costs $80. During a sale, the price is reduced by 25%. A customer also uses a coupon for $10 off the sale price. What is the final price of the jacket?",
+    "choices": {
+      "A": "$50",
+      "B": "$55",
+      "C": "$60",
+      "D": "$70"
+    },
+    "correct": "A",
+    "explanation": "A 25% reduction from $80 is $20, so the sale price is $60. Applying the $10 coupon gives $50."
+  },
+  {
+    "id": "MATH1-M2-007",
+    "prompt": "A rectangle has a perimeter of 34 units. Its length is 5 units greater than its width. What is the area, in square units, of the rectangle?",
+    "choices": {
+      "A": "66",
+      "B": "72",
+      "C": "84",
+      "D": "90"
+    },
+    "correct": "A",
+    "explanation": "Let the width be w and the length be w + 5. Then 2w + 2(w + 5) = 34, so 4w + 10 = 34 and w = 6. The length is 11, so the area is 66."
+  },
+  {
+    "id": "MATH1-M2-008",
+    "prompt": "If g(x) = 3x − 2 and g(k) = 19, what is the value of k?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "Since g(k) = 19, 3k − 2 = 19. Then 3k = 21, so k = 7."
+  },
+  {
+    "id": "MATH1-M2-009",
+    "prompt": "The graph of y = (x − 2)(x + 5) crosses the x-axis at two points. What is the greater x-coordinate of these two points?",
+    "choices": {
+      "A": "−5",
+      "B": "−2",
+      "C": "2",
+      "D": "5"
+    },
+    "correct": "C",
+    "explanation": "The x-intercepts occur when (x − 2)(x + 5) = 0, so x = 2 or x = −5. The greater value is 2."
+  },
+  {
+    "id": "MATH1-M2-010",
+    "prompt": "Which expression is equivalent to x² + 8x + 15?",
+    "choices": {
+      "A": "(x + 3)(x + 5)",
+      "B": "(x + 1)(x + 15)",
+      "C": "(x − 3)(x − 5)",
+      "D": "(x + 4)(x + 4)"
+    },
+    "correct": "A",
+    "explanation": "The factors must multiply to 15 and add to 8, so x² + 8x + 15 = (x + 3)(x + 5)."
+  },
+  {
+    "id": "MATH1-M2-011",
+    "prompt": "A recipe uses 2 cups of oats for every 3 cups of flour. If a baker uses 15 cups of flour, how many cups of oats are needed?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "18"
+    },
+    "correct": "B",
+    "explanation": "The ratio of oats to flour is 2:3. For 15 cups of flour, the scale factor is 5, so oats = 2 × 5 = 10 cups."
+  },
+  {
+    "id": "MATH1-M2-012",
+    "prompt": "The data set 6, 8, 10, 12, 14 has a median of 10. If the number 22 is added to the data set, what is the median of the new data set?",
+    "choices": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "14"
+    },
+    "correct": "B",
+    "explanation": "The new ordered set is 6, 8, 10, 12, 14, 22. The median is the average of the third and fourth values: (10 + 12)/2 = 11."
+  },
+  {
+    "id": "MATH1-M2-013",
+    "prompt": "A circle in the xy-plane has center (3, −2) and radius 5. Which equation represents this circle?",
+    "choices": {
+      "A": "(x − 3)² + (y + 2)² = 25",
+      "B": "(x + 3)² + (y − 2)² = 25",
+      "C": "(x − 3)² + (y + 2)² = 5",
+      "D": "(x + 3)² + (y − 2)² = 5"
+    },
+    "correct": "A",
+    "explanation": "A circle with center (h, k) and radius r has equation (x − h)² + (y − k)² = r². Here h = 3, k = −2, and r² = 25."
+  },
+  {
+    "id": "MATH1-M2-014",
+    "prompt": "In a right triangle, one acute angle has sine 5/13. If the length of the hypotenuse is 26, what is the length of the side opposite this angle?",
+    "choices": {
+      "A": "5",
+      "B": "10",
+      "C": "13",
+      "D": "24"
+    },
+    "correct": "B",
+    "explanation": "Sine is opposite/hypotenuse. Since 5/13 = opposite/26, the opposite side length is 26 × 5/13 = 10."
+  },
+  {
+    "id": "MATH1-M2-015",
+    "prompt": "The table shows values of a linear function f.\nx: −1, 0, 2, 5\nf(x): 7, 5, 1, −5\nWhich equation defines f?",
+    "choices": {
+      "A": "f(x) = −2x + 5",
+      "B": "f(x) = 2x + 5",
+      "C": "f(x) = −x + 6",
+      "D": "f(x) = −3x + 4"
+    },
+    "correct": "A",
+    "explanation": "From x = −1 to x = 0, f(x) decreases by 2, so the slope is −2. Since f(0) = 5, the equation is f(x) = −2x + 5."
+  },
+  {
+    "id": "MATH1-M2-016",
+    "prompt": "What is the solution to the equation √(x + 7) = 5?",
+    "choices": {
+      "A": "12",
+      "B": "18",
+      "C": "25",
+      "D": "32"
+    },
+    "correct": "B",
+    "explanation": "Square both sides: x + 7 = 25, so x = 18."
+  },
+  {
+    "id": "MATH1-M2-017",
+    "prompt": "For what value of c does the equation 4x + c = 4x + 9 have no solution?",
+    "choices": {
+      "A": "0",
+      "B": "4",
+      "C": "9",
+      "D": "Any value except 9"
+    },
+    "correct": "D",
+    "explanation": "Subtracting 4x from both sides gives c = 9. If c is any value other than 9, the equation is false and has no solution."
+  },
+  {
+    "id": "MATH1-M2-018",
+    "prompt": "A survey asked students whether they prefer morning or afternoon study sessions. The results are shown.\nPreference: Morning, Afternoon\nGrade 10: 18, 12\nGrade 11: 10, 20\nIf one student from the survey is selected at random from the students who prefer afternoon sessions, what is the probability that the student is in Grade 11?",
+    "choices": {
+      "A": "1/3",
+      "B": "3/8",
+      "C": "5/8",
+      "D": "2/3"
+    },
+    "correct": "C",
+    "explanation": "There are 12 + 20 = 32 students who prefer afternoon sessions. Of these, 20 are in Grade 11, so the probability is 20/32 = 5/8."
+  },
+  {
+    "id": "MATH1-M2-019",
+    "prompt": "A cube has side length 3 inches. A larger cube has side length 6 inches. The volume of the larger cube is how many times the volume of the smaller cube?",
+    "choices": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "correct": "D",
+    "explanation": "Volume scales by the cube of the side-length scale factor. Since 6/3 = 2, the volume scale factor is 2³ = 8."
+  },
+  {
+    "id": "MATH1-M2-020",
+    "prompt": "If 3ˣ = 81, what is the value of x + 2?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "Since 81 = 3⁴, x = 4. Therefore, x + 2 = 6."
+  },
+  {
+    "id": "MATH1-M2-021",
+    "prompt": "The function p is defined by p(x) = 2x² + bx + 8, where b is a constant. If p(2) = 30, what is the value of b?",
+    "choices": {
+      "A": "3",
+      "B": "5",
+      "C": "7",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "Substitute x = 2 into p(x): 2(2²) + 2b + 8 = 30. This gives 8 + 2b + 8 = 30, so 2b = 14 and b = 7."
+  },
+  {
+    "id": "MATH1-M2-022",
+    "prompt": "A theater sold adult tickets for $12 each and student tickets for $8 each. A total of 75 tickets were sold, and the total revenue was $780. How many student tickets were sold?",
+    "choices": {
+      "A": "25",
+      "B": "30",
+      "C": "35",
+      "D": "45"
+    },
+    "correct": "B",
+    "explanation": "Let s be the number of student tickets. Then adult tickets are 75 − s. The revenue equation is 8s + 12(75 − s) = 780. This simplifies to 900 − 4s = 780, so s = 30."
+  }
+]

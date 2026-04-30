@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH2-M2-001",
+    "prompt": "What is the solution to 5(2x − 1) = 3x + 16?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "5",
+      "D": "7"
+    },
+    "correct": "B",
+    "explanation": "Expand to get 10x − 5 = 3x + 16. Then 7x = 21, so x = 3."
+  },
+  {
+    "id": "MATH2-M2-002",
+    "prompt": "The system of equations has solution (x, y).\n4x + 3y = 29\n2x − 3y = 1\nWhat is the value of x − y?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "5",
+      "D": "8"
+    },
+    "correct": "B",
+    "explanation": "Adding the equations gives 6x = 30, so x = 5. Substituting gives 2(5) − 3y = 1, so y = 3. Thus x − y = 2."
+  },
+  {
+    "id": "MATH2-M2-003",
+    "prompt": "The graph of y = (x − 1)(x − 6) crosses the x-axis at two points. What is the x-coordinate of the vertex of the graph?",
+    "choices": {
+      "A": "2",
+      "B": "5/2",
+      "C": "7/2",
+      "D": "6"
+    },
+    "correct": "C",
+    "explanation": "The x-intercepts are 1 and 6. The vertex is halfway between them, so its x-coordinate is (1 + 6)/2 = 7/2."
+  },
+  {
+    "id": "MATH2-M2-004",
+    "prompt": "For x ≠ 5, which expression is equivalent to (x² − 25)/(x − 5)?",
+    "choices": {
+      "A": "x − 5",
+      "B": "x + 5",
+      "C": "x² + 5",
+      "D": "x² − 5"
+    },
+    "correct": "B",
+    "explanation": "Factor the numerator: x² − 25 = (x − 5)(x + 5). For x ≠ 5, the expression simplifies to x + 5."
+  },
+  {
+    "id": "MATH2-M2-005",
+    "prompt": "A sequence is defined by a₁ = 6 and aₙ₊₁ = 2aₙ + 1 for each integer n ≥ 1. What is the value of a₃?",
+    "choices": {
+      "A": "13",
+      "B": "19",
+      "C": "27",
+      "D": "31"
+    },
+    "correct": "C",
+    "explanation": "a₂ = 2(6) + 1 = 13, and a₃ = 2(13) + 1 = 27."
+  },
+  {
+    "id": "MATH2-M2-006",
+    "prompt": "A quantity of 200 is increased by 15% and then the result is decreased by 20%. What is the final quantity compared to the original quantity?",
+    "choices": {
+      "A": "8% less",
+      "B": "5% less",
+      "C": "5% greater",
+      "D": "8% greater"
+    },
+    "correct": "A",
+    "explanation": "Increasing 200 by 15% gives 230. Decreasing 230 by 20% gives 184, which is 16 less than 200. Since 16/200 = 0.08, the final quantity is 8% less."
+  },
+  {
+    "id": "MATH2-M2-007",
+    "prompt": "The table shows the number of books read by students in one month.\nBooks read: 0, 1, 2, 3\nNumber of students: 4, 7, 5, 4\nWhat is the mean number of books read per student?",
+    "choices": {
+      "A": "1.25",
+      "B": "1.45",
+      "C": "1.60",
+      "D": "1.75"
+    },
+    "correct": "B",
+    "explanation": "The total number of books is 0(4) + 1(7) + 2(5) + 3(4) = 29. There are 20 students, so the mean is 29/20 = 1.45."
+  },
+  {
+    "id": "MATH2-M2-008",
+    "prompt": "A trapezoid has bases of lengths 10 inches and 16 inches. The height of the trapezoid is 7 inches. What is the area, in square inches, of the trapezoid?",
+    "choices": {
+      "A": "63",
+      "B": "81",
+      "C": "91",
+      "D": "112"
+    },
+    "correct": "C",
+    "explanation": "The area of a trapezoid is (1/2)(b₁ + b₂)h, so the area is (1/2)(10 + 16)(7) = 91."
+  },
+  {
+    "id": "MATH2-M2-009",
+    "prompt": "In a right triangle, tan θ = 5/12. If the side adjacent to angle θ has length 36, what is the length of the side opposite angle θ?",
+    "choices": {
+      "A": "12",
+      "B": "15",
+      "C": "20",
+      "D": "30"
+    },
+    "correct": "B",
+    "explanation": "tan θ = opposite/adjacent. Since 5/12 = opposite/36, the opposite side length is 36 × 5/12 = 15."
+  },
+  {
+    "id": "MATH2-M2-010",
+    "prompt": "Line ℓ has equation 4x + 2y = 10. A second line is perpendicular to line ℓ and passes through the point (6, 1). What is the y-intercept of the second line?",
+    "choices": {
+      "A": "−4",
+      "B": "−2",
+      "C": "2",
+      "D": "4"
+    },
+    "correct": "B",
+    "explanation": "The equation 4x + 2y = 10 can be written as y = −2x + 5, so its slope is −2. A perpendicular line has slope 1/2. Through (6, 1), the equation is y − 1 = (1/2)(x − 6), which simplifies to y = (1/2)x − 2. The y-intercept is −2."
+  },
+  {
+    "id": "MATH2-M2-011",
+    "prompt": "The functions f and g are defined by f(x) = x² − 2 and g(x) = 3x + 1. What is f(g(1))?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "14",
+      "D": "18"
+    },
+    "correct": "C",
+    "explanation": "First find g(1) = 3(1) + 1 = 4. Then f(4) = 4² − 2 = 14."
+  },
+  {
+    "id": "MATH2-M2-012",
+    "prompt": "What is the positive solution to |2x − 5| = 9?",
+    "choices": {
+      "A": "2",
+      "B": "5",
+      "C": "7",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "|2x − 5| = 9 gives 2x − 5 = 9 or 2x − 5 = −9. The solutions are x = 7 and x = −2, so the positive solution is 7."
+  },
+  {
+    "id": "MATH2-M2-013",
+    "prompt": "A right triangle in the xy-plane has vertices (0, 0), (8, 0), and (8, 6). What is the perimeter of the triangle?",
+    "choices": {
+      "A": "20",
+      "B": "22",
+      "C": "24",
+      "D": "28"
+    },
+    "correct": "C",
+    "explanation": "The legs of the right triangle have lengths 8 and 6, so the hypotenuse is √(8² + 6²) = √100 = 10. The perimeter is 8 + 6 + 10 = 24."
+  },
+  {
+    "id": "MATH2-M2-014",
+    "prompt": "For what value of k does the following system of equations have infinitely many solutions?\ny = 3x + 2\n6x − 2y = k",
+    "choices": {
+      "A": "−6",
+      "B": "−4",
+      "C": "0",
+      "D": "4"
+    },
+    "correct": "B",
+    "explanation": "The second equation can be rewritten as y = 3x − k/2. For infinitely many solutions, this must match y = 3x + 2, so −k/2 = 2 and k = −4."
+  },
+  {
+    "id": "MATH2-M2-015",
+    "prompt": "The table shows values of a function h.\nx: −2, −1, 0, 1\nh(x): 0, 3, 4, 3\nWhich equation could define h?",
+    "choices": {
+      "A": "h(x) = x² + 4",
+      "B": "h(x) = 4 − x²",
+      "C": "h(x) = 2x + 4",
+      "D": "h(x) = 4 − 2x"
+    },
+    "correct": "B",
+    "explanation": "Substituting x = −2, −1, 0, and 1 into h(x) = 4 − x² gives 0, 3, 4, and 3, matching the table."
+  },
+  {
+    "id": "MATH2-M2-016",
+    "prompt": "What is the solution to x/(x + 4) = 2/3?",
+    "choices": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "12"
+    },
+    "correct": "C",
+    "explanation": "Cross-multiply to get 3x = 2(x + 4), so 3x = 2x + 8 and x = 8."
+  },
+  {
+    "id": "MATH2-M2-017",
+    "prompt": "A material has a density of 7 grams per cubic centimeter. What is the mass, in grams, of a sample of this material with volume 95 cubic centimeters?",
+    "choices": {
+      "A": "600",
+      "B": "665",
+      "C": "720",
+      "D": "780"
+    },
+    "correct": "B",
+    "explanation": "Density is mass divided by volume, so mass = density × volume. The mass is 7 × 95 = 665 grams."
+  },
+  {
+    "id": "MATH2-M2-018",
+    "prompt": "Two similar polygons have corresponding side lengths of 5 centimeters and 8 centimeters. The perimeter of the smaller polygon is 30 centimeters. What is the perimeter, in centimeters, of the larger polygon?",
+    "choices": {
+      "A": "33",
+      "B": "40",
+      "C": "48",
+      "D": "56"
+    },
+    "correct": "C",
+    "explanation": "The scale factor from the smaller polygon to the larger polygon is 8/5. Perimeter scales the same way, so the larger perimeter is 30 × 8/5 = 48."
+  },
+  {
+    "id": "MATH2-M2-019",
+    "prompt": "For a constant k, (x + 4)(x + k) = x² + 11x + 28 for all values of x. What is the value of k?",
+    "choices": {
+      "A": "4",
+      "B": "7",
+      "C": "11",
+      "D": "28"
+    },
+    "correct": "B",
+    "explanation": "Expanding gives (x + 4)(x + k) = x² + (k + 4)x + 4k. Since this equals x² + 11x + 28, k + 4 = 11 and k = 7."
+  },
+  {
+    "id": "MATH2-M2-020",
+    "prompt": "One class has 12 students with a mean score of 84 on a quiz. Another class has 18 students with a mean score of 79 on the same quiz. What is the mean score for all 30 students?",
+    "choices": {
+      "A": "80",
+      "B": "81",
+      "C": "82",
+      "D": "83"
+    },
+    "correct": "B",
+    "explanation": "The combined mean is the total score divided by the total number of students: (12 × 84 + 18 × 79)/30 = (1008 + 1422)/30 = 2430/30 = 81."
+  },
+  {
+    "id": "MATH2-M2-021",
+    "prompt": "For what value of a does the equation a(x − 2) = 3x − 6 have infinitely many solutions?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "6"
+    },
+    "correct": "C",
+    "explanation": "For infinitely many solutions, the left side must be identical to the right side. Since 3x − 6 = 3(x − 2), a must be 3."
+  },
+  {
+    "id": "MATH2-M2-022",
+    "prompt": "A rental company charges a fixed fee plus a constant amount per mile driven. A rental with 40 miles driven costs $52, and a rental with 70 miles driven costs $70. How many miles were driven for a rental that costs $88?",
+    "choices": {
+      "A": "80",
+      "B": "90",
+      "C": "100",
+      "D": "110"
+    },
+    "correct": "C",
+    "explanation": "The cost increases by $70 − $52 = $18 when the miles increase by 30, so the rate is $0.60 per mile. The fixed fee is $52 − 0.60(40) = $28. For a cost of $88, solve 88 = 28 + 0.60m, giving m = 100."
+  }
+]

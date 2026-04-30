@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW1-M2-001",
+    "prompt": "When composer Florence Price’s Symphony No. 1 premiered in 1933, some critics treated the work as an unusual event because Price was a Black woman writing in a field dominated by white men. More recent scholars, however, have argued that focusing only on the “firsts” associated with Price can ______ the musical complexity of her work, including her creative use of spirituals and European symphonic forms.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "obscure",
+      "B": "duplicate",
+      "C": "simplify",
+      "D": "announce"
+    },
+    "correct": "A",
+    "explanation": "The text suggests that focusing only on Price’s “firsts” can hide or distract from the complexity of her music."
+  },
+  {
+    "id": "RW1-M2-002",
+    "prompt": "Textile conservators sometimes face a difficult choice when restoring old garments. Cleaning can reveal original colors and patterns, but aggressive cleaning can also damage fragile fibers. For this reason, conservators often test small hidden areas first and document each step carefully before treating the whole garment.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Textile conservators must balance the benefits of cleaning with the risk of damaging delicate materials.",
+      "B": "Textile conservators usually avoid documenting their restoration work until a garment is fully cleaned.",
+      "C": "Old garments cannot reveal useful information about the people who made or wore them.",
+      "D": "Aggressive cleaning is the only reliable way to restore the original colors of old textiles."
+    },
+    "correct": "A",
+    "explanation": "The passage centers on the careful decisions conservators make when cleaning fragile garments."
+  },
+  {
+    "id": "RW1-M2-003",
+    "prompt": "Some desert plants open tiny pores in their leaves only at night. During the day, keeping these pores closed helps the plants reduce water loss in the heat. At night, the plants can take in carbon dioxide while temperatures are lower and the air is often less dry.\nWhich choice is the best inference from the text?",
+    "choices": {
+      "A": "Opening leaf pores at night helps some desert plants survive dry conditions.",
+      "B": "Desert plants grow faster than plants in wetter environments.",
+      "C": "Desert plants do not need carbon dioxide to survive.",
+      "D": "Opening leaf pores during the day prevents water from leaving a plant."
+    },
+    "correct": "A",
+    "explanation": "The text explains that this behavior lets plants take in carbon dioxide while reducing water loss."
+  },
+  {
+    "id": "RW1-M2-004",
+    "prompt": "A student’s draft about the poet Gwendolyn Brooks includes the following sentences.\nBrooks often wrote about everyday life in Chicago neighborhoods. This focus on ordinary experiences did not make her poetry simple; rather, it allowed her to explore complex questions about identity, community, and social change.\nWhat is the main function of the second sentence in the text?",
+    "choices": {
+      "A": "It corrects a possible misunderstanding about Brooks’s focus on everyday life.",
+      "B": "It lists the titles of Brooks’s most famous poems.",
+      "C": "It argues that Brooks should have written about different neighborhoods.",
+      "D": "It explains why Brooks stopped writing poetry."
+    },
+    "correct": "A",
+    "explanation": "The sentence clarifies that writing about ordinary experiences allowed Brooks to explore complex themes."
+  },
+  {
+    "id": "RW1-M2-005",
+    "prompt": "A researcher recorded average wait times for buses on four routes.\nRoute | Average wait time before schedule change | Average wait time after schedule change\nA | 14 minutes | 10 minutes\nB | 11 minutes | 12 minutes\nC | 18 minutes | 13 minutes\nD | 9 minutes | 9 minutes\nWhich choice best describes the data?",
+    "choices": {
+      "A": "Routes A and C had shorter average wait times after the schedule change, while Route B had a longer average wait time.",
+      "B": "All four routes had shorter average wait times after the schedule change.",
+      "C": "Route D had the greatest decrease in average wait time after the schedule change.",
+      "D": "Route B and Route C had the same average wait time after the schedule change."
+    },
+    "correct": "A",
+    "explanation": "Route A decreased from 14 to 10, Route C decreased from 18 to 13, and Route B increased from 11 to 12."
+  },
+  {
+    "id": "RW1-M2-006",
+    "prompt": "The new exhibit features rare photographs from the 1920s. ______ the museum chose not to display some of the most delicate prints, which could be damaged by prolonged exposure to light.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Likewise,",
+      "B": "However,",
+      "C": "Therefore,",
+      "D": "For instance,"
+    },
+    "correct": "B",
+    "explanation": "The second sentence contrasts the exhibit’s rare photographs with the museum’s decision not to display some delicate prints."
+  },
+  {
+    "id": "RW1-M2-007",
+    "prompt": "The student’s presentation focused on three ancient writing materials ______ clay tablets, papyrus, and parchment.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "materials",
+      "B": "materials:",
+      "C": "materials,",
+      "D": "materials;"
+    },
+    "correct": "B",
+    "explanation": "A colon correctly introduces the list of three writing materials."
+  },
+  {
+    "id": "RW1-M2-008",
+    "prompt": "Walking along the shoreline after the storm, ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "shells and bits of driftwood covered the sand",
+      "B": "the sand was covered with shells and bits of driftwood",
+      "C": "we found shells and bits of driftwood scattered across the sand",
+      "D": "there were shells and bits of driftwood scattered across the sand"
+    },
+    "correct": "C",
+    "explanation": "The introductory modifier “Walking along the shoreline after the storm” must logically describe “we.”"
+  },
+  {
+    "id": "RW1-M2-009",
+    "prompt": "The two engineers reviewed the bridge design with the city planner, and ______ agreed that the support beams needed further testing.\nWhich choice completes the text so that it conforms to the conventions of Standard English and avoids ambiguity?",
+    "choices": {
+      "A": "they",
+      "B": "she",
+      "C": "the engineers",
+      "D": "it"
+    },
+    "correct": "C",
+    "explanation": "Repeating “the engineers” avoids ambiguity about whether “they” refers to the engineers and planner or only the engineers."
+  },
+  {
+    "id": "RW1-M2-010",
+    "prompt": "By the time the school newspaper printed its interview with the mayor, the city council ______ the proposal for a new recreation center.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "approves",
+      "B": "has approved",
+      "C": "had approved",
+      "D": "approving"
+    },
+    "correct": "C",
+    "explanation": "The past perfect tense correctly shows that the approval occurred before the newspaper printed the interview."
+  },
+  {
+    "id": "RW1-M2-011",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Vera Rubin was an astronomer who studied how galaxies rotate.\n• In the 1970s, Rubin and Kent Ford observed that stars at the outer edges of galaxies moved faster than expected.\n• Their observations supported the idea that galaxies contain large amounts of unseen mass.\n• This unseen mass is now commonly called dark matter.\n• Rubin’s work helped change scientists’ understanding of the universe.\nThe student wants to explain the significance of Rubin and Ford’s observations. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Vera Rubin was an astronomer whose work in the 1970s included studying how galaxies rotate.",
+      "B": "By showing that outer stars in galaxies moved faster than expected, Rubin and Ford’s observations supported the idea of dark matter.",
+      "C": "Kent Ford worked with Vera Rubin, and both scientists studied galaxies during the 1970s.",
+      "D": "Dark matter is a term scientists now use for unseen mass in galaxies."
+    },
+    "correct": "B",
+    "explanation": "This choice explains the significance of the observations by connecting them to support for dark matter."
+  },
+  {
+    "id": "RW1-M2-012",
+    "prompt": "A student is revising an essay about school composting programs and wants to add a sentence that explains why some programs fail. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "Composting programs can reduce the amount of food waste that schools send to landfills.",
+      "B": "Some schools place compost bins in cafeterias, kitchens, and outdoor garden areas.",
+      "C": "Programs may struggle when students and staff are not clearly taught which materials can be composted.",
+      "D": "Several cities have encouraged schools to start composting programs in recent years."
+    },
+    "correct": "C",
+    "explanation": "This sentence directly explains a reason some composting programs fail."
+  },
+  {
+    "id": "RW1-M2-013",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) Salt marshes are coastal wetlands that flood and drain with the tides. (2) These wetlands provide habitat for many birds, fish, and invertebrates. (3) Some communities are restoring damaged salt marshes by removing barriers to tidal flow. (4) Restored marshes can also help reduce flooding by absorbing storm surge.\nWhere should the following sentence be placed to best support the logical flow of the paragraph?\nThey can also protect nearby communities from severe weather.",
+    "choices": {
+      "A": "After sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "B",
+    "explanation": "The added sentence introduces the idea of community protection, which sentence 4 develops with the example of reducing flooding."
+  },
+  {
+    "id": "RW1-M2-014",
+    "prompt": "Although the author’s journal entries from the expedition are brief, they are not ______; even a few lines about weather, supplies, and travel conditions can help historians reconstruct the journey.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "useless",
+      "B": "private",
+      "C": "recent",
+      "D": "handwritten"
+    },
+    "correct": "A",
+    "explanation": "The phrase “even a few lines” can help historians shows that the brief entries are not useless."
+  },
+  {
+    "id": "RW1-M2-015",
+    "prompt": "In 2021, researchers analyzed the remains of meals preserved on ancient ceramic vessels. They found evidence of spices that were not grown locally, suggesting that the people who used the vessels may have participated in long-distance trade networks.\nWhich choice best describes the relationship between the evidence and the researchers’ conclusion?",
+    "choices": {
+      "A": "The evidence suggests that nonlocal spices were present, which supports the conclusion that trade may have occurred.",
+      "B": "The evidence proves that every ancient community used the same spices.",
+      "C": "The evidence shows that ceramic vessels were never used for cooking local foods.",
+      "D": "The evidence contradicts the conclusion because spices cannot be preserved on ceramics."
+    },
+    "correct": "A",
+    "explanation": "The conclusion is based on evidence of spices that were not grown locally."
+  },
+  {
+    "id": "RW1-M2-016",
+    "prompt": "The documentary includes interviews with former factory workers ______ it also features archival footage of the machines they operated.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "workers, it",
+      "B": "workers and",
+      "C": "workers; and",
+      "D": "workers, and"
+    },
+    "correct": "D",
+    "explanation": "A comma plus “and” correctly joins the two independent clauses."
+  },
+  {
+    "id": "RW1-M2-017",
+    "prompt": "A biologist tested whether a certain species of moss grows better on limestone or sandstone. In a greenhouse, she placed equal amounts of moss on both rock types and kept light and water conditions the same. After six weeks, the moss on limestone had spread over a larger area than the moss on sandstone.\nWhich conclusion is best supported by the text?",
+    "choices": {
+      "A": "Under the conditions of the experiment, the moss grew better on limestone than on sandstone.",
+      "B": "Moss can grow only in greenhouse environments.",
+      "C": "Light and water conditions have no effect on moss growth.",
+      "D": "Sandstone prevents all plant life from growing."
+    },
+    "correct": "A",
+    "explanation": "The experiment controlled light and water, and the moss spread more on limestone after six weeks."
+  },
+  {
+    "id": "RW1-M2-018",
+    "prompt": "The writer first describes a problem faced by local farmers: heavy rains often wash soil from sloped fields. ______ she explains a solution: planting strips of native grass that slow runoff and hold soil in place.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In the same way,",
+      "B": "Next,",
+      "C": "Nevertheless,",
+      "D": "By contrast,"
+    },
+    "correct": "B",
+    "explanation": "The writer first describes a problem and then moves to a solution, so “Next” is logical."
+  },
+  {
+    "id": "RW1-M2-019",
+    "prompt": "The number of students who participate in the school’s peer tutoring program ______ steadily since the program began three years ago.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "have grown",
+      "B": "grow",
+      "C": "has grown",
+      "D": "are growing"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “number” takes the singular verb phrase “has grown.”"
+  },
+  {
+    "id": "RW1-M2-020",
+    "prompt": "The ______ wings are covered with tiny scales that reflect light, creating colors that can appear to change as the insect moves.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "butterflys’",
+      "B": "butterflies",
+      "C": "butterfly’s",
+      "D": "butterflies’s"
+    },
+    "correct": "C",
+    "explanation": "The sentence refers to one butterfly’s wings, so the singular possessive “butterfly’s” is correct."
+  },
+  {
+    "id": "RW1-M2-021",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• The Harlem Renaissance was a cultural movement in the 1920s and 1930s.\n• Writers, musicians, and artists contributed to the movement.\n• Zora Neale Hurston collected African American folklore and wrote fiction.\n• Aaron Douglas created paintings and murals with bold shapes and African-inspired imagery.\n• Duke Ellington became known for jazz compositions and performances.\nThe student wants to give examples of different types of artists associated with the Harlem Renaissance. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "The Harlem Renaissance took place mainly during the 1920s and 1930s.",
+      "B": "The Harlem Renaissance included many creative figures, such as writer Zora Neale Hurston, visual artist Aaron Douglas, and musician Duke Ellington.",
+      "C": "Zora Neale Hurston collected folklore, and folklore can influence many different kinds of literature.",
+      "D": "Aaron Douglas used bold shapes in paintings and murals that are still studied today."
+    },
+    "correct": "B",
+    "explanation": "This choice gives examples from different artistic fields associated with the Harlem Renaissance."
+  },
+  {
+    "id": "RW1-M2-022",
+    "prompt": "A student is revising the following sentence.\nThe river cleanup removed hundreds of pounds of trash, and volunteers also recorded the types of waste they found.\nThe student wants to emphasize that the project produced both environmental and scientific benefits. Which choice best revises the sentence to accomplish this goal?",
+    "choices": {
+      "A": "The river cleanup removed hundreds of pounds of trash while also generating useful data about the types of waste found.",
+      "B": "The river cleanup happened near the river, where volunteers found trash and recorded it.",
+      "C": "Hundreds of pounds of trash were removed by volunteers, and the volunteers worked near the river.",
+      "D": "Volunteers removed trash, which is something that many river cleanup projects try to do."
+    },
+    "correct": "A",
+    "explanation": "This revision emphasizes both the environmental benefit and the data-gathering benefit."
+  },
+  {
+    "id": "RW1-M2-023",
+    "prompt": "Whenever the old clock in the train station chimed, Mr. Alvarez looked up from his newspaper, as though the sound had called his name. He had taken the same train for thirty years, but lately each departure felt less like a routine and more like a small farewell.\nWhich choice best describes what the text suggests about Mr. Alvarez?",
+    "choices": {
+      "A": "He has begun to feel emotionally affected by a familiar daily experience.",
+      "B": "He is angry that the train station clock is no longer accurate.",
+      "C": "He wants to stop reading newspapers during his commute.",
+      "D": "He has recently started taking the train for the first time."
+    },
+    "correct": "A",
+    "explanation": "The text says each departure now feels like “a small farewell,” suggesting emotional change."
+  },
+  {
+    "id": "RW1-M2-024",
+    "prompt": "To reduce glare in the classroom, the teacher lowered the window shades, ______ the projector image easier to see.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "makes",
+      "B": "making",
+      "C": "made",
+      "D": "and making"
+    },
+    "correct": "B",
+    "explanation": "The participle “making” correctly shows the result of lowering the shades."
+  },
+  {
+    "id": "RW1-M2-025",
+    "prompt": "Archaeologists often study broken pottery because the pieces can ______ clues about trade, diet, and daily life, even when complete objects are rare.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "provide",
+      "B": "conceal",
+      "C": "dismiss",
+      "D": "invent"
+    },
+    "correct": "A",
+    "explanation": "Broken pottery pieces can give or supply clues about trade, diet, and daily life."
+  },
+  {
+    "id": "RW1-M2-026",
+    "prompt": "The research team documented several features of the cave: mineral deposits, ancient tool marks, and ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "animal bones preserved in clay",
+      "B": "clay preserved animal bones",
+      "C": "animal bones were preserved in clay",
+      "D": "preserving animal bones in clay"
+    },
+    "correct": "A",
+    "explanation": "This choice keeps the list grammatically parallel: “mineral deposits, ancient tool marks, and animal bones preserved in clay.”"
+  },
+  {
+    "id": "RW1-M2-027",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Mangrove forests grow along tropical and subtropical coastlines.\n• Their tangled roots can slow waves and trap sediment.\n• Young fish and crustaceans often shelter among mangrove roots.\n• Mangroves can store large amounts of carbon in their soils.\n• Some coastal communities restore mangrove forests to help reduce storm damage.\nThe student wants to emphasize two ecological benefits of mangrove forests. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Mangrove forests grow along coastlines in tropical and subtropical regions.",
+      "B": "Because their roots can shelter young marine animals and their soils can store carbon, mangrove forests provide important ecological benefits.",
+      "C": "Some coastal communities restore mangrove forests because storms can damage coastlines.",
+      "D": "Mangrove forests have tangled roots that can slow waves and trap sediment near shore."
+    },
+    "correct": "B",
+    "explanation": "This choice emphasizes two ecological benefits: providing shelter and storing carbon."
+  }
+]

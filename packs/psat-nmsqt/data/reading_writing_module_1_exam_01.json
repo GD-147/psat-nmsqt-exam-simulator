@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW1-M1-001",
+    "prompt": "In 1910, architect Marion Mahony Griffin helped create presentation drawings for a major design competition in Australia. Her delicate ink-and-watercolor images made the proposed city plan easier for judges to understand. Although the plan was submitted under Walter Burley Griffin’s name, scholars now recognize Mahony Griffin’s drawings as ______ to the proposal’s success.\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "choices": {
+      "A": "accidental",
+      "B": "essential",
+      "C": "ordinary",
+      "D": "unrelated"
+    },
+    "correct": "B",
+    "explanation": "The text says Mahony Griffin’s drawings made the proposal easier to understand and are now recognized as important to its success, so “essential” is the most precise choice."
+  },
+  {
+    "id": "RW1-M1-002",
+    "prompt": "Urban planners have long known that trees can make city streets more pleasant for pedestrians. Recent studies add that trees can also reduce surface temperatures by shading pavement and releasing water vapor through their leaves. These benefits are especially important in neighborhoods with large areas of asphalt, where summer heat can become intense.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Trees can help reduce heat in cities, especially in heavily paved neighborhoods.",
+      "B": "Urban planners usually plant trees only to improve the appearance of streets.",
+      "C": "Asphalt is the only cause of high summer temperatures in cities.",
+      "D": "Pedestrians prefer neighborhoods that have fewer shaded areas."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that trees cool city streets through shade and water vapor, especially where asphalt creates intense heat."
+  },
+  {
+    "id": "RW1-M1-003",
+    "prompt": "A student collected data on weekly visits to a community library.\nWeek | Number of visits\n1 | 420\n2 | 455\n3 | 510\n4 | 505\nWhich choice best describes the data in the table?",
+    "choices": {
+      "A": "Library visits increased from week 1 to week 3, then decreased slightly in week 4.",
+      "B": "Library visits decreased steadily from week 1 through week 4.",
+      "C": "Library visits stayed the same during weeks 3 and 4.",
+      "D": "Library visits were highest in week 2."
+    },
+    "correct": "A",
+    "explanation": "The data rise from 420 to 455 to 510, then drop slightly to 505."
+  },
+  {
+    "id": "RW1-M1-004",
+    "prompt": "Maya had practiced the violin piece dozens of times, but as she waited backstage, she still worried about the fast section near the end. When her name was called, she took a deep breath and walked toward the lights. Once she began playing, however, her fingers seemed to remember what her mind had been questioning.\nWhich choice best describes what happens in the text?",
+    "choices": {
+      "A": "Maya forgets the piece as soon as she begins performing.",
+      "B": "Maya is nervous before performing but gains confidence as she plays.",
+      "C": "Maya refuses to play because she has not practiced enough.",
+      "D": "Maya decides that the fast section should be removed from the piece."
+    },
+    "correct": "B",
+    "explanation": "Maya worries before going onstage, but once she begins, her fingers remember the piece."
+  },
+  {
+    "id": "RW1-M1-005",
+    "prompt": "A historian writing about early weather forecasting explains that many nineteenth-century forecasts depended on information sent by telegraph. Before telegraph networks expanded, reports of storms often arrived after the storms had already passed. With faster communication, however, weather observers could share data quickly enough for forecasters to warn towns in advance.\nWhat is the main function of the sentence “Before telegraph networks expanded, reports of storms often arrived after the storms had already passed”?",
+    "choices": {
+      "A": "It shows why faster communication improved weather forecasting.",
+      "B": "It argues that nineteenth-century storms were more dangerous than modern storms.",
+      "C": "It introduces a disagreement among weather observers.",
+      "D": "It explains how telegraphs were built."
+    },
+    "correct": "A",
+    "explanation": "The sentence explains the problem before telegraphs expanded: storm reports arrived too late to be useful."
+  },
+  {
+    "id": "RW1-M1-006",
+    "prompt": "Many students assume that sleep matters only the night before a test. ______ researchers have found that getting enough sleep over several nights helps the brain store information learned during study sessions.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For example,",
+      "B": "Instead,",
+      "C": "However,",
+      "D": "Therefore,"
+    },
+    "correct": "C",
+    "explanation": "The second sentence contrasts the common assumption with researchers’ finding that sleep over several nights matters."
+  },
+  {
+    "id": "RW1-M1-007",
+    "prompt": "The collection of fossils from the riverbank ______ scientists a clearer picture of the region’s ancient ecosystem.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "give",
+      "B": "giving",
+      "C": "gives",
+      "D": "have given"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “collection” requires the singular verb “gives.”"
+  },
+  {
+    "id": "RW1-M1-008",
+    "prompt": "The city’s newest mural was painted by Lena Ortiz ______ a local artist known for using bright colors and geometric patterns.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Ortiz",
+      "B": "Ortiz,",
+      "C": "Ortiz;",
+      "D": "Ortiz:"
+    },
+    "correct": "B",
+    "explanation": "The phrase “a local artist known for using bright colors and geometric patterns” is a nonessential appositive and should be set off with a comma."
+  },
+  {
+    "id": "RW1-M1-009",
+    "prompt": "After the debate team finished ______ final practice, the coach reminded the students to speak slowly and clearly.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "its",
+      "B": "their",
+      "C": "them",
+      "D": "they’re"
+    },
+    "correct": "A",
+    "explanation": "The singular collective noun “team” takes the singular possessive pronoun “its.”"
+  },
+  {
+    "id": "RW1-M1-010",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• The glass frog is found in parts of Central and South America.\n• Some glass frogs have translucent skin on their undersides.\n• This skin allows observers to see some internal organs.\n• Scientists study glass frogs to better understand camouflage and development.\n• Glass frogs often live near streams in tropical forests.\nThe student wants to emphasize a distinctive physical feature of glass frogs. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Glass frogs often live near streams in tropical forests in Central and South America.",
+      "B": "Some glass frogs have translucent undersides, a feature that lets observers see some of their internal organs.",
+      "C": "Scientists study glass frogs to learn more about development and camouflage.",
+      "D": "The glass frog is one of many animals found in tropical forest ecosystems."
+    },
+    "correct": "B",
+    "explanation": "This choice emphasizes the distinctive physical feature and its effect."
+  },
+  {
+    "id": "RW1-M1-011",
+    "prompt": "The museum’s new audio guide is easy to use. ______ its printed map is confusing, with several galleries labeled in the wrong order.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Similarly,",
+      "B": "In contrast,",
+      "C": "For this reason,",
+      "D": "In addition,"
+    },
+    "correct": "B",
+    "explanation": "The audio guide is easy to use, but the printed map is confusing, so a contrast transition is needed."
+  },
+  {
+    "id": "RW1-M1-012",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) Clara Barton is best known for founding the American Red Cross. (2) Before that, she worked as a teacher and later as a clerk in the U.S. Patent Office. (3) During the Civil War, she organized supplies for wounded soldiers. (4) Her wartime service helped shape her later humanitarian work.\nTo make the paragraph most logical, sentence 2 should be placed",
+    "choices": {
+      "A": "where it is now.",
+      "B": "after sentence 3.",
+      "C": "after sentence 4.",
+      "D": "before sentence 1."
+    },
+    "correct": "A",
+    "explanation": "Sentence 2 gives background about Barton’s early work before the paragraph moves to her Civil War service."
+  },
+  {
+    "id": "RW1-M1-013",
+    "prompt": "Last year, the robotics club ______ a small machine that could sort plastic bottles from aluminum cans.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "builds",
+      "B": "built",
+      "C": "will build",
+      "D": "building"
+    },
+    "correct": "B",
+    "explanation": "“Last year” indicates past tense, so “built” is correct."
+  },
+  {
+    "id": "RW1-M1-014",
+    "prompt": "______ by several volunteers, the garden’s new benches were installed before the spring festival.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Painted",
+      "B": "Painting",
+      "C": "To paint",
+      "D": "Paint"
+    },
+    "correct": "A",
+    "explanation": "“Painted by several volunteers” correctly modifies “benches.”"
+  },
+  {
+    "id": "RW1-M1-015",
+    "prompt": "The trail was difficult to follow ______ the signs had faded after years of rain and sun.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "follow, the signs",
+      "B": "follow the signs",
+      "C": "follow because the signs",
+      "D": "follow, because, the signs"
+    },
+    "correct": "C",
+    "explanation": "The sentence needs “because” to connect the reason the trail was difficult to follow."
+  },
+  {
+    "id": "RW1-M1-016",
+    "prompt": "Marine biologists sometimes attach small tracking devices to sea turtles. The devices record where the turtles travel, allowing researchers to ______ information about migration routes that would otherwise be difficult to observe.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "gather",
+      "B": "ignore",
+      "C": "borrow",
+      "D": "replace"
+    },
+    "correct": "A",
+    "explanation": "The tracking devices let researchers collect information about migration routes, so “gather” is most precise."
+  },
+  {
+    "id": "RW1-M1-017",
+    "prompt": "In many cities, food trucks have become an important part of local dining. Because food trucks usually require less space and lower start-up costs than restaurants, they can give new chefs a way to test ideas before opening permanent businesses. They also allow customers to try a wide variety of foods in different neighborhoods.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Food trucks can benefit both new chefs and customers.",
+      "B": "Food trucks should replace permanent restaurants in cities.",
+      "C": "Customers usually prefer restaurants with large dining rooms.",
+      "D": "Starting a food truck is always more expensive than opening a restaurant."
+    },
+    "correct": "A",
+    "explanation": "The text explains that food trucks help chefs test ideas and let customers try varied foods."
+  },
+  {
+    "id": "RW1-M1-018",
+    "prompt": "Researchers studying honeybees found that bees can communicate the location of food through a “waggle dance.” The direction and length of the dance give other bees information about where to fly. This behavior helps the colony collect food more efficiently.\nAccording to the text, what information can honeybees share through the waggle dance?",
+    "choices": {
+      "A": "The location of food",
+      "B": "The age of the queen bee",
+      "C": "The temperature inside the hive",
+      "D": "The number of flowers in a field"
+    },
+    "correct": "A",
+    "explanation": "The passage says the direction and length of the waggle dance tell other bees where to fly for food."
+  },
+  {
+    "id": "RW1-M1-019",
+    "prompt": "A student is revising the following sentence.\nThe town opened a new bike path, and it connects the school, the library, and the park.\nWhich choice best combines the sentences to make the relationship between the ideas clear and concise?",
+    "choices": {
+      "A": "The town opened a new bike path that connects the school, the library, and the park.",
+      "B": "The town opened a new bike path, it connects the school, the library, and the park.",
+      "C": "The town opened a new bike path and connecting the school, the library, and the park.",
+      "D": "The town opened a new bike path because the school, the library, and the park."
+    },
+    "correct": "A",
+    "explanation": "This revision clearly and concisely shows that the bike path connects the three locations."
+  },
+  {
+    "id": "RW1-M1-020",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Elizabeth Catlett was an artist born in Washington, DC, in 1915.\n• She created sculptures and prints.\n• Much of her work portrays African American and Mexican people.\n• Catlett used art to explore themes of dignity, labor, and social justice.\n• She lived and worked in both the United States and Mexico.\nThe student wants to introduce Catlett to an audience unfamiliar with her. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Elizabeth Catlett, born in Washington, DC, in 1915, was an artist whose sculptures and prints often explored dignity, labor, and social justice.",
+      "B": "Elizabeth Catlett lived in the United States and Mexico, and many other artists have also worked in more than one country.",
+      "C": "Some of Elizabeth Catlett’s sculptures are better known than some of her prints.",
+      "D": "Social justice has been an important theme for many artists in the twentieth century."
+    },
+    "correct": "A",
+    "explanation": "This choice introduces Catlett and summarizes key information about her work."
+  },
+  {
+    "id": "RW1-M1-021",
+    "prompt": "A school garden club recorded the number of tomato plants that produced fruit.\nVariety | Plants that produced fruit out of 20\nRoma | 16\nCherry | 18\nBeefsteak | 12\nPear | 15\nWhich choice is supported by the data in the table?",
+    "choices": {
+      "A": "Cherry tomato plants had the highest number of fruit-producing plants.",
+      "B": "Beefsteak tomato plants had the highest number of fruit-producing plants.",
+      "C": "Roma and Pear tomato plants had the same number of fruit-producing plants.",
+      "D": "No variety had more than 15 fruit-producing plants."
+    },
+    "correct": "A",
+    "explanation": "Cherry had 18 fruit-producing plants, more than Roma, Beefsteak, or Pear."
+  },
+  {
+    "id": "RW1-M1-022",
+    "prompt": "In an essay about community theater, a student writes that small theaters often rely on volunteers. The student then adds, “At one theater in Ohio, volunteers built sets, sold tickets, and even repaired costumes.”\nWhat is the most likely purpose of the quoted sentence?",
+    "choices": {
+      "A": "To give a specific example of the work volunteers do",
+      "B": "To argue that professional actors should not perform in small theaters",
+      "C": "To explain why theaters in Ohio are larger than theaters elsewhere",
+      "D": "To introduce a new topic about costume design schools"
+    },
+    "correct": "A",
+    "explanation": "The quoted sentence lists tasks volunteers performed at one theater."
+  },
+  {
+    "id": "RW1-M1-023",
+    "prompt": "The kakapo, ______ is a flightless parrot from New Zealand, is active mostly at night.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "which",
+      "B": "which,",
+      "C": "that",
+      "D": "that,"
+    },
+    "correct": "A",
+    "explanation": "“Which” correctly introduces a nonessential clause about the kakapo after the comma."
+  },
+  {
+    "id": "RW1-M1-024",
+    "prompt": "The workshop teaches students how to plan a project, how to manage their time, and ______ their results clearly.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "presenting",
+      "B": "to present",
+      "C": "presentation of",
+      "D": "presented"
+    },
+    "correct": "B",
+    "explanation": "The phrase completes the parallel structure: “how to plan,” “how to manage,” and “to present.”"
+  },
+  {
+    "id": "RW1-M1-025",
+    "prompt": "The scientist’s first explanation of the results was too technical for a general audience, so she revised it to make the main point more ______.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "visible",
+      "B": "complicated",
+      "C": "famous",
+      "D": "uncertain"
+    },
+    "correct": "A",
+    "explanation": "The scientist revised the explanation for a general audience, so she made the main point clearer, or more “visible.”"
+  },
+  {
+    "id": "RW1-M1-026",
+    "prompt": "A student wants to begin an essay about the benefits of public parks. Which choice would be the most effective opening sentence for the essay?",
+    "choices": {
+      "A": "Public parks provide communities with places to exercise, relax, and gather.",
+      "B": "The park near my house has three benches and a drinking fountain.",
+      "C": "Some parks are larger than others, depending on the city.",
+      "D": "A park is a place that usually has grass, paths, or trees."
+    },
+    "correct": "A",
+    "explanation": "This sentence clearly introduces the essay’s broad focus on the benefits of public parks."
+  },
+  {
+    "id": "RW1-M1-027",
+    "prompt": "The school installed new water-bottle filling stations throughout the building. ______ students began using fewer disposable plastic bottles during the day.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "As a result,",
+      "B": "For example,",
+      "C": "Nevertheless,",
+      "D": "Earlier,"
+    },
+    "correct": "A",
+    "explanation": "The decrease in disposable bottle use is an effect of installing filling stations.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

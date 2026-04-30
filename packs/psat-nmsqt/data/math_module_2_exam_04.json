@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH4-M2-001",
+    "prompt": "What is the solution to 3(4x − 7) − 5x = 28?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "Expand to get 12x − 21 − 5x = 28. Then 7x − 21 = 28, so 7x = 49 and x = 7."
+  },
+  {
+    "id": "MATH4-M2-002",
+    "prompt": "The system of equations has solution (x, y).\n3x + 2y = 32\nx + 2y = 16\nWhat is the value of xy?",
+    "choices": {
+      "A": "24",
+      "B": "32",
+      "C": "48",
+      "D": "64"
+    },
+    "correct": "C",
+    "explanation": "Subtract the second equation from the first to get 2x = 16, so x = 8. Then 8 + 2y = 16, so y = 4. Therefore, xy = 32."
+  },
+  {
+    "id": "MATH4-M2-003",
+    "prompt": "The function f is defined by f(x) = (x + 1)² − 9. The graph of y = f(x) has two x-intercepts. What is the smaller x-intercept?",
+    "choices": {
+      "A": "−4",
+      "B": "−3",
+      "C": "2",
+      "D": "8"
+    },
+    "correct": "A",
+    "explanation": "Set (x + 1)² − 9 = 0, so (x + 1)² = 9. Then x + 1 = ±3, giving x = −4 or x = 2. The smaller x-intercept is −4."
+  },
+  {
+    "id": "MATH4-M2-004",
+    "prompt": "For x ≠ −3, which expression is equivalent to (x² + 7x + 12)/(x + 3)?",
+    "choices": {
+      "A": "x + 3",
+      "B": "x + 4",
+      "C": "x + 7",
+      "D": "x + 12"
+    },
+    "correct": "B",
+    "explanation": "Factor the numerator: x² + 7x + 12 = (x + 3)(x + 4). Since x ≠ −3, the expression simplifies to x + 4."
+  },
+  {
+    "id": "MATH4-M2-005",
+    "prompt": "The function p is defined by p(x) = 2x² − 8x + 5. Which statement about the graph of y = p(x) is true?",
+    "choices": {
+      "A": "The graph has a minimum value of −3.",
+      "B": "The graph has a minimum value of 5.",
+      "C": "The graph has a maximum value of −3.",
+      "D": "The graph has a maximum value of 5."
+    },
+    "correct": "A",
+    "explanation": "Complete the square: 2x² − 8x + 5 = 2(x − 2)² − 3. Since the coefficient of the squared term is positive, the graph has a minimum value of −3."
+  },
+  {
+    "id": "MATH4-M2-006",
+    "prompt": "A savings account balance is $500 at the beginning of a year. At the end of the year, the balance has increased by 6%. How much money, in dollars, is in the account at the end of the year?",
+    "choices": {
+      "A": "$506",
+      "B": "$530",
+      "C": "$560",
+      "D": "$600"
+    },
+    "correct": "B",
+    "explanation": "A 6% increase on $500 is 0.06 × 500 = $30, so the ending balance is $530."
+  },
+  {
+    "id": "MATH4-M2-007",
+    "prompt": "The table shows the number of pages remaining in a printer tray after different numbers of print jobs.\nPrint jobs: 0, 2, 5, 7\nPages remaining: 180, 156, 120, 96\nThe relationship is linear. How many pages remain after 10 print jobs?",
+    "choices": {
+      "A": "48",
+      "B": "60",
+      "C": "72",
+      "D": "84"
+    },
+    "correct": "B",
+    "explanation": "From 0 to 2 print jobs, pages decrease by 24, so the rate is −12 pages per print job. After 10 print jobs, pages remaining are 180 − 12(10) = 60."
+  },
+  {
+    "id": "MATH4-M2-008",
+    "prompt": "An isosceles triangle has two equal sides of length 13 units and a base of length 10 units. What is the height of the triangle to the base?",
+    "choices": {
+      "A": "5",
+      "B": "10",
+      "C": "12",
+      "D": "15"
+    },
+    "correct": "C",
+    "explanation": "The height bisects the base, creating a right triangle with hypotenuse 13 and one leg 5. The height is √(13² − 5²) = √144 = 12."
+  },
+  {
+    "id": "MATH4-M2-009",
+    "prompt": "In a right triangle, sin θ = 8/17. Which of the following could be the value of cos θ?",
+    "choices": {
+      "A": "8/15",
+      "B": "8/17",
+      "C": "15/17",
+      "D": "17/15"
+    },
+    "correct": "C",
+    "explanation": "In a right triangle with sin θ = 8/17, the opposite side can be 8 and the hypotenuse 17. The adjacent side is √(17² − 8²) = 15, so cos θ = 15/17."
+  },
+  {
+    "id": "MATH4-M2-010",
+    "prompt": "Line k is represented by y = (3/4)x − 6. A line parallel to line k passes through the point (8, 5). What is the y-intercept of the parallel line?",
+    "choices": {
+      "A": "−1",
+      "B": "1",
+      "C": "5",
+      "D": "11"
+    },
+    "correct": "A",
+    "explanation": "A parallel line has the same slope, 3/4. Using y = (3/4)x + b and the point (8, 5), 5 = 6 + b, so b = −1."
+  },
+  {
+    "id": "MATH4-M2-011",
+    "prompt": "The functions f and g are defined by f(x) = x − 4 and g(x) = x² + 2. What is g(f(7))?",
+    "choices": {
+      "A": "5",
+      "B": "9",
+      "C": "11",
+      "D": "25"
+    },
+    "correct": "C",
+    "explanation": "First find f(7) = 7 − 4 = 3. Then g(3) = 3² + 2 = 11."
+  },
+  {
+    "id": "MATH4-M2-012",
+    "prompt": "What is the solution to 2√(x − 3) = 6?",
+    "choices": {
+      "A": "6",
+      "B": "9",
+      "C": "12",
+      "D": "15"
+    },
+    "correct": "C",
+    "explanation": "Divide both sides by 2 to get √(x − 3) = 3. Squaring gives x − 3 = 9, so x = 12."
+  },
+  {
+    "id": "MATH4-M2-013",
+    "prompt": "A circle in the xy-plane has diameter with endpoints (−2, 1) and (4, 1). What is the area, in square units, of the circle?",
+    "choices": {
+      "A": "3π",
+      "B": "6π",
+      "C": "9π",
+      "D": "36π"
+    },
+    "correct": "C",
+    "explanation": "The diameter from (−2, 1) to (4, 1) has length 6, so the radius is 3. The area is π(3²) = 9π."
+  },
+  {
+    "id": "MATH4-M2-014",
+    "prompt": "For what value of b does the equation 2x + b = 2(x + 5) have infinitely many solutions?",
+    "choices": {
+      "A": "2",
+      "B": "5",
+      "C": "10",
+      "D": "20"
+    },
+    "correct": "C",
+    "explanation": "The right side expands to 2x + 10. For the equation 2x + b = 2x + 10 to have infinitely many solutions, b must equal 10."
+  },
+  {
+    "id": "MATH4-M2-015",
+    "prompt": "The table shows values of a function q.\nx: −1, 0, 1, 2\nq(x): 7, 2, −1, −2\nWhich equation defines q?",
+    "choices": {
+      "A": "q(x) = x² − 4x + 2",
+      "B": "q(x) = x² − 2x + 2",
+      "C": "q(x) = −x² − 4x + 2",
+      "D": "q(x) = −x² − 2x + 2"
+    },
+    "correct": "A",
+    "explanation": "Substituting x = −1, 0, 1, and 2 into x² − 4x + 2 gives 7, 2, −1, and −2, matching the table."
+  },
+  {
+    "id": "MATH4-M2-016",
+    "prompt": "Which expression is equivalent to (18x⁴)/(6x²), where x ≠ 0?",
+    "choices": {
+      "A": "3x²",
+      "B": "3x⁶",
+      "C": "12x²",
+      "D": "12x⁶"
+    },
+    "correct": "A",
+    "explanation": "Divide coefficients and subtract exponents: (18x⁴)/(6x²) = 3x²."
+  },
+  {
+    "id": "MATH4-M2-017",
+    "prompt": "A school committee has 6 juniors and 9 seniors. If 5 of the seniors are in the band, what fraction of the committee members are seniors who are in the band?",
+    "choices": {
+      "A": "1/5",
+      "B": "1/3",
+      "C": "5/9",
+      "D": "5/6"
+    },
+    "correct": "B",
+    "explanation": "There are 6 + 9 = 15 committee members total, and 5 are seniors in the band. The fraction is 5/15 = 1/3."
+  },
+  {
+    "id": "MATH4-M2-018",
+    "prompt": "A prism has a constant cross-sectional area of 18 square centimeters and a height of 11 centimeters. What is the volume, in cubic centimeters, of the prism?",
+    "choices": {
+      "A": "58",
+      "B": "99",
+      "C": "198",
+      "D": "396"
+    },
+    "correct": "C",
+    "explanation": "The volume of a prism is cross-sectional area times height, so the volume is 18 × 11 = 198."
+  },
+  {
+    "id": "MATH4-M2-019",
+    "prompt": "For all values of x, 4x² − 20x + c = 4(x − 2.5)² + 1. What is the value of c?",
+    "choices": {
+      "A": "16",
+      "B": "24",
+      "C": "25",
+      "D": "26"
+    },
+    "correct": "D",
+    "explanation": "Expand the right side: 4(x − 2.5)² + 1 = 4(x² − 5x + 6.25) + 1 = 4x² − 20x + 25 + 1 = 4x² − 20x + 26. Thus c = 26."
+  },
+  {
+    "id": "MATH4-M2-020",
+    "prompt": "The values 8, 12, 14, and 18 are in a data set. A fifth value is added so that the mean of the 5 values is 15. What is the fifth value?",
+    "choices": {
+      "A": "15",
+      "B": "18",
+      "C": "21",
+      "D": "23"
+    },
+    "correct": "D",
+    "explanation": "A mean of 15 for 5 values means the total is 75. The four given values have sum 8 + 12 + 14 + 18 = 52, so the fifth value is 75 − 52 = 23."
+  },
+  {
+    "id": "MATH4-M2-021",
+    "prompt": "A store sells notebooks for $3 each and folders for $2 each. A student buys a total of 11 notebooks and folders for $28. How many notebooks does the student buy?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct": "C",
+    "explanation": "Let n be notebooks and f be folders. Then n + f = 11 and 3n + 2f = 28. Substitute f = 11 − n to get 3n + 2(11 − n) = 28, so n + 22 = 28 and n = 6."
+  },
+  {
+    "id": "MATH4-M2-022",
+    "prompt": "The graph of a linear function contains the points (2, 11) and (8, 35). If the function is written as f(x) = mx + b, what is the value of m + b?",
+    "choices": {
+      "A": "1",
+      "B": "3",
+      "C": "5",
+      "D": "7"
+    },
+    "correct": "D",
+    "explanation": "The slope is m = (35 − 11)/(8 − 2) = 24/6 = 4. Using f(x) = 4x + b and point (2, 11), 11 = 8 + b, so b = 3. Therefore, m + b = 7."
+  }
+]

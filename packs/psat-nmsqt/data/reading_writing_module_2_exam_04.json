@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW4-M2-001",
+    "prompt": "In her photographs of the Great Depression, Dorothea Lange often focused on faces, hands, and posture rather than on large crowds or dramatic scenes. This approach encouraged viewers to see economic hardship through individual experience. Lange’s images therefore made broad social conditions feel ______.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "personal",
+      "B": "imaginary",
+      "C": "avoidable",
+      "D": "decorative"
+    },
+    "correct": "A",
+    "explanation": "The text says Lange focused on individuals so viewers would understand broad economic hardship through individual experience."
+  },
+  {
+    "id": "RW4-M2-002",
+    "prompt": "Engineers developing earthquake-resistant buildings often design structures that can bend slightly instead of remaining completely rigid. Although a rigid structure may seem stronger, controlled flexibility can help a building absorb and release energy during shaking, reducing the chance of sudden failure.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Controlled flexibility can help buildings withstand earthquakes more safely than total rigidity can.",
+      "B": "Earthquake-resistant buildings are designed to avoid moving under any circumstances.",
+      "C": "Engineers prefer rigid structures because they always fail more slowly than flexible ones.",
+      "D": "Buildings can be protected from earthquakes only by making them shorter."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that flexibility helps structures absorb and release energy during shaking."
+  },
+  {
+    "id": "RW4-M2-003",
+    "prompt": "Some historians study cookbooks not only for recipes but also for clues about trade, technology, and daily life. A cookbook that calls for canned pineapple, for example, may reflect changes in food preservation and transportation. Such details can show how ingredients from distant places became available to home cooks.\nWhich choice is the best inference from the text?",
+    "choices": {
+      "A": "Cookbooks can provide evidence about historical changes beyond cooking itself.",
+      "B": "Historians study cookbooks only when they are not interested in technology.",
+      "C": "Canned pineapple was unavailable to home cooks in every historical period.",
+      "D": "Recipes are less useful to historians than official government documents are."
+    },
+    "correct": "A",
+    "explanation": "The text says cookbooks can reveal information about trade, preservation, transportation, and daily life."
+  },
+  {
+    "id": "RW4-M2-004",
+    "prompt": "A student’s draft about writer Octavia Butler includes the following sentences.\nButler’s fiction often imagines future societies shaped by power, survival, and inequality. By setting these conflicts in invented worlds, Butler could examine real social problems from unexpected angles.\nWhat is the main function of the second sentence in the text?",
+    "choices": {
+      "A": "It explains how Butler’s fictional settings helped her explore real-world issues.",
+      "B": "It argues that Butler wrote only about problems that had already been solved.",
+      "C": "It lists the scientific inventions described in Butler’s novels.",
+      "D": "It shows that Butler avoided writing about society."
+    },
+    "correct": "A",
+    "explanation": "The second sentence states that invented worlds allowed Butler to examine real social problems from unexpected angles."
+  },
+  {
+    "id": "RW4-M2-005",
+    "prompt": "A researcher compared the average number of minutes students spent on four homework activities before and after a study-skills workshop.\nActivity | Before workshop | After workshop\nReading notes | 18 | 24\nSolving practice problems | 22 | 29\nRewatching lesson videos | 31 | 20\nOrganizing assignments | 12 | 17\nWhich choice best describes the data?",
+    "choices": {
+      "A": "After the workshop, students spent more time reading notes, solving practice problems, and organizing assignments, but less time rewatching lesson videos.",
+      "B": "After the workshop, students spent less time on all four activities.",
+      "C": "Rewatching lesson videos had the greatest increase after the workshop.",
+      "D": "Reading notes and organizing assignments took the same amount of time after the workshop."
+    },
+    "correct": "A",
+    "explanation": "The first, second, and fourth activities increased after the workshop, while rewatching videos decreased from 31 to 20 minutes."
+  },
+  {
+    "id": "RW4-M2-006",
+    "prompt": "A digital map can be updated quickly when roads close or new bike lanes are added. ______ a printed map may remain useful when a phone battery dies or there is no internet connection.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "On the other hand,",
+      "B": "As a result,",
+      "C": "In other words,",
+      "D": "For example,"
+    },
+    "correct": "A",
+    "explanation": "The sentence contrasts an advantage of digital maps with an advantage of printed maps."
+  },
+  {
+    "id": "RW4-M2-007",
+    "prompt": "The report identifies three causes of the delay ______ equipment shortages, late permits, and bad weather.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "delay",
+      "B": "delay:",
+      "C": "delay,",
+      "D": "delay;"
+    },
+    "correct": "B",
+    "explanation": "A colon correctly introduces the list of three causes of the delay."
+  },
+  {
+    "id": "RW4-M2-008",
+    "prompt": "While sorting the donated books, ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "several torn covers were discovered",
+      "B": "the boxes became easier to organize",
+      "C": "volunteers found several rare editions",
+      "D": "there were several rare editions in one box"
+    },
+    "correct": "C",
+    "explanation": "The introductory modifier “While sorting the donated books” must logically describe the volunteers."
+  },
+  {
+    "id": "RW4-M2-009",
+    "prompt": "The coach spoke with the team captain after practice, and ______ agreed that the warm-up routine should be changed.\nWhich choice completes the text so that it conforms to the conventions of Standard English and avoids ambiguity?",
+    "choices": {
+      "A": "they",
+      "B": "he",
+      "C": "the coach",
+      "D": "it"
+    },
+    "correct": "C",
+    "explanation": "Repeating “the coach” avoids ambiguity about whether “they” refers to the coach and captain together."
+  },
+  {
+    "id": "RW4-M2-010",
+    "prompt": "By the time the audience entered the auditorium, the stage crew ______ the final lighting check.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "completes",
+      "B": "has completed",
+      "C": "had completed",
+      "D": "completing"
+    },
+    "correct": "C",
+    "explanation": "The past perfect tense shows that the lighting check was completed before the audience entered."
+  },
+  {
+    "id": "RW4-M2-011",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Katherine Johnson was a mathematician.\n• She calculated flight paths for NASA missions.\n• Her calculations helped support the first US crewed spaceflights.\n• Johnson also worked on calculations for the Apollo 11 mission to the Moon.\n• She was later widely recognized for her contributions to space exploration.\nThe student wants to explain the significance of Johnson’s mathematical work. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Katherine Johnson, a mathematician, performed calculations that helped support early US crewed spaceflights and the Apollo 11 mission.",
+      "B": "Katherine Johnson was later widely recognized, and recognition can come many years after important work.",
+      "C": "NASA missions often require many workers with different kinds of training.",
+      "D": "The Apollo 11 mission traveled to the Moon, which had long interested scientists."
+    },
+    "correct": "A",
+    "explanation": "This choice explains the significance of Johnson’s calculations for major NASA missions."
+  },
+  {
+    "id": "RW4-M2-012",
+    "prompt": "A student is revising an essay about community solar projects, which allow multiple households to share electricity from one solar installation. The student wants to add a sentence that explains a possible advantage of these projects. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "Community solar projects can allow renters or people without suitable rooftops to benefit from solar power.",
+      "B": "Solar panels convert sunlight into electricity that can be used in homes and businesses.",
+      "C": "Some solar installations are built on rooftops, while others are built on open land.",
+      "D": "Community solar projects require agreements about billing and maintenance."
+    },
+    "correct": "A",
+    "explanation": "This sentence directly states a possible advantage of shared solar installations."
+  },
+  {
+    "id": "RW4-M2-013",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) Citizen science projects allow members of the public to contribute to research. (2) In one project, volunteers record the dates when certain flowers first bloom in spring. (3) Scientists can use these observations to study how seasonal patterns change over time. (4) Because many volunteers collect data in different places, the project can cover a wide geographic area.\nWhere should the following sentence be placed to best support the logical flow of the paragraph?\nThis type of plant-timing data is known as phenology data.",
+    "choices": {
+      "A": "After sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "B",
+    "explanation": "The added sentence defines the plant-timing observations described in sentence 2 before sentence 3 explains how scientists use them."
+  },
+  {
+    "id": "RW4-M2-014",
+    "prompt": "The committee’s recommendation was not ______; rather than choosing one plan immediately, the committee suggested gathering more public feedback before making a decision.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "final",
+      "B": "careful",
+      "C": "public",
+      "D": "detailed"
+    },
+    "correct": "A",
+    "explanation": "The committee did not make an immediate choice but recommended gathering more feedback, so the recommendation was not final."
+  },
+  {
+    "id": "RW4-M2-015",
+    "prompt": "Researchers studying urban birds found that some species changed the pitch of their songs in areas with heavy traffic noise. Birds whose songs were less masked by traffic were more likely to be heard by potential mates. The researchers concluded that noise levels may influence how some birds communicate.\nWhich choice best describes the relationship between the evidence and the researchers’ conclusion?",
+    "choices": {
+      "A": "The observed song changes in noisy areas support the conclusion that traffic noise may affect bird communication.",
+      "B": "The evidence proves that all bird species sing at the same pitch in cities.",
+      "C": "The conclusion rejects the idea that birds communicate through sound.",
+      "D": "The evidence shows that traffic noise prevents birds from hearing any songs at all."
+    },
+    "correct": "A",
+    "explanation": "The evidence shows that birds changed song pitch in areas with heavy traffic noise."
+  },
+  {
+    "id": "RW4-M2-016",
+    "prompt": "The guide explains how to apply for the internship, ______ it also lists the documents applicants must submit.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "internship, it",
+      "B": "internship and",
+      "C": "internship; and",
+      "D": "internship, and"
+    },
+    "correct": "D",
+    "explanation": "A comma plus “and” correctly joins two independent clauses."
+  },
+  {
+    "id": "RW4-M2-017",
+    "prompt": "A materials scientist tested two fabrics to see which blocked more ultraviolet light. She placed equal-sized samples under the same light source and measured how much UV radiation passed through each fabric. Fabric B allowed less UV radiation to pass through than Fabric A did.\nWhich conclusion is best supported by the text?",
+    "choices": {
+      "A": "Under the conditions tested, Fabric B blocked more ultraviolet light than Fabric A did.",
+      "B": "Fabric A and Fabric B are identical in every way.",
+      "C": "Ultraviolet radiation cannot pass through any fabric.",
+      "D": "Fabric B allows more ultraviolet light through when the light source changes."
+    },
+    "correct": "A",
+    "explanation": "Fabric B allowed less UV radiation to pass through under the same test conditions."
+  },
+  {
+    "id": "RW4-M2-018",
+    "prompt": "The article first describes how musicians tune instruments before a performance. ______ it explains how temperature changes can cause strings and wind instruments to shift out of tune.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Then,",
+      "B": "Even so,",
+      "C": "By contrast,",
+      "D": "Nevertheless,"
+    },
+    "correct": "A",
+    "explanation": "The article moves from one topic, tuning instruments, to a related explanation about how temperature affects tuning."
+  },
+  {
+    "id": "RW4-M2-019",
+    "prompt": "The series of photographs from the field trip ______ students collecting water samples, labeling bottles, and taking notes.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "show",
+      "B": "shows",
+      "C": "showing",
+      "D": "have shown"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “series” requires the singular verb “shows.”"
+  },
+  {
+    "id": "RW4-M2-020",
+    "prompt": "The ______ shell has a spiral shape that helps protect its soft body from predators.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "snail’s",
+      "B": "snails",
+      "C": "snails’",
+      "D": "snailes’"
+    },
+    "correct": "A",
+    "explanation": "The sentence refers to one snail, so the singular possessive “snail’s” is correct."
+  },
+  {
+    "id": "RW4-M2-021",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• The Civilian Conservation Corps (CCC) was created in 1933.\n• The CCC employed young men on conservation projects.\n• Workers planted trees and built trails in parks and forests.\n• Some CCC crews helped control soil erosion.\n• The program also provided wages, food, and housing to workers.\nThe student wants to emphasize both the environmental and economic roles of the CCC. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Created in 1933, the CCC employed young men on projects that planted trees, built trails, controlled erosion, and provided workers with wages, food, and housing.",
+      "B": "The CCC was one of several programs created during the 1930s.",
+      "C": "Workers in parks and forests often built trails that visitors could use for many years.",
+      "D": "Soil erosion can damage farmland, roads, and waterways if it is not controlled."
+    },
+    "correct": "A",
+    "explanation": "This choice emphasizes both conservation work and support for workers."
+  },
+  {
+    "id": "RW4-M2-022",
+    "prompt": "A student is revising the following sentence.\nThe school’s podcast features student interviews, and it also gives listeners updates about clubs and events.\nThe student wants to emphasize that the podcast both highlights student voices and shares practical information. Which choice best revises the sentence to accomplish this goal?",
+    "choices": {
+      "A": "The school’s podcast highlights student voices through interviews while giving listeners practical updates about clubs and events.",
+      "B": "The school’s podcast has interviews, and students at the school sometimes listen to podcasts.",
+      "C": "Listeners can hear updates about clubs and events on the school’s podcast, which is recorded at school.",
+      "D": "Student interviews are featured on the school’s podcast, and interviews include people answering questions."
+    },
+    "correct": "A",
+    "explanation": "This revision emphasizes both student interviews and useful information for listeners."
+  },
+  {
+    "id": "RW4-M2-023",
+    "prompt": "At the flea market, Mateo picked up a small brass compass with a cracked glass cover. It no longer pointed north, but he turned it over in his palm as if it still held a secret. His father had once told stories about using a compass on camping trips, and Mateo suddenly wished he had listened more closely.\nWhich choice best describes what the text suggests about Mateo?",
+    "choices": {
+      "A": "The compass makes him regret not paying closer attention to his father’s stories.",
+      "B": "He is planning to repair the compass and sell it for a high price.",
+      "C": "He believes the compass is more accurate than modern maps.",
+      "D": "The compass reminds him that he dislikes camping trips."
+    },
+    "correct": "A",
+    "explanation": "Mateo wishes he had listened more closely to his father’s compass stories after finding the old compass."
+  },
+  {
+    "id": "RW4-M2-024",
+    "prompt": "The architect added skylights above the reading room, ______ natural light to reach the center of the building.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "allowing",
+      "B": "allowed",
+      "C": "allows",
+      "D": "and allowing"
+    },
+    "correct": "A",
+    "explanation": "The participle “allowing” correctly shows the result of adding skylights."
+  },
+  {
+    "id": "RW4-M2-025",
+    "prompt": "Because the original interview recordings contained background noise, the researcher used written transcripts to ______ the speakers’ exact words.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "confirm",
+      "B": "decorate",
+      "C": "postpone",
+      "D": "erase"
+    },
+    "correct": "A",
+    "explanation": "Written transcripts can help the researcher check the speakers’ exact words despite background noise in the recordings."
+  },
+  {
+    "id": "RW4-M2-026",
+    "prompt": "The workshop covered three steps in preparing a public speech: choosing a focused topic, outlining the main points, and ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "practicing the delivery aloud",
+      "B": "the delivery was practiced aloud",
+      "C": "to practice the delivery aloud",
+      "D": "practiced aloud delivery"
+    },
+    "correct": "A",
+    "explanation": "This choice keeps the list grammatically parallel: “choosing,” “outlining,” and “practicing.”"
+  },
+  {
+    "id": "RW4-M2-027",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Mycorrhizal fungi live around or within plant roots.\n• The fungi can help plants absorb water and nutrients from soil.\n• In return, plants provide the fungi with sugars made during photosynthesis.\n• This relationship can benefit both organisms.\n• Some forests depend on networks of mycorrhizal fungi that connect many plants.\nThe student wants to explain the mutual benefit between plants and mycorrhizal fungi. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Mycorrhizal fungi live around or within plant roots and may form networks in some forests.",
+      "B": "Mycorrhizal fungi and plants can benefit each other: the fungi help plants absorb water and nutrients, while plants provide the fungi with sugars.",
+      "C": "Photosynthesis allows plants to make sugars, and many organisms depend on plants for food.",
+      "D": "Some forests include many plants whose roots grow near fungi in the soil."
+    },
+    "correct": "B",
+    "explanation": "This choice explains both sides of the mutually beneficial relationship."
+  }
+]
