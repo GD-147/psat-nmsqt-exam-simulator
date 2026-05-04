@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH12-M1-001",
+    "prompt": "What is the solution to 4 + (7x)/2 = 18?",
+    "choices": {
+      "A": "2",
+      "B": "4",
+      "C": "7",
+      "D": "14"
+    },
+    "correct": "B",
+    "explanation": "Subtract 4 from both sides to get (7x)/2 = 14. Multiply both sides by 2 to get 7x = 28, so x = 4."
+  },
+  {
+    "id": "MATH12-M1-002",
+    "prompt": "A recipe uses 3/4 cup of honey for each batch of granola. How many cups of honey are needed for 8 batches of granola?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "Each batch uses 3/4 cup of honey, so 8 batches use 8 × 3/4 = 6 cups."
+  },
+  {
+    "id": "MATH12-M1-003",
+    "prompt": "The table shows the number of club meetings attended by students in one month.\nMeetings attended: 0, 1, 2, 3, 4\nNumber of students: 3, 5, 7, 4, 1\nHow many students attended fewer than 2 meetings?",
+    "choices": {
+      "A": "5",
+      "B": "8",
+      "C": "12",
+      "D": "15"
+    },
+    "correct": "B",
+    "explanation": "Students who attended fewer than 2 meetings attended 0 or 1 meeting, so the total is 3 + 5 = 8."
+  },
+  {
+    "id": "MATH12-M1-004",
+    "prompt": "A linear function f has f(−2) = 10 and f(4) = −2. What is f(1)?",
+    "choices": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "correct": "B",
+    "explanation": "The rate of change is (−2 − 10)/(4 − (−2)) = −12/6 = −2. From x = −2 to x = 1, f decreases by 6, so f(1) = 4."
+  },
+  {
+    "id": "MATH12-M1-005",
+    "prompt": "A digital art program charges a monthly fee of $18 plus $4 for each image download. If d represents the number of image downloads in one month and the total cost is at most $50, which inequality represents this situation?",
+    "choices": {
+      "A": "18 + 4d ≤ 50",
+      "B": "18 + 4d ≥ 50",
+      "C": "4 + 18d ≤ 50",
+      "D": "18 − 4d ≤ 50"
+    },
+    "correct": "A",
+    "explanation": "The total cost is the monthly fee plus $4 for each of d downloads, and this total is at most $50."
+  },
+  {
+    "id": "MATH12-M1-006",
+    "prompt": "What is the value of y in the solution to the system of equations?\n2x − y = 1\nx + y = 11",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "Add the equations to get 3x = 12, so x = 4. Then x + y = 11 gives y = 7."
+  },
+  {
+    "id": "MATH12-M1-007",
+    "prompt": "Which expression is equivalent to (1/2)(8n + 6) − 3n?",
+    "choices": {
+      "A": "n + 3",
+      "B": "n + 6",
+      "C": "5n + 3",
+      "D": "5n + 6"
+    },
+    "correct": "A",
+    "explanation": "Distribute 1/2 to get 4n + 3 − 3n, which simplifies to n + 3."
+  },
+  {
+    "id": "MATH12-M1-008",
+    "prompt": "Which expression is equivalent to (m²n³)(m⁴n)?",
+    "choices": {
+      "A": "m⁶n³",
+      "B": "m⁶n⁴",
+      "C": "m⁸n³",
+      "D": "m⁸n⁴"
+    },
+    "correct": "B",
+    "explanation": "Multiply powers with the same base by adding exponents: m²m⁴ = m⁶ and n³n = n⁴."
+  },
+  {
+    "id": "MATH12-M1-009",
+    "prompt": "A playlist contains 5 pop songs, 6 rock songs, and 7 jazz songs. If one song is chosen at random from the playlist, what is the probability that the song chosen is not a rock song?",
+    "choices": {
+      "A": "1/3",
+      "B": "5/9",
+      "C": "2/3",
+      "D": "7/9"
+    },
+    "correct": "C",
+    "explanation": "There are 18 songs total and 6 are rock, so 12 are not rock. The probability is 12/18 = 2/3."
+  },
+  {
+    "id": "MATH12-M1-010",
+    "prompt": "A quadrilateral has angle measures of 90°, 85°, 110°, and x°. What is the value of x?",
+    "choices": {
+      "A": "65",
+      "B": "70",
+      "C": "75",
+      "D": "85"
+    },
+    "correct": "C",
+    "explanation": "The angle measures in a quadrilateral sum to 360°. Thus x = 360 − 90 − 85 − 110 = 75."
+  },
+  {
+    "id": "MATH12-M1-011",
+    "prompt": "In the xy-plane, the midpoint of segment AB is (3, 5). Point A has coordinates (1, 9). What are the coordinates of point B?",
+    "choices": {
+      "A": "(2, 7)",
+      "B": "(4, 1)",
+      "C": "(5, 1)",
+      "D": "(5, 9)"
+    },
+    "correct": "C",
+    "explanation": "The midpoint coordinates are the averages of the endpoint coordinates. Since (1 + x)/2 = 3, x = 5; since (9 + y)/2 = 5, y = 1."
+  },
+  {
+    "id": "MATH12-M1-012",
+    "prompt": "What is the value of 3² + √121?",
+    "choices": {
+      "A": "14",
+      "B": "18",
+      "C": "20",
+      "D": "22"
+    },
+    "correct": "C",
+    "explanation": "3² = 9 and √121 = 11, so 9 + 11 = 20."
+  },
+  {
+    "id": "MATH12-M1-013",
+    "prompt": "If f(x) = 2x² − x, what is f(−3)?",
+    "choices": {
+      "A": "15",
+      "B": "18",
+      "C": "21",
+      "D": "24"
+    },
+    "correct": "C",
+    "explanation": "Substitute −3 for x: f(−3) = 2(−3)² − (−3) = 18 + 3 = 21."
+  },
+  {
+    "id": "MATH12-M1-014",
+    "prompt": "The equation x² − x − 20 = 0 has two solutions. What is the sum of the two solutions?",
+    "choices": {
+      "A": "−20",
+      "B": "−1",
+      "C": "1",
+      "D": "20"
+    },
+    "correct": "C",
+    "explanation": "Factoring gives x² − x − 20 = (x − 5)(x + 4), so the solutions are 5 and −4. Their sum is 1."
+  },
+  {
+    "id": "MATH12-M1-015",
+    "prompt": "In a survey of 80 students, 24 students said they ride a bike to school. What percent of the students surveyed said they ride a bike to school?",
+    "choices": {
+      "A": "24%",
+      "B": "30%",
+      "C": "36%",
+      "D": "40%"
+    },
+    "correct": "B",
+    "explanation": "The fraction is 24/80 = 0.30, which is 30%."
+  },
+  {
+    "id": "MATH12-M1-016",
+    "prompt": "The table shows a linear relationship between x and y.\nx: 2, 4, 6, 8\ny: 7, 12, 17, 22\nBased on the relationship shown, what is the value of y when x = 10?",
+    "choices": {
+      "A": "25",
+      "B": "27",
+      "C": "29",
+      "D": "32"
+    },
+    "correct": "B",
+    "explanation": "Each time x increases by 2, y increases by 5. From x = 8 to x = 10, y increases from 22 to 27."
+  },
+  {
+    "id": "MATH12-M1-017",
+    "prompt": "A parallelogram has a base of 18 centimeters and a height of 7 centimeters. What is the area, in square centimeters, of the parallelogram?",
+    "choices": {
+      "A": "25",
+      "B": "63",
+      "C": "126",
+      "D": "252"
+    },
+    "correct": "C",
+    "explanation": "The area of a parallelogram is base × height, so the area is 18 × 7 = 126."
+  },
+  {
+    "id": "MATH12-M1-018",
+    "prompt": "A right triangle has a hypotenuse of length 26 and one leg of length 10. What is the length of the other leg?",
+    "choices": {
+      "A": "16",
+      "B": "20",
+      "C": "24",
+      "D": "36"
+    },
+    "correct": "C",
+    "explanation": "By the Pythagorean theorem, the other leg has length √(26² − 10²) = √576 = 24."
+  },
+  {
+    "id": "MATH12-M1-019",
+    "prompt": "The equation H = 64 − 2t models the height H, in inches, of a plant t days after it was first measured. What does 64 represent in this model?",
+    "choices": {
+      "A": "The plant’s height, in inches, when it was first measured",
+      "B": "The number of days the plant was measured",
+      "C": "The amount, in inches, that the plant’s height changes each day",
+      "D": "The plant’s height, in inches, after 64 days"
+    },
+    "correct": "A",
+    "explanation": "In H = 64 − 2t, the constant 64 is the value of H when t = 0."
+  },
+  {
+    "id": "MATH12-M1-020",
+    "prompt": "The ratio of red buttons to blue buttons in a jar is 5:3. If there are 30 red buttons in the jar, how many blue buttons are in the jar?",
+    "choices": {
+      "A": "12",
+      "B": "15",
+      "C": "18",
+      "D": "24"
+    },
+    "correct": "C",
+    "explanation": "The ratio red:blue is 5:3. Since 30 red buttons represent 5 parts, each part is 6, so blue buttons total 3 × 6 = 18."
+  },
+  {
+    "id": "MATH12-M1-021",
+    "prompt": "The values in a data set are 2, 6, 8, 14, 16, and 18. What is the median of the data set?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "11",
+      "D": "14"
+    },
+    "correct": "C",
+    "explanation": "With 6 values, the median is the average of the 3rd and 4th values: (8 + 14)/2 = 11."
+  },
+  {
+    "id": "MATH12-M1-022",
+    "prompt": "Which ordered pair lies on the line represented by 5x − y = 12?",
+    "choices": {
+      "A": "(2, −2)",
+      "B": "(3, 2)",
+      "C": "(4, 8)",
+      "D": "(5, 9)"
+    },
+    "correct": "C",
+    "explanation": "Substituting (4, 8) into 5x − y = 12 gives 5(4) − 8 = 12, which is true.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW10-M2-001",
+    "prompt": "In her ceramic sculptures, artist Toshiko Takaezu often created closed forms with small openings, so viewers could not fully see the interior space. This choice made the unseen inside of each work feel as important as the visible surface. Takaezu’s sculptures therefore ______ the viewer’s attention between exterior form and hidden space.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "divide",
+      "B": "erase",
+      "C": "repeat",
+      "D": "postpone"
+    },
+    "correct": "A",
+    "explanation": "The sculptures make both the exterior and hidden interior important, so they divide attention between visible form and unseen space."
+  },
+  {
+    "id": "RW10-M2-002",
+    "prompt": "Researchers studying ancient soot on cave ceilings can learn about human activity in the past. When people burned torches or fires in caves, smoke sometimes left thin layers of soot overhead. By dating these layers, scientists can estimate when people entered or used particular parts of a cave.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Soot layers on cave ceilings can help scientists study when people used caves.",
+      "B": "Cave ceilings are useful to scientists only when they contain no marks.",
+      "C": "Ancient soot prevents researchers from learning about human activity.",
+      "D": "People in the past entered caves only when they did not use fire."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that soot layers from fires can be dated to estimate when people used cave spaces."
+  },
+  {
+    "id": "RW10-M2-003",
+    "prompt": "Some schools have replaced fixed computer labs with carts of laptops that teachers can reserve for different classrooms. This system can make technology available in more parts of a building, but it also requires careful scheduling and charging routines. Otherwise, classes may find that laptops are unavailable or have low batteries when needed.\nWhich choice is the best inference from the text?",
+    "choices": {
+      "A": "Mobile laptop carts can increase access to technology, but they need organized management.",
+      "B": "Laptop carts make classroom technology impossible to use.",
+      "C": "Fixed computer labs never require scheduling.",
+      "D": "Laptops work best when they are not charged between uses."
+    },
+    "correct": "A",
+    "explanation": "The text says carts make laptops available in more rooms but require scheduling and charging routines."
+  },
+  {
+    "id": "RW10-M2-004",
+    "prompt": "A student’s draft about writer Sandra Cisneros includes the following sentences.\nCisneros often writes in brief, vivid sections rather than in long chapters. This structure can make individual moments stand out sharply while also building a larger picture of a neighborhood, family, or life.\nWhat is the main function of the second sentence in the text?",
+    "choices": {
+      "A": "It explains how Cisneros’s structure affects the reader’s experience of her writing.",
+      "B": "It argues that Cisneros’s writing contains no connections between sections.",
+      "C": "It lists all the neighborhoods described in Cisneros’s work.",
+      "D": "It shows that long chapters are required for vivid writing."
+    },
+    "correct": "A",
+    "explanation": "The second sentence explains how brief sections make moments stand out while building a larger picture."
+  },
+  {
+    "id": "RW10-M2-005",
+    "prompt": "A researcher compared the average number of minutes students spent using four features of a language-learning app before and after a design update.\nFeature | Before update | After update\nVocabulary games | 13 | 19\nListening practice | 24 | 28\nGrammar review | 30 | 26\nSpeaking recorder | 15 | 22\nWhich choice best describes the data?",
+    "choices": {
+      "A": "Students spent more time using vocabulary games, listening practice, and the speaking recorder after the update, but less time using grammar review.",
+      "B": "Students spent less time using all four features after the update.",
+      "C": "Grammar review had the greatest increase after the update.",
+      "D": "Vocabulary games and speaking recorder had the same time after the update."
+    },
+    "correct": "A",
+    "explanation": "Time increased for three features and decreased for grammar review from 30 to 26 minutes."
+  },
+  {
+    "id": "RW10-M2-006",
+    "prompt": "A class visit to a courthouse can help students see how legal procedures work in practice. ______ teachers must prepare students beforehand so they understand courtroom rules and know how to observe respectfully.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "However,",
+      "B": "Similarly,",
+      "C": "For example,",
+      "D": "Therefore,"
+    },
+    "correct": "A",
+    "explanation": "The sentence contrasts the benefit of courthouse visits with the need for preparation."
+  },
+  {
+    "id": "RW10-M2-007",
+    "prompt": "The recipe booklet includes three sections for beginning cooks ______ basic knife skills, simple sauces, and one-pan dinners.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "cooks",
+      "B": "cooks:",
+      "C": "cooks,",
+      "D": "cooks;"
+    },
+    "correct": "B",
+    "explanation": "A colon correctly introduces the list of three sections."
+  },
+  {
+    "id": "RW10-M2-008",
+    "prompt": "Sorting through the photographs from the field survey, ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "several images of the same bird species appeared",
+      "B": "the bird species appeared in several images",
+      "C": "the researchers found several images of the same bird species",
+      "D": "there were several images of the same bird species"
+    },
+    "correct": "C",
+    "explanation": "The introductory modifier “Sorting through the photographs” must logically describe “the researchers.”"
+  },
+  {
+    "id": "RW10-M2-009",
+    "prompt": "The poet spoke with the translator after the reading, and ______ agreed that one line should remain in the original language.\nWhich choice completes the text so that it conforms to the conventions of Standard English and avoids ambiguity?",
+    "choices": {
+      "A": "they",
+      "B": "the poet",
+      "C": "she",
+      "D": "it"
+    },
+    "correct": "B",
+    "explanation": "Repeating “the poet” avoids ambiguity about whether “they” refers to the poet and translator together."
+  },
+  {
+    "id": "RW10-M2-010",
+    "prompt": "By the time the science demonstration started, the students ______ the beakers and measuring tools on the front table.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "arrange",
+      "B": "have arranged",
+      "C": "had arranged",
+      "D": "arranging"
+    },
+    "correct": "C",
+    "explanation": "The past perfect tense shows that the students arranged the materials before the demonstration started."
+  },
+  {
+    "id": "RW10-M2-011",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Cecilia Payne-Gaposchkin was an astronomer.\n• She studied the light spectra of stars.\n• Her analysis showed that stars are made mostly of hydrogen and helium.\n• This conclusion changed scientific understanding of stellar composition.\n• She later became a professor and department chair at Harvard.\nThe student wants to explain the importance of Payne-Gaposchkin’s research. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Cecilia Payne-Gaposchkin’s analysis of stellar spectra showed that stars are made mostly of hydrogen and helium, changing understanding of stellar composition.",
+      "B": "Cecilia Payne-Gaposchkin later became a professor and department chair at Harvard.",
+      "C": "Astronomers study stars by examining many kinds of information from space.",
+      "D": "Hydrogen and helium are two elements that scientists have identified."
+    },
+    "correct": "A",
+    "explanation": "This choice explains the importance of Payne-Gaposchkin’s research by connecting her evidence to a major conclusion about stars."
+  },
+  {
+    "id": "RW10-M2-012",
+    "prompt": "A student is revising an essay about libraries offering memory kits for people with dementia. These kits may include music, photographs, simple games, or familiar objects. The student wants to add a sentence that explains a possible advantage of the kits. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "Memory kits can give caregivers ready-to-use materials that may encourage conversation and connection.",
+      "B": "Libraries can contain books, computers, meeting rooms, and many other resources.",
+      "C": "Some simple games have cards, boards, tiles, or matching pieces.",
+      "D": "Music recordings are available in many formats, including digital files."
+    },
+    "correct": "A",
+    "explanation": "This sentence directly explains a possible advantage of memory kits for caregivers and people with dementia."
+  },
+  {
+    "id": "RW10-M2-013",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) Some researchers study pollen collected by bees to learn about the plants in an area. (2) Bees gather pollen while visiting flowers for food. (3) By identifying the pollen grains carried by bees, researchers can learn which flowers bees are using. (4) This information can help scientists understand relationships between pollinators and local plant communities.\nWhere should the following sentence be placed to best support the logical flow of the paragraph?\nDifferent plant species produce pollen grains with different shapes and patterns.",
+    "choices": {
+      "A": "After sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "B",
+    "explanation": "The added sentence explains why pollen can be identified before sentence 3 describes researchers identifying pollen grains."
+  },
+  {
+    "id": "RW10-M2-014",
+    "prompt": "The museum’s description of the artifact was not ______; it included the object’s age, material, likely use, and the region where it was found.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "incomplete",
+      "B": "public",
+      "C": "recent",
+      "D": "fragile"
+    },
+    "correct": "A",
+    "explanation": "The description included age, material, use, and region, so it was not incomplete."
+  },
+  {
+    "id": "RW10-M2-015",
+    "prompt": "Researchers studying a city park found that sections with more benches and shade trees had longer average visitor stays than sections with few benches and little shade. The researchers concluded that comfortable resting places may encourage people to spend more time in parks.\nWhich choice best describes the relationship between the evidence and the researchers’ conclusion?",
+    "choices": {
+      "A": "The longer stays in sections with benches and shade support the conclusion that comfortable resting places may increase time spent in parks.",
+      "B": "The evidence proves that visitors never walk through areas without benches.",
+      "C": "The conclusion rejects the idea that shade can affect how people use parks.",
+      "D": "The evidence shows that benches and trees make parks impossible to maintain."
+    },
+    "correct": "A",
+    "explanation": "The evidence links longer visits to park sections with benches and shade trees."
+  },
+  {
+    "id": "RW10-M2-016",
+    "prompt": "The email explains the volunteer schedule, ______ it also includes instructions for checking in at the event.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "schedule, it",
+      "B": "schedule and",
+      "C": "schedule; and",
+      "D": "schedule, and"
+    },
+    "correct": "D",
+    "explanation": "A comma plus “and” correctly joins two independent clauses."
+  },
+  {
+    "id": "RW10-M2-017",
+    "prompt": "A designer tested two label layouts for a medicine bottle. Volunteers were given bottles with Layout A or Layout B and asked to find the dosage information. Volunteers using Layout B found the information faster on average than volunteers using Layout A.\nWhich conclusion is best supported by the text?",
+    "choices": {
+      "A": "Under the conditions tested, Layout B made dosage information easier to find than Layout A did.",
+      "B": "Layout A and Layout B contained different medicine ingredients.",
+      "C": "Volunteers using Layout B were not asked to find dosage information.",
+      "D": "Label layout cannot affect how quickly people find information."
+    },
+    "correct": "A",
+    "explanation": "Volunteers using Layout B found dosage information faster on average."
+  },
+  {
+    "id": "RW10-M2-018",
+    "prompt": "The article first explains that some towns create curb extensions to shorten pedestrian crossing distances. ______ it describes a town where curb extensions were followed by slower vehicle turns near a school.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Then,",
+      "B": "Even so,",
+      "C": "In contrast,",
+      "D": "Nevertheless,"
+    },
+    "correct": "A",
+    "explanation": "The paragraph moves from a general explanation of curb extensions to a specific town example."
+  },
+  {
+    "id": "RW10-M2-019",
+    "prompt": "The file of scanned newspaper articles ______ editorials, sports reports, advertisements, and weather notices.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "include",
+      "B": "includes",
+      "C": "including",
+      "D": "are including"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “file” requires the singular verb “includes.”"
+  },
+  {
+    "id": "RW10-M2-020",
+    "prompt": "The ______ scales overlap in neat rows, helping protect the fish as it swims among rocks.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "fish’s",
+      "B": "fishes",
+      "C": "fishes’",
+      "D": "fishes’s"
+    },
+    "correct": "A",
+    "explanation": "The sentence refers to one fish, so the singular possessive “fish’s” is correct."
+  },
+  {
+    "id": "RW10-M2-021",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• The Bracero Program brought Mexican laborers to work in the United States.\n• The program began during World War II.\n• Many workers labored in agriculture and railroad maintenance.\n• The program addressed labor shortages but also involved difficult working conditions for many participants.\n• It shaped migration and labor history in North America.\nThe student wants to give a balanced description of the Bracero Program. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "The Bracero Program brought Mexican laborers to the United States during World War II to address labor shortages, but many participants faced difficult working conditions.",
+      "B": "The Bracero Program began during World War II and included workers in agriculture and railroad maintenance.",
+      "C": "Railroad maintenance was one type of work done by some laborers in the Bracero Program.",
+      "D": "Labor shortages can occur during wars, harvest seasons, and periods of rapid economic change."
+    },
+    "correct": "A",
+    "explanation": "This choice gives a balanced description by presenting both the program’s purpose and a difficulty workers faced."
+  },
+  {
+    "id": "RW10-M2-022",
+    "prompt": "A student is revising the following sentence.\nThe school’s translation club helps families read school forms, and members also practice real-world language skills.\nThe student wants to emphasize that the club both serves the community and supports student learning. Which choice best revises the sentence to accomplish this goal?",
+    "choices": {
+      "A": "By helping families understand school forms, the translation club serves the community while giving members practice with real-world language skills.",
+      "B": "The school’s translation club has members, and the members use language skills.",
+      "C": "School forms can be translated by students in a club that is part of the school.",
+      "D": "Families sometimes receive school forms, and students sometimes practice languages."
+    },
+    "correct": "A",
+    "explanation": "This revision emphasizes both community service and student learning."
+  },
+  {
+    "id": "RW10-M2-023",
+    "prompt": "Jalen found the cracked clay whistle in a box of classroom supplies. No one knew who had made it, and it produced only one faint note. Still, when he blew into it, the sound seemed to belong to some earlier student sitting at the same table years before him.\nWhich choice best describes what the text suggests about Jalen?",
+    "choices": {
+      "A": "He imagines a connection between the object and an unknown student from the past.",
+      "B": "He is disappointed because the whistle plays too many different notes.",
+      "C": "He decides that the whistle must be thrown away immediately.",
+      "D": "He knows exactly which student made the whistle."
+    },
+    "correct": "A",
+    "explanation": "The whistle makes Jalen think of an earlier student who may have used the same classroom."
+  },
+  {
+    "id": "RW10-M2-024",
+    "prompt": "The gardener planted taller flowers along the back edge of the bed, ______ the shorter flowers in front easier to see.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "making",
+      "B": "made",
+      "C": "makes",
+      "D": "and making"
+    },
+    "correct": "A",
+    "explanation": "The participle “making” correctly shows the result of placing taller flowers along the back edge."
+  },
+  {
+    "id": "RW10-M2-025",
+    "prompt": "Because the handwritten label on the specimen jar had faded, the archivist checked the catalog number to ______ the specimen’s identity.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "verify",
+      "B": "imitate",
+      "C": "postpone",
+      "D": "decorate"
+    },
+    "correct": "A",
+    "explanation": "The archivist uses the catalog number to confirm the specimen’s identity."
+  },
+  {
+    "id": "RW10-M2-026",
+    "prompt": "The guide lists three methods for keeping a research notebook organized: dating each entry, labeling diagrams clearly, and ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "recording questions for follow-up",
+      "B": "questions were recorded for follow-up",
+      "C": "to record questions for follow-up",
+      "D": "recorded questions for follow-up"
+    },
+    "correct": "A",
+    "explanation": "This choice keeps the list grammatically parallel: “dating,” “labeling,” and “recording.”"
+  },
+  {
+    "id": "RW10-M2-027",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Oyster reefs form when oysters attach to hard surfaces and to one another.\n• These reefs can create habitat for small fish, crabs, and other organisms.\n• Oysters filter water while feeding.\n• Reefs can also reduce wave energy near shorelines.\n• Some coastal restoration projects rebuild oyster reefs.\nThe student wants to emphasize two ecological benefits of oyster reefs. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Oyster reefs can create habitat for small marine organisms and help filter water as oysters feed.",
+      "B": "Oyster reefs form when oysters attach to hard surfaces and to one another.",
+      "C": "Some restoration projects rebuild oyster reefs near coastlines.",
+      "D": "Wave energy can affect shorelines in places where oysters live."
+    },
+    "correct": "A",
+    "explanation": "This choice emphasizes two ecological benefits: habitat creation and water filtering."
+  }
+]

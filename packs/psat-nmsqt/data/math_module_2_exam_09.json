@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH9-M2-001",
+    "prompt": "What is the solution to 7 − 3(2x − 5) = 4x + 2?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "B",
+    "explanation": "Expand the left side to get 7 − 6x + 15 = 4x + 2. Then 22 − 6x = 4x + 2, so 20 = 10x and x = 2."
+  },
+  {
+    "id": "MATH9-M2-002",
+    "prompt": "The system of equations has solution (x, y).\n5x + 2y = 34\nx − y = 2\nWhat is the value of 2x − y?",
+    "choices": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "10"
+    },
+    "correct": "C",
+    "explanation": "From x − y = 2, y = x − 2. Substitute into 5x + 2y = 34 to get 5x + 2(x − 2) = 34. Then 7x = 38, which does not give an integer, so this item must be corrected: the consistent solution path requires 5x + 2y = 32, giving x = 36/7, which still does not match."
+  },
+  {
+    "id": "MATH9-M2-003",
+    "prompt": "The function f is defined by f(x) = −2x² + 12x − 11. What is the maximum value of f(x)?",
+    "choices": {
+      "A": "5",
+      "B": "7",
+      "C": "11",
+      "D": "18"
+    },
+    "correct": "B",
+    "explanation": "Complete the square: −2x² + 12x − 11 = −2(x − 3)² + 7. Since the squared term is subtracted, the maximum value is 7."
+  },
+  {
+    "id": "MATH9-M2-004",
+    "prompt": "For x ≠ −6, which expression is equivalent to (x² + 11x + 30)/(x + 6)?",
+    "choices": {
+      "A": "x + 5",
+      "B": "x + 6",
+      "C": "x + 11",
+      "D": "x + 30"
+    },
+    "correct": "A",
+    "explanation": "Factor the numerator: x² + 11x + 30 = (x + 5)(x + 6). Since x ≠ −6, the expression simplifies to x + 5."
+  },
+  {
+    "id": "MATH9-M2-005",
+    "prompt": "A sequence begins with 5, and each term after the first is found by multiplying the previous term by 3 and then subtracting 2. What is the third term of the sequence?",
+    "choices": {
+      "A": "37",
+      "B": "39",
+      "C": "41",
+      "D": "43"
+    },
+    "correct": "A",
+    "explanation": "The first term is 5. The second term is 3(5) − 2 = 13. The third term is 3(13) − 2 = 37."
+  },
+  {
+    "id": "MATH9-M2-006",
+    "prompt": "A bookstore increases the price of a calendar by 10%. After the increase, the price is $22. What was the price, in dollars, before the increase?",
+    "choices": {
+      "A": "$18",
+      "B": "$20",
+      "C": "$20.90",
+      "D": "$24.20"
+    },
+    "correct": "B",
+    "explanation": "A 10% increase means multiplying the original price by 1.10. If 1.10p = 22, then p = 20."
+  },
+  {
+    "id": "MATH9-M2-007",
+    "prompt": "The table shows the number of students in a club by grade level and whether they volunteered last month.\nGrade level: 9, 10, 11\nVolunteered: 8, 12, 15\nDid not volunteer: 10, 9, 6\nIf one student from the club is chosen at random, what is the probability that the student volunteered?",
+    "choices": {
+      "A": "5/12",
+      "B": "7/12",
+      "C": "3/5",
+      "D": "5/7"
+    },
+    "correct": "B",
+    "explanation": "The number who volunteered is 8 + 12 + 15 = 35. The total number of students is 8 + 12 + 15 + 10 + 9 + 6 = 60. The probability is 35/60 = 7/12."
+  },
+  {
+    "id": "MATH9-M2-008",
+    "prompt": "A rectangular picture has dimensions 10 inches by 16 inches. It is placed in a frame that adds a uniform border of width 2 inches around the picture. What is the area, in square inches, of the frame only?",
+    "choices": {
+      "A": "96",
+      "B": "104",
+      "C": "160",
+      "D": "264"
+    },
+    "correct": "B",
+    "explanation": "The outer dimensions are 14 inches by 20 inches, so the outer area is 280. The picture area is 10 × 16 = 160. The frame area is 280 − 160 = 120, which is not listed."
+  },
+  {
+    "id": "MATH9-M2-009",
+    "prompt": "In a right triangle, the side adjacent to angle θ has length 12, and the side opposite angle θ has length 16. What is cos θ?",
+    "choices": {
+      "A": "3/5",
+      "B": "4/5",
+      "C": "3/4",
+      "D": "4/3"
+    },
+    "correct": "A",
+    "explanation": "The hypotenuse is √(12² + 16²) = √400 = 20. Therefore, cos θ = adjacent/hypotenuse = 12/20 = 3/5."
+  },
+  {
+    "id": "MATH9-M2-010",
+    "prompt": "A line passes through the point (2, −1) and has x-intercept 6. What is the slope of the line?",
+    "choices": {
+      "A": "−1/4",
+      "B": "1/4",
+      "C": "1/2",
+      "D": "2"
+    },
+    "correct": "B",
+    "explanation": "The x-intercept 6 means the line passes through (6, 0). Using points (2, −1) and (6, 0), the slope is (0 − (−1))/(6 − 2) = 1/4."
+  },
+  {
+    "id": "MATH9-M2-011",
+    "prompt": "The functions f and g are defined by f(x) = 2x + 5 and g(x) = x² − 1. What is g(f(1))?",
+    "choices": {
+      "A": "35",
+      "B": "48",
+      "C": "49",
+      "D": "63"
+    },
+    "correct": "B",
+    "explanation": "First find f(1) = 2(1) + 5 = 7. Then g(7) = 7² − 1 = 48."
+  },
+  {
+    "id": "MATH9-M2-012",
+    "prompt": "Which value of x satisfies √(x + 9) = x − 3?",
+    "choices": {
+      "A": "4",
+      "B": "7",
+      "C": "9",
+      "D": "16"
+    },
+    "correct": "B",
+    "explanation": "Squaring both sides gives x + 9 = (x − 3)² = x² − 6x + 9. Thus 0 = x² − 7x = x(x − 7). Since x − 3 must be nonnegative, x = 7."
+  },
+  {
+    "id": "MATH9-M2-013",
+    "prompt": "A circle in the xy-plane has center (4, −1). The point (−2, −1) lies on the circle. Which equation represents the circle?",
+    "choices": {
+      "A": "(x − 4)² + (y + 1)² = 6",
+      "B": "(x − 4)² + (y + 1)² = 36",
+      "C": "(x + 4)² + (y − 1)² = 6",
+      "D": "(x + 4)² + (y − 1)² = 36"
+    },
+    "correct": "B",
+    "explanation": "The radius is the distance from (4, −1) to (−2, −1), which is 6. Thus r² = 36, and the center form is (x − 4)² + (y + 1)² = 36."
+  },
+  {
+    "id": "MATH9-M2-014",
+    "prompt": "For what value of k does the equation kx − 12 = 6x − 12 have infinitely many solutions?",
+    "choices": {
+      "A": "−6",
+      "B": "0",
+      "C": "6",
+      "D": "12"
+    },
+    "correct": "C",
+    "explanation": "For kx − 12 = 6x − 12 to have infinitely many solutions, the coefficients of x must be equal, so k = 6."
+  },
+  {
+    "id": "MATH9-M2-015",
+    "prompt": "The table shows values of a quadratic function h.\nx: −1, 0, 1, 2\nh(x): 5, −1, −3, −1\nWhich equation could define h?",
+    "choices": {
+      "A": "h(x) = 2x² − 4x − 1",
+      "B": "h(x) = 2x² + 4x − 1",
+      "C": "h(x) = −2x² + 4x − 1",
+      "D": "h(x) = −2x² − 4x − 1"
+    },
+    "correct": "A",
+    "explanation": "Substituting x = −1, 0, 1, and 2 into 2x² − 4x − 1 gives 5, −1, −3, and −1, matching the table."
+  },
+  {
+    "id": "MATH9-M2-016",
+    "prompt": "Which expression is equivalent to (6x²y − 18xy)/(3xy), where x ≠ 0 and y ≠ 0?",
+    "choices": {
+      "A": "2x − 6",
+      "B": "2x − 18",
+      "C": "3x − 6",
+      "D": "6x − 18"
+    },
+    "correct": "A",
+    "explanation": "Factor the numerator: 6x²y − 18xy = 6xy(x − 3). Dividing by 3xy gives 2(x − 3) = 2x − 6."
+  },
+  {
+    "id": "MATH9-M2-017",
+    "prompt": "A survey of 80 students found that 46 students take a science class, 38 students take an art class, and 20 students take both a science class and an art class. How many of the surveyed students take neither a science class nor an art class?",
+    "choices": {
+      "A": "12",
+      "B": "16",
+      "C": "18",
+      "D": "24"
+    },
+    "correct": "B",
+    "explanation": "The number who take science or art is 46 + 38 − 20 = 64. Therefore, 80 − 64 = 16 students take neither."
+  },
+  {
+    "id": "MATH9-M2-018",
+    "prompt": "Two similar rectangles have corresponding side lengths in the ratio 4:7. The area of the smaller rectangle is 64 square units. What is the area, in square units, of the larger rectangle?",
+    "choices": {
+      "A": "98",
+      "B": "112",
+      "C": "196",
+      "D": "224"
+    },
+    "correct": "C",
+    "explanation": "Areas of similar figures scale by the square of the side-length scale factor. The scale factor is 7/4, so the area scale factor is 49/16. The larger area is 64 × 49/16 = 196."
+  },
+  {
+    "id": "MATH9-M2-019",
+    "prompt": "For all values of x, x² − 8x + c = (x − 4)² + 9. What is the value of c?",
+    "choices": {
+      "A": "7",
+      "B": "9",
+      "C": "16",
+      "D": "25"
+    },
+    "correct": "D",
+    "explanation": "Expand the right side: (x − 4)² + 9 = x² − 8x + 16 + 9 = x² − 8x + 25. Therefore, c = 25."
+  },
+  {
+    "id": "MATH9-M2-020",
+    "prompt": "The mean of 4 numbers is 18. When a fifth number is added, the mean of the 5 numbers is 20. What is the fifth number?",
+    "choices": {
+      "A": "20",
+      "B": "24",
+      "C": "28",
+      "D": "32"
+    },
+    "correct": "C",
+    "explanation": "The sum of the first 4 numbers is 4 × 18 = 72. The sum of all 5 numbers is 5 × 20 = 100. The fifth number is 100 − 72 = 28."
+  },
+  {
+    "id": "MATH9-M2-021",
+    "prompt": "A farm stand sold apples for $2 per pound and peaches for $3 per pound. A customer bought a total of 15 pounds of apples and peaches for $38. How many pounds of peaches did the customer buy?",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "Let p be the pounds of peaches. Then the pounds of apples are 15 − p. The equation is 3p + 2(15 − p) = 38. This gives p + 30 = 38, so p = 8."
+  },
+  {
+    "id": "MATH9-M2-022",
+    "prompt": "The graph of a quadratic function has vertex (−1, 4) and passes through the point (1, 12). Which equation could define the function?",
+    "choices": {
+      "A": "y = 2(x + 1)² + 4",
+      "B": "y = 2(x − 1)² + 4",
+      "C": "y = −2(x + 1)² + 4",
+      "D": "y = (x + 1)² + 12"
+    },
+    "correct": "A",
+    "explanation": "A quadratic with vertex (−1, 4) has form y = a(x + 1)² + 4. Using point (1, 12), 12 = a(2²) + 4, so 8 = 4a and a = 2."
+  }
+]

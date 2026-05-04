@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH11-M1-001",
+    "prompt": "What is the solution to 11 − (2x)/3 = 5?",
+    "choices": {
+      "A": "6",
+      "B": "8",
+      "C": "9",
+      "D": "12"
+    },
+    "correct": "C",
+    "explanation": "Subtract 11 from both sides to get −(2x)/3 = −6. Multiply by −3/2 to get x = 9."
+  },
+  {
+    "id": "MATH11-M1-002",
+    "prompt": "A student completes 42 practice questions in 6 days at a constant rate. At this rate, how many practice questions does the student complete in 9 days?",
+    "choices": {
+      "A": "54",
+      "B": "60",
+      "C": "63",
+      "D": "72"
+    },
+    "correct": "C",
+    "explanation": "The student completes 42 ÷ 6 = 7 questions per day. In 9 days, the student completes 7 × 9 = 63 questions."
+  },
+  {
+    "id": "MATH11-M1-003",
+    "prompt": "The table shows the number of books checked out by students during one week.\nBooks checked out: 0, 1, 2, 3\nNumber of students: 4, 7, 6, 5\nHow many students checked out exactly 2 books?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": "The table shows that 6 students checked out exactly 2 books."
+  },
+  {
+    "id": "MATH11-M1-004",
+    "prompt": "A linear function f has a rate of change of 5. If f(3) = 2, what is f(0)?",
+    "choices": {
+      "A": "−15",
+      "B": "−13",
+      "C": "−3",
+      "D": "17"
+    },
+    "correct": "B",
+    "explanation": "A rate of change of 5 means f increases by 5 for each increase of 1 in x. From x = 0 to x = 3, the increase is 15, so f(0) = 2 − 15 = −13."
+  },
+  {
+    "id": "MATH11-M1-005",
+    "prompt": "A student has at most $40 to spend on a school project. The student spends $12 on supplies and then buys m sheets of poster board for $2.50 each. Which inequality represents this situation?",
+    "choices": {
+      "A": "12 + 2.50m ≤ 40",
+      "B": "12 + 2.50m ≥ 40",
+      "C": "2.50 + 12m ≤ 40",
+      "D": "2.50m − 12 ≤ 40"
+    },
+    "correct": "A",
+    "explanation": "The total cost is the $12 supply cost plus $2.50 for each of m poster boards, and this total is at most $40."
+  },
+  {
+    "id": "MATH11-M1-006",
+    "prompt": "What is the value of y in the solution to the system of equations?\nx + 3y = 19\nx = 7",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "6",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": "Substitute x = 7 into x + 3y = 19 to get 7 + 3y = 19. Then 3y = 12, so y = 4."
+  },
+  {
+    "id": "MATH11-M1-007",
+    "prompt": "Which expression is equivalent to 5(3t + 2) − 2(t − 6)?",
+    "choices": {
+      "A": "13t − 2",
+      "B": "13t + 22",
+      "C": "17t − 2",
+      "D": "17t + 22"
+    },
+    "correct": "B",
+    "explanation": "Distribute and combine like terms: 5(3t + 2) − 2(t − 6) = 15t + 10 − 2t + 12 = 13t + 22."
+  },
+  {
+    "id": "MATH11-M1-008",
+    "prompt": "Which expression is equivalent to (r⁶ ÷ r²)(r³), where r ≠ 0?",
+    "choices": {
+      "A": "r⁵",
+      "B": "r⁷",
+      "C": "r⁸",
+      "D": "r¹¹"
+    },
+    "correct": "B",
+    "explanation": "First, r⁶ ÷ r² = r⁴. Then r⁴ × r³ = r⁷."
+  },
+  {
+    "id": "MATH11-M1-009",
+    "prompt": "A box contains 8 green clips, 10 silver clips, and 6 gold clips. If one clip is selected at random, what is the probability that the clip selected is silver?",
+    "choices": {
+      "A": "1/4",
+      "B": "1/3",
+      "C": "5/12",
+      "D": "3/4"
+    },
+    "correct": "C",
+    "explanation": "There are 8 + 10 + 6 = 24 clips total, and 10 are silver. The probability is 10/24 = 5/12."
+  },
+  {
+    "id": "MATH11-M1-010",
+    "prompt": "An equilateral triangle has perimeter 42 inches. What is the length, in inches, of one side of the triangle?",
+    "choices": {
+      "A": "12",
+      "B": "14",
+      "C": "21",
+      "D": "39"
+    },
+    "correct": "B",
+    "explanation": "An equilateral triangle has 3 equal sides. Each side is 42 ÷ 3 = 14 inches."
+  },
+  {
+    "id": "MATH11-M1-011",
+    "prompt": "In the xy-plane, point P has coordinates (−5, 2). Point Q is 3 units to the right and 4 units down from point P. What are the coordinates of point Q?",
+    "choices": {
+      "A": "(−8, 6)",
+      "B": "(−8, −2)",
+      "C": "(−2, 6)",
+      "D": "(−2, −2)"
+    },
+    "correct": "D",
+    "explanation": "Moving 3 units right changes the x-coordinate from −5 to −2, and moving 4 units down changes the y-coordinate from 2 to −2."
+  },
+  {
+    "id": "MATH11-M1-012",
+    "prompt": "What is the value of √225 ÷ 5?",
+    "choices": {
+      "A": "3",
+      "B": "5",
+      "C": "15",
+      "D": "45"
+    },
+    "correct": "A",
+    "explanation": "√225 = 15, and 15 ÷ 5 = 3."
+  },
+  {
+    "id": "MATH11-M1-013",
+    "prompt": "If h(x) = x² − 4x + 1, what is h(−1)?",
+    "choices": {
+      "A": "−4",
+      "B": "−2",
+      "C": "6",
+      "D": "10"
+    },
+    "correct": "C",
+    "explanation": "Substitute −1 for x: h(−1) = (−1)² − 4(−1) + 1 = 1 + 4 + 1 = 6."
+  },
+  {
+    "id": "MATH11-M1-014",
+    "prompt": "The equation (x − 5)(x + 1) = 0 has two solutions. What is the greater solution?",
+    "choices": {
+      "A": "−5",
+      "B": "−1",
+      "C": "1",
+      "D": "5"
+    },
+    "correct": "D",
+    "explanation": "The equation is true when x − 5 = 0 or x + 1 = 0, so the solutions are 5 and −1. The greater solution is 5."
+  },
+  {
+    "id": "MATH11-M1-015",
+    "prompt": "A store had 120 cans of soup on a shelf. By the end of the day, 30 cans had been sold. What fraction of the cans had been sold?",
+    "choices": {
+      "A": "1/5",
+      "B": "1/4",
+      "C": "1/3",
+      "D": "3/4"
+    },
+    "correct": "B",
+    "explanation": "The fraction sold is 30/120, which simplifies to 1/4."
+  },
+  {
+    "id": "MATH11-M1-016",
+    "prompt": "The table shows a linear relationship between x and y.\nx: 1, 3, 5, 7\ny: 9, 15, 21, 27\nWhich equation represents this relationship?",
+    "choices": {
+      "A": "y = 2x + 7",
+      "B": "y = 3x + 6",
+      "C": "y = 4x + 5",
+      "D": "y = 6x + 3"
+    },
+    "correct": "B",
+    "explanation": "As x increases by 2, y increases by 6, so the slope is 3. Using x = 1 and y = 9 gives 9 = 3(1) + b, so b = 6."
+  },
+  {
+    "id": "MATH11-M1-017",
+    "prompt": "A rectangle has length 20 centimeters and diagonal length 25 centimeters. What is the width, in centimeters, of the rectangle?",
+    "choices": {
+      "A": "10",
+      "B": "12",
+      "C": "15",
+      "D": "18"
+    },
+    "correct": "C",
+    "explanation": "The width is the other leg of a right triangle with hypotenuse 25 and one leg 20, so the width is √(25² − 20²) = √225 = 15."
+  },
+  {
+    "id": "MATH11-M1-018",
+    "prompt": "The formula A = πr² gives the area A of a circle with radius r. What is the area of a circle with radius 8 meters?",
+    "choices": {
+      "A": "16π",
+      "B": "32π",
+      "C": "64π",
+      "D": "128π"
+    },
+    "correct": "C",
+    "explanation": "Substitute r = 8 into A = πr² to get A = π(8²) = 64π."
+  },
+  {
+    "id": "MATH11-M1-019",
+    "prompt": "The equation C = 45 + 6h models the total cost C, in dollars, to rent a room for h hours. What does 45 represent in this model?",
+    "choices": {
+      "A": "The cost per hour, in dollars",
+      "B": "The fixed cost, in dollars, before any hourly charges",
+      "C": "The number of hours the room is rented",
+      "D": "The total cost, in dollars, for 45 hours"
+    },
+    "correct": "B",
+    "explanation": "In C = 45 + 6h, the constant 45 is the cost when h = 0."
+  },
+  {
+    "id": "MATH11-M1-020",
+    "prompt": "A box contains 25 pencils. Of the pencils, 15 are sharpened. What percent of the pencils are sharpened?",
+    "choices": {
+      "A": "15%",
+      "B": "25%",
+      "C": "40%",
+      "D": "60%"
+    },
+    "correct": "D",
+    "explanation": "Of the 25 pencils, 15 are sharpened. Since 15/25 = 0.60, 60% are sharpened."
+  },
+  {
+    "id": "MATH11-M1-021",
+    "prompt": "The values in a data set are 5, 9, 9, 12, 15, and 16. What is the mode of the data set?",
+    "choices": {
+      "A": "9",
+      "B": "11",
+      "C": "12",
+      "D": "15"
+    },
+    "correct": "A",
+    "explanation": "The mode is the value that appears most often. The value 9 appears twice."
+  },
+  {
+    "id": "MATH11-M1-022",
+    "prompt": "A cylinder has radius 3 inches and height 5 inches. The volume of a cylinder is V = πr²h. What is the volume, in cubic inches, of the cylinder?",
+    "choices": {
+      "A": "15π",
+      "B": "30π",
+      "C": "45π",
+      "D": "90π"
+    },
+    "correct": "C",
+    "explanation": "Substitute r = 3 and h = 5 into V = πr²h to get V = π(3²)(5) = 45π.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

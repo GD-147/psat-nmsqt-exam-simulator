@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH6-M1-001",
+    "prompt": "What is the solution to 7 + (3x)/4 = 16?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "16"
+    },
+    "correct": "C",
+    "explanation": "Subtract 7 from both sides to get (3x)/4 = 9. Multiply both sides by 4 to get 3x = 36, so x = 12."
+  },
+  {
+    "id": "MATH6-M1-002",
+    "prompt": "A printer prints 84 pages in 7 minutes at a constant rate. At this rate, how many pages does the printer print in 5 minutes?",
+    "choices": {
+      "A": "45",
+      "B": "50",
+      "C": "60",
+      "D": "70"
+    },
+    "correct": "C",
+    "explanation": "The printer prints 84 ÷ 7 = 12 pages per minute. In 5 minutes, it prints 12 × 5 = 60 pages."
+  },
+  {
+    "id": "MATH6-M1-003",
+    "prompt": "The data set 3, 5, 7, 8, 12, 14, 16 has a minimum value of 3 and a maximum value of 16. What is the range of the data set?",
+    "choices": {
+      "A": "7",
+      "B": "9",
+      "C": "11",
+      "D": "13"
+    },
+    "correct": "D",
+    "explanation": "The range is the maximum value minus the minimum value: 16 − 3 = 13."
+  },
+  {
+    "id": "MATH6-M1-004",
+    "prompt": "A line in the xy-plane passes through the points (1, 8) and (4, 17). What is the slope of the line?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "The slope is (17 − 8)/(4 − 1) = 9/3 = 3."
+  },
+  {
+    "id": "MATH6-M1-005",
+    "prompt": "A movie theater has 180 seats. If s seats have already been sold and at least 25 seats remain unsold, which inequality represents this situation?",
+    "choices": {
+      "A": "s ≤ 155",
+      "B": "s ≥ 155",
+      "C": "s ≤ 205",
+      "D": "s ≥ 205"
+    },
+    "correct": "A",
+    "explanation": "If at least 25 seats remain unsold, then no more than 180 − 25 = 155 seats have been sold."
+  },
+  {
+    "id": "MATH6-M1-006",
+    "prompt": "If a + b = 18 and a = b − 4, what is the value of b?",
+    "choices": {
+      "A": "7",
+      "B": "9",
+      "C": "11",
+      "D": "14"
+    },
+    "correct": "C",
+    "explanation": "Substitute a = b − 4 into a + b = 18 to get b − 4 + b = 18. Then 2b = 22, so b = 11."
+  },
+  {
+    "id": "MATH6-M1-007",
+    "prompt": "Which expression is equivalent to 3(2x + 5) − x?",
+    "choices": {
+      "A": "5x + 5",
+      "B": "5x + 15",
+      "C": "6x + 15",
+      "D": "7x + 15"
+    },
+    "correct": "B",
+    "explanation": "Distribute first: 3(2x + 5) − x = 6x + 15 − x = 5x + 15."
+  },
+  {
+    "id": "MATH6-M1-008",
+    "prompt": "Which expression is equivalent to 9⁶ ÷ 9³?",
+    "choices": {
+      "A": "9²",
+      "B": "9³",
+      "C": "9⁹",
+      "D": "81³"
+    },
+    "correct": "B",
+    "explanation": "When dividing powers with the same base, subtract exponents: 9⁶ ÷ 9³ = 9³."
+  },
+  {
+    "id": "MATH6-M1-009",
+    "prompt": "A box contains 9 blue tiles, 6 yellow tiles, and 5 red tiles. If one tile is selected at random, what is the probability that the tile selected is red?",
+    "choices": {
+      "A": "1/5",
+      "B": "1/4",
+      "C": "1/3",
+      "D": "2/5"
+    },
+    "correct": "B",
+    "explanation": "There are 9 + 6 + 5 = 20 tiles total, and 5 are red. The probability is 5/20 = 1/4."
+  },
+  {
+    "id": "MATH6-M1-010",
+    "prompt": "A square has side length 8 centimeters. What is the area, in square centimeters, of the square?",
+    "choices": {
+      "A": "16",
+      "B": "32",
+      "C": "64",
+      "D": "128"
+    },
+    "correct": "C",
+    "explanation": "The area of a square is side length squared, so 8² = 64."
+  },
+  {
+    "id": "MATH6-M1-011",
+    "prompt": "A triangle has side lengths 6 inches, 9 inches, and 11 inches. What is the perimeter, in inches, of the triangle?",
+    "choices": {
+      "A": "20",
+      "B": "24",
+      "C": "26",
+      "D": "30"
+    },
+    "correct": "C",
+    "explanation": "The perimeter is the sum of the side lengths: 6 + 9 + 11 = 26."
+  },
+  {
+    "id": "MATH6-M1-012",
+    "prompt": "What is the value of |−14| − 6?",
+    "choices": {
+      "A": "−20",
+      "B": "−8",
+      "C": "8",
+      "D": "20"
+    },
+    "correct": "C",
+    "explanation": "|−14| = 14, and 14 − 6 = 8."
+  },
+  {
+    "id": "MATH6-M1-013",
+    "prompt": "If f(x) = 10 − x², what is f(2)?",
+    "choices": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": "Substitute 2 for x: f(2) = 10 − 2² = 10 − 4 = 6."
+  },
+  {
+    "id": "MATH6-M1-014",
+    "prompt": "A sweater originally costs $40. The price is increased by 10%. What is the new price of the sweater?",
+    "choices": {
+      "A": "$41",
+      "B": "$44",
+      "C": "$46",
+      "D": "$50"
+    },
+    "correct": "B",
+    "explanation": "A 10% increase on $40 is $4, so the new price is $40 + $4 = $44."
+  },
+  {
+    "id": "MATH6-M1-015",
+    "prompt": "The table shows the number of gallons of paint needed to cover different areas of a wall.\nArea in square feet: 120, 240, 360, 480\nGallons of paint: 1, 2, 3, 4\nBased on the table, how many gallons of paint are needed to cover 720 square feet?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "B",
+    "explanation": "The table shows 1 gallon covers 120 square feet. Since 720 ÷ 120 = 6, 6 gallons are needed."
+  },
+  {
+    "id": "MATH6-M1-016",
+    "prompt": "A rectangle has length 15 feet and width 8 feet. What is the length, in feet, of the diagonal of the rectangle?",
+    "choices": {
+      "A": "17",
+      "B": "19",
+      "C": "21",
+      "D": "23"
+    },
+    "correct": "A",
+    "explanation": "The diagonal is the hypotenuse of a right triangle with legs 15 and 8, so its length is √(15² + 8²) = √289 = 17."
+  },
+  {
+    "id": "MATH6-M1-017",
+    "prompt": "The formula C = 2πr gives the circumference C of a circle with radius r. What is the circumference of a circle with radius 11 centimeters?",
+    "choices": {
+      "A": "11π",
+      "B": "22π",
+      "C": "44π",
+      "D": "121π"
+    },
+    "correct": "B",
+    "explanation": "Substitute r = 11 into C = 2πr to get C = 2π(11) = 22π."
+  },
+  {
+    "id": "MATH6-M1-018",
+    "prompt": "The formula F = (9/5)C + 32 gives the temperature F, in degrees Fahrenheit, for a temperature C, in degrees Celsius. What is F when C = 20?",
+    "choices": {
+      "A": "36",
+      "B": "52",
+      "C": "68",
+      "D": "72"
+    },
+    "correct": "C",
+    "explanation": "Substitute C = 20: F = (9/5)(20) + 32 = 36 + 32 = 68."
+  },
+  {
+    "id": "MATH6-M1-019",
+    "prompt": "A researcher compares the number of hours a laptop battery has been used since charging with the percent of battery charge remaining. As the hours used increase, the percent of battery charge remaining generally decreases. Which statement best describes this association?",
+    "choices": {
+      "A": "There is a positive association.",
+      "B": "There is a negative association.",
+      "C": "There is no association.",
+      "D": "The association must be nonlinear."
+    },
+    "correct": "B",
+    "explanation": "As the number of hours used increases, the percent of battery charge remaining decreases, so the association is negative."
+  },
+  {
+    "id": "MATH6-M1-020",
+    "prompt": "The equation S = 120 − 15w models the number of pages S left to read in a book after w weeks of reading. What does 15 represent in this model?",
+    "choices": {
+      "A": "The number of pages read each week",
+      "B": "The number of weeks needed to finish the book",
+      "C": "The number of pages in the book before reading begins",
+      "D": "The number of pages left after 15 weeks"
+    },
+    "correct": "A",
+    "explanation": "The coefficient −15 shows that the number of pages left decreases by 15 for each additional week."
+  },
+  {
+    "id": "MATH6-M1-021",
+    "prompt": "A class has 28 students. The ratio of students who brought lunch to students who bought lunch is 3:4. How many students brought lunch?",
+    "choices": {
+      "A": "9",
+      "B": "12",
+      "C": "16",
+      "D": "21"
+    },
+    "correct": "B",
+    "explanation": "The ratio has 3 + 4 = 7 total parts. Since 28 ÷ 7 = 4, each part represents 4 students. The number who brought lunch is 3 × 4 = 12."
+  },
+  {
+    "id": "MATH6-M1-022",
+    "prompt": "The values in a data set are 6, 10, 13, 15, and 21. What is the mean of the data set?",
+    "choices": {
+      "A": "12",
+      "B": "13",
+      "C": "14",
+      "D": "15"
+    },
+    "correct": "B",
+    "explanation": "The sum is 6 + 10 + 13 + 15 + 21 = 65. The mean is 65 ÷ 5 = 13.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

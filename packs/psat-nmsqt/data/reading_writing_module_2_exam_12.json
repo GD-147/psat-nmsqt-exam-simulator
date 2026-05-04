@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW12-M2-001",
+    "prompt": "In the art of quilter Rosie Lee Tompkins, familiar materials such as velvet, cotton, and synthetic fabrics are arranged in unexpected rhythms of color and shape. The quilts may look spontaneous, but their bold asymmetry often creates a carefully balanced visual energy. Tompkins’s work therefore ______ the assumption that quilts must follow predictable patterns.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "unsettles",
+      "B": "measures",
+      "C": "repeats",
+      "D": "delays"
+    },
+    "correct": "A",
+    "explanation": "Tompkins’s asymmetrical quilts challenge the expectation that quilts must use predictable patterns."
+  },
+  {
+    "id": "RW12-M2-002",
+    "prompt": "Researchers studying ancient animal bones sometimes examine the ratios of certain chemical elements preserved in the bone tissue. These ratios can reflect the kinds of foods an animal ate. By comparing bones from different sites, scientists can infer differences in past environments and animal diets.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Chemical evidence in ancient bones can help scientists study past diets and environments.",
+      "B": "Ancient bones are useful only when they contain no chemical elements.",
+      "C": "All animals in the past ate exactly the same foods.",
+      "D": "Scientists study bone chemistry mainly to determine the color of living animals."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that preserved chemical ratios can reveal foods eaten and environmental differences."
+  },
+  {
+    "id": "RW12-M2-003",
+    "prompt": "Some schools use outdoor classrooms for lessons in science, writing, and art. Learning outside can make activities feel more connected to real-world observation, but outdoor classes require planning for weather, noise, and materials. Without such planning, the setting can distract from the lesson rather than support it.\nWhich choice is the best inference from the text?",
+    "choices": {
+      "A": "Outdoor classrooms can enrich lessons, but they are most effective when carefully planned.",
+      "B": "Outdoor classrooms prevent students from making observations.",
+      "C": "Weather and noise are never relevant to outdoor lessons.",
+      "D": "Schools should use outdoor classrooms only when no materials are needed."
+    },
+    "correct": "A",
+    "explanation": "The text says outdoor settings can support observation but require planning for weather, noise, and materials."
+  },
+  {
+    "id": "RW12-M2-004",
+    "prompt": "A student’s draft about writer James Baldwin includes the following sentences.\nBaldwin’s essays often connect personal experience to larger questions about race, identity, and democracy. By beginning with individual memories or encounters, Baldwin could make broad social issues feel immediate and morally urgent.\nWhat is the main function of the second sentence in the text?",
+    "choices": {
+      "A": "It explains how Baldwin’s use of personal experience strengthens his discussion of social issues.",
+      "B": "It argues that Baldwin avoided writing about public life.",
+      "C": "It lists the places where Baldwin wrote each essay.",
+      "D": "It shows that individual memories cannot connect to broad questions."
+    },
+    "correct": "A",
+    "explanation": "The sentence explains that individual memories make broad social issues feel immediate and urgent."
+  },
+  {
+    "id": "RW12-M2-005",
+    "prompt": "A researcher compared the average number of minutes students spent using four parts of an online math practice site before and after a progress dashboard was added.\nSite feature | Before dashboard | After dashboard\nSkill review | 16 | 23\nPractice tests | 28 | 34\nVideo hints | 31 | 26\nError log | 12 | 20\nWhich choice best describes the data?",
+    "choices": {
+      "A": "Students spent more time on skill review, practice tests, and the error log after the dashboard was added, but less time on video hints.",
+      "B": "Students spent less time on all four site features after the dashboard was added.",
+      "C": "Video hints had the greatest increase after the dashboard was added.",
+      "D": "Skill review and error log had the same time after the dashboard was added."
+    },
+    "correct": "A",
+    "explanation": "Time increased for three features and decreased for video hints from 31 to 26 minutes."
+  },
+  {
+    "id": "RW12-M2-006",
+    "prompt": "A community art project can make a blank wall more inviting and give residents a shared creative experience. ______ if the planning process does not include nearby residents, the finished mural may not reflect the community it is meant to represent.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "However,",
+      "B": "Similarly,",
+      "C": "For example,",
+      "D": "Therefore,"
+    },
+    "correct": "A",
+    "explanation": "The sentence contrasts the benefits of a community art project with a possible problem if residents are not included."
+  },
+  {
+    "id": "RW12-M2-007",
+    "prompt": "The guide describes three signs that a houseplant may need more light ______ pale new growth, long weak stems, and leaves leaning toward a window.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "light",
+      "B": "light:",
+      "C": "light,",
+      "D": "light;"
+    },
+    "correct": "B",
+    "explanation": "A colon correctly introduces the list of three signs that a houseplant needs more light."
+  },
+  {
+    "id": "RW12-M2-008",
+    "prompt": "Comparing the two drafts of the essay, ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "several stronger topic sentences appeared in the second draft",
+      "B": "the second draft had several stronger topic sentences",
+      "C": "the tutor noticed several stronger topic sentences in the second draft",
+      "D": "there were several stronger topic sentences in the second draft"
+    },
+    "correct": "C",
+    "explanation": "The introductory modifier “Comparing the two drafts” must logically describe “the tutor.”"
+  },
+  {
+    "id": "RW12-M2-009",
+    "prompt": "The curator consulted the lighting designer before the gallery opened, and ______ agreed that one sculpture needed softer light.\nWhich choice completes the text so that it conforms to the conventions of Standard English and avoids ambiguity?",
+    "choices": {
+      "A": "they",
+      "B": "the curator",
+      "C": "she",
+      "D": "it"
+    },
+    "correct": "B",
+    "explanation": "Repeating “the curator” avoids ambiguity about whether “they” refers to the curator and lighting designer together."
+  },
+  {
+    "id": "RW12-M2-010",
+    "prompt": "By the time the neighborhood meeting began, the organizers ______ copies of the agenda on every chair.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "place",
+      "B": "have placed",
+      "C": "had placed",
+      "D": "placing"
+    },
+    "correct": "C",
+    "explanation": "The past perfect tense shows that the organizers placed the agendas before the meeting began."
+  },
+  {
+    "id": "RW12-M2-011",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Hertha Marks Ayrton was an engineer, inventor, and physicist.\n• She studied electric arcs, which were used in early lighting technology.\n• Ayrton developed improvements that made arc lamps steadier and quieter.\n• She also invented a fan used to clear poisonous gas from trenches during World War I.\n• Her work combined scientific research with practical problem-solving.\nThe student wants to explain Ayrton’s practical contributions. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Hertha Marks Ayrton applied scientific research to practical problems, improving arc lamps and inventing a fan used to clear gas from trenches.",
+      "B": "Hertha Marks Ayrton studied electric arcs, a topic connected to early lighting technology.",
+      "C": "World War I included trench warfare, which created many dangerous conditions.",
+      "D": "Engineers, inventors, and physicists sometimes study related subjects."
+    },
+    "correct": "A",
+    "explanation": "This choice explains Ayrton’s practical contributions in lighting technology and wartime safety."
+  },
+  {
+    "id": "RW12-M2-012",
+    "prompt": "A student is revising an essay about schools using adjustable-height desks. The student wants to add a sentence that explains a possible advantage of these desks. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "Adjustable-height desks can let students work while sitting or standing, allowing more flexibility during class.",
+      "B": "Desks can be made from wood, metal, plastic, or a combination of materials.",
+      "C": "Some classrooms arrange desks in rows, groups, or circles.",
+      "D": "Adjustable-height desks may have handles, buttons, or other controls."
+    },
+    "correct": "A",
+    "explanation": "This sentence directly explains a possible advantage of adjustable-height desks."
+  },
+  {
+    "id": "RW12-M2-013",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) Some ecologists study vernal pools, temporary pools of water that form in certain seasons. (2) These pools may appear after snowmelt or heavy spring rain. (3) Because many vernal pools dry up later in the year, fish often cannot survive in them. (4) This lack of fish can make the pools important breeding sites for frogs and salamanders.\nWhere should the following sentence be placed to best support the logical flow of the paragraph?\nWithout fish, eggs and larvae of some amphibians face fewer predators.",
+    "choices": {
+      "A": "After sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence explains why the absence of fish matters before sentence 4 identifies the pools as breeding sites."
+  },
+  {
+    "id": "RW12-M2-014",
+    "prompt": "The student’s conclusion was not ______; rather than simply repeating the thesis, it explained why the evidence should matter to readers beyond the classroom.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "mechanical",
+      "B": "recent",
+      "C": "public",
+      "D": "silent"
+    },
+    "correct": "A",
+    "explanation": "The conclusion does more than repeat the thesis, so it is not mechanical."
+  },
+  {
+    "id": "RW12-M2-015",
+    "prompt": "Researchers studying a river found that sections with restored gravel beds had more salmon nests than sections where the river bottom was covered mainly with fine silt. Because salmon often lay eggs in gravel, the researchers concluded that restoring gravel habitat may support salmon reproduction.\nWhich choice best describes the relationship between the evidence and the researchers’ conclusion?",
+    "choices": {
+      "A": "The higher number of salmon nests in restored gravel sections supports the conclusion that gravel habitat may aid reproduction.",
+      "B": "The evidence proves that salmon can lay eggs only in rivers with no current.",
+      "C": "The conclusion rejects the idea that river-bottom conditions affect salmon nesting.",
+      "D": "The evidence shows that fine silt always produces more salmon nests than gravel does."
+    },
+    "correct": "A",
+    "explanation": "The evidence links restored gravel beds with more salmon nests and supports the reproduction conclusion."
+  },
+  {
+    "id": "RW12-M2-016",
+    "prompt": "The announcement explains the new parking rules, ______ it also includes a map of student parking areas.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "rules, it",
+      "B": "rules and",
+      "C": "rules; and",
+      "D": "rules, and"
+    },
+    "correct": "D",
+    "explanation": "A comma plus “and” correctly joins two independent clauses."
+  },
+  {
+    "id": "RW12-M2-017",
+    "prompt": "A school tested two hallway sign designs to see which helped visitors find classrooms faster. Visitors were assigned to use either Design A or Design B and asked to locate the same set of rooms. Visitors using Design A found the rooms in less time on average than visitors using Design B.\nWhich conclusion is best supported by the text?",
+    "choices": {
+      "A": "Under the conditions tested, Design A helped visitors find classrooms faster than Design B did.",
+      "B": "Design B contained no classroom information.",
+      "C": "Visitors using Design A were asked to find different rooms from those using Design B.",
+      "D": "Hallway signs cannot affect how quickly visitors find classrooms."
+    },
+    "correct": "A",
+    "explanation": "Visitors using Design A located the same rooms in less time on average."
+  },
+  {
+    "id": "RW12-M2-018",
+    "prompt": "The article first explains that some communities use rain sensors to prevent sprinklers from running during wet weather. ______ it describes a town where rain sensors helped reduce unnecessary water use in public parks.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Then,",
+      "B": "Even so,",
+      "C": "In contrast,",
+      "D": "Nevertheless,"
+    },
+    "correct": "A",
+    "explanation": "The paragraph moves from a general explanation of rain sensors to a specific town example."
+  },
+  {
+    "id": "RW12-M2-019",
+    "prompt": "The binder of emergency procedures ______ evacuation maps, contact lists, and first-aid instructions.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "include",
+      "B": "includes",
+      "C": "including",
+      "D": "are including"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “binder” requires the singular verb “includes.”"
+  },
+  {
+    "id": "RW12-M2-020",
+    "prompt": "The ______ shell has ridges that help it blend with the rough bark of the tree trunk.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "beetle’s",
+      "B": "beetles",
+      "C": "beetles’",
+      "D": "beetlees’"
+    },
+    "correct": "A",
+    "explanation": "The sentence refers to one beetle’s shell, so the singular possessive “beetle’s” is correct."
+  },
+  {
+    "id": "RW12-M2-021",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• The Tuskegee Airmen were Black military pilots and support personnel during World War II.\n• They trained at Tuskegee Army Air Field in Alabama.\n• They served in a segregated military.\n• Their performance challenged racist assumptions about Black pilots.\n• Their service contributed to later efforts to desegregate the US armed forces.\nThe student wants to explain the historical significance of the Tuskegee Airmen. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "The Tuskegee Airmen served successfully in a segregated military, challenging racist assumptions and contributing to later desegregation efforts.",
+      "B": "The Tuskegee Airmen trained at Tuskegee Army Air Field in Alabama during World War II.",
+      "C": "Military pilots and support personnel perform different duties during wartime.",
+      "D": "The US armed forces used many training sites during World War II."
+    },
+    "correct": "A",
+    "explanation": "This choice explains the historical significance of their service."
+  },
+  {
+    "id": "RW12-M2-022",
+    "prompt": "A student is revising the following sentence.\nThe school’s community garden supplies vegetables to the cafeteria, and students learn about plant care there.\nThe student wants to emphasize that the garden both supports the lunch program and provides hands-on learning. Which choice best revises the sentence to accomplish this goal?",
+    "choices": {
+      "A": "By supplying vegetables to the cafeteria, the school’s community garden supports the lunch program while giving students hands-on experience with plant care.",
+      "B": "The school’s community garden has vegetables, and students sometimes go there.",
+      "C": "Vegetables from the community garden are used in the cafeteria, which serves lunch.",
+      "D": "Students can learn about plants in gardens, and cafeterias can serve vegetables."
+    },
+    "correct": "A",
+    "explanation": "This revision emphasizes both support for the lunch program and hands-on learning."
+  },
+  {
+    "id": "RW12-M2-023",
+    "prompt": "At the back of the music room, Arjun found a dented trumpet case with a faded name tag. The instrument inside was missing two valves, but the velvet lining still held the shape of the trumpet. Arjun imagined the former owner carrying it down the same hallway, nervous before a first concert.\nWhich choice best describes what the text suggests about Arjun?",
+    "choices": {
+      "A": "He imagines the experience of an earlier student connected to the trumpet case.",
+      "B": "He plans to perform with the broken trumpet at a concert that day.",
+      "C": "He is certain that the trumpet belonged to his closest friend.",
+      "D": "He thinks the faded name tag makes the case less interesting."
+    },
+    "correct": "A",
+    "explanation": "Arjun imagines the former owner carrying the trumpet down the same hallway before a concert."
+  },
+  {
+    "id": "RW12-M2-024",
+    "prompt": "The librarian grouped the new books by topic, ______ students to find related titles more easily.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "allowing",
+      "B": "allowed",
+      "C": "allows",
+      "D": "and allowing"
+    },
+    "correct": "A",
+    "explanation": "The participle “allowing” correctly shows the result of grouping the books by topic."
+  },
+  {
+    "id": "RW12-M2-025",
+    "prompt": "Because several witnesses gave conflicting descriptions of the bicycle, the officer reviewed nearby camera footage to ______ its color and model.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "confirm",
+      "B": "imitate",
+      "C": "postpone",
+      "D": "decorate"
+    },
+    "correct": "A",
+    "explanation": "Camera footage would help verify the bicycle’s color and model when witness descriptions conflict."
+  },
+  {
+    "id": "RW12-M2-026",
+    "prompt": "The field manual describes three ways to document a bird sighting: noting the location, recording the time of day, and ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "describing the bird’s markings",
+      "B": "the bird’s markings were described",
+      "C": "to describe the bird’s markings",
+      "D": "described the bird’s markings"
+    },
+    "correct": "A",
+    "explanation": "This choice keeps the list grammatically parallel: “noting,” “recording,” and “describing.”"
+  },
+  {
+    "id": "RW12-M2-027",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Salt-tolerant grasses can grow in areas where soil contains high levels of salt.\n• Their roots can help hold soil in place.\n• Some grasses provide cover for small animals.\n• Salt-tolerant grasses are used in some coastal restoration projects.\n• These grasses may help stabilize areas affected by storm surge.\nThe student wants to emphasize how salt-tolerant grasses can support coastal restoration. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Salt-tolerant grasses can support coastal restoration by helping hold soil in place and stabilizing areas affected by storm surge.",
+      "B": "Salt-tolerant grasses grow in soils that contain high levels of salt.",
+      "C": "Some small animals may use grasses for cover in coastal areas.",
+      "D": "Coastal restoration projects can include several kinds of plants and planning methods."
+    },
+    "correct": "A",
+    "explanation": "This choice emphasizes how the grasses help restoration by stabilizing coastal soil."
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW11-M1-001",
+    "prompt": "Astronomer Maria Mitchell discovered a comet in 1847, an achievement that brought her international attention. She later became a professor and encouraged women to study science at a time when few women had such opportunities. Mitchell’s career is often described as ______ because it opened paths for later generations of women in astronomy.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "influential",
+      "B": "accidental",
+      "C": "private",
+      "D": "unfinished"
+    },
+    "correct": "A",
+    "explanation": "Mitchell’s comet discovery, teaching, and encouragement of women in science affected later generations, so “influential” is most precise."
+  },
+  {
+    "id": "RW11-M1-002",
+    "prompt": "A bookmobile is a small library vehicle that brings books and other materials to different neighborhoods. Bookmobiles can serve people who live far from a library building or have limited transportation. By bringing resources directly to communities, bookmobiles can make reading materials more accessible.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Bookmobiles can help communities access library materials more easily.",
+      "B": "Bookmobiles are used only in neighborhoods that already have many library buildings.",
+      "C": "Library vehicles make it harder for people to borrow books.",
+      "D": "People with limited transportation usually avoid reading materials."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that bookmobiles bring library materials directly to communities, especially people far from library buildings or transportation."
+  },
+  {
+    "id": "RW11-M1-003",
+    "prompt": "The package of art prints ______ carefully wrapped in brown paper.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "were",
+      "B": "are",
+      "C": "was",
+      "D": "have been"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “package” requires the singular verb “was.”"
+  },
+  {
+    "id": "RW11-M1-004",
+    "prompt": "A student recorded the number of students who voted for each theme for the spring dance.\nTheme: Votes\nGarden Party: 48\nCity Lights: 62\nOcean Night: 55\nRetro Arcade: 39\nWhich choice is supported by the data?",
+    "choices": {
+      "A": "City Lights received the most votes.",
+      "B": "Retro Arcade received more votes than Ocean Night.",
+      "C": "Garden Party and Ocean Night received the same number of votes.",
+      "D": "No theme received more than 55 votes."
+    },
+    "correct": "A",
+    "explanation": "City Lights received 62 votes, more than the other themes."
+  },
+  {
+    "id": "RW11-M1-005",
+    "prompt": "Nolan wanted his model rocket to fly straight up, so he was disappointed when it curved sharply to one side. His teacher asked him to examine the launch video carefully. Nolan noticed that one fin had been attached at a slight angle, giving him a clear idea of what to change before the next test.\nWhich choice best describes what happens in the text?",
+    "choices": {
+      "A": "Nolan uses evidence from a failed test to improve his design.",
+      "B": "Nolan decides that model rockets cannot be tested safely.",
+      "C": "Nolan proves that fins have no effect on rocket flight.",
+      "D": "Nolan stops watching the launch video because it is unclear."
+    },
+    "correct": "A",
+    "explanation": "Nolan studies the launch video, notices the angled fin, and learns what to change."
+  },
+  {
+    "id": "RW11-M1-006",
+    "prompt": "In a passage about early newspapers, a historian explains that some papers printed shipping news, market prices, and lost-and-found notices. The historian adds, “For many readers, a newspaper was not only a source of political news but also a practical guide to daily business.”\nWhat is the main function of the quoted sentence?",
+    "choices": {
+      "A": "It explains that early newspapers served practical purposes as well as political ones.",
+      "B": "It argues that early newspapers avoided reporting market prices.",
+      "C": "It describes how printing presses were repaired.",
+      "D": "It shows that readers cared only about lost-and-found notices."
+    },
+    "correct": "A",
+    "explanation": "The quoted sentence connects the listed items to the idea that newspapers helped with daily business."
+  },
+  {
+    "id": "RW11-M1-007",
+    "prompt": "The science club built a small weatherproof box for its outdoor sensor. ______ the club added a clear window so students could check the sensor without opening the box.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In addition,",
+      "B": "However,",
+      "C": "As a result,",
+      "D": "Instead,"
+    },
+    "correct": "A",
+    "explanation": "The second sentence adds another feature of the weatherproof box."
+  },
+  {
+    "id": "RW11-M1-008",
+    "prompt": "The article describes the numbat, ______ insect-eating marsupial native to Australia.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "those"
+    },
+    "correct": "B",
+    "explanation": "“Insect-eating” begins with a vowel sound, so “an” is correct."
+  },
+  {
+    "id": "RW11-M1-009",
+    "prompt": "After the team finished the mural, ______ invited parents and teachers to view it.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "they",
+      "B": "them",
+      "C": "their",
+      "D": "themselves"
+    },
+    "correct": "A",
+    "explanation": "The subject pronoun “they” correctly refers to the team as the group inviting viewers."
+  },
+  {
+    "id": "RW11-M1-010",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Ynes Mexia was a botanist.\n• She began collecting plants professionally in her fifties.\n• Mexia traveled through parts of North and South America.\n• She collected thousands of plant specimens.\n• Some plant species were named in her honor.\nThe student wants to introduce Mexia and emphasize her work as a plant collector. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Ynes Mexia was a botanist who collected thousands of plant specimens while traveling through parts of North and South America.",
+      "B": "Ynes Mexia began collecting plants professionally in her fifties, which was later than some scientists begin their careers.",
+      "C": "Some plant species were named in honor of Ynes Mexia.",
+      "D": "North and South America include many different habitats where plants can grow."
+    },
+    "correct": "A",
+    "explanation": "This choice introduces Mexia and emphasizes her plant-collecting work."
+  },
+  {
+    "id": "RW11-M1-011",
+    "prompt": "The school’s new online calendar lists assignment deadlines and club meetings. ______ some students still prefer paper planners because they like writing reminders by hand.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "However,",
+      "B": "For example,",
+      "C": "Therefore,",
+      "D": "Similarly,"
+    },
+    "correct": "A",
+    "explanation": "The sentence contrasts the online calendar’s usefulness with some students’ preference for paper planners."
+  },
+  {
+    "id": "RW11-M1-012",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) A school lost-and-found system helps return misplaced items to their owners. (2) Students may leave coats, notebooks, lunch boxes, or water bottles in different parts of the building. (3) A clear labeling system can make these items easier to identify. (4) Regular announcements can also remind students to check for missing belongings.\nTo make the paragraph most logical, sentence 2 should be placed",
+    "choices": {
+      "A": "where it is now.",
+      "B": "before sentence 1.",
+      "C": "after sentence 4.",
+      "D": "between sentence 3 and sentence 4."
+    },
+    "correct": "A",
+    "explanation": "Sentence 2 provides examples of misplaced items before the paragraph explains ways to identify and return them."
+  },
+  {
+    "id": "RW11-M1-013",
+    "prompt": "Last semester, the coding club ______ a simple game for younger students to play.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "designs",
+      "B": "designed",
+      "C": "will design",
+      "D": "designing"
+    },
+    "correct": "B",
+    "explanation": "“Last semester” requires the past-tense verb “designed.”"
+  },
+  {
+    "id": "RW11-M1-014",
+    "prompt": "______ in a waterproof case, the camera continued recording during the rainstorm.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Protected",
+      "B": "Protecting",
+      "C": "To protect",
+      "D": "Protect"
+    },
+    "correct": "A",
+    "explanation": "“Protected in a waterproof case” correctly modifies “the camera.”"
+  },
+  {
+    "id": "RW11-M1-015",
+    "prompt": "The students postponed the outdoor sketching lesson ______ the sidewalks were covered with ice.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "lesson, the sidewalks",
+      "B": "lesson because the sidewalks",
+      "C": "lesson; because the sidewalks",
+      "D": "lesson, because, the sidewalks"
+    },
+    "correct": "B",
+    "explanation": "“Because” correctly introduces the reason the outdoor sketching lesson was postponed."
+  },
+  {
+    "id": "RW11-M1-016",
+    "prompt": "To learn which announcements students remembered best, the principal asked a short survey question at the end of the week. She used the responses to ______ whether morning or afternoon announcements were more effective.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "evaluate",
+      "B": "borrow",
+      "C": "decorate",
+      "D": "conceal"
+    },
+    "correct": "A",
+    "explanation": "The principal uses survey responses to judge which announcement time was more effective."
+  },
+  {
+    "id": "RW11-M1-017",
+    "prompt": "Some parks include sensory gardens with plants chosen for their textures, scents, and colors. Visitors might touch soft leaves, smell herbs, or look closely at bright flowers. These gardens can make outdoor spaces engaging for people with a wide range of ages and abilities.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Sensory gardens can make parks more engaging through plants that appeal to different senses.",
+      "B": "Sensory gardens are designed only for visitors who avoid touching plants.",
+      "C": "Parks with sensory gardens cannot include flowers or herbs.",
+      "D": "Visitors enjoy gardens only when all plants look exactly the same."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that sensory gardens use textures, scents, and colors to engage visitors."
+  },
+  {
+    "id": "RW11-M1-018",
+    "prompt": "Scientists studying camels note that their wide feet help them walk on sand. The feet spread the animal’s weight over a larger surface, making the camel less likely to sink into soft ground.\nAccording to the text, how do wide feet help camels?",
+    "choices": {
+      "A": "They help camels walk on soft sand without sinking as easily.",
+      "B": "They allow camels to climb trees to find food.",
+      "C": "They prevent camels from needing water at any time.",
+      "D": "They make camels smaller than other desert animals."
+    },
+    "correct": "A",
+    "explanation": "The text says wide feet spread weight over a larger surface, reducing sinking."
+  },
+  {
+    "id": "RW11-M1-019",
+    "prompt": "A student is revising the following sentence.\nThe school opened a student technology help desk, and students can visit it to reset passwords, troubleshoot devices, or learn software basics.\nWhich choice best combines the ideas clearly and concisely?",
+    "choices": {
+      "A": "The school opened a student technology help desk where students can reset passwords, troubleshoot devices, or learn software basics.",
+      "B": "The school opened a student technology help desk, students can visit it to reset passwords, troubleshoot devices, or learn software basics.",
+      "C": "The school opened a student technology help desk and resetting passwords, troubleshooting devices, or learning software basics.",
+      "D": "The school opened a student technology help desk because students, passwords, devices, and software basics."
+    },
+    "correct": "A",
+    "explanation": "This choice combines the ideas clearly and avoids a comma splice."
+  },
+  {
+    "id": "RW11-M1-020",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Amalia Hernández was a Mexican dancer and choreographer.\n• She founded Ballet Folklórico de México in 1952.\n• The company presents dances inspired by Mexican regional traditions.\n• Hernández combined research, music, costume design, and choreography.\n• Her work helped bring Mexican folk dance to international audiences.\nThe student wants to explain Hernández’s cultural impact. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Amalia Hernández founded Ballet Folklórico de México, a company that helped bring dances inspired by Mexican regional traditions to international audiences.",
+      "B": "Amalia Hernández combined research, music, costume design, and choreography in her work.",
+      "C": "Ballet Folklórico de México was founded in 1952 by a dancer and choreographer.",
+      "D": "Mexican regional traditions include many kinds of music, costume, and dance."
+    },
+    "correct": "A",
+    "explanation": "This choice explains Hernández’s cultural impact by connecting her company to international audiences."
+  },
+  {
+    "id": "RW11-M1-021",
+    "prompt": "A student recorded the number of minutes four students spent practicing speeches.\nStudent: Minutes practiced\nGrace: 36\nIsaac: 42\nMaya: 31\nTariq: 39\nWhich choice is supported by the data?",
+    "choices": {
+      "A": "Isaac practiced for the greatest number of minutes.",
+      "B": "Maya practiced for more minutes than Grace.",
+      "C": "Grace and Tariq practiced for the same number of minutes.",
+      "D": "No student practiced for more than 39 minutes."
+    },
+    "correct": "A",
+    "explanation": "Isaac practiced for 42 minutes, more than the other students."
+  },
+  {
+    "id": "RW11-M1-022",
+    "prompt": "In a paragraph about student service projects, a writer states, “Students sorted donated books, made signs for the collection table, and delivered boxes to the community center.”\nWhat is the most likely purpose of the sentence?",
+    "choices": {
+      "A": "To give examples of tasks students completed during the service project",
+      "B": "To explain why donated books should never be sorted",
+      "C": "To argue that signs are more important than books in every project",
+      "D": "To compare community centers with school cafeterias"
+    },
+    "correct": "A",
+    "explanation": "The sentence lists specific service-project tasks students completed."
+  },
+  {
+    "id": "RW11-M1-023",
+    "prompt": "The telescope ______ we used during astronomy night belongs to the science department.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "that",
+      "B": "who",
+      "C": "where",
+      "D": "when"
+    },
+    "correct": "A",
+    "explanation": "“That” correctly introduces the clause identifying which telescope belongs to the science department."
+  },
+  {
+    "id": "RW11-M1-024",
+    "prompt": "The activity asks students to read a short article, to identify the claim, and ______ two pieces of evidence.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "selecting",
+      "B": "to select",
+      "C": "selected",
+      "D": "the selection of"
+    },
+    "correct": "B",
+    "explanation": "The phrase completes the parallel structure: “to read,” “to identify,” and “to select.”"
+  },
+  {
+    "id": "RW11-M1-025",
+    "prompt": "The museum brochure did not explain how to reach the second-floor gallery, so the staff added stair and elevator directions to make the route more ______.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "accessible",
+      "B": "fragile",
+      "C": "imaginary",
+      "D": "crowded"
+    },
+    "correct": "A",
+    "explanation": "Adding stair and elevator directions makes the route easier to reach and follow."
+  },
+  {
+    "id": "RW11-M1-026",
+    "prompt": "A student wants to begin an essay about why schools should support student clubs. Which choice would be the most effective opening sentence for the essay?",
+    "choices": {
+      "A": "Student clubs can help young people explore interests, build friendships, and practice leadership skills.",
+      "B": "Some clubs meet on Tuesdays, while others meet on Thursdays after school.",
+      "C": "A club is a group of people who gather for a shared activity.",
+      "D": "My school has a hallway where club posters are displayed."
+    },
+    "correct": "A",
+    "explanation": "This sentence clearly introduces the essay’s focus on the benefits of student clubs."
+  },
+  {
+    "id": "RW11-M1-027",
+    "prompt": "The library added self-checkout stations near the front desk. ______ patrons could borrow books more quickly during busy hours.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "As a result,",
+      "B": "Nevertheless,",
+      "C": "For example,",
+      "D": "In comparison,"
+    },
+    "correct": "A",
+    "explanation": "Faster borrowing during busy hours is presented as an effect of adding self-checkout stations.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

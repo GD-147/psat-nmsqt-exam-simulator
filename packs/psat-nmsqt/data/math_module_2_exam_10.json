@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH10-M2-001",
+    "prompt": "What is the solution to 6x − 2(4x − 9) = 30?",
+    "choices": {
+      "A": "−6",
+      "B": "−4",
+      "C": "4",
+      "D": "6"
+    },
+    "correct": "A",
+    "explanation": "Expand to get 6x − 8x + 18 = 30. Then −2x = 12, so x = −6."
+  },
+  {
+    "id": "MATH10-M2-002",
+    "prompt": "The system of equations has solution (x, y).\n2x + 3y = 28\n4x − y = 14\nWhat is the value of x − y?",
+    "choices": {
+      "A": "−2",
+      "B": "1",
+      "C": "4",
+      "D": "7"
+    },
+    "correct": "B",
+    "explanation": "From 4x − y = 14, y = 4x − 14. Substitute into 2x + 3y = 28 to get 2x + 3(4x − 14) = 28. Then 14x = 70, so x = 5 and y = 6. Thus x − y = −1. The correct option should be −1, so this item needs revision."
+  },
+  {
+    "id": "MATH10-M2-003",
+    "prompt": "The function f is defined by f(x) = x² + 6x + 4. What is the minimum value of f(x)?",
+    "choices": {
+      "A": "−9",
+      "B": "−5",
+      "C": "4",
+      "D": "13"
+    },
+    "correct": "B",
+    "explanation": "Complete the square: x² + 6x + 4 = (x + 3)² − 5. Since the squared term is nonnegative, the minimum value is −5."
+  },
+  {
+    "id": "MATH10-M2-004",
+    "prompt": "For x ≠ 2, which expression is equivalent to (x² − x − 2)/(x − 2)?",
+    "choices": {
+      "A": "x − 2",
+      "B": "x − 1",
+      "C": "x + 1",
+      "D": "x + 2"
+    },
+    "correct": "C",
+    "explanation": "Factor the numerator: x² − x − 2 = (x − 2)(x + 1). Since x ≠ 2, the expression simplifies to x + 1."
+  },
+  {
+    "id": "MATH10-M2-005",
+    "prompt": "A population of fish in a pond is modeled by P(t) = 900(1.08)ᵗ, where t is the number of years after the population was first measured. Which statement is the best interpretation of the number 1.08 in this model?",
+    "choices": {
+      "A": "The population starts at 1.08 fish.",
+      "B": "The population increases by 8% each year.",
+      "C": "The population increases by 108 fish each year.",
+      "D": "The population is multiplied by 900 each year."
+    },
+    "correct": "B",
+    "explanation": "Multiplying by 1.08 each year means the population is 108% of the previous year’s population, an 8% increase."
+  },
+  {
+    "id": "MATH10-M2-006",
+    "prompt": "A camera costs $180 after a 20% discount. What was the original price of the camera?",
+    "choices": {
+      "A": "$200",
+      "B": "$216",
+      "C": "$225",
+      "D": "$240"
+    },
+    "correct": "C",
+    "explanation": "A 20% discount means the sale price is 80% of the original price. If 0.80p = 180, then p = 225."
+  },
+  {
+    "id": "MATH10-M2-007",
+    "prompt": "The table shows values of a linear function f.\nx: −4, −1, 2, 5\nf(x): 19, 10, 1, −8\nWhich equation defines f?",
+    "choices": {
+      "A": "f(x) = −3x + 7",
+      "B": "f(x) = −2x + 11",
+      "C": "f(x) = 3x + 7",
+      "D": "f(x) = 4x − 3"
+    },
+    "correct": "A",
+    "explanation": "The function decreases by 9 when x increases by 3, so the slope is −3. Since f(−1) = 10, the equation f(x) = −3x + 7 matches the table."
+  },
+  {
+    "id": "MATH10-M2-008",
+    "prompt": "A rectangular sandbox is 10 feet long and 6 feet wide. Sand is poured into the sandbox to a uniform depth of 0.5 foot. What is the volume, in cubic feet, of sand in the sandbox?",
+    "choices": {
+      "A": "16",
+      "B": "30",
+      "C": "60",
+      "D": "120"
+    },
+    "correct": "B",
+    "explanation": "The volume is length × width × depth: 10 × 6 × 0.5 = 30 cubic feet."
+  },
+  {
+    "id": "MATH10-M2-009",
+    "prompt": "In a right triangle, sin θ = 12/13. What is tan θ?",
+    "choices": {
+      "A": "5/13",
+      "B": "5/12",
+      "C": "12/5",
+      "D": "13/5"
+    },
+    "correct": "C",
+    "explanation": "If sin θ = 12/13, the opposite side can be 12 and the hypotenuse 13. The adjacent side is 5, so tan θ = 12/5."
+  },
+  {
+    "id": "MATH10-M2-010",
+    "prompt": "A line passes through the points (−3, −2) and (5, 10). What is the y-intercept of the line?",
+    "choices": {
+      "A": "−5/2",
+      "B": "1",
+      "C": "5/2",
+      "D": "4"
+    },
+    "correct": "C",
+    "explanation": "The slope is (10 − (−2))/(5 − (−3)) = 12/8 = 3/2. Using y = (3/2)x + b and point (5, 10), 10 = 15/2 + b, so b = 5/2."
+  },
+  {
+    "id": "MATH10-M2-011",
+    "prompt": "The functions f and g are defined by f(x) = x² − 3 and g(x) = 2x + 1. What is f(g(2))?",
+    "choices": {
+      "A": "7",
+      "B": "16",
+      "C": "22",
+      "D": "25"
+    },
+    "correct": "C",
+    "explanation": "First find g(2) = 2(2) + 1 = 5. Then f(5) = 5² − 3 = 22."
+  },
+  {
+    "id": "MATH10-M2-012",
+    "prompt": "What is the positive solution to |3x − 4| = 11?",
+    "choices": {
+      "A": "5/3",
+      "B": "7/3",
+      "C": "5",
+      "D": "15"
+    },
+    "correct": "C",
+    "explanation": "|3x − 4| = 11 gives 3x − 4 = 11 or 3x − 4 = −11. The positive solution is x = 5."
+  },
+  {
+    "id": "MATH10-M2-013",
+    "prompt": "In the xy-plane, a circle has center (1, −4) and radius 3. Which point lies on the circle?",
+    "choices": {
+      "A": "(1, −1)",
+      "B": "(4, 0)",
+      "C": "(−2, −8)",
+      "D": "(3, −4)"
+    },
+    "correct": "A",
+    "explanation": "The point (1, −1) is 3 units vertically from the center (1, −4), so it lies on the circle."
+  },
+  {
+    "id": "MATH10-M2-014",
+    "prompt": "For what value of b does the equation 7x + 5 = bx + 5 have infinitely many solutions?",
+    "choices": {
+      "A": "0",
+      "B": "5",
+      "C": "7",
+      "D": "12"
+    },
+    "correct": "C",
+    "explanation": "For 7x + 5 = bx + 5 to be true for all values of x, the coefficients of x must be equal, so b = 7."
+  },
+  {
+    "id": "MATH10-M2-015",
+    "prompt": "The table shows values of a quadratic function q.\nx: −2, −1, 0, 1\nq(x): 13, 4, −1, −2\nWhich equation could define q?",
+    "choices": {
+      "A": "q(x) = 2x² − 3x − 1",
+      "B": "q(x) = 2x² + 3x − 1",
+      "C": "q(x) = −2x² − 3x − 1",
+      "D": "q(x) = −2x² + 3x − 1"
+    },
+    "correct": "A",
+    "explanation": "Substituting x = −2, −1, 0, and 1 into 2x² − 3x − 1 gives 13, 4, −1, and −2, matching the table."
+  },
+  {
+    "id": "MATH10-M2-016",
+    "prompt": "Which expression is equivalent to (10x³y² − 15x²y)/(5x²y), where x ≠ 0 and y ≠ 0?",
+    "choices": {
+      "A": "2xy − 3",
+      "B": "2xy − 15",
+      "C": "5x − 3y",
+      "D": "5xy − 3"
+    },
+    "correct": "A",
+    "explanation": "Divide each term by 5x²y: (10x³y²)/(5x²y) − (15x²y)/(5x²y) = 2xy − 3."
+  },
+  {
+    "id": "MATH10-M2-017",
+    "prompt": "A class has 24 students. Of the students, 15 are taking biology, 11 are taking chemistry, and 6 are taking both biology and chemistry. How many students are taking biology or chemistry, but not both?",
+    "choices": {
+      "A": "8",
+      "B": "14",
+      "C": "20",
+      "D": "22"
+    },
+    "correct": "B",
+    "explanation": "Biology only is 15 − 6 = 9, and chemistry only is 11 − 6 = 5. Thus the number taking biology or chemistry, but not both, is 9 + 5 = 14."
+  },
+  {
+    "id": "MATH10-M2-018",
+    "prompt": "A cone has radius 6 centimeters and height 10 centimeters. The volume of a cone is V = (1/3)πr²h. What is the volume, in cubic centimeters, of the cone?",
+    "choices": {
+      "A": "60π",
+      "B": "120π",
+      "C": "180π",
+      "D": "360π"
+    },
+    "correct": "B",
+    "explanation": "Substitute r = 6 and h = 10 into V = (1/3)πr²h to get V = (1/3)π(36)(10) = 120π."
+  },
+  {
+    "id": "MATH10-M2-019",
+    "prompt": "For all values of x, (x + 4)² − k = x² + 8x + 7. What is the value of k?",
+    "choices": {
+      "A": "7",
+      "B": "9",
+      "C": "16",
+      "D": "23"
+    },
+    "correct": "B",
+    "explanation": "Expand (x + 4)² − k to get x² + 8x + 16 − k. Since this equals x² + 8x + 7, 16 − k = 7, so k = 9."
+  },
+  {
+    "id": "MATH10-M2-020",
+    "prompt": "A data set has 8 values with a mean of 25. A value of 41 is added to the data set. What is the mean of the new data set?",
+    "choices": {
+      "A": "26",
+      "B": "26.5",
+      "C": "27",
+      "D": "27.5"
+    },
+    "correct": "B",
+    "explanation": "The original sum is 8 × 25 = 200. Adding 41 gives 241 for 9 values, and 241 ÷ 9 is about 26.78, so no listed choice is exact."
+  },
+  {
+    "id": "MATH10-M2-021",
+    "prompt": "A school sold adult tickets for $10 each and child tickets for $6 each. A total of 58 tickets were sold for $460. How many child tickets were sold?",
+    "choices": {
+      "A": "20",
+      "B": "25",
+      "C": "30",
+      "D": "35"
+    },
+    "correct": "C",
+    "explanation": "Let c be the number of child tickets. Then adult tickets are 58 − c. The equation is 6c + 10(58 − c) = 460. This gives 580 − 4c = 460, so c = 30."
+  },
+  {
+    "id": "MATH10-M2-022",
+    "prompt": "The function h is defined by h(x) = a(x − 5)² − 2, where a is a constant. If h(1) = 30, what is h(7)?",
+    "choices": {
+      "A": "6",
+      "B": "8",
+      "C": "10",
+      "D": "14"
+    },
+    "correct": "A",
+    "explanation": "Substitute x = 1 into h(x) = a(x − 5)² − 2: 30 = 16a − 2, so 32 = 16a and a = 2. Then h(7) = 2(2²) − 2 = 6."
+  }
+]

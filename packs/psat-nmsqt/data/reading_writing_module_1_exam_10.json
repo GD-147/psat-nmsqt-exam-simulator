@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW10-M1-001",
+    "prompt": "Choreographer Katherine Dunham studied anthropology as well as dance. She used field research in the Caribbean to inform performances that combined movement, music, and cultural history. Because her work joined artistic practice with academic study, Dunham’s career is often described as ______.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "interdisciplinary",
+      "B": "accidental",
+      "C": "temporary",
+      "D": "silent"
+    },
+    "correct": "A",
+    "explanation": "Dunham’s work combined dance with anthropology and cultural research, so “interdisciplinary” is the most precise choice."
+  },
+  {
+    "id": "RW10-M1-002",
+    "prompt": "Some farmers plant cover crops after the main harvest. Cover crops such as clover or rye can protect bare soil from erosion, add organic matter, and reduce weed growth before the next planting season. Although these crops may not be sold, they can still improve the health of a field.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Cover crops can improve soil conditions even when they are not grown for sale.",
+      "B": "Cover crops are planted only because they produce the most valuable harvests.",
+      "C": "Bare soil is always healthier than soil covered by plants.",
+      "D": "Clover and rye prevent farmers from planting other crops later."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that cover crops protect soil, add organic matter, and reduce weeds even though they may not be sold."
+  },
+  {
+    "id": "RW10-M1-003",
+    "prompt": "The group of students in the recording studio ______ ready to begin the podcast interview.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "are",
+      "B": "were",
+      "C": "is",
+      "D": "have been"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “group” requires the singular verb “is.”"
+  },
+  {
+    "id": "RW10-M1-004",
+    "prompt": "A student recorded the number of visitors to four displays at a history night event.\nDisplay | Visitors\nRailroad maps | 44\nMilitary letters | 38\nSchool photographs | 52\nFarm tools | 47\nWhich choice is supported by the data in the table?",
+    "choices": {
+      "A": "The School photographs display had the greatest number of visitors.",
+      "B": "The Military letters display had more visitors than the Farm tools display.",
+      "C": "The Railroad maps and School photographs displays had the same number of visitors.",
+      "D": "No display had more than 47 visitors."
+    },
+    "correct": "A",
+    "explanation": "The School photographs display had 52 visitors, more than the other displays."
+  },
+  {
+    "id": "RW10-M1-005",
+    "prompt": "Evan wanted to solve the puzzle as quickly as possible, so he guessed at each answer without reading the clues carefully. After several wrong attempts, he slowed down and began underlining important words. The next solution took longer, but it was correct.\nWhich choice best describes what happens in the text?",
+    "choices": {
+      "A": "Evan becomes more successful when he pays closer attention.",
+      "B": "Evan stops working on the puzzle because he dislikes clues.",
+      "C": "Evan proves that guessing is always better than reading carefully.",
+      "D": "Evan creates a new puzzle for other students to solve."
+    },
+    "correct": "A",
+    "explanation": "Evan guesses quickly at first, but after slowing down and underlining important words, he gets the solution correct."
+  },
+  {
+    "id": "RW10-M1-006",
+    "prompt": "In a passage about ancient Roman roads, a historian explains that stone markers were placed at intervals along important routes. The historian adds, “These markers could show distances to nearby towns, helping travelers estimate how far they still needed to go.”\nWhat is the main function of the quoted sentence?",
+    "choices": {
+      "A": "It explains a practical use of stone markers along Roman roads.",
+      "B": "It argues that Roman travelers never visited nearby towns.",
+      "C": "It describes how stones were cut from quarries.",
+      "D": "It shows that ancient roads were built without planning."
+    },
+    "correct": "A",
+    "explanation": "The quoted sentence explains that markers helped travelers estimate distances."
+  },
+  {
+    "id": "RW10-M1-007",
+    "prompt": "The school greenhouse gives biology classes a place to observe plant growth. ______ culinary students sometimes use herbs grown there in cooking lessons.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In addition,",
+      "B": "However,",
+      "C": "As a result,",
+      "D": "Instead,"
+    },
+    "correct": "A",
+    "explanation": "The second sentence adds another use of the school greenhouse."
+  },
+  {
+    "id": "RW10-M1-008",
+    "prompt": "The article describes the aye-aye, ______ nocturnal lemur found in Madagascar.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "those"
+    },
+    "correct": "A",
+    "explanation": "“Nocturnal lemur” begins with a consonant sound, so “a” is correct."
+  },
+  {
+    "id": "RW10-M1-009",
+    "prompt": "The tablet screen was cracked, so the technician replaced ______ before returning the device to the student.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "it",
+      "B": "them",
+      "C": "they",
+      "D": "themselves"
+    },
+    "correct": "A",
+    "explanation": "The singular pronoun “it” correctly refers to the cracked tablet screen."
+  },
+  {
+    "id": "RW10-M1-010",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Subrahmanyan Chandrasekhar was an astrophysicist.\n• He studied the life cycles of stars.\n• He calculated a limit related to the mass of white dwarf stars.\n• His work helped scientists understand what can happen to stars after they use up their fuel.\n• Chandrasekhar received the Nobel Prize in Physics in 1983.\nThe student wants to explain the significance of Chandrasekhar’s scientific work. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Subrahmanyan Chandrasekhar’s work on white dwarf stars helped scientists understand later stages in the lives of stars.",
+      "B": "Subrahmanyan Chandrasekhar received the Nobel Prize in Physics in 1983.",
+      "C": "Stars can be studied by scientists using many different methods.",
+      "D": "A white dwarf is one type of object found in space."
+    },
+    "correct": "A",
+    "explanation": "This choice explains the significance of Chandrasekhar’s work by connecting it to stellar life cycles."
+  },
+  {
+    "id": "RW10-M1-011",
+    "prompt": "The new online gradebook lets students check assignment scores quickly. ______ some students say they still prefer written comments because comments explain how to improve.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "However,",
+      "B": "For example,",
+      "C": "Therefore,",
+      "D": "Similarly,"
+    },
+    "correct": "A",
+    "explanation": "The sentence contrasts the usefulness of quick score access with students’ preference for explanatory written comments."
+  },
+  {
+    "id": "RW10-M1-012",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) A community seed exchange allows gardeners to share seeds with one another. (2) Participants may bring seeds from vegetables, flowers, or herbs they have grown. (3) Exchanging seeds can help gardeners try new plants without buying every packet. (4) It can also help preserve plant varieties that grow well in local conditions.\nTo make the paragraph most logical, sentence 2 should be placed",
+    "choices": {
+      "A": "where it is now.",
+      "B": "before sentence 1.",
+      "C": "after sentence 4.",
+      "D": "between sentence 3 and sentence 4."
+    },
+    "correct": "A",
+    "explanation": "Sentence 2 logically explains what participants bring before the paragraph describes benefits of the exchange."
+  },
+  {
+    "id": "RW10-M1-013",
+    "prompt": "Tomorrow morning, the student council ______ welcome signs for the visiting eighth graders.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "makes",
+      "B": "made",
+      "C": "will make",
+      "D": "making"
+    },
+    "correct": "C",
+    "explanation": "“Tomorrow morning” requires a future-tense verb phrase."
+  },
+  {
+    "id": "RW10-M1-014",
+    "prompt": "______ from sheets of recycled metal, the sculpture reflected sunlight across the courtyard.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Shaped",
+      "B": "Shaping",
+      "C": "To shape",
+      "D": "Shape"
+    },
+    "correct": "A",
+    "explanation": "“Shaped from sheets of recycled metal” correctly modifies “the sculpture.”"
+  },
+  {
+    "id": "RW10-M1-015",
+    "prompt": "The class stayed after school ______ the group presentation needed one final rehearsal.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "school, the group",
+      "B": "school because the group",
+      "C": "school; because the group",
+      "D": "school, because, the group"
+    },
+    "correct": "B",
+    "explanation": "“Because” correctly introduces the reason the class stayed after school."
+  },
+  {
+    "id": "RW10-M1-016",
+    "prompt": "To find out which cafeteria meals students preferred, the nutrition director compared how many servings of each meal were chosen during the month. She used the results to ______ future menu choices.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "guide",
+      "B": "conceal",
+      "C": "interrupt",
+      "D": "decorate"
+    },
+    "correct": "A",
+    "explanation": "The nutrition director uses student meal-choice data to help decide future menus, so “guide” is precise."
+  },
+  {
+    "id": "RW10-M1-017",
+    "prompt": "Some schools run uniform closets, where families can donate clean shirts, jackets, or pants that no longer fit. Other students can then take needed items at no cost. These closets can reduce waste while helping families meet school clothing requirements.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Uniform closets can help families obtain school clothing while keeping usable items from being wasted.",
+      "B": "Uniform closets require families to buy new clothing before donating anything.",
+      "C": "Donated clothing can never be used by other students.",
+      "D": "School clothing requirements are always easier to meet without donated items."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that uniform closets provide no-cost clothing and reduce waste."
+  },
+  {
+    "id": "RW10-M1-018",
+    "prompt": "Scientists studying desert tortoises note that the animals spend much of the hottest part of the day in burrows. These underground spaces are cooler than the surface and help the tortoises avoid overheating.\nAccording to the text, why do desert tortoises use burrows during the hottest part of the day?",
+    "choices": {
+      "A": "To stay cooler and avoid overheating",
+      "B": "To collect food from tree branches",
+      "C": "To make the desert surface hotter",
+      "D": "To build nests above the ground"
+    },
+    "correct": "A",
+    "explanation": "The text states that burrows are cooler than the surface and help tortoises avoid overheating."
+  },
+  {
+    "id": "RW10-M1-019",
+    "prompt": "A student is revising the following sentence.\nThe school created a peer math desk, and students can visit it to review formulas, practice problems, or ask for help.\nWhich choice best combines the ideas clearly and concisely?",
+    "choices": {
+      "A": "The school created a peer math desk where students can review formulas, practice problems, or ask for help.",
+      "B": "The school created a peer math desk, students can visit it to review formulas, practice problems, or ask for help.",
+      "C": "The school created a peer math desk and reviewing formulas, practicing problems, or asking for help.",
+      "D": "The school created a peer math desk because students, formulas, problems, and help."
+    },
+    "correct": "A",
+    "explanation": "This choice combines the ideas clearly and avoids a comma splice."
+  },
+  {
+    "id": "RW10-M1-020",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Liliʻuokalani was the last monarch of the Kingdom of Hawaiʻi.\n• She was also a composer and writer.\n• Her song “Aloha ʻOe” became widely known.\n• She wrote about Hawaiian history and her experiences.\n• Her creative work remains an important part of Hawaiian cultural memory.\nThe student wants to introduce Liliʻuokalani as both a historical and creative figure. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Liliʻuokalani, the last monarch of the Kingdom of Hawaiʻi, was also a composer and writer whose creative work remains culturally important.",
+      "B": "“Aloha ʻOe” is a song that became widely known after it was written.",
+      "C": "Hawaiian history includes many events that writers have described.",
+      "D": "A monarch is a ruler, and some rulers have also supported the arts."
+    },
+    "correct": "A",
+    "explanation": "This choice introduces Liliʻuokalani as both a historical ruler and a creative figure."
+  },
+  {
+    "id": "RW10-M1-021",
+    "prompt": "A student recorded the number of minutes four groups spent testing their egg-drop designs.\nGroup | Minutes tested\nGroup 1 | 21\nGroup 2 | 28\nGroup 3 | 25\nGroup 4 | 19\nWhich choice is supported by the data in the table?",
+    "choices": {
+      "A": "Group 2 spent the most time testing.",
+      "B": "Group 4 spent more time testing than Group 3.",
+      "C": "Group 1 and Group 3 spent the same amount of time testing.",
+      "D": "No group spent more than 25 minutes testing."
+    },
+    "correct": "A",
+    "explanation": "Group 2 spent 28 minutes testing, more than the other groups."
+  },
+  {
+    "id": "RW10-M1-022",
+    "prompt": "In a paragraph about student art exhibitions, a writer states, “Students selected pieces for display, wrote labels for their artwork, arranged frames, and greeted visitors on opening night.”\nWhat is the most likely purpose of the sentence?",
+    "choices": {
+      "A": "To give examples of responsibilities students handled for the exhibition",
+      "B": "To explain why artwork should never be labeled",
+      "C": "To argue that visitors should arrange frames themselves",
+      "D": "To compare student art exhibitions with professional sports events"
+    },
+    "correct": "A",
+    "explanation": "The sentence lists exhibition responsibilities such as selecting pieces, writing labels, arranging frames, and greeting visitors."
+  },
+  {
+    "id": "RW10-M1-023",
+    "prompt": "The microscope ______ sits beside the lab sink is used for examining pond water samples.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "that",
+      "B": "who",
+      "C": "where",
+      "D": "when"
+    },
+    "correct": "A",
+    "explanation": "“That” correctly introduces the clause identifying which microscope is used for pond water samples."
+  },
+  {
+    "id": "RW10-M1-024",
+    "prompt": "The guide teaches hikers to check weather conditions, to pack enough water, and ______ marked trails.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "following",
+      "B": "to follow",
+      "C": "followed",
+      "D": "the following of"
+    },
+    "correct": "B",
+    "explanation": "The phrase completes the parallel structure: “to check,” “to pack,” and “to follow.”"
+  },
+  {
+    "id": "RW10-M1-025",
+    "prompt": "The directions to the meeting room were unclear, so the office assistant added arrows and floor numbers to make the route more ______.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "obvious",
+      "B": "fragile",
+      "C": "accidental",
+      "D": "crowded"
+    },
+    "correct": "A",
+    "explanation": "Adding arrows and floor numbers would make the route easier to recognize and follow."
+  },
+  {
+    "id": "RW10-M1-026",
+    "prompt": "A student wants to begin an essay about the benefits of school breakfast programs. Which choice would be the most effective opening sentence for the essay?",
+    "choices": {
+      "A": "School breakfast programs can help students start the day with food they need to focus and learn.",
+      "B": "Breakfast foods can include cereal, fruit, toast, yogurt, and many other items.",
+      "C": "Some school cafeterias have long tables, while others have round tables.",
+      "D": "My school cafeteria opens its doors before first period begins."
+    },
+    "correct": "A",
+    "explanation": "This sentence clearly introduces the essay’s focus on the benefits of school breakfast programs."
+  },
+  {
+    "id": "RW10-M1-027",
+    "prompt": "The park added benches along the longest walking path. ______ visitors who needed to rest had more places to sit.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "As a result,",
+      "B": "Nevertheless,",
+      "C": "For example,",
+      "D": "In comparison,"
+    },
+    "correct": "A",
+    "explanation": "Visitors having more places to rest is presented as an effect of adding benches.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

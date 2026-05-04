@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW7-M1-001",
+    "prompt": "In 1856, scientist Eunice Newton Foote conducted experiments showing that carbon dioxide could trap heat more effectively than ordinary air. Although her work received limited attention at the time, later scholars have recognized it as an early contribution to climate science. Foote’s experiment is now often described as ______ because it anticipated questions scientists continue to study today.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "careless",
+      "B": "pioneering",
+      "C": "unrelated",
+      "D": "temporary"
+    },
+    "correct": "B",
+    "explanation": "Foote’s experiment was an early contribution that anticipated later climate science questions, so “pioneering” is most precise."
+  },
+  {
+    "id": "RW7-M1-002",
+    "prompt": "Some plants rely on ants to spread their seeds. These plants produce seeds with small food-rich parts that ants carry back to their nests. After eating the food-rich parts, the ants leave the seeds underground, where the seeds may be protected until they sprout.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Some ants help plants reproduce by carrying and burying seeds.",
+      "B": "Ants prevent all plant seeds from growing underground.",
+      "C": "Plants that rely on ants do not produce seeds with food-rich parts.",
+      "D": "Seeds can sprout only after ants remove them from the soil."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that ants carry seeds, eat the food-rich parts, and leave the seeds underground where they may sprout."
+  },
+  {
+    "id": "RW7-M1-003",
+    "prompt": "A student recorded the number of students who attended four lunchtime workshops.\nWorkshop | Students attended\nStudy skills | 26\nHealthy snacks | 18\nCollege planning | 33\nPublic speaking | 29\nWhich choice is supported by the data in the table?",
+    "choices": {
+      "A": "The College planning workshop had the greatest attendance.",
+      "B": "The Healthy snacks workshop had more students than the Public speaking workshop.",
+      "C": "The Study skills and Public speaking workshops had the same attendance.",
+      "D": "No workshop had more than 29 students attend."
+    },
+    "correct": "A",
+    "explanation": "College planning had 33 students attend, more than the other workshops."
+  },
+  {
+    "id": "RW7-M1-004",
+    "prompt": "Rosa wanted her first printmaking project to show a perfect row of trees. When the ink spread unevenly, she almost threw the paper away. Her teacher suggested looking at the print again. Rosa noticed that the uneven ink made the trees seem to move in the wind, so she decided to keep the image.\nWhich choice best describes what happens in the text?",
+    "choices": {
+      "A": "Rosa learns to see value in an unexpected result.",
+      "B": "Rosa stops working on printmaking because she dislikes ink.",
+      "C": "Rosa proves that careful planning always prevents mistakes.",
+      "D": "Rosa teaches her teacher how to print a row of trees."
+    },
+    "correct": "A",
+    "explanation": "Rosa first thinks the uneven ink ruined the print but then decides it makes the trees seem to move."
+  },
+  {
+    "id": "RW7-M1-005",
+    "prompt": "In a passage about medieval town bells, a historian explains that bells were rung for many reasons, including fires, market openings, and curfews. The historian adds, “Because many residents could not read posted announcements, the sound of a bell could quickly spread important information.”\nWhat is the main function of the quoted sentence?",
+    "choices": {
+      "A": "It explains why bells were an effective communication tool.",
+      "B": "It argues that medieval towns did not have markets.",
+      "C": "It describes how bells were made from metal.",
+      "D": "It shows that posted announcements were always louder than bells."
+    },
+    "correct": "A",
+    "explanation": "The quoted sentence explains that bells could spread important information quickly to residents who could not read announcements."
+  },
+  {
+    "id": "RW7-M1-006",
+    "prompt": "The school’s media center now offers printed books, e-books, and audiobooks. ______ students can borrow portable chargers for use during the school day.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In addition,",
+      "B": "However,",
+      "C": "As a result,",
+      "D": "Instead,"
+    },
+    "correct": "A",
+    "explanation": "The second sentence adds another service offered by the media center."
+  },
+  {
+    "id": "RW7-M1-007",
+    "prompt": "The pair of murals in the hallway ______ scenes from the town’s early history.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "show",
+      "B": "showing",
+      "C": "shows",
+      "D": "have shown"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “pair” requires the singular verb “shows.”"
+  },
+  {
+    "id": "RW7-M1-008",
+    "prompt": "The play’s main character is Elena, ______ young inventor who builds a machine from old bicycle parts.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "those"
+    },
+    "correct": "A",
+    "explanation": "“Young inventor” begins with a consonant sound, so “a” is correct."
+  },
+  {
+    "id": "RW7-M1-009",
+    "prompt": "The committee finished its report and posted ______ on the school website.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "it",
+      "B": "them",
+      "C": "they",
+      "D": "themselves"
+    },
+    "correct": "A",
+    "explanation": "The singular pronoun “it” correctly refers to the committee’s report."
+  },
+  {
+    "id": "RW7-M1-010",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Ellen Swallow Richards was a chemist.\n• She was the first woman admitted to the Massachusetts Institute of Technology.\n• Richards studied water quality and sanitation.\n• She helped develop the field of home economics.\n• Her work connected science to everyday health and living conditions.\nThe student wants to introduce Richards and the practical focus of her scientific work. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Ellen Swallow Richards, a chemist who studied water quality and sanitation, connected science to everyday health and living conditions.",
+      "B": "Ellen Swallow Richards was admitted to the Massachusetts Institute of Technology, which is a university.",
+      "C": "Home economics developed over time and included many different topics.",
+      "D": "Water quality and sanitation are subjects that many scientists have studied."
+    },
+    "correct": "A",
+    "explanation": "This choice introduces Richards and emphasizes the practical focus of her scientific work."
+  },
+  {
+    "id": "RW7-M1-011",
+    "prompt": "The city’s new art walk brings more visitors to local galleries. ______ some residents worry that crowded sidewalks will make the neighborhood less quiet on weekends.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "However,",
+      "B": "Similarly,",
+      "C": "For example,",
+      "D": "Therefore,"
+    },
+    "correct": "A",
+    "explanation": "The second sentence contrasts the benefit of more gallery visitors with residents’ concern about crowding."
+  },
+  {
+    "id": "RW7-M1-012",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) Nutrition labels give information about packaged foods. (2) They list details such as serving size, calories, and certain nutrients. (3) Learning how to read these labels can help shoppers compare products. (4) For example, a shopper might use labels to choose a cereal with less added sugar.\nTo make the paragraph most logical, sentence 4 should be placed",
+    "choices": {
+      "A": "where it is now.",
+      "B": "before sentence 1.",
+      "C": "between sentence 1 and sentence 2.",
+      "D": "between sentence 2 and sentence 3."
+    },
+    "correct": "A",
+    "explanation": "Sentence 4 logically follows sentence 3 by giving an example of how shoppers can compare products."
+  },
+  {
+    "id": "RW7-M1-013",
+    "prompt": "Next Friday, the astronomy club ______ a viewing night on the football field.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "hosts",
+      "B": "hosted",
+      "C": "will host",
+      "D": "hosting"
+    },
+    "correct": "C",
+    "explanation": "“Next Friday” requires a future-tense verb phrase."
+  },
+  {
+    "id": "RW7-M1-014",
+    "prompt": "______ from thin strips of wood, the model airplane was light enough to hang from the ceiling.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Built",
+      "B": "Building",
+      "C": "To build",
+      "D": "Build"
+    },
+    "correct": "A",
+    "explanation": "“Built from thin strips of wood” correctly modifies “the model airplane.”"
+  },
+  {
+    "id": "RW7-M1-015",
+    "prompt": "The outdoor lunch tables were moved inside ______ the forecast called for heavy rain.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "inside, the forecast",
+      "B": "inside because the forecast",
+      "C": "inside; because the forecast",
+      "D": "inside, because, the forecast"
+    },
+    "correct": "B",
+    "explanation": "“Because” correctly introduces the reason the tables were moved inside."
+  },
+  {
+    "id": "RW7-M1-016",
+    "prompt": "To understand which topics students wanted to learn more about, the teacher reviewed their anonymous survey responses. She hoped the responses would ______ the class’s interests before she planned the next unit.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "reveal",
+      "B": "borrow",
+      "C": "interrupt",
+      "D": "decorate"
+    },
+    "correct": "A",
+    "explanation": "Survey responses would show or reveal students’ interests."
+  },
+  {
+    "id": "RW7-M1-017",
+    "prompt": "Many communities hold clothing swaps, events where people bring garments they no longer wear and exchange them for other items. These swaps can help people refresh their wardrobes without buying new clothes, and they can keep usable clothing out of the trash.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Clothing swaps can reduce waste and give people access to different clothes.",
+      "B": "Clothing swaps require people to throw away garments they no longer wear.",
+      "C": "Communities hold clothing swaps only when stores are closed.",
+      "D": "Buying new clothing is the only way to refresh a wardrobe."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that swaps help people exchange clothing and keep usable items out of the trash."
+  },
+  {
+    "id": "RW7-M1-018",
+    "prompt": "Marine scientists studying sea stars note that some species can regrow lost arms. This ability can help a sea star survive after an attack by a predator.\nAccording to the text, how can regrowing lost arms help some sea stars?",
+    "choices": {
+      "A": "It can help them survive after being attacked.",
+      "B": "It allows them to live without ocean water.",
+      "C": "It prevents predators from living near the shore.",
+      "D": "It makes them grow faster than all other marine animals."
+    },
+    "correct": "A",
+    "explanation": "The text states that regrowing arms can help sea stars survive after a predator attack."
+  },
+  {
+    "id": "RW7-M1-019",
+    "prompt": "A student is revising the following sentence.\nThe school created a digital suggestion box, and students can use it to propose activities, report problems, and share ideas.\nWhich choice best combines the ideas clearly and concisely?",
+    "choices": {
+      "A": "The school created a digital suggestion box that students can use to propose activities, report problems, and share ideas.",
+      "B": "The school created a digital suggestion box, students can use it to propose activities, report problems, and share ideas.",
+      "C": "The school created a digital suggestion box and proposing activities, reporting problems, and sharing ideas.",
+      "D": "The school created a digital suggestion box because students, activities, problems, and ideas."
+    },
+    "correct": "A",
+    "explanation": "This choice combines the ideas clearly and avoids a comma splice."
+  },
+  {
+    "id": "RW7-M1-020",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Carlos Juan Finlay was a Cuban physician.\n• He proposed that mosquitoes could spread yellow fever.\n• His idea was controversial when he first presented it.\n• Later research supported the mosquito transmission theory.\n• Understanding yellow fever transmission helped public health workers reduce the disease’s spread.\nThe student wants to explain the importance of Finlay’s idea. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Carlos Juan Finlay proposed that mosquitoes could spread yellow fever, an idea later supported by research and important to public health.",
+      "B": "Carlos Juan Finlay was a Cuban physician, and physicians often study diseases.",
+      "C": "Yellow fever was one of several diseases that concerned public health workers.",
+      "D": "Finlay’s idea was controversial when he first presented it to other people."
+    },
+    "correct": "A",
+    "explanation": "This choice explains the significance of Finlay’s mosquito transmission theory."
+  },
+  {
+    "id": "RW7-M1-021",
+    "prompt": "A student recorded the number of canned goods collected by four homerooms.\nHomeroom | Cans collected\nRoom 101 | 54\nRoom 204 | 61\nRoom 318 | 48\nRoom 422 | 57\nWhich choice is supported by the data in the table?",
+    "choices": {
+      "A": "Room 204 collected the greatest number of cans.",
+      "B": "Room 318 collected more cans than Room 101.",
+      "C": "Room 101 and Room 422 collected the same number of cans.",
+      "D": "No homeroom collected more than 57 cans."
+    },
+    "correct": "A",
+    "explanation": "Room 204 collected 61 cans, more than the other homerooms."
+  },
+  {
+    "id": "RW7-M1-022",
+    "prompt": "In a paragraph about student theater crews, a writer states, “Crew members adjusted lights, painted scenery, organized props, and checked microphones before the performance.”\nWhat is the most likely purpose of the sentence?",
+    "choices": {
+      "A": "To give examples of behind-the-scenes work done by student theater crews",
+      "B": "To explain why student actors should never use microphones",
+      "C": "To argue that scenery is more important than lighting in every play",
+      "D": "To compare theater crews with sports teams"
+    },
+    "correct": "A",
+    "explanation": "The sentence lists several tasks theater crew members did before the performance."
+  },
+  {
+    "id": "RW7-M1-023",
+    "prompt": "The sculpture ______ stands in the center of the plaza was created by a local artist.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "that",
+      "B": "who",
+      "C": "where",
+      "D": "when"
+    },
+    "correct": "A",
+    "explanation": "“That” correctly introduces the clause identifying which sculpture was created by a local artist."
+  },
+  {
+    "id": "RW7-M1-024",
+    "prompt": "The class project asks students to research a topic, to design a display, and ______ their findings to visitors.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "presenting",
+      "B": "to present",
+      "C": "presented",
+      "D": "the presentation of"
+    },
+    "correct": "B",
+    "explanation": "The phrase completes the parallel structure: “to research,” “to design,” and “to present.”"
+  },
+  {
+    "id": "RW7-M1-025",
+    "prompt": "The first version of the schedule listed the workshop titles but not the room numbers, so the organizer added room information to make the schedule more ______.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "useful",
+      "B": "fragile",
+      "C": "crowded",
+      "D": "imaginary"
+    },
+    "correct": "A",
+    "explanation": "Adding room numbers makes the schedule more helpful for people using it."
+  },
+  {
+    "id": "RW7-M1-026",
+    "prompt": "A student wants to begin an essay about the advantages of learning basic first aid. Which choice would be the most effective opening sentence for the essay?",
+    "choices": {
+      "A": "Learning basic first aid can help students respond calmly and safely to minor emergencies.",
+      "B": "Some first-aid kits are red, while others are white or clear.",
+      "C": "A bandage is one item that may be found in a first-aid kit.",
+      "D": "My classroom has a poster about emergency exits."
+    },
+    "correct": "A",
+    "explanation": "This sentence clearly introduces the essay’s broad focus on the value of first aid."
+  },
+  {
+    "id": "RW7-M1-027",
+    "prompt": "The museum added large-print labels beside several displays. ______ visitors who found the smaller labels difficult to read could better understand the exhibits.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "As a result,",
+      "B": "For example,",
+      "C": "Nevertheless,",
+      "D": "In the meantime,"
+    },
+    "correct": "A",
+    "explanation": "Visitors’ improved understanding is presented as an effect of adding large-print labels.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

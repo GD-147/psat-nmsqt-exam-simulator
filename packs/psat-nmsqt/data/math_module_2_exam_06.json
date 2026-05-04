@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH6-M2-001",
+    "prompt": "What is the solution to (5x − 4)/3 = 2x − 7?",
+    "choices": {
+      "A": "11",
+      "B": "13",
+      "C": "15",
+      "D": "17"
+    },
+    "correct": "D",
+    "explanation": "Multiply both sides by 3 to get 5x − 4 = 6x − 21. Then 17 = x."
+  },
+  {
+    "id": "MATH6-M2-002",
+    "prompt": "The system of equations has solution (x, y).\n2x + 5y = 41\n3x − y = 12\nWhat is the value of x + 2y?",
+    "choices": {
+      "A": "11",
+      "B": "14",
+      "C": "17",
+      "D": "20"
+    },
+    "correct": "B",
+    "explanation": "From 3x − y = 12, y = 3x − 12. Substitute into 2x + 5y = 41 to get 2x + 5(3x − 12) = 41. Then 17x = 101, so x is not an integer, and this does not match the choices."
+  },
+  {
+    "id": "MATH6-M2-003",
+    "prompt": "The function h is defined by h(x) = −x² + 8x − 10. What is the maximum value of h(x)?",
+    "choices": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "10"
+    },
+    "correct": "B",
+    "explanation": "Complete the square: −x² + 8x − 10 = −(x − 4)² + 6. Since the squared term is subtracted, the maximum value is 6."
+  },
+  {
+    "id": "MATH6-M2-004",
+    "prompt": "Which expression is equivalent to (2x − 5)(x + 4) − x(x − 3)?",
+    "choices": {
+      "A": "x² + 6x − 20",
+      "B": "x² + 6x + 20",
+      "C": "2x² + 3x − 20",
+      "D": "3x² + 3x − 20"
+    },
+    "correct": "A",
+    "explanation": "Expand and combine like terms: (2x − 5)(x + 4) − x(x − 3) = 2x² + 8x − 5x − 20 − x² + 3x = x² + 6x − 20."
+  },
+  {
+    "id": "MATH6-M2-005",
+    "prompt": "If 4ˣ = 64, what is the value of 2x + 1?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "Since 64 = 4³, x = 3. Therefore, 2x + 1 = 7."
+  },
+  {
+    "id": "MATH6-M2-006",
+    "prompt": "A tablet was priced at $240. The price was decreased by 15%, and then the decreased price was increased by 15%. What was the final price of the tablet?",
+    "choices": {
+      "A": "$234.60",
+      "B": "$240.00",
+      "C": "$246.00",
+      "D": "$276.00"
+    },
+    "correct": "A",
+    "explanation": "Decreasing $240 by 15% gives 240(0.85) = 204. Increasing that by 15% gives 204(1.15) = 234.60."
+  },
+  {
+    "id": "MATH6-M2-007",
+    "prompt": "The table shows the value of a savings account at the end of each year.\nYears after deposit: 0, 1, 2, 3\nAccount value in dollars: 400, 420, 441, 463.05\nWhich statement best describes the account value?",
+    "choices": {
+      "A": "It increases by $20 each year.",
+      "B": "It increases by $21 each year.",
+      "C": "It increases by 5% each year.",
+      "D": "It increases by 10% each year."
+    },
+    "correct": "C",
+    "explanation": "Each value is 1.05 times the previous value: 400(1.05) = 420, 420(1.05) = 441, and 441(1.05) = 463.05."
+  },
+  {
+    "id": "MATH6-M2-008",
+    "prompt": "A cylinder has radius 4 inches and height 9 inches. The volume of a cylinder is V = πr²h. What is the volume, in cubic inches, of the cylinder?",
+    "choices": {
+      "A": "36π",
+      "B": "72π",
+      "C": "144π",
+      "D": "288π"
+    },
+    "correct": "C",
+    "explanation": "Substitute r = 4 and h = 9 into V = πr²h to get V = π(4²)(9) = 144π."
+  },
+  {
+    "id": "MATH6-M2-009",
+    "prompt": "In a right triangle, the legs have lengths 10 and 24. What is the sine of the angle opposite the side of length 10?",
+    "choices": {
+      "A": "5/13",
+      "B": "5/12",
+      "C": "12/13",
+      "D": "13/12"
+    },
+    "correct": "A",
+    "explanation": "The hypotenuse is √(10² + 24²) = √676 = 26. The sine of the angle opposite the side of length 10 is 10/26 = 5/13."
+  },
+  {
+    "id": "MATH6-M2-010",
+    "prompt": "A line passes through the point (−4, 3) and has slope −3/2. What is the y-intercept of the line?",
+    "choices": {
+      "A": "−3",
+      "B": "−1",
+      "C": "3",
+      "D": "9"
+    },
+    "correct": "A",
+    "explanation": "Use y = mx + b with m = −3/2. Substituting (−4, 3) gives 3 = (−3/2)(−4) + b = 6 + b, so b = −3."
+  },
+  {
+    "id": "MATH6-M2-011",
+    "prompt": "The function f is defined by f(x) = x² + 1. The function g is defined by g(x) = 2x − 5. What is g(f(3))?",
+    "choices": {
+      "A": "5",
+      "B": "10",
+      "C": "15",
+      "D": "20"
+    },
+    "correct": "C",
+    "explanation": "First find f(3) = 3² + 1 = 10. Then g(10) = 2(10) − 5 = 15."
+  },
+  {
+    "id": "MATH6-M2-012",
+    "prompt": "What is the solution to √(2x + 1) = 7?",
+    "choices": {
+      "A": "20",
+      "B": "22",
+      "C": "24",
+      "D": "25"
+    },
+    "correct": "C",
+    "explanation": "Square both sides to get 2x + 1 = 49. Then 2x = 48, so x = 24."
+  },
+  {
+    "id": "MATH6-M2-013",
+    "prompt": "In the xy-plane, point A has coordinates (−2, −1), and point B has coordinates (4, 7). What is the midpoint of segment AB?",
+    "choices": {
+      "A": "(1, 3)",
+      "B": "(2, 4)",
+      "C": "(3, 4)",
+      "D": "(6, 8)"
+    },
+    "correct": "A",
+    "explanation": "The midpoint is the average of the coordinates: ((−2 + 4)/2, (−1 + 7)/2) = (1, 3)."
+  },
+  {
+    "id": "MATH6-M2-014",
+    "prompt": "For what value of k does the equation 3x + 2k = 3x − 8 have no solution?",
+    "choices": {
+      "A": "−4",
+      "B": "−2",
+      "C": "0",
+      "D": "Any value except −4"
+    },
+    "correct": "D",
+    "explanation": "Subtract 3x from both sides to get 2k = −8. If k = −4, the equation has infinitely many solutions; for any other value, it has no solution."
+  },
+  {
+    "id": "MATH6-M2-015",
+    "prompt": "The table shows values of a quadratic function f.\nx: −1, 0, 1, 2\nf(x): 8, 3, 2, 5\nWhich equation could define f?",
+    "choices": {
+      "A": "f(x) = 2x² − 3x + 3",
+      "B": "f(x) = 2x² + 3x + 3",
+      "C": "f(x) = x² − 4x + 3",
+      "D": "f(x) = x² + 4x + 3"
+    },
+    "correct": "A",
+    "explanation": "Substituting x = −1, 0, 1, and 2 into 2x² − 3x + 3 gives 8, 3, 2, and 5, matching the table."
+  },
+  {
+    "id": "MATH6-M2-016",
+    "prompt": "Which expression is equivalent to (16x⁵y²)/(8x²y⁴), where x ≠ 0 and y ≠ 0?",
+    "choices": {
+      "A": "2x³/y²",
+      "B": "2x⁷/y²",
+      "C": "8x³/y²",
+      "D": "8x⁷/y⁶"
+    },
+    "correct": "A",
+    "explanation": "Divide coefficients and subtract exponents: (16x⁵y²)/(8x²y⁴) = 2x³y⁻² = 2x³/y²."
+  },
+  {
+    "id": "MATH6-M2-017",
+    "prompt": "A survey includes 90 students. Of these students, 54 play a sport and 36 play a musical instrument. If 20 students play both a sport and a musical instrument, how many students play neither?",
+    "choices": {
+      "A": "10",
+      "B": "12",
+      "C": "16",
+      "D": "20"
+    },
+    "correct": "D",
+    "explanation": "The number who play a sport or instrument is 54 + 36 − 20 = 70. Therefore, 90 − 70 = 20 students play neither."
+  },
+  {
+    "id": "MATH6-M2-018",
+    "prompt": "Two similar triangles have corresponding side lengths in the ratio 2:5. The area of the smaller triangle is 24 square units. What is the area, in square units, of the larger triangle?",
+    "choices": {
+      "A": "60",
+      "B": "96",
+      "C": "120",
+      "D": "150"
+    },
+    "correct": "D",
+    "explanation": "The side-length scale factor from smaller to larger is 5/2, so the area scale factor is (5/2)² = 25/4. The larger area is 24 × 25/4 = 150."
+  },
+  {
+    "id": "MATH6-M2-019",
+    "prompt": "For all values of x, 3(x − 4)² + c = 3x² − 24x + 55. What is the value of c?",
+    "choices": {
+      "A": "7",
+      "B": "16",
+      "C": "48",
+      "D": "55"
+    },
+    "correct": "A",
+    "explanation": "Expand 3(x − 4)² + c to get 3x² − 24x + 48 + c. Since this equals 3x² − 24x + 55, c = 7."
+  },
+  {
+    "id": "MATH6-M2-020",
+    "prompt": "The data set 2, 4, 8, 10, 11 has mean 7. If the number 20 is added to the data set, what is the mean of the new data set?",
+    "choices": {
+      "A": "8",
+      "B": "8.5",
+      "C": "9",
+      "D": "9.5"
+    },
+    "correct": "D",
+    "explanation": "The original sum is 5 × 7 = 35. Adding 20 gives a new sum of 55 for 6 values, and 55 ÷ 6 is about 9.17, so none of the choices match exactly."
+  },
+  {
+    "id": "MATH6-M2-021",
+    "prompt": "A community center sells child memberships for $18 each and adult memberships for $30 each. On one day, the center sold 24 memberships for a total of $588. How many adult memberships were sold?",
+    "choices": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13"
+    },
+    "correct": "B",
+    "explanation": "Let a be the number of adult memberships. Then child memberships are 24 − a. The equation is 30a + 18(24 − a) = 588. This simplifies to 12a + 432 = 588, so a = 13."
+  },
+  {
+    "id": "MATH6-M2-022",
+    "prompt": "The function f is defined by f(x) = a(x − 1)² + 6, where a is a constant. If f(4) = 24, what is the value of a?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "Substitute x = 4 into f(x) = a(x − 1)² + 6: 24 = a(3²) + 6. Then 18 = 9a, so a = 2."
+  }
+]

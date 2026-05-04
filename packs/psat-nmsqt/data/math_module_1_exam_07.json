@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH7-M1-001",
+    "prompt": "What is the solution to (2/3)x − 5 = 7?",
+    "choices": {
+      "A": "8",
+      "B": "12",
+      "C": "18",
+      "D": "24"
+    },
+    "correct": "C",
+    "explanation": "Add 5 to both sides to get (2/3)x = 12. Multiply both sides by 3/2 to get x = 18."
+  },
+  {
+    "id": "MATH7-M1-002",
+    "prompt": "A machine fills 18 bottles in 6 minutes at a constant rate. At this rate, how many bottles does the machine fill in 11 minutes?",
+    "choices": {
+      "A": "24",
+      "B": "30",
+      "C": "33",
+      "D": "36"
+    },
+    "correct": "C",
+    "explanation": "The machine fills 18 ÷ 6 = 3 bottles per minute. In 11 minutes, it fills 3 × 11 = 33 bottles."
+  },
+  {
+    "id": "MATH7-M1-003",
+    "prompt": "The numbers of text messages sent by 5 students in one hour are 12, 18, 15, 21, and 14. What is the median number of text messages sent?",
+    "choices": {
+      "A": "14",
+      "B": "15",
+      "C": "16",
+      "D": "18"
+    },
+    "correct": "B",
+    "explanation": "Order the values as 12, 14, 15, 18, 21. The middle value is 15."
+  },
+  {
+    "id": "MATH7-M1-004",
+    "prompt": "A line in the xy-plane has equation y = 2x − 9. What is the slope of the line?",
+    "choices": {
+      "A": "−9",
+      "B": "−2",
+      "C": "2",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "In y = 2x − 9, the coefficient of x is the slope, so the slope is 2."
+  },
+  {
+    "id": "MATH7-M1-005",
+    "prompt": "A student needs at least 85 points to pass a course. The student has already earned 52 points and will earn p more points. Which inequality represents this situation?",
+    "choices": {
+      "A": "p + 52 ≥ 85",
+      "B": "p + 52 ≤ 85",
+      "C": "52p ≥ 85",
+      "D": "85 − p ≥ 52"
+    },
+    "correct": "A",
+    "explanation": "The total points are 52 + p, and the student needs at least 85 points."
+  },
+  {
+    "id": "MATH7-M1-006",
+    "prompt": "What is the solution (x, y) to the system of equations?\nx + 2y = 16\nx = 4",
+    "choices": {
+      "A": "(4, 4)",
+      "B": "(4, 6)",
+      "C": "(6, 4)",
+      "D": "(8, 4)"
+    },
+    "correct": "B",
+    "explanation": "Substitute x = 4 into x + 2y = 16 to get 4 + 2y = 16. Then 2y = 12, so y = 6."
+  },
+  {
+    "id": "MATH7-M1-007",
+    "prompt": "Which expression is equivalent to 9z − 4(2z − 3)?",
+    "choices": {
+      "A": "z − 12",
+      "B": "z + 12",
+      "C": "17z − 12",
+      "D": "17z + 12"
+    },
+    "correct": "B",
+    "explanation": "Distribute −4 to get 9z − 8z + 12, which simplifies to z + 12."
+  },
+  {
+    "id": "MATH7-M1-008",
+    "prompt": "Which expression is equivalent to b⁸ ÷ b², where b ≠ 0?",
+    "choices": {
+      "A": "b⁴",
+      "B": "b⁶",
+      "C": "b¹⁰",
+      "D": "2b⁶"
+    },
+    "correct": "B",
+    "explanation": "When dividing powers with the same base, subtract exponents: b⁸ ÷ b² = b⁶."
+  },
+  {
+    "id": "MATH7-M1-009",
+    "prompt": "A bowl contains 7 almonds, 9 cashews, and 4 walnuts. If one nut is selected at random, what is the probability that the nut selected is not a walnut?",
+    "choices": {
+      "A": "1/5",
+      "B": "2/5",
+      "C": "4/5",
+      "D": "9/20"
+    },
+    "correct": "C",
+    "explanation": "There are 20 nuts total, and 16 are not walnuts. The probability is 16/20 = 4/5."
+  },
+  {
+    "id": "MATH7-M1-010",
+    "prompt": "A triangle has an area of 54 square inches and a base of 12 inches. What is the height, in inches, of the triangle?",
+    "choices": {
+      "A": "4.5",
+      "B": "6",
+      "C": "9",
+      "D": "18"
+    },
+    "correct": "C",
+    "explanation": "Use A = (1/2)bh. Since 54 = (1/2)(12)h, 54 = 6h, so h = 9."
+  },
+  {
+    "id": "MATH7-M1-011",
+    "prompt": "In the xy-plane, point A has coordinates (−4, 5), and point B has coordinates (2, 5). What is the x-coordinate of the midpoint of segment AB?",
+    "choices": {
+      "A": "−2",
+      "B": "−1",
+      "C": "1",
+      "D": "3"
+    },
+    "correct": "B",
+    "explanation": "The x-coordinate of the midpoint is the average of the x-coordinates: (−4 + 2)/2 = −1."
+  },
+  {
+    "id": "MATH7-M1-012",
+    "prompt": "What is the value of √100 − √36?",
+    "choices": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "correct": "B",
+    "explanation": "√100 = 10 and √36 = 6, so √100 − √36 = 4."
+  },
+  {
+    "id": "MATH7-M1-013",
+    "prompt": "If f(x) = 4x − 1 and f(t) = 23, what is the value of t?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "B",
+    "explanation": "Since f(t) = 23, 4t − 1 = 23. Then 4t = 24, so t = 6."
+  },
+  {
+    "id": "MATH7-M1-014",
+    "prompt": "Which of the following is a solution to x² = 49?",
+    "choices": {
+      "A": "−8",
+      "B": "−7",
+      "C": "6",
+      "D": "14"
+    },
+    "correct": "B",
+    "explanation": "The solutions to x² = 49 are x = 7 and x = −7. Among the choices, −7 is a solution."
+  },
+  {
+    "id": "MATH7-M1-015",
+    "prompt": "A backpack costs $50 before a 12% discount is applied. What is the price of the backpack after the discount?",
+    "choices": {
+      "A": "$38",
+      "B": "$42",
+      "C": "$44",
+      "D": "$48"
+    },
+    "correct": "C",
+    "explanation": "A 12% discount on $50 is $6, so the price after the discount is $50 − $6 = $44."
+  },
+  {
+    "id": "MATH7-M1-016",
+    "prompt": "The table shows the relationship between the number of identical packets and the total number of stickers.\nPackets: 3, 5, 8, 10\nStickers: 24, 40, 64, 80\nHow many stickers are in 1 packet?",
+    "choices": {
+      "A": "6",
+      "B": "8",
+      "C": "10",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": "The number of stickers per packet is constant: 24 ÷ 3 = 8."
+  },
+  {
+    "id": "MATH7-M1-017",
+    "prompt": "A circle has diameter 14 centimeters. What is the circumference, in centimeters, of the circle?",
+    "choices": {
+      "A": "7π",
+      "B": "14π",
+      "C": "28π",
+      "D": "49π"
+    },
+    "correct": "B",
+    "explanation": "Circumference is π times diameter, so C = 14π."
+  },
+  {
+    "id": "MATH7-M1-018",
+    "prompt": "The surface area S of a cube with side length a is S = 6a². What is the surface area of a cube with side length 4 inches?",
+    "choices": {
+      "A": "24",
+      "B": "64",
+      "C": "96",
+      "D": "144"
+    },
+    "correct": "C",
+    "explanation": "Substitute a = 4 into S = 6a² to get S = 6(4²) = 6(16) = 96."
+  },
+  {
+    "id": "MATH7-M1-019",
+    "prompt": "An equation is given by T = 18 + 4d, where T is the total number of practice problems completed after d days. What does 18 represent in this equation?",
+    "choices": {
+      "A": "The number of practice problems completed each day",
+      "B": "The number of days spent practicing",
+      "C": "The number of practice problems already completed before the d days",
+      "D": "The total number of practice problems completed after 18 days"
+    },
+    "correct": "C",
+    "explanation": "In T = 18 + 4d, the constant 18 is the value of T when d = 0."
+  },
+  {
+    "id": "MATH7-M1-020",
+    "prompt": "The ratio of green beads to purple beads in a bracelet is 2:7. If there are 18 beads total, how many are purple?",
+    "choices": {
+      "A": "4",
+      "B": "7",
+      "C": "12",
+      "D": "14"
+    },
+    "correct": "D",
+    "explanation": "The ratio has 2 + 7 = 9 total parts. Since 18 ÷ 9 = 2, purple beads total 7 × 2 = 14."
+  },
+  {
+    "id": "MATH7-M1-021",
+    "prompt": "A rectangular floor has length 13 feet and width 9 feet. What is the area, in square feet, of the floor?",
+    "choices": {
+      "A": "22",
+      "B": "44",
+      "C": "117",
+      "D": "169"
+    },
+    "correct": "C",
+    "explanation": "The area of a rectangle is length × width, so the area is 13 × 9 = 117."
+  },
+  {
+    "id": "MATH7-M1-022",
+    "prompt": "The table shows the number of hours that several students spent studying for a test.\nHours studied: 1, 2, 3, 4\nNumber of students: 3, 6, 5, 2\nHow many students are represented in the table?",
+    "choices": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "16"
+    },
+    "correct": "D",
+    "explanation": "Add the numbers of students: 3 + 6 + 5 + 2 = 16.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

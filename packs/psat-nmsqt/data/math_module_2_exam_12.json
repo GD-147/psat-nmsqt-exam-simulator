@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH12-M2-001",
+    "prompt": "What is the solution to 2(3x + 5) − (x − 4) = 39?",
+    "choices": {
+      "A": "3",
+      "B": "5",
+      "C": "7",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "Expand and combine like terms: 2(3x + 5) − (x − 4) = 6x + 10 − x + 4 = 5x + 14. Then 5x + 14 = 39, so x = 5."
+  },
+  {
+    "id": "MATH12-M2-002",
+    "prompt": "The system of equations has solution (x, y).\n2x + 3y = 27\n4x − y = 19\nWhat is the value of 2y − x?",
+    "choices": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "correct": "B",
+    "explanation": "From 4x − y = 19, y = 4x − 19. Substitute into 2x + 3y = 27 to get 2x + 3(4x − 19) = 27. Then 14x = 84, so x = 6 and y = 5. Thus 2y − x = 10 − 6 = 4."
+  },
+  {
+    "id": "MATH12-M2-003",
+    "prompt": "The function f is defined by f(x) = 2x² − 16x + 35. What is the minimum value of f(x)?",
+    "choices": {
+      "A": "−3",
+      "B": "3",
+      "C": "4",
+      "D": "35"
+    },
+    "correct": "B",
+    "explanation": "Complete the square: 2x² − 16x + 35 = 2(x − 4)² + 3. Since the squared term is nonnegative, the minimum value is 3."
+  },
+  {
+    "id": "MATH12-M2-004",
+    "prompt": "For x ≠ 3, which expression is equivalent to (x² − 7x + 12)/(x − 3)?",
+    "choices": {
+      "A": "x − 4",
+      "B": "x − 3",
+      "C": "x + 3",
+      "D": "x + 4"
+    },
+    "correct": "A",
+    "explanation": "Factor the numerator: x² − 7x + 12 = (x − 3)(x − 4). Since x ≠ 3, the expression simplifies to x − 4."
+  },
+  {
+    "id": "MATH12-M2-005",
+    "prompt": "A value is modeled by 1,200(0.92)ᵗ, where t is the number of years after the value was first measured. Which statement best describes the value according to this model?",
+    "choices": {
+      "A": "The value decreases by 8% each year.",
+      "B": "The value decreases by 92% each year.",
+      "C": "The value increases by 8% each year.",
+      "D": "The value increases by 92% each year."
+    },
+    "correct": "A",
+    "explanation": "Multiplying by 0.92 each year means the value keeps 92% of its previous amount, so it decreases by 8% each year."
+  },
+  {
+    "id": "MATH12-M2-006",
+    "prompt": "After a 12% sales tax is added, the total cost of an item is $84. What was the cost of the item before tax?",
+    "choices": {
+      "A": "$72",
+      "B": "$75",
+      "C": "$78",
+      "D": "$80"
+    },
+    "correct": "B",
+    "explanation": "If p is the pretax cost, then 1.12p = 84. Dividing gives p = 75."
+  },
+  {
+    "id": "MATH12-M2-007",
+    "prompt": "The table shows the number of students in two grades who visited a science museum.\nGrade: 10, 11\nVisited museum: 16, 18\nDid not visit museum: 14, 12\nIf one student is selected at random from the students who visited the museum, what is the probability that the student is in Grade 11?",
+    "choices": {
+      "A": "8/17",
+      "B": "9/17",
+      "C": "3/5",
+      "D": "18/60"
+    },
+    "correct": "B",
+    "explanation": "A total of 16 + 18 = 34 students visited the museum, and 18 of them are in Grade 11. The probability is 18/34 = 9/17."
+  },
+  {
+    "id": "MATH12-M2-008",
+    "prompt": "A rectangular sheet of cardboard is 14 inches long and 9 inches wide. A rectangular piece measuring 5 inches by 4 inches is cut from one corner. What is the area, in square inches, of the remaining cardboard?",
+    "choices": {
+      "A": "86",
+      "B": "96",
+      "C": "106",
+      "D": "126"
+    },
+    "correct": "C",
+    "explanation": "The original cardboard area is 14 × 9 = 126. The cutout area is 5 × 4 = 20. The remaining area is 126 − 20 = 106."
+  },
+  {
+    "id": "MATH12-M2-009",
+    "prompt": "In a right triangle, the hypotenuse has length 29 and the side adjacent to angle θ has length 20. What is sin θ?",
+    "choices": {
+      "A": "20/29",
+      "B": "21/29",
+      "C": "20/21",
+      "D": "29/21"
+    },
+    "correct": "B",
+    "explanation": "The opposite side has length √(29² − 20²) = √441 = 21. Therefore, sin θ = opposite/hypotenuse = 21/29."
+  },
+  {
+    "id": "MATH12-M2-010",
+    "prompt": "Line r is represented by 2x − 5y = 10. A second line is perpendicular to line r and passes through the point (4, 3). What is the y-intercept of the second line?",
+    "choices": {
+      "A": "−13",
+      "B": "−7",
+      "C": "7",
+      "D": "13"
+    },
+    "correct": "D",
+    "explanation": "The line 2x − 5y = 10 has slope 2/5. A perpendicular line has slope −5/2. Using point (4, 3), 3 = (−5/2)(4) + b, so b = 13."
+  },
+  {
+    "id": "MATH12-M2-011",
+    "prompt": "The functions f and g are defined by f(x) = x² + 2x and g(x) = x − 5. What is f(g(8))?",
+    "choices": {
+      "A": "9",
+      "B": "15",
+      "C": "24",
+      "D": "35"
+    },
+    "correct": "B",
+    "explanation": "First find g(8) = 8 − 5 = 3. Then f(3) = 3² + 2(3) = 9 + 6 = 15."
+  },
+  {
+    "id": "MATH12-M2-012",
+    "prompt": "What is the solution to √(x − 2) + 4 = 10?",
+    "choices": {
+      "A": "34",
+      "B": "36",
+      "C": "38",
+      "D": "42"
+    },
+    "correct": "C",
+    "explanation": "Subtract 4 from both sides to get √(x − 2) = 6. Squaring gives x − 2 = 36, so x = 38."
+  },
+  {
+    "id": "MATH12-M2-013",
+    "prompt": "A circle in the xy-plane has center (−2, 5) and area 16π square units. Which equation represents the circle?",
+    "choices": {
+      "A": "(x − 2)² + (y + 5)² = 16",
+      "B": "(x + 2)² + (y − 5)² = 16",
+      "C": "(x − 2)² + (y + 5)² = 4",
+      "D": "(x + 2)² + (y − 5)² = 4"
+    },
+    "correct": "B",
+    "explanation": "The area is 16π, so πr² = 16π and r² = 16. With center (−2, 5), the equation is (x + 2)² + (y − 5)² = 16."
+  },
+  {
+    "id": "MATH12-M2-014",
+    "prompt": "For what value of a does the equation ax + 6 = 3x − 2 have no solution?",
+    "choices": {
+      "A": "−2",
+      "B": "0",
+      "C": "3",
+      "D": "6"
+    },
+    "correct": "C",
+    "explanation": "If a = 3, the equation becomes 3x + 6 = 3x − 2, which is false for all x. Therefore, the equation has no solution."
+  },
+  {
+    "id": "MATH12-M2-015",
+    "prompt": "The table shows values of a quadratic function q.\nx: −1, 0, 1, 2\nq(x): 8, 2, −2, −4\nWhich equation could define q?",
+    "choices": {
+      "A": "q(x) = x² − 5x + 2",
+      "B": "q(x) = x² + 5x + 2",
+      "C": "q(x) = −x² − 5x + 2",
+      "D": "q(x) = −x² + 5x + 2"
+    },
+    "correct": "A",
+    "explanation": "Substituting x = −1, 0, 1, and 2 into x² − 5x + 2 gives 8, 2, −2, and −4, matching the table."
+  },
+  {
+    "id": "MATH12-M2-016",
+    "prompt": "Which expression is equivalent to (14x³z − 21x²z²)/(7x²z), where x ≠ 0 and z ≠ 0?",
+    "choices": {
+      "A": "2x − 3z",
+      "B": "2x − 21z",
+      "C": "7x − 3z",
+      "D": "7x − 21z"
+    },
+    "correct": "A",
+    "explanation": "Divide each term by 7x²z: (14x³z)/(7x²z) − (21x²z²)/(7x²z) = 2x − 3z."
+  },
+  {
+    "id": "MATH12-M2-017",
+    "prompt": "A survey of 100 households found that 62 households subscribe to a streaming service, 48 households subscribe to cable, and 30 households subscribe to both. How many households subscribe to exactly one of these two services?",
+    "choices": {
+      "A": "30",
+      "B": "50",
+      "C": "80",
+      "D": "90"
+    },
+    "correct": "B",
+    "explanation": "Streaming only is 62 − 30 = 32, and cable only is 48 − 30 = 18. Exactly one service is 32 + 18 = 50 households."
+  },
+  {
+    "id": "MATH12-M2-018",
+    "prompt": "A material has a density of 0.8 gram per cubic centimeter. What is the mass, in grams, of 250 cubic centimeters of this material?",
+    "choices": {
+      "A": "125",
+      "B": "180",
+      "C": "200",
+      "D": "312.5"
+    },
+    "correct": "C",
+    "explanation": "Mass equals density times volume, so the mass is 0.8 × 250 = 200 grams."
+  },
+  {
+    "id": "MATH12-M2-019",
+    "prompt": "For all values of x, 5(x − 1)² + k = 5x² − 10x + 18. What is the value of k?",
+    "choices": {
+      "A": "5",
+      "B": "8",
+      "C": "13",
+      "D": "18"
+    },
+    "correct": "C",
+    "explanation": "Expand 5(x − 1)² + k to get 5x² − 10x + 5 + k. Since this equals 5x² − 10x + 18, k = 13."
+  },
+  {
+    "id": "MATH12-M2-020",
+    "prompt": "A data set has 7 values with a mean of 14. One value is added to the data set, and the mean of the 8 values becomes 16. What value was added?",
+    "choices": {
+      "A": "22",
+      "B": "26",
+      "C": "30",
+      "D": "34"
+    },
+    "correct": "C",
+    "explanation": "The original sum is 7 × 14 = 98. The new sum is 8 × 16 = 128. The added value is 128 − 98 = 30."
+  },
+  {
+    "id": "MATH12-M2-021",
+    "prompt": "At a cafe, muffins cost $3 each and smoothies cost $5 each. A customer buys a total of 24 muffins and smoothies for $92. How many smoothies does the customer buy?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "14"
+    },
+    "correct": "B",
+    "explanation": "Let s be the number of smoothies. Then muffins are 24 − s. The equation is 5s + 3(24 − s) = 92. This gives 2s + 72 = 92, so s = 10."
+  },
+  {
+    "id": "MATH12-M2-022",
+    "prompt": "The graph of a quadratic function has x-intercepts at x = 2 and x = 8 and passes through the point (0, 32). Which equation could define the function?",
+    "choices": {
+      "A": "y = 2(x − 2)(x − 8)",
+      "B": "y = −2(x − 2)(x − 8)",
+      "C": "y = (x + 2)(x + 8)",
+      "D": "y = 2(x + 2)(x + 8)"
+    },
+    "correct": "A",
+    "explanation": "A quadratic with x-intercepts 2 and 8 has form y = a(x − 2)(x − 8). Using point (0, 32), 32 = a(−2)(−8) = 16a, so a = 2."
+  }
+]

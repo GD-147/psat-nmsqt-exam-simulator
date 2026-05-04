@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW11-M2-001",
+    "prompt": "Artist Lygia Clark created works that invited viewers to touch, fold, or rearrange objects rather than simply look at them from a distance. By asking audiences to participate physically, Clark’s art ______ the usual separation between artwork and viewer.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "weakened",
+      "B": "measured",
+      "C": "repeated",
+      "D": "delayed"
+    },
+    "correct": "A",
+    "explanation": "Clark’s interactive works reduced the usual separation between viewer and artwork, so “weakened” is most precise."
+  },
+  {
+    "id": "RW11-M2-002",
+    "prompt": "Scientists can study layers of ash in sediment to understand past volcanic eruptions. Ash from a major eruption may spread over a wide area, leaving a thin but recognizable layer. If researchers find the same ash layer in different locations, they can use it to connect events in those places to the same eruption.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Volcanic ash layers in sediment can help scientists connect evidence from different locations to the same eruption.",
+      "B": "Volcanic ash is useful to scientists only when it cannot be found in sediment.",
+      "C": "Major eruptions leave no recognizable material outside the volcano itself.",
+      "D": "Researchers study ash layers mainly to predict the color of future lava."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that the same ash layer in different places can link those places to one eruption."
+  },
+  {
+    "id": "RW11-M2-003",
+    "prompt": "Some schools use student-led conferences, in which students explain their own progress to parents or guardians. This format can encourage students to reflect on strengths and goals, but it requires preparation so students can discuss their work clearly rather than simply reading grades aloud.\nWhich choice is the best inference from the text?",
+    "choices": {
+      "A": "Student-led conferences can promote reflection, but students need guidance to use them well.",
+      "B": "Student-led conferences prevent students from discussing their goals.",
+      "C": "Reading grades aloud is the main purpose of every student-led conference.",
+      "D": "Student-led conferences work best when students do not prepare."
+    },
+    "correct": "A",
+    "explanation": "The text says the conferences can encourage reflection but require preparation for clear discussion."
+  },
+  {
+    "id": "RW11-M2-004",
+    "prompt": "A student’s draft about scientist Mae Jemison includes the following sentences.\nJemison is often remembered as the first Black woman to travel to space, but her career also includes work as a physician, engineer, educator, and advocate for science learning. Focusing only on one milestone risks overlooking the range of fields in which she has contributed.\nWhat is the main function of the second sentence in the text?",
+    "choices": {
+      "A": "It explains why a single achievement does not fully represent Jemison’s career.",
+      "B": "It argues that space travel was not an important part of Jemison’s life.",
+      "C": "It lists the exact courses Jemison taught as an educator.",
+      "D": "It shows that Jemison worked in only one scientific field."
+    },
+    "correct": "A",
+    "explanation": "The second sentence warns that focusing only on one milestone overlooks the range of Jemison’s contributions."
+  },
+  {
+    "id": "RW11-M2-005",
+    "prompt": "A researcher compared the average number of minutes students spent using four features of a digital art portfolio platform before and after a tutorial was added.\nFeature: Before tutorial / After tutorial\nUploading images: 18 / 26\nWriting artist statements: 24 / 29\nViewing peer comments: 31 / 25\nOrganizing collections: 16 / 22\nWhich choice best describes the data?",
+    "choices": {
+      "A": "Students spent more time uploading images, writing artist statements, and organizing collections after the tutorial, but less time viewing peer comments.",
+      "B": "Students spent less time using all four features after the tutorial.",
+      "C": "Viewing peer comments had the greatest increase after the tutorial.",
+      "D": "Uploading images and organizing collections had the same time after the tutorial."
+    },
+    "correct": "A",
+    "explanation": "Time increased for three features and decreased for peer comments from 31 to 25 minutes."
+  },
+  {
+    "id": "RW11-M2-006",
+    "prompt": "A short documentary can introduce viewers to a complex topic quickly through images, interviews, and narration. ______ because it must be brief, it may leave out details that a longer film or article could explain.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "However,",
+      "B": "Similarly,",
+      "C": "For example,",
+      "D": "Therefore,"
+    },
+    "correct": "A",
+    "explanation": "The sentence contrasts the usefulness of a short documentary with its limitation in covering details."
+  },
+  {
+    "id": "RW11-M2-007",
+    "prompt": "The exhibit includes three examples of early communication technology ______ signal flags, telegraph keys, and crystal radio sets.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "technology",
+      "B": "technology:",
+      "C": "technology,",
+      "D": "technology;"
+    },
+    "correct": "B",
+    "explanation": "A colon correctly introduces the list of three communication technologies."
+  },
+  {
+    "id": "RW11-M2-008",
+    "prompt": "Listening to the oral history recording, ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "several pauses in the speaker’s story became noticeable",
+      "B": "the speaker’s story contained several noticeable pauses",
+      "C": "the student noticed several pauses in the speaker’s story",
+      "D": "there were several noticeable pauses in the speaker’s story"
+    },
+    "correct": "C",
+    "explanation": "The introductory modifier “Listening to the oral history recording” must logically describe “the student.”"
+  },
+  {
+    "id": "RW11-M2-009",
+    "prompt": "The composer met with the conductor before rehearsal, and ______ agreed that the ending should be played more softly.\nWhich choice completes the text so that it conforms to the conventions of Standard English and avoids ambiguity?",
+    "choices": {
+      "A": "they",
+      "B": "the composer",
+      "C": "she",
+      "D": "it"
+    },
+    "correct": "B",
+    "explanation": "Repeating “the composer” avoids ambiguity about whether “they” refers to the composer and conductor together."
+  },
+  {
+    "id": "RW11-M2-010",
+    "prompt": "Before the hiking group reached the campsite, the trip leaders ______ the tents and cooking supplies into separate packs.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "divide",
+      "B": "have divided",
+      "C": "had divided",
+      "D": "dividing"
+    },
+    "correct": "C",
+    "explanation": "The past perfect tense shows that the leaders divided the supplies before the group reached the campsite."
+  },
+  {
+    "id": "RW11-M2-011",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Fazlur Rahman Khan was a structural engineer.\n• He developed innovative structural systems for tall buildings.\n• His tubular designs helped make very tall skyscrapers more efficient and stable.\n• Khan contributed to the design of the John Hancock Center and Sears Tower in Chicago.\n• His work influenced modern skyscraper engineering.\nThe student wants to explain the significance of Khan’s engineering work. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Fazlur Rahman Khan’s tubular structural systems helped make very tall skyscrapers more efficient and stable, influencing modern skyscraper engineering.",
+      "B": "Fazlur Rahman Khan worked on buildings in Chicago, including the John Hancock Center and Sears Tower.",
+      "C": "A structural engineer helps design buildings so that they can stand safely.",
+      "D": "Tall buildings may include offices, apartments, observation decks, and mechanical systems."
+    },
+    "correct": "A",
+    "explanation": "This choice explains the significance of Khan’s structural systems and their influence."
+  },
+  {
+    "id": "RW11-M2-012",
+    "prompt": "A student is revising an essay about schools using daylight sensors that adjust classroom lighting automatically. The student wants to add a sentence that explains a possible advantage of these sensors. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "Daylight sensors can reduce energy use by dimming electric lights when enough natural light is available.",
+      "B": "Classrooms may have windows, desks, chairs, and lights arranged in different ways.",
+      "C": "Some sensors are installed on ceilings, while others are placed near windows.",
+      "D": "Electric lights are used in schools, homes, offices, and other buildings."
+    },
+    "correct": "A",
+    "explanation": "This sentence directly explains a possible advantage of automatic daylight sensors."
+  },
+  {
+    "id": "RW11-M2-013",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) Some researchers study “edge habitats,” the places where two ecosystems meet. (2) A forest edge beside a meadow, for example, may contain species from both environments. (3) Edge habitats can offer food and shelter for some animals. (4) However, they can also expose certain species to predators or human disturbance.\nWhere should the following sentence be placed to best support the logical flow of the paragraph?\nThese areas can be biologically rich but also complex to manage.",
+    "choices": {
+      "A": "After sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "A",
+    "explanation": "The added sentence gives a broad idea about edge habitats immediately after the term is introduced, before examples and effects."
+  },
+  {
+    "id": "RW11-M2-014",
+    "prompt": "The reviewer’s response to the student’s science poster was not ______; along with praising the clear visuals, the reviewer identified two places where the labels needed more detail.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "superficial",
+      "B": "recent",
+      "C": "public",
+      "D": "silent"
+    },
+    "correct": "A",
+    "explanation": "The reviewer gave both praise and specific detailed suggestions, so the response was not superficial."
+  },
+  {
+    "id": "RW11-M2-015",
+    "prompt": "Researchers studying a coastal marsh found that areas with dense cordgrass had less shoreline erosion after storms than areas where cordgrass was sparse. Because cordgrass roots can help hold soil in place, the researchers concluded that protecting cordgrass may help stabilize marsh shorelines.\nWhich choice best describes the relationship between the evidence and the researchers’ conclusion?",
+    "choices": {
+      "A": "The lower erosion in areas with dense cordgrass supports the conclusion that cordgrass may help stabilize shorelines.",
+      "B": "The evidence proves that storms cannot affect marshes with any cordgrass.",
+      "C": "The conclusion rejects the idea that plant roots can hold soil.",
+      "D": "The evidence shows that sparse cordgrass prevents shoreline erosion better than dense cordgrass."
+    },
+    "correct": "A",
+    "explanation": "The evidence links dense cordgrass with less erosion after storms."
+  },
+  {
+    "id": "RW11-M2-016",
+    "prompt": "The report explains the survey methods, ______ it also summarizes the main findings.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "methods, it",
+      "B": "methods and",
+      "C": "methods; and",
+      "D": "methods, and"
+    },
+    "correct": "D",
+    "explanation": "A comma plus “and” correctly joins two independent clauses."
+  },
+  {
+    "id": "RW11-M2-017",
+    "prompt": "A researcher tested two types of reusable food containers to see which kept salad greens fresh longer. Equal amounts of greens were placed in Container A and Container B and stored in the same refrigerator. After four days, the greens in Container B showed less wilting.\nWhich conclusion is best supported by the text?",
+    "choices": {
+      "A": "Under the conditions tested, Container B kept salad greens fresher than Container A did.",
+      "B": "Container A cannot hold any salad greens.",
+      "C": "Refrigerators prevent all greens from wilting.",
+      "D": "The containers were stored at different temperatures."
+    },
+    "correct": "A",
+    "explanation": "The greens in Container B showed less wilting after four days under the same conditions."
+  },
+  {
+    "id": "RW11-M2-018",
+    "prompt": "The article first explains that some theaters offer relaxed performances with adjusted sound and lighting. ______ it describes one theater where relaxed performances increased attendance by families with sensory-sensitive children.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Then,",
+      "B": "Even so,",
+      "C": "In contrast,",
+      "D": "Nevertheless,"
+    },
+    "correct": "A",
+    "explanation": "The paragraph moves from a general description of relaxed performances to a specific theater example."
+  },
+  {
+    "id": "RW11-M2-019",
+    "prompt": "The set of recordings from the community music project ______ interviews, rehearsal clips, and final performances.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "include",
+      "B": "includes",
+      "C": "including",
+      "D": "are including"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “set” requires the singular verb “includes.”"
+  },
+  {
+    "id": "RW11-M2-020",
+    "prompt": "The ______ tracks crossed the muddy bank and disappeared into the tall grass.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "raccoon’s",
+      "B": "raccoons",
+      "C": "raccoons’",
+      "D": "raccoones’"
+    },
+    "correct": "A",
+    "explanation": "The sentence refers to one raccoon’s tracks, so the singular possessive “raccoon’s” is correct."
+  },
+  {
+    "id": "RW11-M2-021",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• The Delano grape strike began in California in 1965.\n• Filipino American farmworkers from the Agricultural Workers Organizing Committee initiated the strike.\n• Mexican American farmworkers from the National Farm Workers Association later joined.\n• The strike and boycott drew national attention to farmworker wages and working conditions.\n• The movement helped strengthen farm labor organizing.\nThe student wants to explain the broader importance of the Delano grape strike. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "The Delano grape strike brought Filipino American and Mexican American farmworkers together and drew national attention to farmworker wages and working conditions.",
+      "B": "The Delano grape strike began in California in 1965 with farmworkers from one organization.",
+      "C": "A boycott is one method that groups can use when trying to create economic pressure.",
+      "D": "Farm labor organizing has occurred in many places where agricultural work is common."
+    },
+    "correct": "A",
+    "explanation": "This choice explains the broader importance of the strike by emphasizing coalition and national attention to labor issues."
+  },
+  {
+    "id": "RW11-M2-022",
+    "prompt": "A student is revising the following sentence.\nThe school’s repair club fixes broken classroom items, and students learn to use basic tools safely.\nThe student wants to emphasize that the club both saves resources and teaches practical skills. Which choice best revises the sentence to accomplish this goal?",
+    "choices": {
+      "A": "By fixing broken classroom items, the school’s repair club saves resources while teaching students to use basic tools safely.",
+      "B": "The school’s repair club has students, and classroom items sometimes break.",
+      "C": "Students in the repair club use tools, and tools can be basic or advanced.",
+      "D": "Broken classroom items are fixed by a club that is located at the school."
+    },
+    "correct": "A",
+    "explanation": "This revision emphasizes both saving resources and teaching practical skills."
+  },
+  {
+    "id": "RW11-M2-023",
+    "prompt": "Tessa found the old theater ticket folded inside a used copy of a play. The date on the ticket was from twenty years earlier, and the seat number was circled in pencil. She had bought the book for the printed words, but the ticket made her imagine another reader sitting in the dark, waiting for the curtain to rise.\nWhich choice best describes what the text suggests about Tessa?",
+    "choices": {
+      "A": "She imagines the experience of a previous owner of the book.",
+      "B": "She decides that the play is not worth reading.",
+      "C": "She believes the ticket proves the book was printed twenty years ago.",
+      "D": "She wants to erase the pencil mark from the ticket immediately."
+    },
+    "correct": "A",
+    "explanation": "The ticket makes Tessa picture another reader attending the play years earlier."
+  },
+  {
+    "id": "RW11-M2-024",
+    "prompt": "The city installed brighter lights along the river path, ______ evening walkers a clearer view of the trail.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "giving",
+      "B": "gave",
+      "C": "gives",
+      "D": "and giving"
+    },
+    "correct": "A",
+    "explanation": "The participle “giving” correctly shows the result of installing brighter lights."
+  },
+  {
+    "id": "RW11-M2-025",
+    "prompt": "Because two editions of the novel used different chapter numbers, the teacher provided page references to ______ the assigned sections.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "specify",
+      "B": "decorate",
+      "C": "postpone",
+      "D": "imitate"
+    },
+    "correct": "A",
+    "explanation": "Page references identify the exact assigned sections despite differences in chapter numbering."
+  },
+  {
+    "id": "RW11-M2-026",
+    "prompt": "The training video demonstrates three steps for maintaining a bicycle chain: wiping away dirt, applying lubricant evenly, and ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "checking that the chain moves smoothly",
+      "B": "the chain was checked for smooth movement",
+      "C": "to check that the chain moves smoothly",
+      "D": "checked that the chain moves smoothly"
+    },
+    "correct": "A",
+    "explanation": "This choice keeps the list grammatically parallel: “wiping,” “applying,” and “checking.”"
+  },
+  {
+    "id": "RW11-M2-027",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Bats can feed on insects at night.\n• Some insects that bats eat are agricultural pests.\n• Bat houses can provide roosting spaces where natural roosts are limited.\n• Farmers may install bat houses near fields.\n• Supporting bat populations may reduce the need for some pest-control measures.\nThe student wants to explain how bat houses can benefit farms. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Bat houses can support bats that eat insect pests, which may reduce the need for some pest-control measures on farms.",
+      "B": "Bats often feed at night and may live in natural roosts or human-made bat houses.",
+      "C": "Farmers may install many kinds of structures near fields for different reasons.",
+      "D": "Some insects are active at night, while others are active during the day."
+    },
+    "correct": "A",
+    "explanation": "This choice explains how bat houses can benefit farms by supporting insect-eating bats."
+  }
+]

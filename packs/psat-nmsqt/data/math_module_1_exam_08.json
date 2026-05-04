@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH8-M1-001",
+    "prompt": "What is the solution to 14 − 3x = −1?",
+    "choices": {
+      "A": "3",
+      "B": "5",
+      "C": "13",
+      "D": "15"
+    },
+    "correct": "B",
+    "explanation": "Subtract 14 from both sides to get −3x = −15. Divide by −3 to get x = 5."
+  },
+  {
+    "id": "MATH8-M1-002",
+    "prompt": "Five identical notebooks cost $11.25. At this rate, what is the cost of 8 notebooks?",
+    "choices": {
+      "A": "$16.25",
+      "B": "$18.00",
+      "C": "$19.25",
+      "D": "$22.50"
+    },
+    "correct": "B",
+    "explanation": "The cost per notebook is $11.25 ÷ 5 = $2.25. Therefore, 8 notebooks cost 8 × $2.25 = $18.00."
+  },
+  {
+    "id": "MATH8-M1-003",
+    "prompt": "The table shows the number of minutes several students spent reading yesterday.\nMinutes: 10, 20, 30, 40\nNumber of students: 4, 6, 5, 3\nHow many students spent at least 30 minutes reading?",
+    "choices": {
+      "A": "3",
+      "B": "5",
+      "C": "8",
+      "D": "18"
+    },
+    "correct": "C",
+    "explanation": "Students who spent at least 30 minutes are those in the 30-minute and 40-minute groups: 5 + 3 = 8."
+  },
+  {
+    "id": "MATH8-M1-004",
+    "prompt": "The function f is linear. If f(2) = 9 and f(5) = 18, what is the rate of change of f?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "6",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "The rate of change is (18 − 9)/(5 − 2) = 9/3 = 3."
+  },
+  {
+    "id": "MATH8-M1-005",
+    "prompt": "Which inequality is equivalent to 2n + 6 > 20?",
+    "choices": {
+      "A": "n > 7",
+      "B": "n < 7",
+      "C": "n > 13",
+      "D": "n < 13"
+    },
+    "correct": "A",
+    "explanation": "Subtract 6 from both sides to get 2n > 14. Divide by 2 to get n > 7."
+  },
+  {
+    "id": "MATH8-M1-006",
+    "prompt": "What is the value of x in the solution to the system of equations?\n2x + y = 15\ny = 3",
+    "choices": {
+      "A": "3",
+      "B": "5",
+      "C": "6",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "Substitute y = 3 into 2x + y = 15 to get 2x + 3 = 15. Then 2x = 12, so x = 6."
+  },
+  {
+    "id": "MATH8-M1-007",
+    "prompt": "Which expression is equivalent to 12u − 18?",
+    "choices": {
+      "A": "3(4u − 18)",
+      "B": "6(2u − 3)",
+      "C": "6(2u − 18)",
+      "D": "12(u − 18)"
+    },
+    "correct": "B",
+    "explanation": "The greatest common factor of 12u and 18 is 6, so 12u − 18 = 6(2u − 3)."
+  },
+  {
+    "id": "MATH8-M1-008",
+    "prompt": "Which expression is equivalent to (p⁴)(p) ÷ p², where p ≠ 0?",
+    "choices": {
+      "A": "p²",
+      "B": "p³",
+      "C": "p⁵",
+      "D": "p⁷"
+    },
+    "correct": "B",
+    "explanation": "Combine exponents: (p⁴)(p) ÷ p² = p⁵ ÷ p² = p³."
+  },
+  {
+    "id": "MATH8-M1-009",
+    "prompt": "An integer from 1 through 15, inclusive, is chosen at random. What is the probability that the integer chosen is prime?",
+    "choices": {
+      "A": "1/5",
+      "B": "1/3",
+      "C": "2/5",
+      "D": "7/15"
+    },
+    "correct": "C",
+    "explanation": "The primes from 1 through 15 are 2, 3, 5, 7, 11, and 13. There are 6 primes out of 15 integers, so the probability is 6/15 = 2/5."
+  },
+  {
+    "id": "MATH8-M1-010",
+    "prompt": "An isosceles triangle has two congruent base angles. The vertex angle measures 40°. What is the measure, in degrees, of each base angle?",
+    "choices": {
+      "A": "40",
+      "B": "50",
+      "C": "70",
+      "D": "100"
+    },
+    "correct": "C",
+    "explanation": "The two base angles are congruent and have sum 180° − 40° = 140°, so each base angle measures 70°."
+  },
+  {
+    "id": "MATH8-M1-011",
+    "prompt": "A circle has diameter 10 inches. What is the area, in square inches, of the circle?",
+    "choices": {
+      "A": "10π",
+      "B": "20π",
+      "C": "25π",
+      "D": "100π"
+    },
+    "correct": "C",
+    "explanation": "A circle with diameter 10 has radius 5. Its area is π(5²) = 25π."
+  },
+  {
+    "id": "MATH8-M1-012",
+    "prompt": "If f(x) = 2x + 3, what is f(−4)?",
+    "choices": {
+      "A": "−11",
+      "B": "−5",
+      "C": "5",
+      "D": "11"
+    },
+    "correct": "B",
+    "explanation": "Substitute −4 for x: f(−4) = 2(−4) + 3 = −8 + 3 = −5."
+  },
+  {
+    "id": "MATH8-M1-013",
+    "prompt": "The equation x² + 5 = 30 has two solutions. What is the positive solution?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "25",
+      "D": "35"
+    },
+    "correct": "A",
+    "explanation": "Subtract 5 from both sides to get x² = 25. The positive solution is x = 5."
+  },
+  {
+    "id": "MATH8-M1-014",
+    "prompt": "A container holds 18 ounces of trail mix. If 1/3 of the trail mix is raisins, how many ounces of raisins are in the container?",
+    "choices": {
+      "A": "3",
+      "B": "6",
+      "C": "9",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": "One-third of 18 ounces is 18 ÷ 3 = 6 ounces."
+  },
+  {
+    "id": "MATH8-M1-015",
+    "prompt": "A shirt that usually costs $32 is on sale for 25% off. What is the sale price of the shirt?",
+    "choices": {
+      "A": "$8",
+      "B": "$24",
+      "C": "$28",
+      "D": "$40"
+    },
+    "correct": "B",
+    "explanation": "A 25% discount on $32 is $8. The sale price is $32 − $8 = $24."
+  },
+  {
+    "id": "MATH8-M1-016",
+    "prompt": "The table shows a linear relationship between x and y.\nx: 0, 2, 4, 6\ny: 5, 11, 17, 23\nWhich equation represents this relationship?",
+    "choices": {
+      "A": "y = 2x + 5",
+      "B": "y = 3x + 5",
+      "C": "y = 5x + 3",
+      "D": "y = 6x + 5"
+    },
+    "correct": "B",
+    "explanation": "The y-value increases by 6 when x increases by 2, so the slope is 3. Since y = 5 when x = 0, the equation is y = 3x + 5."
+  },
+  {
+    "id": "MATH8-M1-017",
+    "prompt": "A rectangular room has length 16 feet and width 11 feet. What is the perimeter, in feet, of the room?",
+    "choices": {
+      "A": "27",
+      "B": "44",
+      "C": "54",
+      "D": "176"
+    },
+    "correct": "C",
+    "explanation": "The perimeter is 2(length + width), so 2(16 + 11) = 54."
+  },
+  {
+    "id": "MATH8-M1-018",
+    "prompt": "What is the value of √196?",
+    "choices": {
+      "A": "12",
+      "B": "14",
+      "C": "16",
+      "D": "98"
+    },
+    "correct": "B",
+    "explanation": "Since 14² = 196, √196 = 14."
+  },
+  {
+    "id": "MATH8-M1-019",
+    "prompt": "A school bus travels at a constant speed of 45 miles per hour. Which equation gives the distance d, in miles, the bus travels in h hours?",
+    "choices": {
+      "A": "d = h + 45",
+      "B": "d = 45h",
+      "C": "d = 45 − h",
+      "D": "d = h/45"
+    },
+    "correct": "B",
+    "explanation": "Distance equals rate times time. At 45 miles per hour for h hours, the distance is d = 45h."
+  },
+  {
+    "id": "MATH8-M1-020",
+    "prompt": "In the xy-plane, which point lies on the line y = x − 4?",
+    "choices": {
+      "A": "(1, −5)",
+      "B": "(2, −2)",
+      "C": "(4, 1)",
+      "D": "(6, 4)"
+    },
+    "correct": "B",
+    "explanation": "Substituting x = 2 into y = x − 4 gives y = −2, so (2, −2) lies on the line."
+  },
+  {
+    "id": "MATH8-M1-021",
+    "prompt": "A rectangular prism has dimensions 2 feet, 5 feet, and 9 feet. What is its volume, in cubic feet?",
+    "choices": {
+      "A": "16",
+      "B": "45",
+      "C": "90",
+      "D": "180"
+    },
+    "correct": "C",
+    "explanation": "The volume of a rectangular prism is the product of its dimensions: 2 × 5 × 9 = 90."
+  },
+  {
+    "id": "MATH8-M1-022",
+    "prompt": "The values in a data set are 7, 9, 12, 14, and 18. If 20 is added to the data set, which statistic must increase?",
+    "choices": {
+      "A": "The minimum",
+      "B": "The median",
+      "C": "The maximum",
+      "D": "The mode"
+    },
+    "correct": "C",
+    "explanation": "Adding 20 makes the greatest value increase from 18 to 20, so the maximum must increase.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

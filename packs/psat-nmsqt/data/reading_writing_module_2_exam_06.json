@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW6-M2-001",
+    "prompt": "In many of her quilts, artist Bisa Butler uses vivid patterned fabrics rather than paint to create portraits. The fabrics are not merely background decoration; their colors and patterns help communicate mood, history, and personality. Butler’s work thus ______ traditional expectations about what portrait materials can be.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "expands",
+      "B": "repeats",
+      "C": "conceals",
+      "D": "delays"
+    },
+    "correct": "A",
+    "explanation": "Butler’s use of patterned fabrics in portraits broadens what portrait materials can be, so “expands” is most precise."
+  },
+  {
+    "id": "RW6-M2-002",
+    "prompt": "Researchers who study ice cores can learn about past atmospheres. As snow falls and becomes compressed into ice, tiny bubbles of air may become trapped inside. By analyzing gases in these bubbles, scientists can estimate the composition of the atmosphere at the time the snow originally fell.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Ice cores can preserve air bubbles that help scientists study past atmospheric conditions.",
+      "B": "Ice cores are useful only because they show the current temperature of the air.",
+      "C": "Snow that becomes ice always loses all traces of the atmosphere around it.",
+      "D": "Scientists analyze ice cores mainly to determine the age of modern buildings."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that trapped air bubbles in ice cores reveal the composition of past atmospheres."
+  },
+  {
+    "id": "RW6-M2-003",
+    "prompt": "Some schools have replaced traditional bells with softer musical tones between classes. The tones can make transitions feel less stressful, but they must still be loud enough to be heard throughout the building. If the tones are too quiet, students may miss the signal to move to their next class.\nWhich choice is the best inference from the text?",
+    "choices": {
+      "A": "Softer transition sounds can be helpful, but they need to remain clearly audible.",
+      "B": "Musical tones prevent students from moving between classes.",
+      "C": "Traditional bells are always quieter than musical tones.",
+      "D": "Schools use musical tones only when students no longer follow schedules."
+    },
+    "correct": "A",
+    "explanation": "The text says softer tones can reduce stress but must be loud enough for students to hear."
+  },
+  {
+    "id": "RW6-M2-004",
+    "prompt": "A student’s draft about writer N. K. Jemisin includes the following sentences.\nJemisin’s novels often build imagined worlds with their own histories, conflicts, and social systems. These invented settings allow her to examine questions about power and belonging without limiting the story to a single real-world place.\nWhat is the main function of the second sentence in the text?",
+    "choices": {
+      "A": "It explains how Jemisin’s world-building supports broader social themes.",
+      "B": "It argues that Jemisin’s novels avoid questions about society.",
+      "C": "It lists every real-world place that appears in Jemisin’s fiction.",
+      "D": "It suggests that imagined settings cannot have histories."
+    },
+    "correct": "A",
+    "explanation": "The second sentence explains that invented settings allow Jemisin to explore power and belonging."
+  },
+  {
+    "id": "RW6-M2-005",
+    "prompt": "A researcher compared the average number of minutes students spent on four parts of a science review website before and after a redesign.\nWebsite section | Before redesign | After redesign\nVocabulary practice | 14 | 18\nLab simulations | 21 | 27\nVideo explanations | 32 | 26\nPractice quizzes | 19 | 24\nWhich choice best describes the data?",
+    "choices": {
+      "A": "Students spent more time on vocabulary practice, lab simulations, and practice quizzes after the redesign, but less time on video explanations.",
+      "B": "Students spent less time on all four website sections after the redesign.",
+      "C": "Video explanations had the greatest increase after the redesign.",
+      "D": "Vocabulary practice and lab simulations had the same time after the redesign."
+    },
+    "correct": "A",
+    "explanation": "Time increased in three sections and decreased for video explanations from 32 to 26 minutes."
+  },
+  {
+    "id": "RW6-M2-006",
+    "prompt": "Some historians rely on official records because such documents can provide dates, names, and legal details. ______ personal diaries may reveal feelings and daily routines that official records leave out.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "On the other hand,",
+      "B": "As a result,",
+      "C": "In other words,",
+      "D": "For instance,"
+    },
+    "correct": "A",
+    "explanation": "The sentence contrasts the value of official records with the different value of personal diaries."
+  },
+  {
+    "id": "RW6-M2-007",
+    "prompt": "The guide recommends three ways to protect a bicycle from theft ______ using a strong lock, parking in visible areas, and registering the serial number.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "theft",
+      "B": "theft:",
+      "C": "theft,",
+      "D": "theft;"
+    },
+    "correct": "B",
+    "explanation": "A colon correctly introduces the list of three ways to protect a bicycle."
+  },
+  {
+    "id": "RW6-M2-008",
+    "prompt": "Crossing the suspension bridge during the field trip, ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "the river far below looked narrow and bright",
+      "B": "our class could see the river shining far below",
+      "C": "there was a narrow, bright river far below",
+      "D": "the view of the river seemed bright and narrow"
+    },
+    "correct": "B",
+    "explanation": "The introductory modifier “Crossing the suspension bridge” must logically describe “our class.”"
+  },
+  {
+    "id": "RW6-M2-009",
+    "prompt": "The researcher spoke with the lab assistant before the demonstration, and ______ agreed that the equipment should be checked once more.\nWhich choice completes the text so that it conforms to the conventions of Standard English and avoids ambiguity?",
+    "choices": {
+      "A": "they",
+      "B": "the researcher",
+      "C": "she",
+      "D": "it"
+    },
+    "correct": "B",
+    "explanation": "Repeating “the researcher” avoids ambiguity about whether “they” refers to the researcher and assistant together."
+  },
+  {
+    "id": "RW6-M2-010",
+    "prompt": "By the time the art contest opened, the judges ______ the scoring guidelines.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "approve",
+      "B": "have approved",
+      "C": "had approved",
+      "D": "approving"
+    },
+    "correct": "C",
+    "explanation": "The past perfect tense shows that the judges approved the guidelines before the contest opened."
+  },
+  {
+    "id": "RW6-M2-011",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Temple Grandin is an animal behavior scientist and author.\n• She has studied how livestock respond to their surroundings.\n• Grandin designed livestock handling systems intended to reduce stress in animals.\n• Her designs use curved pathways and visual barriers.\n• Her work has influenced practices in the livestock industry.\nThe student wants to explain how Grandin applied her research to practical design. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Temple Grandin is an animal behavior scientist and author who has written about livestock.",
+      "B": "Grandin applied her knowledge of animal behavior by designing livestock handling systems with features such as curved pathways and visual barriers to reduce stress.",
+      "C": "Livestock can respond to their surroundings in ways that scientists may study.",
+      "D": "The livestock industry includes farms, transportation systems, and processing facilities."
+    },
+    "correct": "B",
+    "explanation": "This choice connects Grandin’s research on animal behavior to specific design features and their purpose."
+  },
+  {
+    "id": "RW6-M2-012",
+    "prompt": "A student is revising an essay about using native plants in school landscaping. The student wants to add a sentence that explains a possible advantage of native plants. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "Native plants may require less watering than some nonnative plants because they are adapted to local conditions.",
+      "B": "Landscaping can include grass, trees, flowers, paths, and seating areas.",
+      "C": "Some schools hire workers to trim bushes and maintain outdoor spaces.",
+      "D": "Nonnative plants are plants that originally came from a different region."
+    },
+    "correct": "A",
+    "explanation": "This sentence directly explains a possible advantage of using native plants in landscaping."
+  },
+  {
+    "id": "RW6-M2-013",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) Some museums create touchable models of fragile artifacts. (2) Visitors can handle these models to understand the shape or texture of an object without risking damage to the original. (3) This approach can make exhibits more accessible to visitors with visual impairments. (4) It can also help all visitors learn through more than sight alone.\nWhere should the following sentence be placed to best support the logical flow of the paragraph?\nThe original artifacts may be too delicate to touch directly.",
+    "choices": {
+      "A": "After sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "A",
+    "explanation": "The added sentence explains why touchable models may be needed before sentence 2 describes how visitors use them."
+  },
+  {
+    "id": "RW6-M2-014",
+    "prompt": "The scientist’s explanation of the discovery was not ______; she avoided technical terms and used a simple comparison that helped the audience understand the main idea.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "obscure",
+      "B": "public",
+      "C": "recent",
+      "D": "brief"
+    },
+    "correct": "A",
+    "explanation": "The explanation used simple language and a comparison, so it was not obscure."
+  },
+  {
+    "id": "RW6-M2-015",
+    "prompt": "Researchers studying a lake found that areas with more aquatic plants had higher numbers of young fish than areas with few plants. Because young fish can hide among plant stems, the researchers concluded that preserving aquatic vegetation may help support fish populations.\nWhich choice best describes the relationship between the evidence and the researchers’ conclusion?",
+    "choices": {
+      "A": "The higher number of young fish in plant-rich areas supports the conclusion that aquatic vegetation may provide helpful habitat.",
+      "B": "The evidence proves that aquatic plants prevent all predators from entering lakes.",
+      "C": "The conclusion rejects the idea that young fish use shelter.",
+      "D": "The evidence shows that fish populations are unrelated to lake habitats."
+    },
+    "correct": "A",
+    "explanation": "The evidence links more aquatic plants with more young fish and supports the idea that the plants provide shelter."
+  },
+  {
+    "id": "RW6-M2-016",
+    "prompt": "The pamphlet explains the museum’s membership levels, ______ it also describes discounts available to members.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "levels, it",
+      "B": "levels and",
+      "C": "levels; and",
+      "D": "levels, and"
+    },
+    "correct": "D",
+    "explanation": "A comma plus “and” correctly joins two independent clauses."
+  },
+  {
+    "id": "RW6-M2-017",
+    "prompt": "A food scientist tested two packaging materials to see which kept crackers crisp longer. She placed equal amounts of crackers in Package A and Package B, stored both packages in the same room, and measured crispness after one week. Crackers in Package A remained crisper than those in Package B.\nWhich conclusion is best supported by the text?",
+    "choices": {
+      "A": "Under the conditions tested, Package A kept crackers crisp longer than Package B did.",
+      "B": "Package B prevents all foods from becoming stale.",
+      "C": "Crackers cannot be tested for crispness after storage.",
+      "D": "Room conditions were different for the two packages."
+    },
+    "correct": "A",
+    "explanation": "Crackers in Package A remained crisper after one week under the same storage conditions."
+  },
+  {
+    "id": "RW6-M2-018",
+    "prompt": "The article first describes how community colleges offer career-focused certificate programs. ______ it explains how one student used a certificate program to qualify for a medical assistant position.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Then,",
+      "B": "Even so,",
+      "C": "In contrast,",
+      "D": "Nevertheless,"
+    },
+    "correct": "A",
+    "explanation": "The paragraph moves from a general description of certificate programs to a specific example of one student using such a program."
+  },
+  {
+    "id": "RW6-M2-019",
+    "prompt": "The stack of folders on the front desk ______ permission slips, attendance sheets, and bus schedules.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "contain",
+      "B": "contains",
+      "C": "containing",
+      "D": "are containing"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “stack” requires the singular verb “contains.”"
+  },
+  {
+    "id": "RW6-M2-020",
+    "prompt": "The ______ beak curves downward, allowing the bird to reach insects hidden under loose bark.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "woodpecker’s",
+      "B": "woodpeckers",
+      "C": "woodpeckers’",
+      "D": "woodpeckeres’"
+    },
+    "correct": "A",
+    "explanation": "The sentence refers to one woodpecker, so the singular possessive “woodpecker’s” is correct."
+  },
+  {
+    "id": "RW6-M2-021",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• The Green Book was a travel guide published for Black travelers during the era of segregation in the United States.\n• It listed hotels, restaurants, gas stations, and other businesses that served Black customers.\n• Victor Hugo Green first published the guide in the 1930s.\n• The guide helped travelers plan safer routes.\n• Later editions expanded to include locations across much of the United States and beyond.\nThe student wants to explain the practical purpose of the Green Book. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "First published by Victor Hugo Green in the 1930s, the Green Book helped Black travelers plan safer routes by listing businesses that served them.",
+      "B": "The Green Book was published in several editions and eventually included many locations.",
+      "C": "Travel guides can list hotels, restaurants, gas stations, and other services.",
+      "D": "Victor Hugo Green first published a travel guide in the 1930s."
+    },
+    "correct": "A",
+    "explanation": "This choice explains the guide’s practical purpose by connecting its listings to safer travel planning."
+  },
+  {
+    "id": "RW6-M2-022",
+    "prompt": "A student is revising the following sentence.\nThe school’s outdoor gear exchange lets families donate outgrown coats, and other students can take coats they need.\nThe student wants to emphasize that the exchange both reduces waste and helps students obtain needed clothing. Which choice best revises the sentence to accomplish this goal?",
+    "choices": {
+      "A": "By collecting outgrown coats for reuse, the school’s outdoor gear exchange reduces waste while helping students get clothing they need.",
+      "B": "The school’s outdoor gear exchange has coats, and some coats are outgrown by families.",
+      "C": "Families can donate coats to the outdoor gear exchange, which is part of the school.",
+      "D": "Students need coats in cold weather, and some families have coats at home."
+    },
+    "correct": "A",
+    "explanation": "This revision emphasizes both reduced waste and access to needed clothing."
+  },
+  {
+    "id": "RW6-M2-023",
+    "prompt": "Mina opened the box of old postcards expecting only faded pictures of places she did not recognize. Instead, she found notes written in her grandmother’s careful script, each one describing a meal, a train ride, or a rainy afternoon. The postcards suddenly seemed less like souvenirs than pieces of a voice she had not heard in years.\nWhich choice best describes what the text suggests about Mina?",
+    "choices": {
+      "A": "She finds an unexpected personal connection in the postcards.",
+      "B": "She decides that the postcards are too damaged to read.",
+      "C": "She realizes that her grandmother never enjoyed traveling.",
+      "D": "She plans to replace the postcards with newer photographs."
+    },
+    "correct": "A",
+    "explanation": "The postcards first seem like unfamiliar souvenirs, but the notes in her grandmother’s handwriting make them feel like part of her grandmother’s voice."
+  },
+  {
+    "id": "RW6-M2-024",
+    "prompt": "The teacher moved the discussion outside under the trees, ______ students a quieter place to talk in small groups.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "giving",
+      "B": "gave",
+      "C": "gives",
+      "D": "and giving"
+    },
+    "correct": "A",
+    "explanation": "The participle “giving” correctly shows the result of moving the discussion outside."
+  },
+  {
+    "id": "RW6-M2-025",
+    "prompt": "Because the two witnesses described the same event differently, the journalist reviewed security footage to ______ the timeline.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "clarify",
+      "B": "decorate",
+      "C": "postpone",
+      "D": "imitate"
+    },
+    "correct": "A",
+    "explanation": "Reviewing footage would help make the timeline clearer when witness accounts differ."
+  },
+  {
+    "id": "RW6-M2-026",
+    "prompt": "The handbook outlines three steps for submitting a club budget: estimating expenses, listing possible sources of funding, and ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "explaining how the money will be used",
+      "B": "the money will be used in an explanation",
+      "C": "to explain how the money will be used",
+      "D": "explained the use of the money"
+    },
+    "correct": "A",
+    "explanation": "This choice keeps the list grammatically parallel: “estimating,” “listing,” and “explaining.”"
+  },
+  {
+    "id": "RW6-M2-027",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Earthworms move through soil by creating small tunnels.\n• These tunnels can allow air and water to move through the soil more easily.\n• Earthworms break down dead plant material.\n• Their waste can add nutrients to soil.\n• Gardeners often consider earthworms a sign of healthy soil.\nThe student wants to emphasize two ways earthworms can improve soil. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Earthworms are often noticed by gardeners, especially after rain.",
+      "B": "Earthworms can improve soil by creating tunnels that help air and water move through it and by adding nutrients through their waste.",
+      "C": "Dead plant material is found in many soils and can be broken down over time.",
+      "D": "Earthworms move through soil by making tunnels that are usually small."
+    },
+    "correct": "B",
+    "explanation": "This choice emphasizes two ways earthworms improve soil: tunneling and adding nutrients."
+  }
+]

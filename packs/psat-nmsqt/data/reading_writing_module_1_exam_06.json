@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW6-M1-001",
+    "prompt": "In the early 1900s, chemist Alice Ball developed a method for preparing chaulmoogra oil so it could be injected and more easily absorbed by the body. At the time, the oil was one of the few treatments used for Hansen’s disease, but earlier forms of it were difficult for patients to take. Ball’s work therefore made an existing treatment more ______.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "practical",
+      "B": "decorative",
+      "C": "predictable",
+      "D": "temporary"
+    },
+    "correct": "A",
+    "explanation": "Ball’s method made a difficult treatment easier to use and absorb, so “practical” is the most precise choice."
+  },
+  {
+    "id": "RW6-M1-002",
+    "prompt": "A rain garden is a shallow planted area designed to collect rainwater from roofs, driveways, or sidewalks. As the water slowly soaks into the soil, plants and soil can filter out some pollutants. Rain gardens can also reduce the amount of stormwater flowing into nearby streets and drains.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Rain gardens can help manage stormwater and filter some pollutants.",
+      "B": "Rain gardens are designed mainly to replace all other types of gardens.",
+      "C": "Stormwater drains prevent rainwater from reaching streets.",
+      "D": "Plants in rain gardens cannot grow unless the soil stays completely dry."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that rain gardens collect runoff, filter some pollutants, and reduce water flowing into drains."
+  },
+  {
+    "id": "RW6-M1-003",
+    "prompt": "A student recorded the number of visitors to four booths at a school career fair.\nBooth | Visitors\nArchitecture | 28\nHealth sciences | 35\nJournalism | 24\nRobotics | 39\nWhich choice is supported by the data in the table?",
+    "choices": {
+      "A": "The Robotics booth had the greatest number of visitors.",
+      "B": "The Journalism booth had more visitors than the Health sciences booth.",
+      "C": "The Architecture and Journalism booths had the same number of visitors.",
+      "D": "No booth had more than 35 visitors."
+    },
+    "correct": "A",
+    "explanation": "The Robotics booth had 39 visitors, more than the other booths."
+  },
+  {
+    "id": "RW6-M1-004",
+    "prompt": "At first, Leo thought the pottery wheel looked easy to control. But when he pressed too hard, the clay tilted and collapsed. His instructor showed him how to steady his hands and use gentle pressure. On his next try, the clay rose smoothly into a small bowl.\nWhich choice best describes what happens in the text?",
+    "choices": {
+      "A": "Leo improves after learning to use more careful control.",
+      "B": "Leo decides that pottery is too simple to practice.",
+      "C": "Leo teaches his instructor how to shape a bowl.",
+      "D": "Leo breaks the pottery wheel before he can use it."
+    },
+    "correct": "A",
+    "explanation": "Leo’s first attempt collapses, but after instruction, he shapes the clay smoothly."
+  },
+  {
+    "id": "RW6-M1-005",
+    "prompt": "In a passage about lighthouses, a writer explains that different lighthouses often flashed in distinct patterns. The writer adds, “These patterns helped sailors identify which lighthouse they were seeing, especially at night or in foggy weather.”\nWhat is the main function of the quoted sentence?",
+    "choices": {
+      "A": "It explains a practical purpose of different lighthouse flash patterns.",
+      "B": "It argues that sailors preferred traveling only during the day.",
+      "C": "It describes how lighthouses were built from stone.",
+      "D": "It shows that fog made lighthouses unnecessary."
+    },
+    "correct": "A",
+    "explanation": "The quoted sentence explains that different flash patterns helped sailors identify specific lighthouses."
+  },
+  {
+    "id": "RW6-M1-006",
+    "prompt": "The school’s new courtyard includes benches for reading and tables for group work. ______ it has a small stage that students can use for performances.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In addition,",
+      "B": "However,",
+      "C": "As a result,",
+      "D": "Instead,"
+    },
+    "correct": "A",
+    "explanation": "The second sentence adds another feature of the courtyard."
+  },
+  {
+    "id": "RW6-M1-007",
+    "prompt": "The set of instructions for assembling the model ______ printed on the back of the package.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "are",
+      "B": "were",
+      "C": "is",
+      "D": "have been"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “set” requires the singular verb “is.”"
+  },
+  {
+    "id": "RW6-M1-008",
+    "prompt": "The story was written by Jhumpa Lahiri, ______ author whose fiction often explores language, family, and identity.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "this"
+    },
+    "correct": "B",
+    "explanation": "“Author” begins with a vowel sound, so “an” is correct."
+  },
+  {
+    "id": "RW6-M1-009",
+    "prompt": "After the lab partners finished the experiment, they cleaned ______ workspace and returned the equipment.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "their",
+      "B": "them",
+      "C": "they",
+      "D": "themselves"
+    },
+    "correct": "A",
+    "explanation": "The possessive pronoun “their” correctly refers to the lab partners’ workspace."
+  },
+  {
+    "id": "RW6-M1-010",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• The okapi is a forest-dwelling mammal found in the Democratic Republic of the Congo.\n• Although it has striped legs like a zebra, it is more closely related to the giraffe.\n• Okapis use long tongues to pull leaves from branches.\n• Their dark coats help them blend into shaded forest areas.\n• Conservation groups work to protect okapi habitat.\nThe student wants to emphasize a surprising classification fact about okapis. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "The okapi lives in forests in the Democratic Republic of the Congo.",
+      "B": "Although the okapi has striped legs like a zebra, it is more closely related to the giraffe.",
+      "C": "Okapis use long tongues to pull leaves from branches in forest habitats.",
+      "D": "Conservation groups work to protect the places where okapis live."
+    },
+    "correct": "B",
+    "explanation": "This choice emphasizes the surprising fact that the okapi looks somewhat zebra-like but is related to the giraffe."
+  },
+  {
+    "id": "RW6-M1-011",
+    "prompt": "The town’s new recycling guide explains which materials belong in each bin. ______ it includes pictures of common items to help residents sort waste correctly.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Furthermore,",
+      "B": "Nevertheless,",
+      "C": "By contrast,",
+      "D": "Earlier,"
+    },
+    "correct": "A",
+    "explanation": "The second sentence adds another helpful feature of the recycling guide."
+  },
+  {
+    "id": "RW6-M1-012",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) A community mural can brighten a public space. (2) Artists often invite residents to suggest images or themes for the design. (3) When many people contribute ideas, the finished mural can reflect the neighborhood’s identity. (4) The mural may become a place where residents gather or take photographs.\nTo make the paragraph most logical, sentence 2 should be placed",
+    "choices": {
+      "A": "where it is now.",
+      "B": "before sentence 1.",
+      "C": "after sentence 3.",
+      "D": "after sentence 4."
+    },
+    "correct": "A",
+    "explanation": "Sentence 2 logically follows the general statement about a mural by explaining how residents can help shape its design."
+  },
+  {
+    "id": "RW6-M1-013",
+    "prompt": "Two days ago, the debate club ______ a practice round in the auditorium.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "holds",
+      "B": "held",
+      "C": "will hold",
+      "D": "holding"
+    },
+    "correct": "B",
+    "explanation": "“Two days ago” requires the past-tense verb “held.”"
+  },
+  {
+    "id": "RW6-M1-014",
+    "prompt": "______ by a thin layer of wax, the paper resisted water better than untreated paper did.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Coated",
+      "B": "Coating",
+      "C": "To coat",
+      "D": "Coat"
+    },
+    "correct": "A",
+    "explanation": "“Coated by a thin layer of wax” correctly modifies “the paper.”"
+  },
+  {
+    "id": "RW6-M1-015",
+    "prompt": "The outdoor concert was delayed ______ the sound crew needed extra time to test the speakers.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "delayed, the sound",
+      "B": "delayed because the sound",
+      "C": "delayed; because the sound",
+      "D": "delayed, because, the sound"
+    },
+    "correct": "B",
+    "explanation": "“Because” correctly introduces the reason the concert was delayed."
+  },
+  {
+    "id": "RW6-M1-016",
+    "prompt": "To learn which hallway displays attracted the most attention, the art teacher asked students to place small stickers beside their favorite pieces. The teacher then counted the stickers to ______ which displays were most popular.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "determine",
+      "B": "erase",
+      "C": "borrow",
+      "D": "disguise"
+    },
+    "correct": "A",
+    "explanation": "Counting stickers helps the teacher find out which displays were most popular."
+  },
+  {
+    "id": "RW6-M1-017",
+    "prompt": "Some public libraries offer homework help after school. Students can ask volunteers questions, use library computers, and find books related to their assignments. These programs can support students who may not have quiet study spaces or reliable internet access at home.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Library homework programs can give students access to academic support and resources.",
+      "B": "Public libraries should stop offering books and computers to students.",
+      "C": "Students can complete homework only when volunteers do it for them.",
+      "D": "Homework help programs are useful only for students who already have reliable internet access."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that students can get help, use computers, and access books through these programs."
+  },
+  {
+    "id": "RW6-M1-018",
+    "prompt": "Scientists studying penguins note that some species huddle closely together during extremely cold weather. By standing in a tight group, the penguins reduce heat loss and help one another stay warm.\nAccording to the text, why do some penguins huddle together?",
+    "choices": {
+      "A": "To reduce heat loss in cold weather",
+      "B": "To make it easier to build nests in trees",
+      "C": "To prevent all ice from forming nearby",
+      "D": "To help them swim faster underwater"
+    },
+    "correct": "A",
+    "explanation": "The text says huddling reduces heat loss and helps penguins stay warm."
+  },
+  {
+    "id": "RW6-M1-019",
+    "prompt": "A student is revising the following sentence.\nThe community center opened a craft room, and visitors can use it to paint, sew, and work on small woodworking projects.\nWhich choice best combines the ideas clearly and concisely?",
+    "choices": {
+      "A": "The community center opened a craft room where visitors can paint, sew, and work on small woodworking projects.",
+      "B": "The community center opened a craft room, visitors can use it to paint, sew, and work on small woodworking projects.",
+      "C": "The community center opened a craft room and painting, sewing, and working on small woodworking projects.",
+      "D": "The community center opened a craft room because visitors, painting, sewing, and woodworking projects."
+    },
+    "correct": "A",
+    "explanation": "This choice combines the ideas clearly and avoids a comma splice."
+  },
+  {
+    "id": "RW6-M1-020",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Jean-Michel Basquiat was an American artist.\n• He became known in the 1980s.\n• His paintings often included words, symbols, and expressive figures.\n• His work explored themes such as identity, power, and history.\n• Basquiat’s art appears in major museum collections.\nThe student wants to introduce Basquiat’s artistic style and themes. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Jean-Michel Basquiat, an American artist known in the 1980s, created paintings with words, symbols, and expressive figures that explored identity, power, and history.",
+      "B": "Jean-Michel Basquiat became known in the 1980s, and the 1980s included many different artistic movements.",
+      "C": "Major museum collections often include paintings by artists from many countries and time periods.",
+      "D": "Basquiat’s paintings used words, and words can appear in many kinds of visual art."
+    },
+    "correct": "A",
+    "explanation": "This choice introduces Basquiat’s style and the themes in his work."
+  },
+  {
+    "id": "RW6-M1-021",
+    "prompt": "A student recorded the number of pages printed by four classroom printers in one week.\nPrinter | Pages printed\nPrinter A | 112\nPrinter B | 98\nPrinter C | 125\nPrinter D | 107\nWhich choice is supported by the data in the table?",
+    "choices": {
+      "A": "Printer C printed the greatest number of pages.",
+      "B": "Printer B printed more pages than Printer A.",
+      "C": "Printer D and Printer A printed the same number of pages.",
+      "D": "No printer printed more than 112 pages."
+    },
+    "correct": "A",
+    "explanation": "Printer C printed 125 pages, more than the other printers."
+  },
+  {
+    "id": "RW6-M1-022",
+    "prompt": "In a paragraph about neighborhood walking groups, a writer states, “Participants planned routes, reminded one another about meeting times, and shared tips about safe crossings.”\nWhat is the most likely purpose of the sentence?",
+    "choices": {
+      "A": "To give examples of ways participants helped organize and support the walking group",
+      "B": "To explain why walking groups should avoid using sidewalks",
+      "C": "To argue that safe crossings are unrelated to neighborhood planning",
+      "D": "To compare walking groups with professional athletic teams"
+    },
+    "correct": "A",
+    "explanation": "The sentence lists specific actions participants took to support the group."
+  },
+  {
+    "id": "RW6-M1-023",
+    "prompt": "The lanterns ______ hung above the plaza were lit just before sunset.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "that were",
+      "B": "who were",
+      "C": "where",
+      "D": "which,"
+    },
+    "correct": "A",
+    "explanation": "“That were” correctly introduces the clause identifying which lanterns were lit."
+  },
+  {
+    "id": "RW6-M1-024",
+    "prompt": "The training session teaches volunteers to greet visitors, to answer basic questions, and ______ directions clearly.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "giving",
+      "B": "to give",
+      "C": "gave",
+      "D": "the giving of"
+    },
+    "correct": "B",
+    "explanation": "The phrase completes the parallel structure: “to greet,” “to answer,” and “to give.”"
+  },
+  {
+    "id": "RW6-M1-025",
+    "prompt": "The first draft of the flyer did not say where the event would happen, so Maya added the street address to make the announcement more ______.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "complete",
+      "B": "fragile",
+      "C": "crowded",
+      "D": "distant"
+    },
+    "correct": "A",
+    "explanation": "Adding the street address supplies missing information, making the announcement more complete."
+  },
+  {
+    "id": "RW6-M1-026",
+    "prompt": "A student wants to begin an essay about the importance of school nurses. Which choice would be the most effective opening sentence for the essay?",
+    "choices": {
+      "A": "School nurses help support student health by treating minor injuries, monitoring illnesses, and providing health guidance.",
+      "B": "Some schools have offices near the main entrance, while others have offices beside the gym.",
+      "C": "A nurse is a person who may work in a hospital, clinic, or school.",
+      "D": "My school nurse has a desk, a chair, and a cabinet for supplies."
+    },
+    "correct": "A",
+    "explanation": "This sentence clearly introduces the essay’s focus on the importance of school nurses."
+  },
+  {
+    "id": "RW6-M1-027",
+    "prompt": "The city added countdown signals at busy crosswalks. ______ pedestrians could better judge how much time they had to finish crossing.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "As a result,",
+      "B": "For example,",
+      "C": "In contrast,",
+      "D": "Meanwhile,"
+    },
+    "correct": "A",
+    "explanation": "Pedestrians’ improved ability to judge crossing time is presented as an effect of adding countdown signals.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

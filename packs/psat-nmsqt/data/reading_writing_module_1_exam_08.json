@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW8-M1-001",
+    "prompt": "Writer Zitkala-Ša published essays, stories, and political writings in the early twentieth century. She also worked to protect Native rights and to preserve Dakota language and culture. Because her work crossed literary, musical, educational, and activist fields, scholars often describe her career as ______.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "brief",
+      "B": "varied",
+      "C": "accidental",
+      "D": "secret"
+    },
+    "correct": "B",
+    "explanation": "The text says Zitkala-Ša worked across literary, musical, educational, and activist fields, so “varied” is most precise."
+  },
+  {
+    "id": "RW8-M1-002",
+    "prompt": "Blue mussels are small shellfish that feed by filtering tiny particles from seawater. As they feed, they can remove some algae and suspended matter from the water. For this reason, large groups of mussels can sometimes improve water clarity in coastal areas.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Blue mussels can help make coastal water clearer by filtering particles as they feed.",
+      "B": "Blue mussels avoid living in coastal areas where algae are present.",
+      "C": "Seawater becomes cloudy only when shellfish stop feeding.",
+      "D": "Large groups of mussels prevent all algae from growing in the ocean."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that mussels remove particles as they feed, which can improve water clarity."
+  },
+  {
+    "id": "RW8-M1-003",
+    "prompt": "The schedule for the student film festival ______ three short documentaries and two animated films.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "list",
+      "B": "lists",
+      "C": "listing",
+      "D": "have listed"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “schedule” requires the singular verb “lists.”"
+  },
+  {
+    "id": "RW8-M1-004",
+    "prompt": "A student recorded the number of tickets sold for four school performances.\nPerformance | Tickets sold\nThursday matinee | 86\nFriday evening | 124\nSaturday matinee | 112\nSaturday evening | 138\nWhich choice is supported by the data in the table?",
+    "choices": {
+      "A": "The Saturday evening performance sold the most tickets.",
+      "B": "The Thursday matinee sold more tickets than the Friday evening performance.",
+      "C": "The two matinee performances sold the same number of tickets.",
+      "D": "No performance sold more than 124 tickets."
+    },
+    "correct": "A",
+    "explanation": "Saturday evening sold 138 tickets, more than the other performances."
+  },
+  {
+    "id": "RW8-M1-005",
+    "prompt": "At first, Priya thought the old family camera would be useless because its lens was scratched. But when she developed her first roll of film, she saw that the scratches created soft streaks of light around every window and streetlamp. Instead of replacing the camera, she began using it for night photographs.\nWhich choice best describes what happens in the text?",
+    "choices": {
+      "A": "Priya discovers that a flaw in the camera can create an effect she likes.",
+      "B": "Priya refuses to develop the film because the camera is old.",
+      "C": "Priya repairs the camera lens before taking any photographs.",
+      "D": "Priya decides that night photographs should never include light."
+    },
+    "correct": "A",
+    "explanation": "Priya first thinks the scratched lens is a problem but later uses the light streaks creatively."
+  },
+  {
+    "id": "RW8-M1-006",
+    "prompt": "In a passage about early public clocks, a historian explains that clock towers were often placed in busy town centers. The historian adds, “Because many people did not own personal watches, a public clock helped workers, travelers, and shopkeepers coordinate their daily schedules.”\nWhat is the main function of the quoted sentence?",
+    "choices": {
+      "A": "It explains why public clocks were useful to many people.",
+      "B": "It argues that shopkeepers were responsible for building clock towers.",
+      "C": "It describes the tools used to repair public clocks.",
+      "D": "It shows that personal watches were common in every household."
+    },
+    "correct": "A",
+    "explanation": "The quoted sentence explains that public clocks helped people without watches coordinate schedules."
+  },
+  {
+    "id": "RW8-M1-007",
+    "prompt": "The town’s summer reading program includes book discussions and author visits. ______ it offers weekly storytelling sessions for younger children.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In addition,",
+      "B": "However,",
+      "C": "For this reason,",
+      "D": "Instead,"
+    },
+    "correct": "A",
+    "explanation": "The second sentence adds another feature of the summer reading program."
+  },
+  {
+    "id": "RW8-M1-008",
+    "prompt": "The student’s report discusses the vaquita, ______ small porpoise found in the Gulf of California.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "those"
+    },
+    "correct": "A",
+    "explanation": "“Small porpoise” begins with a consonant sound, so “a” is correct."
+  },
+  {
+    "id": "RW8-M1-009",
+    "prompt": "After the committee reviewed the proposal, ______ sent a revised version to the principal.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "they",
+      "B": "them",
+      "C": "its",
+      "D": "it"
+    },
+    "correct": "D",
+    "explanation": "The singular pronoun “it” correctly refers to the proposal."
+  },
+  {
+    "id": "RW8-M1-010",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Mary Anning was a fossil collector in nineteenth-century England.\n• She found important marine reptile fossils along the coast near Lyme Regis.\n• Her discoveries helped scientists study prehistoric life.\n• Anning had limited formal scientific recognition during her lifetime.\n• Today she is often discussed as an important figure in paleontology.\nThe student wants to introduce Anning and explain the importance of her discoveries. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Mary Anning, a nineteenth-century fossil collector, found marine reptile fossils that helped scientists study prehistoric life.",
+      "B": "Mary Anning lived near Lyme Regis, a coastal area in England.",
+      "C": "Fossil collectors sometimes search along cliffs, beaches, and rocky shorelines.",
+      "D": "Mary Anning received limited formal scientific recognition during her lifetime."
+    },
+    "correct": "A",
+    "explanation": "This choice introduces Anning and explains why her discoveries mattered."
+  },
+  {
+    "id": "RW8-M1-011",
+    "prompt": "The new cafeteria menu includes several vegetarian meals. ______ students who do not eat meat now have more lunch options.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "As a result,",
+      "B": "For example,",
+      "C": "On the other hand,",
+      "D": "Earlier,"
+    },
+    "correct": "A",
+    "explanation": "More lunch options for students who do not eat meat is an effect of adding vegetarian meals."
+  },
+  {
+    "id": "RW8-M1-012",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) A school weather station can collect local temperature, rainfall, and wind data. (2) Students can use those measurements in science and math lessons. (3) They may graph daily temperatures or compare rainfall totals from different months. (4) A weather station can therefore turn local conditions into useful classroom data.\nTo make the paragraph most logical, sentence 3 should be placed",
+    "choices": {
+      "A": "where it is now.",
+      "B": "before sentence 1.",
+      "C": "after sentence 4.",
+      "D": "between sentence 1 and sentence 2."
+    },
+    "correct": "A",
+    "explanation": "Sentence 3 gives specific examples of how students can use the measurements introduced in sentence 2."
+  },
+  {
+    "id": "RW8-M1-013",
+    "prompt": "Last night, the jazz ensemble ______ three songs at the community concert.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "plays",
+      "B": "played",
+      "C": "will play",
+      "D": "playing"
+    },
+    "correct": "B",
+    "explanation": "“Last night” requires the past-tense verb “played.”"
+  },
+  {
+    "id": "RW8-M1-014",
+    "prompt": "______ with colorful thread, the cloth badge showed the school’s new logo.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Embroidered",
+      "B": "Embroidering",
+      "C": "To embroider",
+      "D": "Embroider"
+    },
+    "correct": "A",
+    "explanation": "“Embroidered with colorful thread” correctly modifies “the cloth badge.”"
+  },
+  {
+    "id": "RW8-M1-015",
+    "prompt": "The field trip was rescheduled ______ the museum was closed for repairs.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "rescheduled, the museum",
+      "B": "rescheduled because the museum",
+      "C": "rescheduled; because the museum",
+      "D": "rescheduled, because, the museum"
+    },
+    "correct": "B",
+    "explanation": "“Because” correctly introduces the reason the field trip was rescheduled."
+  },
+  {
+    "id": "RW8-M1-016",
+    "prompt": "To study how students move through the cafeteria line, the principal recorded the time needed to serve each table. She hoped to ______ delays and improve the lunch schedule.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "locate",
+      "B": "decorate",
+      "C": "borrow",
+      "D": "forget"
+    },
+    "correct": "A",
+    "explanation": "The principal wants to find where delays occur in the cafeteria line."
+  },
+  {
+    "id": "RW8-M1-017",
+    "prompt": "Some communities create “little free pantries,” small outdoor boxes where people can leave or take canned food, soap, and other basic supplies. Because the pantries are open throughout the day, they can provide quick access to needed items without requiring a formal appointment.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Little free pantries can make basic supplies more accessible to community members.",
+      "B": "Little free pantries are used only to store items that no one needs.",
+      "C": "Communities build little free pantries mainly to replace grocery stores completely.",
+      "D": "Outdoor boxes cannot be used to share canned food or soap."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that pantries provide quick access to basic supplies throughout the day."
+  },
+  {
+    "id": "RW8-M1-018",
+    "prompt": "Botanists studying water lilies note that the plants have broad, flat leaves that float on the surface of ponds. These leaves can capture sunlight while also spreading the plant’s weight across the water.\nAccording to the text, what is one function of water lilies’ broad, flat leaves?",
+    "choices": {
+      "A": "They help the plants capture sunlight at the water’s surface.",
+      "B": "They allow the plants to grow only in dry soil.",
+      "C": "They prevent ponds from containing any other plants.",
+      "D": "They help the plants move quickly from one pond to another."
+    },
+    "correct": "A",
+    "explanation": "The text says the leaves float on the surface and capture sunlight."
+  },
+  {
+    "id": "RW8-M1-019",
+    "prompt": "A student is revising the following sentence.\nThe school launched a lunchtime tutoring table, and students can visit it to ask questions, review homework, or study for quizzes.\nWhich choice best combines the ideas clearly and concisely?",
+    "choices": {
+      "A": "The school launched a lunchtime tutoring table where students can ask questions, review homework, or study for quizzes.",
+      "B": "The school launched a lunchtime tutoring table, students can visit it to ask questions, review homework, or study for quizzes.",
+      "C": "The school launched a lunchtime tutoring table and asking questions, reviewing homework, or studying for quizzes.",
+      "D": "The school launched a lunchtime tutoring table because students, questions, homework, and quizzes."
+    },
+    "correct": "A",
+    "explanation": "This choice combines the ideas clearly and avoids a comma splice."
+  },
+  {
+    "id": "RW8-M1-020",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Guillermo González Camarena was a Mexican engineer and inventor.\n• He developed an early color television system.\n• He received a patent for his system in 1942.\n• His work contributed to the development of television technology.\n• He also promoted educational uses of television.\nThe student wants to introduce González Camarena and his technical achievement. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Guillermo González Camarena, a Mexican engineer and inventor, developed an early color television system and received a patent for it in 1942.",
+      "B": "Television has been used for entertainment, education, news, and public communication.",
+      "C": "Guillermo González Camarena promoted educational television, and many schools use video today.",
+      "D": "Patents are documents that can recognize inventions and technical designs."
+    },
+    "correct": "A",
+    "explanation": "This choice introduces González Camarena and identifies his technical achievement."
+  },
+  {
+    "id": "RW8-M1-021",
+    "prompt": "A student recorded the number of minutes four students spent reading during independent reading time.\nStudent | Minutes read\nHarper | 28\nOmar | 34\nLina | 31\nEthan | 25\nWhich choice is supported by the data in the table?",
+    "choices": {
+      "A": "Omar read for the greatest number of minutes.",
+      "B": "Ethan read for more minutes than Harper.",
+      "C": "Lina and Harper read for the same number of minutes.",
+      "D": "No student read for more than 31 minutes."
+    },
+    "correct": "A",
+    "explanation": "Omar read for 34 minutes, more than Harper, Lina, or Ethan."
+  },
+  {
+    "id": "RW8-M1-022",
+    "prompt": "In a paragraph about classroom debate activities, a writer states, “Students researched evidence, practiced opening statements, listened to opposing arguments, and revised their responses.”\nWhat is the most likely purpose of the sentence?",
+    "choices": {
+      "A": "To give examples of skills students practice during debate activities",
+      "B": "To explain why students should never revise their responses",
+      "C": "To argue that opening statements are unrelated to debate",
+      "D": "To compare classroom debates with silent reading time"
+    },
+    "correct": "A",
+    "explanation": "The sentence lists debate-related skills: researching, practicing statements, listening, and revising responses."
+  },
+  {
+    "id": "RW8-M1-023",
+    "prompt": "The novel ______ we discussed in class is set in a small town during the 1940s.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "that",
+      "B": "who",
+      "C": "where",
+      "D": "when"
+    },
+    "correct": "A",
+    "explanation": "“That” correctly introduces the clause identifying which novel is set in the small town."
+  },
+  {
+    "id": "RW8-M1-024",
+    "prompt": "The program encourages students to ask questions, to test solutions, and ______ from unexpected results.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "learning",
+      "B": "to learn",
+      "C": "learned",
+      "D": "the learning of"
+    },
+    "correct": "B",
+    "explanation": "The phrase completes the parallel structure: “to ask,” “to test,” and “to learn.”"
+  },
+  {
+    "id": "RW8-M1-025",
+    "prompt": "The first version of the poster used very small print, so the designer increased the font size to make the message more ______.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "readable",
+      "B": "distant",
+      "C": "accidental",
+      "D": "crowded"
+    },
+    "correct": "A",
+    "explanation": "Increasing the font size makes the poster easier to read."
+  },
+  {
+    "id": "RW8-M1-026",
+    "prompt": "A student wants to begin an essay about the importance of protecting wetlands. Which choice would be the most effective opening sentence for the essay?",
+    "choices": {
+      "A": "Wetlands provide habitat for wildlife, filter water, and help reduce flooding in nearby areas.",
+      "B": "Some wetlands have muddy ground, while others have shallow standing water.",
+      "C": "A wetland is an area that may contain water for part or all of the year.",
+      "D": "My class once visited a wetland on a cloudy morning."
+    },
+    "correct": "A",
+    "explanation": "This sentence clearly introduces the essay’s focus on the importance of protecting wetlands."
+  },
+  {
+    "id": "RW8-M1-027",
+    "prompt": "The school installed signs pointing to the main office, cafeteria, and gym. ______ visitors could find important locations more easily.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Consequently,",
+      "B": "Nevertheless,",
+      "C": "For example,",
+      "D": "In comparison,"
+    },
+    "correct": "A",
+    "explanation": "Visitors’ improved ability to find locations is presented as an effect of installing signs.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

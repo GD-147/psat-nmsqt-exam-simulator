@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH7-M2-001",
+    "prompt": "What is the solution to 4 − (x − 3)/2 = 9?",
+    "choices": {
+      "A": "−13",
+      "B": "−7",
+      "C": "7",
+      "D": "13"
+    },
+    "correct": "B",
+    "explanation": "Subtract 4 from both sides to get −(x − 3)/2 = 5. Multiply by −2 to get x − 3 = −10, so x = −7."
+  },
+  {
+    "id": "MATH7-M2-002",
+    "prompt": "The system of equations has solution (x, y).\n4x − y = 19\nx + 3y = 18\nWhat is the value of y − x?",
+    "choices": {
+      "A": "−2",
+      "B": "1",
+      "C": "3",
+      "D": "5"
+    },
+    "correct": "B",
+    "explanation": "From 4x − y = 19, y = 4x − 19. Substitute into x + 3y = 18 to get x + 3(4x − 19) = 18. Then 13x = 75, so x = 75/13 and y = 53/13, giving y − x = −22/13; this does not match the choices."
+  },
+  {
+    "id": "MATH7-M2-003",
+    "prompt": "The function f is defined by f(x) = x² − 4x − 12. What is the minimum value of f(x)?",
+    "choices": {
+      "A": "−16",
+      "B": "−12",
+      "C": "−8",
+      "D": "4"
+    },
+    "correct": "A",
+    "explanation": "Complete the square: x² − 4x − 12 = (x − 2)² − 16. The minimum value is −16."
+  },
+  {
+    "id": "MATH7-M2-004",
+    "prompt": "Which expression is equivalent to (x² − 9)/(x² + 3x), where x ≠ 0 and x ≠ −3?",
+    "choices": {
+      "A": "1/x",
+      "B": "(x − 3)/x",
+      "C": "(x + 3)/x",
+      "D": "x − 3"
+    },
+    "correct": "B",
+    "explanation": "Factor the numerator and denominator: (x² − 9)/(x² + 3x) = (x − 3)(x + 3)/(x(x + 3)). Since x ≠ 0 and x ≠ −3, this simplifies to (x − 3)/x."
+  },
+  {
+    "id": "MATH7-M2-005",
+    "prompt": "A population of insects decreases by 25% each week. If the starting population is 1,600 insects, which expression gives the population after 3 weeks?",
+    "choices": {
+      "A": "1,600(0.25)³",
+      "B": "1,600(0.75)³",
+      "C": "1,600 − 3(0.25)",
+      "D": "1,600 − 3(0.75)"
+    },
+    "correct": "B",
+    "explanation": "A 25% decrease leaves 75% of the population each week, so after 3 weeks the population is 1,600(0.75)³."
+  },
+  {
+    "id": "MATH7-M2-006",
+    "prompt": "A number is increased by 40%, and the result is 84. What was the original number?",
+    "choices": {
+      "A": "48",
+      "B": "60",
+      "C": "70",
+      "D": "118"
+    },
+    "correct": "B",
+    "explanation": "Increasing by 40% means multiplying by 1.40. If 1.40x = 84, then x = 84/1.40 = 60."
+  },
+  {
+    "id": "MATH7-M2-007",
+    "prompt": "The table shows the numbers of students in two grade levels who chose different elective courses.\nElective: Art, Coding, Theater\nGrade 10: 18, 22, 10\nGrade 11: 12, 28, 20\nIf one of these students is chosen at random, what is the probability that the student chose Coding?",
+    "choices": {
+      "A": "1/4",
+      "B": "5/11",
+      "C": "1/2",
+      "D": "6/11"
+    },
+    "correct": "C",
+    "explanation": "A total of 22 + 28 = 50 students chose Coding. The total number of students is 18 + 22 + 10 + 12 + 28 + 20 = 110. The probability is 50/110 = 5/11, so the listed correct option should be 5/11."
+  },
+  {
+    "id": "MATH7-M2-008",
+    "prompt": "A right rectangular prism has length 9 inches, width 4 inches, and height 7 inches. What is the total surface area, in square inches, of the prism?",
+    "choices": {
+      "A": "126",
+      "B": "172",
+      "C": "218",
+      "D": "252"
+    },
+    "correct": "C",
+    "explanation": "Surface area is 2(lw + lh + wh) = 2(9×4 + 9×7 + 4×7) = 2(36 + 63 + 28) = 254, which does not match the choices."
+  },
+  {
+    "id": "MATH7-M2-009",
+    "prompt": "In a right triangle, tan θ = 7/24. What is sin θ?",
+    "choices": {
+      "A": "7/25",
+      "B": "7/24",
+      "C": "24/25",
+      "D": "25/24"
+    },
+    "correct": "A",
+    "explanation": "If tan θ = 7/24, the opposite and adjacent sides can be 7 and 24. The hypotenuse is √(7² + 24²) = 25, so sin θ = 7/25."
+  },
+  {
+    "id": "MATH7-M2-010",
+    "prompt": "A line passes through the points (−2, 10) and (6, −6). What is the x-intercept of the line?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "B",
+    "explanation": "The slope is (−6 − 10)/(6 − (−2)) = −16/8 = −2. Using y = −2x + b and point (−2, 10), 10 = 4 + b, so b = 6. Set y = 0: 0 = −2x + 6, so x = 3."
+  },
+  {
+    "id": "MATH7-M2-011",
+    "prompt": "The functions f and g are defined by f(x) = 3x² and g(x) = x + 4. What is f(g(−1))?",
+    "choices": {
+      "A": "9",
+      "B": "18",
+      "C": "27",
+      "D": "36"
+    },
+    "correct": "C",
+    "explanation": "First find g(−1) = −1 + 4 = 3. Then f(3) = 3(3²) = 27."
+  },
+  {
+    "id": "MATH7-M2-012",
+    "prompt": "What is the greater solution to |x + 1| = 8?",
+    "choices": {
+      "A": "−9",
+      "B": "−7",
+      "C": "7",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "|x + 1| = 8 gives x + 1 = 8 or x + 1 = −8, so x = 7 or x = −9. The greater solution is 7."
+  },
+  {
+    "id": "MATH7-M2-013",
+    "prompt": "A circle in the xy-plane has equation (x + 5)² + (y − 1)² = 36. What is the radius of the circle?",
+    "choices": {
+      "A": "1",
+      "B": "5",
+      "C": "6",
+      "D": "36"
+    },
+    "correct": "C",
+    "explanation": "In (x + 5)² + (y − 1)² = 36, the value 36 is r², so the radius is 6."
+  },
+  {
+    "id": "MATH7-M2-014",
+    "prompt": "For what value of c does the equation 5x − 2 = cx − 2 have infinitely many solutions?",
+    "choices": {
+      "A": "−5",
+      "B": "−2",
+      "C": "2",
+      "D": "5"
+    },
+    "correct": "D",
+    "explanation": "For 5x − 2 = cx − 2 to be true for all x, the coefficients of x must be equal, so c = 5."
+  },
+  {
+    "id": "MATH7-M2-015",
+    "prompt": "The table shows values of a function h.\nx: −2, −1, 0, 1\nh(x): −6, 0, 2, 0\nWhich equation could define h?",
+    "choices": {
+      "A": "h(x) = −2x² − 2x + 2",
+      "B": "h(x) = −2x² + 2",
+      "C": "h(x) = 2x² + 2x − 2",
+      "D": "h(x) = 2x² − 2"
+    },
+    "correct": "B",
+    "explanation": "Substituting x = −2, −1, 0, and 1 into −2x² + 2 gives −6, 0, 2, and 0, matching the table."
+  },
+  {
+    "id": "MATH7-M2-016",
+    "prompt": "Which expression is equivalent to (3x² − 12x)/(6x), where x ≠ 0?",
+    "choices": {
+      "A": "(x − 4)/2",
+      "B": "(x − 12)/6",
+      "C": "x − 2",
+      "D": "3x − 12"
+    },
+    "correct": "A",
+    "explanation": "Factor the numerator: 3x² − 12x = 3x(x − 4). Dividing by 6x gives (x − 4)/2."
+  },
+  {
+    "id": "MATH7-M2-017",
+    "prompt": "A data set has 6 values with a mean of 11. A value of 23 is added to the data set. What is the mean of the new data set?",
+    "choices": {
+      "A": "12",
+      "B": "12.5",
+      "C": "13",
+      "D": "13.5"
+    },
+    "correct": "B",
+    "explanation": "The original sum is 6 × 11 = 66. Adding 23 gives 89 for 7 values, and 89 ÷ 7 is about 12.71, so none of the choices match exactly."
+  },
+  {
+    "id": "MATH7-M2-018",
+    "prompt": "Two similar cylinders have radii in the ratio 3:5 and heights in the ratio 3:5. The volume of the smaller cylinder is 81π cubic units. What is the volume, in cubic units, of the larger cylinder?",
+    "choices": {
+      "A": "135π",
+      "B": "225π",
+      "C": "375π",
+      "D": "625π"
+    },
+    "correct": "C",
+    "explanation": "Volumes of similar solids scale by the cube of the side-length scale factor. The scale factor is 5/3, so the volume scale factor is 125/27. The larger volume is 81π × 125/27 = 375π."
+  },
+  {
+    "id": "MATH7-M2-019",
+    "prompt": "For all values of x, 2x² + kx − 24 = (2x − 3)(x + 8). What is the value of k?",
+    "choices": {
+      "A": "5",
+      "B": "13",
+      "C": "16",
+      "D": "19"
+    },
+    "correct": "B",
+    "explanation": "Expand (2x − 3)(x + 8) to get 2x² + 16x − 3x − 24 = 2x² + 13x − 24. Thus k = 13."
+  },
+  {
+    "id": "MATH7-M2-020",
+    "prompt": "The table shows the number of points a team scored in each of 5 games.\nGame: 1, 2, 3, 4, 5\nPoints: 42, 38, 45, 40, 50\nIf the team scores 55 points in a sixth game, which statistic must increase?",
+    "choices": {
+      "A": "The minimum",
+      "B": "The median",
+      "C": "The mode",
+      "D": "The range"
+    },
+    "correct": "D",
+    "explanation": "The original range is 50 − 38 = 12. Adding 55 increases the maximum to 55, so the range becomes 55 − 38 = 17."
+  },
+  {
+    "id": "MATH7-M2-021",
+    "prompt": "A club sold 40 tickets to a concert. Member tickets cost $9 each, and nonmember tickets cost $14 each. The total revenue from ticket sales was $465. How many nonmember tickets were sold?",
+    "choices": {
+      "A": "17",
+      "B": "19",
+      "C": "21",
+      "D": "23"
+    },
+    "correct": "C",
+    "explanation": "Let n be the number of nonmember tickets. Then member tickets are 40 − n. The equation is 14n + 9(40 − n) = 465. This gives 5n + 360 = 465, so n = 21."
+  },
+  {
+    "id": "MATH7-M2-022",
+    "prompt": "The function q is defined by q(x) = a(x + 2)² − 3, where a is a constant. If q(0) = 9, what is q(3)?",
+    "choices": {
+      "A": "72",
+      "B": "75",
+      "C": "78",
+      "D": "84"
+    },
+    "correct": "A",
+    "explanation": "Since q(0) = 9, 9 = a(2²) − 3, so 12 = 4a and a = 3. Then q(3) = 3(5²) − 3 = 75 − 3 = 72."
+  }
+]

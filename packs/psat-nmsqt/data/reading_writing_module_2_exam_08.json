@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW8-M2-001",
+    "prompt": "Visual artist Wangechi Mutu often combines drawing, collage, and sculpture to create figures that seem both human and fantastical. Because her works bring together materials and images from many sources, they can unsettle simple categories such as natural and artificial or beautiful and strange. Mutu’s art therefore often ______ fixed boundaries.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "challenges",
+      "B": "measures",
+      "C": "repeats",
+      "D": "conceals"
+    },
+    "correct": "A",
+    "explanation": "Mutu’s work unsettles simple categories and fixed boundaries, so “challenges” is most precise."
+  },
+  {
+    "id": "RW8-M2-002",
+    "prompt": "Scientists studying ancient lake beds sometimes examine layers of diatoms, microscopic algae with glasslike shells. Different diatom species thrive in different water conditions, such as fresh, salty, shallow, or deep water. As a result, changes in diatom layers can help researchers infer how a lake’s environment changed over time.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Diatom layers in ancient lake beds can help scientists study past changes in lake environments.",
+      "B": "Diatoms are useful to scientists because all species live in exactly the same conditions.",
+      "C": "Ancient lake beds cannot preserve evidence of microscopic organisms.",
+      "D": "Scientists examine diatoms mainly to determine the age of modern oceans."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that different diatom species indicate different water conditions over time."
+  },
+  {
+    "id": "RW8-M2-003",
+    "prompt": "Some cities have introduced “quiet hours” in public recreation centers, during which music is lowered and bright lights are dimmed. These changes can make the centers more comfortable for visitors sensitive to noise or light. However, staff must clearly announce the schedule so other visitors know when regular activities will resume.\nWhich choice is the best inference from the text?",
+    "choices": {
+      "A": "Quiet hours can improve access for some visitors, but they require clear communication.",
+      "B": "Quiet hours prevent recreation centers from serving visitors who are sensitive to noise.",
+      "C": "Recreation centers can be comfortable only when all lights are turned off.",
+      "D": "Staff announcements are unnecessary when a public schedule changes."
+    },
+    "correct": "A",
+    "explanation": "The text says quiet hours can help noise- or light-sensitive visitors but must be clearly announced."
+  },
+  {
+    "id": "RW8-M2-004",
+    "prompt": "A student’s draft about historian Laurel Thatcher Ulrich includes the following sentences.\nUlrich has studied diaries, household records, and other documents that earlier historians sometimes considered too ordinary to be important. Her work shows that everyday sources can reveal how people experienced major historical changes in daily life.\nWhat is the main function of the second sentence in the text?",
+    "choices": {
+      "A": "It explains the historical value of the ordinary sources Ulrich studies.",
+      "B": "It argues that household records are less reliable than official laws.",
+      "C": "It lists every diary Ulrich has studied.",
+      "D": "It shows that everyday sources cannot connect to major historical events."
+    },
+    "correct": "A",
+    "explanation": "The second sentence explains that ordinary records can reveal daily experiences of historical change."
+  },
+  {
+    "id": "RW8-M2-005",
+    "prompt": "A researcher compared the average number of minutes students spent using four school wellness resources before and after a new awareness campaign.\nResource | Before campaign | After campaign\nCounseling office drop-in hours | 15 | 23\nMeditation room | 12 | 18\nPeer support group | 20 | 26\nOnline wellness articles | 29 | 21\nWhich choice best describes the data?",
+    "choices": {
+      "A": "Students spent more time using drop-in hours, the meditation room, and the peer support group after the campaign, but less time using online wellness articles.",
+      "B": "Students spent less time using all four wellness resources after the campaign.",
+      "C": "Online wellness articles had the greatest increase after the campaign.",
+      "D": "The meditation room and peer support group had the same time after the campaign."
+    },
+    "correct": "A",
+    "explanation": "Time increased for the first three resources and decreased for online wellness articles from 29 to 21 minutes."
+  },
+  {
+    "id": "RW8-M2-006",
+    "prompt": "A restored historic theater may attract visitors and support nearby businesses. ______ restoration can be expensive, especially when builders must preserve original materials while meeting modern safety standards.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "However,",
+      "B": "Similarly,",
+      "C": "For example,",
+      "D": "Therefore,"
+    },
+    "correct": "A",
+    "explanation": "The sentence contrasts the benefits of theater restoration with the expense and difficulty of restoration."
+  },
+  {
+    "id": "RW8-M2-007",
+    "prompt": "The workshop focuses on three elements of documentary filmmaking ______ interviews, archival images, and narration.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "filmmaking",
+      "B": "filmmaking:",
+      "C": "filmmaking,",
+      "D": "filmmaking;"
+    },
+    "correct": "B",
+    "explanation": "A colon correctly introduces the list of three documentary filmmaking elements."
+  },
+  {
+    "id": "RW8-M2-008",
+    "prompt": "Walking through the greenhouse after the automatic sprinklers shut off, ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "droplets of water sparkled on the tomato leaves",
+      "B": "the tomato leaves had sparkling droplets of water",
+      "C": "the gardener noticed droplets of water sparkling on the tomato leaves",
+      "D": "there were droplets of water sparkling on the tomato leaves"
+    },
+    "correct": "C",
+    "explanation": "The introductory modifier “Walking through the greenhouse” must logically describe “the gardener.”"
+  },
+  {
+    "id": "RW8-M2-009",
+    "prompt": "The historian interviewed the museum curator after the exhibit opened, and ______ agreed that the display needed a clearer timeline.\nWhich choice completes the text so that it conforms to the conventions of Standard English and avoids ambiguity?",
+    "choices": {
+      "A": "they",
+      "B": "the historian",
+      "C": "she",
+      "D": "it"
+    },
+    "correct": "B",
+    "explanation": "Repeating “the historian” avoids ambiguity about whether “they” refers to the historian and curator together."
+  },
+  {
+    "id": "RW8-M2-010",
+    "prompt": "By the time the robotics competition began, the team ______ its final software test.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "runs",
+      "B": "has run",
+      "C": "had run",
+      "D": "running"
+    },
+    "correct": "C",
+    "explanation": "The past perfect tense shows that the software test occurred before the competition began."
+  },
+  {
+    "id": "RW8-M2-011",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Frances Glessner Lee created detailed miniature crime-scene models.\n• The models were used to train investigators.\n• Lee carefully included clues, room layouts, and everyday objects.\n• Trainees practiced observing evidence and forming careful conclusions.\n• Lee’s work helped professionalize forensic investigation.\nThe student wants to explain the training purpose of Lee’s models. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Frances Glessner Lee created miniature crime-scene models that trained investigators to observe evidence carefully and form conclusions.",
+      "B": "Frances Glessner Lee included room layouts and everyday objects in her models.",
+      "C": "Forensic investigation is one field in which observation can be important.",
+      "D": "Miniature models can show small versions of rooms, furniture, and objects."
+    },
+    "correct": "A",
+    "explanation": "This choice explains the training purpose of Lee’s models."
+  },
+  {
+    "id": "RW8-M2-012",
+    "prompt": "A student is revising an essay about installing bird-safe glass on school buildings. The student wants to add a sentence that explains a possible advantage of bird-safe glass. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "Bird-safe glass can reduce collisions by making windows more visible to birds in flight.",
+      "B": "School buildings may have windows in classrooms, hallways, gyms, and offices.",
+      "C": "Glass can be made in many sizes, shapes, and levels of thickness.",
+      "D": "Some schools replace windows during major renovation projects."
+    },
+    "correct": "A",
+    "explanation": "This sentence directly explains a possible advantage of bird-safe glass."
+  },
+  {
+    "id": "RW8-M2-013",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) Some researchers study “soundscapes,” or the collection of sounds in a place. (2) In a forest, a soundscape might include bird calls, insect sounds, wind, and flowing water. (3) Changes in a soundscape can signal changes in animal activity or human disturbance. (4) Recording soundscapes over time can therefore help scientists monitor ecosystems.\nWhere should the following sentence be placed to best support the logical flow of the paragraph?\nThis term can apply to both natural and built environments.",
+    "choices": {
+      "A": "After sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "A",
+    "explanation": "The added sentence expands the definition of “soundscapes” immediately after the term is introduced."
+  },
+  {
+    "id": "RW8-M2-014",
+    "prompt": "The critic’s review of the album was not ______; although she admired several songs, she also explained where she thought the lyrics were repetitive.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "uncritical",
+      "B": "musical",
+      "C": "recent",
+      "D": "public"
+    },
+    "correct": "A",
+    "explanation": "The critic included both praise and criticism, so the review was not uncritical."
+  },
+  {
+    "id": "RW8-M2-015",
+    "prompt": "Researchers studying urban gardens found that gardens with a greater variety of flowering plants attracted more species of bees than gardens with only one or two flower types. The researchers concluded that planting diverse flowers may help support bee diversity in cities.\nWhich choice best describes the relationship between the evidence and the researchers’ conclusion?",
+    "choices": {
+      "A": "The greater number of bee species in gardens with varied flowers supports the conclusion that flower diversity may support bee diversity.",
+      "B": "The evidence proves that bees avoid all urban gardens with flowers.",
+      "C": "The conclusion rejects the idea that bees visit flowering plants.",
+      "D": "The evidence shows that gardens with one flower type always attract the most bee species."
+    },
+    "correct": "A",
+    "explanation": "The evidence links more flower variety with more bee species in urban gardens."
+  },
+  {
+    "id": "RW8-M2-016",
+    "prompt": "The website lists the application deadlines, ______ it also provides links to required forms.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "deadlines, it",
+      "B": "deadlines and",
+      "C": "deadlines; and",
+      "D": "deadlines, and"
+    },
+    "correct": "D",
+    "explanation": "A comma plus “and” correctly joins two independent clauses."
+  },
+  {
+    "id": "RW8-M2-017",
+    "prompt": "A product designer tested two handle shapes for a reusable water bottle. Volunteers carried equal-weight bottles with Handle A and Handle B for the same distance, then rated comfort on a survey. Handle B received higher average comfort ratings than Handle A.\nWhich conclusion is best supported by the text?",
+    "choices": {
+      "A": "Under the conditions tested, Handle B was rated more comfortable than Handle A.",
+      "B": "Handle A cannot be attached to any reusable water bottle.",
+      "C": "Volunteers carried bottles with different amounts of water.",
+      "D": "Comfort ratings cannot be collected through surveys."
+    },
+    "correct": "A",
+    "explanation": "Volunteers carried equal-weight bottles the same distance, and Handle B received higher comfort ratings."
+  },
+  {
+    "id": "RW8-M2-018",
+    "prompt": "The article first explains that some schools use restorative circles to help students discuss conflicts. ______ it describes one school where the practice reduced repeated classroom disruptions.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Then,",
+      "B": "Even so,",
+      "C": "In contrast,",
+      "D": "Nevertheless,"
+    },
+    "correct": "A",
+    "explanation": "The paragraph moves from a general description of restorative circles to a specific school example."
+  },
+  {
+    "id": "RW8-M2-019",
+    "prompt": "The box of donated art supplies ______ watercolor paints, sketchbooks, brushes, and clay tools.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "contain",
+      "B": "contains",
+      "C": "containing",
+      "D": "are containing"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “box” requires the singular verb “contains.”"
+  },
+  {
+    "id": "RW8-M2-020",
+    "prompt": "The ______ web stretched between two fence posts and glittered with dew in the morning light.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "spider’s",
+      "B": "spiders",
+      "C": "spiders’",
+      "D": "spideres’"
+    },
+    "correct": "A",
+    "explanation": "The sentence refers to one spider’s web, so the singular possessive “spider’s” is correct."
+  },
+  {
+    "id": "RW8-M2-021",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• The Port Chicago disaster occurred in California in 1944.\n• An explosion at a naval munitions facility killed hundreds of people, many of them Black sailors.\n• After the disaster, some surviving sailors refused to continue unsafe loading work.\n• The sailors faced court-martial.\n• The event drew attention to discrimination and unsafe conditions in the US military.\nThe student wants to explain the broader significance of the Port Chicago disaster. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "The Port Chicago disaster drew attention to discrimination and unsafe working conditions after an explosion killed hundreds at a naval munitions facility.",
+      "B": "The Port Chicago disaster occurred in California during World War II in 1944.",
+      "C": "Some sailors at Port Chicago worked at a naval munitions facility before the explosion.",
+      "D": "Court-martial is a military legal process used in some cases involving service members."
+    },
+    "correct": "A",
+    "explanation": "This choice explains the broader significance of the disaster and its aftermath."
+  },
+  {
+    "id": "RW8-M2-022",
+    "prompt": "A student is revising the following sentence.\nThe city’s tool-repair van travels to different neighborhoods, and technicians help residents fix broken items.\nThe student wants to emphasize that the van both increases access to repair services and reduces waste. Which choice best revises the sentence to accomplish this goal?",
+    "choices": {
+      "A": "By traveling to different neighborhoods and helping residents fix broken items, the city’s tool-repair van makes repair services easier to access while reducing waste.",
+      "B": "The city’s tool-repair van is a van that goes to neighborhoods, and technicians are inside it.",
+      "C": "Broken items can be fixed by technicians, who sometimes travel in vans owned by the city.",
+      "D": "Residents in different neighborhoods may own items that break and need repairs."
+    },
+    "correct": "A",
+    "explanation": "This revision emphasizes both access to repair services and waste reduction."
+  },
+  {
+    "id": "RW8-M2-023",
+    "prompt": "Leah found a roll of fabric in her grandmother’s sewing basket, its blue pattern faded where the sun had reached it. She had never seen the fabric made into anything, but she remembered the basket sitting beside her grandmother’s chair every evening. Holding the cloth, Leah felt as though she had found a plan that had been waiting quietly for years.\nWhich choice best describes what the text suggests about Leah?",
+    "choices": {
+      "A": "The fabric makes her imagine continuing something connected to her grandmother.",
+      "B": "She thinks the fabric should be thrown away because its color has faded.",
+      "C": "She remembers seeing the fabric used in many finished clothes.",
+      "D": "She dislikes sewing baskets because they take up too much space."
+    },
+    "correct": "A",
+    "explanation": "Leah sees the fabric as a “plan” connected to her grandmother’s sewing basket, suggesting a desire to continue that connection."
+  },
+  {
+    "id": "RW8-M2-024",
+    "prompt": "The scientist arranged the samples in labeled trays, ______ the comparison between them easier to follow.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "making",
+      "B": "made",
+      "C": "makes",
+      "D": "and making"
+    },
+    "correct": "A",
+    "explanation": "The participle “making” correctly shows the result of arranging the samples in labeled trays."
+  },
+  {
+    "id": "RW8-M2-025",
+    "prompt": "Because the poem contains several unfamiliar regional expressions, the teacher provided a glossary to ______ their meanings.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "clarify",
+      "B": "imitate",
+      "C": "postpone",
+      "D": "erase"
+    },
+    "correct": "A",
+    "explanation": "A glossary helps make unfamiliar expressions’ meanings clear."
+  },
+  {
+    "id": "RW8-M2-026",
+    "prompt": "The guide explains three ways to prepare for a job interview: researching the organization, practicing answers to common questions, and ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "preparing thoughtful questions for the interviewer",
+      "B": "thoughtful questions were prepared for the interviewer",
+      "C": "to prepare thoughtful questions for the interviewer",
+      "D": "prepared thoughtful questions for the interviewer"
+    },
+    "correct": "A",
+    "explanation": "This choice keeps the list grammatically parallel: “researching,” “practicing,” and “preparing.”"
+  },
+  {
+    "id": "RW8-M2-027",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Barn owls hunt small rodents in fields and grasslands.\n• Farmers sometimes install nest boxes to attract barn owls.\n• A pair of barn owls may feed many rodents to their young during nesting season.\n• Reducing rodent numbers can help protect stored grain and crops.\n• Nest boxes can provide nesting sites where natural cavities are limited.\nThe student wants to explain how barn owl nest boxes can benefit farms. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Barn owl nest boxes can attract owls that hunt rodents, helping reduce animals that may damage stored grain and crops.",
+      "B": "Barn owls live in fields and grasslands and may nest in cavities or boxes.",
+      "C": "A pair of barn owls can have young during nesting season.",
+      "D": "Farmers use many methods to protect stored grain, crops, and farm buildings."
+    },
+    "correct": "A",
+    "explanation": "This choice explains how nest boxes can benefit farms by attracting rodent-hunting owls."
+  }
+]

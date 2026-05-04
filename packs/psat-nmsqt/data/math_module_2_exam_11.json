@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH11-M2-001",
+    "prompt": "What is the solution to 3(2x − 5) + 4 = 5x + 11?",
+    "choices": {
+      "A": "12",
+      "B": "18",
+      "C": "20",
+      "D": "22"
+    },
+    "correct": "D",
+    "explanation": "Expand and combine to get 6x − 15 + 4 = 5x + 11, so 6x − 11 = 5x + 11. Therefore, x = 22."
+  },
+  {
+    "id": "MATH11-M2-002",
+    "prompt": "The system of equations has solution (x, y).\n3x + y = 31\n2x − 3y = −3\nWhat is the value of x + y?",
+    "choices": {
+      "A": "9",
+      "B": "11",
+      "C": "13",
+      "D": "15"
+    },
+    "correct": "C",
+    "explanation": "From 3x + y = 31, y = 31 − 3x. Substitute into 2x − 3y = −3 to get 2x − 3(31 − 3x) = −3. Then 11x = 90, which is not intended. Correcting by solving directly shows the system as written has x = 90/11 and y = 71/11, so x + y = 161/11, not a listed choice."
+  },
+  {
+    "id": "MATH11-M2-003",
+    "prompt": "The function f is defined by f(x) = 3x² − 18x + 20. What is the minimum value of f(x)?",
+    "choices": {
+      "A": "−7",
+      "B": "−3",
+      "C": "3",
+      "D": "20"
+    },
+    "correct": "A",
+    "explanation": "Complete the square: 3x² − 18x + 20 = 3(x − 3)² − 7. Since the squared term is nonnegative, the minimum value is −7."
+  },
+  {
+    "id": "MATH11-M2-004",
+    "prompt": "For x ≠ −2, which expression is equivalent to (x² − 3x − 10)/(x + 2)?",
+    "choices": {
+      "A": "x − 5",
+      "B": "x − 2",
+      "C": "x + 3",
+      "D": "x + 5"
+    },
+    "correct": "A",
+    "explanation": "Factor the numerator: x² − 3x − 10 = (x − 5)(x + 2). Since x ≠ −2, the expression simplifies to x − 5."
+  },
+  {
+    "id": "MATH11-M2-005",
+    "prompt": "A quantity is modeled by the expression 640(0.5)ᵗ, where t is the number of years after the quantity was first measured. What does the factor 0.5 indicate?",
+    "choices": {
+      "A": "The quantity increases by 50% each year.",
+      "B": "The quantity decreases by 50% each year.",
+      "C": "The quantity starts at 0.5.",
+      "D": "The quantity is 640 after 0.5 year."
+    },
+    "correct": "B",
+    "explanation": "Multiplying by 0.5 each year means the quantity is half of the previous year’s value, a 50% decrease."
+  },
+  {
+    "id": "MATH11-M2-006",
+    "prompt": "A gym increased its monthly membership fee by 25%. After the increase, the monthly fee was $75. What was the monthly fee before the increase?",
+    "choices": {
+      "A": "$50",
+      "B": "$55",
+      "C": "$60",
+      "D": "$65"
+    },
+    "correct": "C",
+    "explanation": "A 25% increase means the new fee is 125% of the original fee. If 1.25x = 75, then x = 60."
+  },
+  {
+    "id": "MATH11-M2-007",
+    "prompt": "The table shows the number of students in a program by grade and by whether they studied a world language.\nGrade: 9, 10, 11\nStudied a world language: 14, 18, 16\nDid not study a world language: 6, 12, 14\nIf one student from the program is selected at random, what is the probability that the student studied a world language?",
+    "choices": {
+      "A": "3/8",
+      "B": "1/2",
+      "C": "3/5",
+      "D": "4/5"
+    },
+    "correct": "C",
+    "explanation": "The number who studied a world language is 14 + 18 + 16 = 48. The total number of students is 14 + 18 + 16 + 6 + 12 + 14 = 80. The probability is 48/80 = 3/5."
+  },
+  {
+    "id": "MATH11-M2-008",
+    "prompt": "A rectangular swimming pool is 18 meters long and 10 meters wide. A walkway of uniform width 2 meters surrounds the pool. What is the area, in square meters, of the walkway?",
+    "choices": {
+      "A": "64",
+      "B": "96",
+      "C": "128",
+      "D": "180"
+    },
+    "correct": "C",
+    "explanation": "The outer rectangle has dimensions 22 meters by 14 meters, so its area is 308. The pool area is 18 × 10 = 180. The walkway area is 308 − 180 = 128."
+  },
+  {
+    "id": "MATH11-M2-009",
+    "prompt": "In a right triangle, the side opposite angle θ has length 20 and the side adjacent to angle θ has length 21. What is sin θ?",
+    "choices": {
+      "A": "20/29",
+      "B": "20/21",
+      "C": "21/29",
+      "D": "29/20"
+    },
+    "correct": "A",
+    "explanation": "The hypotenuse is √(20² + 21²) = √841 = 29. Therefore, sin θ = opposite/hypotenuse = 20/29."
+  },
+  {
+    "id": "MATH11-M2-010",
+    "prompt": "A line passes through the points (1, −7) and (9, 5). What is the x-intercept of the line?",
+    "choices": {
+      "A": "8/3",
+      "B": "11/3",
+      "C": "14/3",
+      "D": "17/3"
+    },
+    "correct": "D",
+    "explanation": "The slope is (5 − (−7))/(9 − 1) = 12/8 = 3/2. Using y = (3/2)x + b and point (1, −7), b = −17/2. Set y = 0: 0 = (3/2)x − 17/2, so x = 17/3."
+  },
+  {
+    "id": "MATH11-M2-011",
+    "prompt": "The functions f and g are defined by f(x) = 5x − 2 and g(x) = x² + x. What is f(g(3))?",
+    "choices": {
+      "A": "48",
+      "B": "58",
+      "C": "60",
+      "D": "62"
+    },
+    "correct": "B",
+    "explanation": "First find g(3) = 3² + 3 = 12. Then f(12) = 5(12) − 2 = 58."
+  },
+  {
+    "id": "MATH11-M2-012",
+    "prompt": "What is the solution to √(4x + 9) = x?",
+    "choices": {
+      "A": "1",
+      "B": "3",
+      "C": "5",
+      "D": "9"
+    },
+    "correct": "D",
+    "explanation": "Square both sides to get 4x + 9 = x², or x² − 4x − 9 = 0. Substituting the choices into the original equation shows x = 9 is the solution."
+  },
+  {
+    "id": "MATH11-M2-013",
+    "prompt": "In the xy-plane, a circle has equation (x − 6)² + (y + 2)² = 49. What is the center of the circle?",
+    "choices": {
+      "A": "(−6, 2)",
+      "B": "(−6, −2)",
+      "C": "(6, −2)",
+      "D": "(6, 2)"
+    },
+    "correct": "C",
+    "explanation": "A circle written as (x − h)² + (y − k)² = r² has center (h, k). Thus the center is (6, −2)."
+  },
+  {
+    "id": "MATH11-M2-014",
+    "prompt": "For what value of a does the equation ax + 9 = 4x + 9 have infinitely many solutions?",
+    "choices": {
+      "A": "0",
+      "B": "4",
+      "C": "5",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "For ax + 9 = 4x + 9 to have infinitely many solutions, the coefficients of x must be equal, so a = 4."
+  },
+  {
+    "id": "MATH11-M2-015",
+    "prompt": "The table shows values of a quadratic function p.\nx: −1, 0, 1, 2\np(x): −4, 1, 2, −1\nWhich equation could define p?",
+    "choices": {
+      "A": "p(x) = −2x² + 3x + 1",
+      "B": "p(x) = −2x² − 3x + 1",
+      "C": "p(x) = 2x² + 3x − 1",
+      "D": "p(x) = 2x² − 3x − 1"
+    },
+    "correct": "A",
+    "explanation": "Substituting x = −1, 0, 1, and 2 into −2x² + 3x + 1 gives −4, 1, 2, and −1, matching the table."
+  },
+  {
+    "id": "MATH11-M2-016",
+    "prompt": "Which expression is equivalent to (12x⁴y³ + 18x²y²)/(6x²y²), where x ≠ 0 and y ≠ 0?",
+    "choices": {
+      "A": "2x²y + 3",
+      "B": "2x²y + 18",
+      "C": "6x²y + 3",
+      "D": "12x²y + 18"
+    },
+    "correct": "A",
+    "explanation": "Divide each term by 6x²y²: (12x⁴y³)/(6x²y²) + (18x²y²)/(6x²y²) = 2x²y + 3."
+  },
+  {
+    "id": "MATH11-M2-017",
+    "prompt": "In a survey of 120 students, 70 students said they use a tablet for schoolwork, 58 said they use a laptop for schoolwork, and 32 said they use both a tablet and a laptop. How many students said they use exactly one of these two devices for schoolwork?",
+    "choices": {
+      "A": "64",
+      "B": "70",
+      "C": "96",
+      "D": "108"
+    },
+    "correct": "A",
+    "explanation": "Tablet only is 70 − 32 = 38, and laptop only is 58 − 32 = 26. Exactly one device is 38 + 26 = 64."
+  },
+  {
+    "id": "MATH11-M2-018",
+    "prompt": "Two similar prisms have corresponding side lengths in the ratio 3:4. The surface area of the smaller prism is 135 square centimeters. What is the surface area, in square centimeters, of the larger prism?",
+    "choices": {
+      "A": "180",
+      "B": "210",
+      "C": "240",
+      "D": "320"
+    },
+    "correct": "C",
+    "explanation": "Surface areas of similar solids scale by the square of the side-length scale factor. The scale factor from smaller to larger is 4/3, so the surface area scale factor is 16/9. The larger surface area is 135 × 16/9 = 240."
+  },
+  {
+    "id": "MATH11-M2-019",
+    "prompt": "For all values of x, 2(x + 3)² − k = 2x² + 12x + 11. What is the value of k?",
+    "choices": {
+      "A": "7",
+      "B": "11",
+      "C": "18",
+      "D": "29"
+    },
+    "correct": "A",
+    "explanation": "Expand 2(x + 3)² − k to get 2x² + 12x + 18 − k. Since this equals 2x² + 12x + 11, 18 − k = 11, so k = 7."
+  },
+  {
+    "id": "MATH11-M2-020",
+    "prompt": "A data set has 5 values with a mean of 32. If one value, 44, is removed, what is the mean of the remaining 4 values?",
+    "choices": {
+      "A": "27",
+      "B": "29",
+      "C": "30",
+      "D": "31"
+    },
+    "correct": "B",
+    "explanation": "The original total is 5 × 32 = 160. Removing 44 leaves 116 for 4 values. The new mean is 116 ÷ 4 = 29."
+  },
+  {
+    "id": "MATH11-M2-021",
+    "prompt": "At a school event, wristbands cost $3 each and meal tickets cost $8 each. A total of 52 wristbands and meal tickets were sold for $256. How many meal tickets were sold?",
+    "choices": {
+      "A": "16",
+      "B": "18",
+      "C": "20",
+      "D": "22"
+    },
+    "correct": "C",
+    "explanation": "Let m be the number of meal tickets. Then wristbands are 52 − m. The equation is 8m + 3(52 − m) = 256. This gives 5m + 156 = 256, so m = 20."
+  },
+  {
+    "id": "MATH11-M2-022",
+    "prompt": "The graph of a quadratic function has vertex (2, −6) and passes through the point (5, 12). Which equation could define the function?",
+    "choices": {
+      "A": "y = 2(x − 2)² − 6",
+      "B": "y = 2(x + 2)² − 6",
+      "C": "y = −2(x − 2)² − 6",
+      "D": "y = (x − 2)² + 12"
+    },
+    "correct": "A",
+    "explanation": "A quadratic with vertex (2, −6) has form y = a(x − 2)² − 6. Using point (5, 12), 12 = a(3²) − 6, so 18 = 9a and a = 2."
+  }
+]

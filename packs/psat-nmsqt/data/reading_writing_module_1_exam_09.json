@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW9-M1-001",
+    "prompt": "Painter Alma Thomas became known for canvases filled with bright blocks of color arranged in rhythmic patterns. Rather than trying to copy scenes exactly, Thomas used color and shape to suggest movement, light, and emotion. Her style was therefore highly ______.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "distinctive",
+      "B": "temporary",
+      "C": "invisible",
+      "D": "accidental"
+    },
+    "correct": "A",
+    "explanation": "Thomas’s use of bright color blocks and rhythmic patterns made her style recognizable and different from exact representation."
+  },
+  {
+    "id": "RW9-M1-002",
+    "prompt": "Farmers sometimes plant rows of trees or shrubs along the edges of fields. These rows, called windbreaks, slow strong winds that can dry out soil or damage crops. Windbreaks may also provide shelter for birds and beneficial insects.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Windbreaks can protect fields from wind while also supporting some wildlife.",
+      "B": "Windbreaks are planted only to make farms look more decorative.",
+      "C": "Strong winds help crops grow by removing all moisture from the soil.",
+      "D": "Trees and shrubs cannot grow near farm fields."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that windbreaks slow damaging winds and can shelter birds and beneficial insects."
+  },
+  {
+    "id": "RW9-M1-003",
+    "prompt": "The bundle of letters from the archive ______ tied with a faded blue ribbon.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "were",
+      "B": "are",
+      "C": "was",
+      "D": "have been"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “bundle” requires the singular verb “was.”"
+  },
+  {
+    "id": "RW9-M1-004",
+    "prompt": "A student recorded the amount of paper collected for recycling in four classrooms.\nClassroom | Pounds of paper collected\nRoom A | 17\nRoom B | 23\nRoom C | 19\nRoom D | 26\nWhich choice is supported by the data in the table?",
+    "choices": {
+      "A": "Room D collected the greatest amount of paper.",
+      "B": "Room A collected more paper than Room B.",
+      "C": "Room B and Room C collected the same amount of paper.",
+      "D": "No classroom collected more than 23 pounds of paper."
+    },
+    "correct": "A",
+    "explanation": "Room D collected 26 pounds, more than the other classrooms."
+  },
+  {
+    "id": "RW9-M1-005",
+    "prompt": "Mara joined the school orchestra hoping to play the loudest notes in every song. During rehearsal, however, the conductor asked her to pay attention to the rests and quiet passages. Mara soon realized that the softer moments helped the music build toward its most powerful sections.\nWhich choice best describes what happens in the text?",
+    "choices": {
+      "A": "Mara learns that quiet parts can be important to a musical performance.",
+      "B": "Mara decides that she should stop playing in the orchestra.",
+      "C": "Mara proves that every instrument should play loudly at all times.",
+      "D": "Mara teaches the conductor how to rewrite the music."
+    },
+    "correct": "A",
+    "explanation": "Mara first wants to play loudly but then realizes softer passages help build the music’s power."
+  },
+  {
+    "id": "RW9-M1-006",
+    "prompt": "In a passage about early bicycle paths, a historian explains that some cities first built smooth paths for cyclists before automobiles became common. The historian adds, “These paths were not only recreational; they also helped riders travel more safely over rough or muddy roads.”\nWhat is the main function of the quoted sentence?",
+    "choices": {
+      "A": "It explains a practical benefit of early bicycle paths.",
+      "B": "It argues that bicycles were invented after automobiles.",
+      "C": "It describes the process of making bicycle tires.",
+      "D": "It shows that cyclists avoided all forms of transportation."
+    },
+    "correct": "A",
+    "explanation": "The quoted sentence explains that bicycle paths helped riders travel safely over rough or muddy roads."
+  },
+  {
+    "id": "RW9-M1-007",
+    "prompt": "The new student handbook explains attendance rules clearly. ______ some sections about club activities still need more detail.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "However,",
+      "B": "In addition,",
+      "C": "For example,",
+      "D": "Therefore,"
+    },
+    "correct": "A",
+    "explanation": "The second sentence contrasts the handbook’s clear attendance rules with sections that still need detail."
+  },
+  {
+    "id": "RW9-M1-008",
+    "prompt": "The essay discusses the pangolin, ______ mammal covered with protective scales.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "those"
+    },
+    "correct": "A",
+    "explanation": "“Mammal” begins with a consonant sound, so “a” is correct."
+  },
+  {
+    "id": "RW9-M1-009",
+    "prompt": "After the science team presented the results, ______ answered questions from the audience.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "they",
+      "B": "them",
+      "C": "their",
+      "D": "themselves"
+    },
+    "correct": "A",
+    "explanation": "The subject pronoun “they” correctly refers to the science team as the group answering questions."
+  },
+  {
+    "id": "RW9-M1-010",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Tu Youyou is a Chinese scientist.\n• She studied traditional medical texts while searching for malaria treatments.\n• Her team helped develop artemisinin, a medicine used to treat malaria.\n• Artemisinin has helped save many lives.\n• Tu received the Nobel Prize in Physiology or Medicine in 2015.\nThe student wants to explain the significance of Tu’s scientific work. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Tu Youyou’s work helped develop artemisinin, a malaria treatment that has helped save many lives.",
+      "B": "Tu Youyou studied traditional medical texts, and many old texts include information about plants.",
+      "C": "The Nobel Prize in Physiology or Medicine is awarded to scientists in several fields.",
+      "D": "Malaria is one disease that researchers have studied for many years."
+    },
+    "correct": "A",
+    "explanation": "This choice explains the significance of Tu’s scientific work by connecting it to an important malaria treatment."
+  },
+  {
+    "id": "RW9-M1-011",
+    "prompt": "The city opened a new pedestrian bridge over the creek. ______ students no longer have to walk along the busy road to reach the park.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "As a result,",
+      "B": "In contrast,",
+      "C": "For example,",
+      "D": "Meanwhile,"
+    },
+    "correct": "A",
+    "explanation": "Students’ safer route to the park is presented as an effect of opening the pedestrian bridge."
+  },
+  {
+    "id": "RW9-M1-012",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) A school archive preserves materials related to school history. (2) It may include yearbooks, photographs, newsletters, and event programs. (3) Students can use these materials to learn how their school has changed over time. (4) For instance, old photographs may show former clubs, classrooms, or uniforms.\nTo make the paragraph most logical, sentence 4 should be placed",
+    "choices": {
+      "A": "where it is now.",
+      "B": "before sentence 1.",
+      "C": "between sentence 1 and sentence 2.",
+      "D": "between sentence 2 and sentence 3."
+    },
+    "correct": "A",
+    "explanation": "Sentence 4 logically gives an example of how archived materials can show school changes over time."
+  },
+  {
+    "id": "RW9-M1-013",
+    "prompt": "Yesterday afternoon, the gardening club ______ herbs in containers outside the cafeteria.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "plants",
+      "B": "planted",
+      "C": "will plant",
+      "D": "planting"
+    },
+    "correct": "B",
+    "explanation": "“Yesterday afternoon” requires the past-tense verb “planted.”"
+  },
+  {
+    "id": "RW9-M1-014",
+    "prompt": "______ by a local carpenter, the wooden sign marked the entrance to the trail.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Carved",
+      "B": "Carving",
+      "C": "To carve",
+      "D": "Carve"
+    },
+    "correct": "A",
+    "explanation": "“Carved by a local carpenter” correctly modifies “the wooden sign.”"
+  },
+  {
+    "id": "RW9-M1-015",
+    "prompt": "The practice game was moved to the smaller gym ______ the main gym floor had just been polished.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "gym, the main",
+      "B": "gym because the main",
+      "C": "gym; because the main",
+      "D": "gym, because, the main"
+    },
+    "correct": "B",
+    "explanation": "“Because” correctly introduces the reason the game was moved."
+  },
+  {
+    "id": "RW9-M1-016",
+    "prompt": "To learn which book displays attracted the most readers, the librarian compared checkout numbers before and after each display was set up. She used the data to ______ which displays encouraged more borrowing.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "assess",
+      "B": "decorate",
+      "C": "interrupt",
+      "D": "hide"
+    },
+    "correct": "A",
+    "explanation": "The librarian used checkout data to evaluate which displays encouraged more borrowing."
+  },
+  {
+    "id": "RW9-M1-017",
+    "prompt": "Some neighborhoods create shared tool sheds where residents can borrow rakes, shovels, or ladders. These sheds can help people complete home or garden projects without buying tools they may rarely use.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Shared tool sheds can help residents access useful equipment without purchasing it.",
+      "B": "Residents must buy new tools before borrowing from shared sheds.",
+      "C": "Shared tool sheds are useful only for people who never work outdoors.",
+      "D": "Rakes, shovels, and ladders cannot be stored together."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that shared sheds let residents borrow tools they may rarely use."
+  },
+  {
+    "id": "RW9-M1-018",
+    "prompt": "Biologists studying snowshoe hares note that the animals’ large back feet help them move across deep snow. The feet spread the hare’s weight over a wider area, making it less likely to sink.\nAccording to the text, how do large back feet help snowshoe hares?",
+    "choices": {
+      "A": "They help the hares move across deep snow without sinking as easily.",
+      "B": "They allow the hares to live only in warm deserts.",
+      "C": "They make the hares unable to run from predators.",
+      "D": "They prevent snow from forming in forests."
+    },
+    "correct": "A",
+    "explanation": "The text says the feet spread the hare’s weight over a wider area, reducing sinking."
+  },
+  {
+    "id": "RW9-M1-019",
+    "prompt": "A student is revising the following sentence.\nThe school opened a peer writing center, and students can visit it to brainstorm ideas, organize essays, or review drafts.\nWhich choice best combines the ideas clearly and concisely?",
+    "choices": {
+      "A": "The school opened a peer writing center where students can brainstorm ideas, organize essays, or review drafts.",
+      "B": "The school opened a peer writing center, students can visit it to brainstorm ideas, organize essays, or review drafts.",
+      "C": "The school opened a peer writing center and brainstorming ideas, organizing essays, or reviewing drafts.",
+      "D": "The school opened a peer writing center because students, ideas, essays, and drafts."
+    },
+    "correct": "A",
+    "explanation": "This choice combines the ideas clearly and avoids a comma splice."
+  },
+  {
+    "id": "RW9-M1-020",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Gordon Parks was a photographer, filmmaker, and writer.\n• He worked as a photojournalist for Life magazine.\n• His photographs often documented poverty, segregation, and everyday life.\n• Parks later directed films and wrote books.\n• His career combined art with social observation.\nThe student wants to introduce Parks and the focus of his photography. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Gordon Parks, a photographer and photojournalist, created images that documented poverty, segregation, and everyday life.",
+      "B": "Gordon Parks later directed films and wrote books after working in photography.",
+      "C": "Life magazine published photographs and articles on many different topics.",
+      "D": "Photography is one of several art forms that can be used in journalism."
+    },
+    "correct": "A",
+    "explanation": "This choice introduces Parks and identifies the focus of his photography."
+  },
+  {
+    "id": "RW9-M1-021",
+    "prompt": "A student recorded the number of seedlings watered by four garden volunteers.\nVolunteer | Seedlings watered\nAna | 32\nDev | 41\nMia | 37\nNoah | 29\nWhich choice is supported by the data in the table?",
+    "choices": {
+      "A": "Dev watered the greatest number of seedlings.",
+      "B": "Noah watered more seedlings than Mia.",
+      "C": "Ana and Dev watered the same number of seedlings.",
+      "D": "No volunteer watered more than 37 seedlings."
+    },
+    "correct": "A",
+    "explanation": "Dev watered 41 seedlings, more than Ana, Mia, or Noah."
+  },
+  {
+    "id": "RW9-M1-022",
+    "prompt": "In a paragraph about school announcements, a writer states, “Students wrote short scripts, checked event dates, recorded audio clips, and edited the final announcements.”\nWhat is the most likely purpose of the sentence?",
+    "choices": {
+      "A": "To give examples of tasks students completed to create announcements",
+      "B": "To explain why event dates should never be checked",
+      "C": "To argue that recorded audio clips are unrelated to announcements",
+      "D": "To compare school announcements with printed novels"
+    },
+    "correct": "A",
+    "explanation": "The sentence lists tasks involved in making announcements."
+  },
+  {
+    "id": "RW9-M1-023",
+    "prompt": "The painting ______ hangs near the library entrance was donated by a former student.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "that",
+      "B": "who",
+      "C": "where",
+      "D": "when"
+    },
+    "correct": "A",
+    "explanation": "“That” correctly introduces the clause identifying which painting was donated."
+  },
+  {
+    "id": "RW9-M1-024",
+    "prompt": "The lesson asks students to observe a reaction, to record changes, and ______ possible explanations.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "suggesting",
+      "B": "to suggest",
+      "C": "suggested",
+      "D": "the suggestion of"
+    },
+    "correct": "B",
+    "explanation": "The phrase completes the parallel structure: “to observe,” “to record,” and “to suggest.”"
+  },
+  {
+    "id": "RW9-M1-025",
+    "prompt": "The map of the park was confusing, so the designer added a legend to make the symbols more ______.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "understandable",
+      "B": "distant",
+      "C": "accidental",
+      "D": "crowded"
+    },
+    "correct": "A",
+    "explanation": "Adding a legend would make the map symbols easier to understand."
+  },
+  {
+    "id": "RW9-M1-026",
+    "prompt": "A student wants to begin an essay about why schools should offer career exploration programs. Which choice would be the most effective opening sentence for the essay?",
+    "choices": {
+      "A": "Career exploration programs can help students learn about different jobs and connect their interests to future goals.",
+      "B": "Some jobs require uniforms, while others require name tags or badges.",
+      "C": "A career is a type of work a person may do for many years.",
+      "D": "My school has a bulletin board with posters about different clubs."
+    },
+    "correct": "A",
+    "explanation": "This sentence clearly introduces the essay’s focus on the value of career exploration."
+  },
+  {
+    "id": "RW9-M1-027",
+    "prompt": "The town added more bike racks near the library entrance. ______ cyclists had a safer and more convenient place to park their bikes.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Consequently,",
+      "B": "Nevertheless,",
+      "C": "For example,",
+      "D": "Earlier,"
+    },
+    "correct": "A",
+    "explanation": "Cyclists’ safer and more convenient parking is presented as an effect of adding bike racks.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

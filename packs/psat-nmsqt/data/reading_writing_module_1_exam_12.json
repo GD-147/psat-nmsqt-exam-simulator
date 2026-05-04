@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW12-M1-001",
+    "prompt": "Marine biologist Eugenie Clark became known for studying sharks at a time when many people viewed them mainly as dangerous animals. Through research, writing, and public education, Clark helped audiences understand shark behavior more accurately. Her work therefore helped ______ common fears with scientific information.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "replace",
+      "B": "repeat",
+      "C": "hide",
+      "D": "postpone"
+    },
+    "correct": "A",
+    "explanation": "Clark used research and education to exchange common fears about sharks for more accurate scientific understanding."
+  },
+  {
+    "id": "RW12-M1-002",
+    "prompt": "Some schools use refill stations where students can fill reusable water bottles. These stations can reduce the number of disposable plastic bottles used during the school day. They can also make it easier for students to stay hydrated between classes.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Water-bottle refill stations can reduce waste and help students access drinking water.",
+      "B": "Refill stations prevent students from bringing reusable bottles to school.",
+      "C": "Disposable plastic bottles are the only way students can stay hydrated.",
+      "D": "Schools install refill stations mainly to make hallways look more colorful."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that refill stations reduce disposable bottle use and help students stay hydrated."
+  },
+  {
+    "id": "RW12-M1-003",
+    "prompt": "The stack of permission forms ______ placed on the teacher’s desk before first period.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "were",
+      "B": "are",
+      "C": "was",
+      "D": "have been"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “stack” requires the singular verb “was.”"
+  },
+  {
+    "id": "RW12-M1-004",
+    "prompt": "A student recorded the number of people who attended four library workshops.\nWorkshop | Attendees\nResume writing | 27\nDigital photos | 34\nBudget basics | 31\nLocal history | 22\nWhich choice is supported by the data in the table?",
+    "choices": {
+      "A": "The Digital photos workshop had the greatest attendance.",
+      "B": "The Local history workshop had more attendees than the Resume writing workshop.",
+      "C": "Resume writing and Budget basics had the same number of attendees.",
+      "D": "No workshop had more than 31 attendees."
+    },
+    "correct": "A",
+    "explanation": "Digital photos had 34 attendees, more than the other workshops."
+  },
+  {
+    "id": "RW12-M1-005",
+    "prompt": "Lena wanted her clay tile to have a perfectly smooth surface. When a leaf fell onto the wet clay, it left a clear pattern of veins. At first Lena thought the tile was ruined, but then she pressed more leaves into the clay and turned the marks into the main design.\nWhich choice best describes what happens in the text?",
+    "choices": {
+      "A": "Lena turns an unexpected mark into part of her artwork.",
+      "B": "Lena decides that clay cannot hold detailed patterns.",
+      "C": "Lena removes all natural shapes from her tile.",
+      "D": "Lena finishes the tile before the leaf touches it."
+    },
+    "correct": "A",
+    "explanation": "Lena first sees the leaf mark as a problem but then uses leaf patterns as the design."
+  },
+  {
+    "id": "RW12-M1-006",
+    "prompt": "In a passage about early postal routes, a historian explains that riders sometimes changed horses at stations along the way. The historian adds, “By switching to rested horses, riders could keep mail moving quickly across long distances.”\nWhat is the main function of the quoted sentence?",
+    "choices": {
+      "A": "It explains how changing horses helped speed mail delivery.",
+      "B": "It argues that postal riders avoided traveling long distances.",
+      "C": "It describes how letters were written before being mailed.",
+      "D": "It shows that horses were used only for local deliveries."
+    },
+    "correct": "A",
+    "explanation": "The quoted sentence explains that rested horses allowed riders to keep mail moving quickly over long distances."
+  },
+  {
+    "id": "RW12-M1-007",
+    "prompt": "The after-school art studio provides paints, brushes, and drawing paper. ______ students can use the room’s drying racks to store unfinished work safely.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In addition,",
+      "B": "However,",
+      "C": "Therefore,",
+      "D": "Instead,"
+    },
+    "correct": "A",
+    "explanation": "The second sentence adds another feature of the after-school art studio."
+  },
+  {
+    "id": "RW12-M1-008",
+    "prompt": "The article describes the olinguito, ______ small mammal that lives in cloud forests in South America.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "those"
+    },
+    "correct": "A",
+    "explanation": "“Small mammal” begins with a consonant sound, so “a” is correct."
+  },
+  {
+    "id": "RW12-M1-009",
+    "prompt": "After the volunteers packed the boxes, ______ carried them to the delivery truck.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "they",
+      "B": "them",
+      "C": "their",
+      "D": "themselves"
+    },
+    "correct": "A",
+    "explanation": "The subject pronoun “they” correctly refers to the volunteers as the people carrying the boxes."
+  },
+  {
+    "id": "RW12-M1-010",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Toshiko Akiyoshi is a jazz pianist and composer.\n• She was born in Manchuria and later moved to Japan and the United States.\n• Akiyoshi led a big band with saxophonist Lew Tabackin.\n• Her music often blends jazz with Japanese musical influences.\n• She received recognition for expanding the sound of big-band jazz.\nThe student wants to introduce Akiyoshi and describe what is distinctive about her music. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Toshiko Akiyoshi, a jazz pianist and composer, became known for music that blends jazz with Japanese musical influences.",
+      "B": "Toshiko Akiyoshi moved to several places, including Japan and the United States.",
+      "C": "Big bands often include saxophones, trumpets, trombones, piano, bass, and drums.",
+      "D": "Lew Tabackin was a saxophonist who worked with Toshiko Akiyoshi."
+    },
+    "correct": "A",
+    "explanation": "This choice introduces Akiyoshi and describes the distinctive blend in her music."
+  },
+  {
+    "id": "RW12-M1-011",
+    "prompt": "The town’s new dog park gives pets a safe place to run off leash. ______ some neighbors are concerned that parking near the park will become crowded on weekends.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "However,",
+      "B": "Similarly,",
+      "C": "As a result,",
+      "D": "For instance,"
+    },
+    "correct": "A",
+    "explanation": "The sentence contrasts the benefit of the dog park with neighbors’ concern about parking."
+  },
+  {
+    "id": "RW12-M1-012",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) A school compost station collects fruit peels, vegetable scraps, and other food waste. (2) Over time, these materials break down into compost. (3) Compost can be added to garden soil to help plants grow. (4) Using a compost station can reduce the amount of waste sent to landfills.\nTo make the paragraph most logical, sentence 2 should be placed",
+    "choices": {
+      "A": "where it is now.",
+      "B": "before sentence 1.",
+      "C": "after sentence 4.",
+      "D": "between sentence 3 and sentence 4."
+    },
+    "correct": "A",
+    "explanation": "Sentence 2 logically follows the collected food scraps by explaining how they become compost."
+  },
+  {
+    "id": "RW12-M1-013",
+    "prompt": "During yesterday’s assembly, the principal ______ several students for their volunteer work.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "thanks",
+      "B": "thanked",
+      "C": "will thank",
+      "D": "thanking"
+    },
+    "correct": "B",
+    "explanation": "“During yesterday’s assembly” requires the past-tense verb “thanked.”"
+  },
+  {
+    "id": "RW12-M1-014",
+    "prompt": "______ in bright orange paint, the construction cones were easy to see from across the parking lot.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "Covered",
+      "B": "Covering",
+      "C": "To cover",
+      "D": "Cover"
+    },
+    "correct": "A",
+    "explanation": "“Covered in bright orange paint” correctly modifies “the construction cones.”"
+  },
+  {
+    "id": "RW12-M1-015",
+    "prompt": "The club meeting ended early ______ the guest speaker had to catch a train.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "early, the guest",
+      "B": "early because the guest",
+      "C": "early; because the guest",
+      "D": "early, because, the guest"
+    },
+    "correct": "B",
+    "explanation": "“Because” correctly introduces the reason the meeting ended early."
+  },
+  {
+    "id": "RW12-M1-016",
+    "prompt": "To understand which bus stops needed more lighting, the transportation committee reviewed safety reports and rider comments. The committee used this information to ______ locations for future improvements.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "prioritize",
+      "B": "decorate",
+      "C": "confuse",
+      "D": "borrow"
+    },
+    "correct": "A",
+    "explanation": "The committee uses reports and comments to decide which locations should be addressed first."
+  },
+  {
+    "id": "RW12-M1-017",
+    "prompt": "Some communities hold repair workshops for bicycles. At these workshops, volunteers show riders how to patch tubes, adjust brakes, and check chains. The workshops can help people keep bicycles usable and learn maintenance skills.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Bicycle repair workshops can teach maintenance skills and help keep bikes working.",
+      "B": "Bicycle repair workshops require riders to throw away damaged bicycles.",
+      "C": "Volunteers at bicycle workshops only discuss riding competitions.",
+      "D": "Adjusting brakes is unrelated to bicycle maintenance."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that volunteers teach repair skills that help riders keep bicycles usable."
+  },
+  {
+    "id": "RW12-M1-018",
+    "prompt": "Scientists studying seals note that a thick layer of blubber helps the animals stay warm in cold ocean water. Blubber also stores energy that seals can use when food is limited.\nAccording to the text, what is one function of blubber in seals?",
+    "choices": {
+      "A": "It helps seals stay warm in cold water.",
+      "B": "It allows seals to breathe without surfacing.",
+      "C": "It prevents seals from needing energy.",
+      "D": "It helps seals grow feathers in winter."
+    },
+    "correct": "A",
+    "explanation": "The text states that blubber helps seals stay warm in cold ocean water."
+  },
+  {
+    "id": "RW12-M1-019",
+    "prompt": "A student is revising the following sentence.\nThe school opened a quiet lunch room, and students can use it to eat, read, or take a break from the crowded cafeteria.\nWhich choice best combines the ideas clearly and concisely?",
+    "choices": {
+      "A": "The school opened a quiet lunch room where students can eat, read, or take a break from the crowded cafeteria.",
+      "B": "The school opened a quiet lunch room, students can use it to eat, read, or take a break from the crowded cafeteria.",
+      "C": "The school opened a quiet lunch room and eating, reading, or taking a break from the crowded cafeteria.",
+      "D": "The school opened a quiet lunch room because students, lunch, reading, and the cafeteria."
+    },
+    "correct": "A",
+    "explanation": "This choice combines the ideas clearly and avoids a comma splice."
+  },
+  {
+    "id": "RW12-M1-020",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Francis La Flesche was an Omaha ethnologist and writer.\n• He worked to document Omaha language, music, and traditions.\n• La Flesche collaborated with anthropologist Alice Fletcher.\n• His writings include accounts of Omaha culture and history.\n• His work remains important to scholars studying Indigenous history.\nThe student wants to introduce La Flesche and the focus of his work. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Francis La Flesche, an Omaha ethnologist and writer, documented Omaha language, music, traditions, and history.",
+      "B": "Francis La Flesche collaborated with Alice Fletcher, who was an anthropologist.",
+      "C": "Scholars studying Indigenous history use many different kinds of sources.",
+      "D": "Omaha music and traditions are part of a larger cultural history."
+    },
+    "correct": "A",
+    "explanation": "This choice introduces La Flesche and identifies the focus of his work."
+  },
+  {
+    "id": "RW12-M1-021",
+    "prompt": "A student recorded the number of questions answered during four review sessions.\nSession | Questions answered\nMonday | 18\nTuesday | 24\nWednesday | 21\nThursday | 27\nWhich choice is supported by the data in the table?",
+    "choices": {
+      "A": "Thursday had the greatest number of questions answered.",
+      "B": "Monday had more questions answered than Wednesday.",
+      "C": "Tuesday and Thursday had the same number of questions answered.",
+      "D": "No session had more than 24 questions answered."
+    },
+    "correct": "A",
+    "explanation": "Thursday had 27 questions answered, more than the other sessions."
+  },
+  {
+    "id": "RW12-M1-022",
+    "prompt": "In a paragraph about a school robotics showcase, a writer states, “Students explained their designs, demonstrated how sensors worked, and answered questions from visitors.”\nWhat is the most likely purpose of the sentence?",
+    "choices": {
+      "A": "To give examples of what students did during the robotics showcase",
+      "B": "To explain why sensors should not be used in robotics",
+      "C": "To argue that visitors should design all student robots",
+      "D": "To compare robotics showcases with cafeteria menus"
+    },
+    "correct": "A",
+    "explanation": "The sentence lists student actions at the showcase: explaining designs, demonstrating sensors, and answering questions."
+  },
+  {
+    "id": "RW12-M1-023",
+    "prompt": "The mural ______ covers the back wall of the gym was painted by last year’s art club.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "that",
+      "B": "who",
+      "C": "where",
+      "D": "when"
+    },
+    "correct": "A",
+    "explanation": "“That” correctly introduces the clause identifying which mural covers the back wall."
+  },
+  {
+    "id": "RW12-M1-024",
+    "prompt": "The instructions ask students to choose a topic, to gather sources, and ______ an outline before drafting.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "creating",
+      "B": "to create",
+      "C": "created",
+      "D": "the creation of"
+    },
+    "correct": "B",
+    "explanation": "The phrase completes the parallel structure: “to choose,” “to gather,” and “to create.”"
+  },
+  {
+    "id": "RW12-M1-025",
+    "prompt": "The first audio recording was hard to hear, so the interviewer used a better microphone to make the speaker’s voice more ______.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "audible",
+      "B": "distant",
+      "C": "accidental",
+      "D": "crowded"
+    },
+    "correct": "A",
+    "explanation": "A better microphone would make the speaker’s voice easier to hear."
+  },
+  {
+    "id": "RW12-M1-026",
+    "prompt": "A student wants to begin an essay about the value of school libraries. Which choice would be the most effective opening sentence for the essay?",
+    "choices": {
+      "A": "School libraries give students access to books, research tools, quiet study spaces, and guidance from librarians.",
+      "B": "Some library shelves are tall, while others are short enough for younger students to reach.",
+      "C": "A library is a place where books and other materials may be stored.",
+      "D": "My school library has blue chairs near the windows."
+    },
+    "correct": "A",
+    "explanation": "This sentence clearly introduces the essay’s focus on the value of school libraries."
+  },
+  {
+    "id": "RW12-M1-027",
+    "prompt": "The city added curb cuts at several sidewalk corners. ______ people using wheelchairs, strollers, or rolling bags could move more easily between sidewalks and streets.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "As a result,",
+      "B": "Nevertheless,",
+      "C": "For example,",
+      "D": "In comparison,"
+    },
+    "correct": "A",
+    "explanation": "Easier movement between sidewalks and streets is presented as an effect of adding curb cuts.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

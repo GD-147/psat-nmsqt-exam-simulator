@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW7-M2-001",
+    "prompt": "Poet Joy Harjo’s work often joins personal memory with tribal history, music, and observations of the natural world. These elements do not remain separate in her poems; rather, they interact to create layered reflections on identity and place. Harjo’s poetry therefore ______ simple separation between personal experience and collective history.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "resists",
+      "B": "predicts",
+      "C": "repeats",
+      "D": "delays"
+    },
+    "correct": "A",
+    "explanation": "Harjo’s poems combine personal memory and collective history rather than separating them, so they “resist” simple separation."
+  },
+  {
+    "id": "RW7-M2-002",
+    "prompt": "Some archaeologists study tiny scratches on ancient stone tools. The direction and depth of these marks can suggest whether a tool was used to cut meat, scrape hides, or work with plant fibers. Although the tools may look similar to the naked eye, microscopic wear patterns can reveal differences in how people used them.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Microscopic wear on stone tools can help archaeologists understand how the tools were used.",
+      "B": "Ancient stone tools are useful to archaeologists only when they have no scratches.",
+      "C": "All ancient stone tools were used for the same purpose.",
+      "D": "Scratches on stone tools prevent researchers from learning about past human behavior."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that tiny wear patterns can reveal whether tools were used for cutting, scraping, or working with plants."
+  },
+  {
+    "id": "RW7-M2-003",
+    "prompt": "Some schools use peer note-sharing systems, in which students upload class notes to a shared folder. These systems can help absent students catch up, but they work best when contributors write clearly and include accurate information. Poorly organized notes may confuse readers instead of helping them.\nWhich choice is the best inference from the text?",
+    "choices": {
+      "A": "Peer note-sharing can be useful, but the quality of the shared notes matters.",
+      "B": "Shared notes are helpful only when students never miss class.",
+      "C": "Uploading notes always makes them more accurate.",
+      "D": "Poorly organized notes are easier to understand than clear notes."
+    },
+    "correct": "A",
+    "explanation": "The text says note-sharing helps absent students only when notes are clear and accurate."
+  },
+  {
+    "id": "RW7-M2-004",
+    "prompt": "A student’s draft about architect Lina Bo Bardi includes the following sentences.\nBo Bardi designed buildings that often welcomed public gathering rather than separating art from everyday life. Her museum and cultural center designs suggest that architecture can shape not only how a building looks but also how people interact within it.\nWhat is the main function of the second sentence in the text?",
+    "choices": {
+      "A": "It explains the broader social purpose suggested by Bo Bardi’s designs.",
+      "B": "It lists the construction materials used in all of Bo Bardi’s buildings.",
+      "C": "It argues that Bo Bardi avoided designing public spaces.",
+      "D": "It shows that architecture affects appearance but not behavior."
+    },
+    "correct": "A",
+    "explanation": "The second sentence connects Bo Bardi’s architecture to how people gather and interact."
+  },
+  {
+    "id": "RW7-M2-005",
+    "prompt": "A researcher compared the average number of minutes students spent using four areas of a newly renovated school library before and after the renovation.\nLibrary area | Before renovation | After renovation\nQuiet reading area | 16 | 24\nGroup tables | 22 | 31\nComputer stations | 28 | 25\nMakerspace corner | 11 | 19\nWhich choice best describes the data?",
+    "choices": {
+      "A": "Students spent more time in the quiet reading area, group tables, and makerspace corner after the renovation, but less time at computer stations.",
+      "B": "Students spent less time in all four areas after the renovation.",
+      "C": "Computer stations had the greatest increase after the renovation.",
+      "D": "Quiet reading area and makerspace corner had the same time after the renovation."
+    },
+    "correct": "A",
+    "explanation": "Time increased in three areas but decreased at computer stations from 28 to 25 minutes."
+  },
+  {
+    "id": "RW7-M2-006",
+    "prompt": "Historical novels can make past events feel immediate by following imagined characters through real settings. ______ historians must be careful not to treat fictional scenes as direct evidence of what actually happened.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "However,",
+      "B": "Similarly,",
+      "C": "For example,",
+      "D": "Therefore,"
+    },
+    "correct": "A",
+    "explanation": "The sentence contrasts the value of historical novels with the caution that fictional scenes are not direct evidence."
+  },
+  {
+    "id": "RW7-M2-007",
+    "prompt": "The safety checklist includes three items for each field trip ______ emergency contacts, medication information, and transportation details.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "trip",
+      "B": "trip:",
+      "C": "trip,",
+      "D": "trip;"
+    },
+    "correct": "B",
+    "explanation": "A colon correctly introduces the list of three checklist items."
+  },
+  {
+    "id": "RW7-M2-008",
+    "prompt": "Examining the fossil under bright laboratory lights, ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "tiny tooth marks became visible along one edge",
+      "B": "one edge showed tiny tooth marks",
+      "C": "the researcher noticed tiny tooth marks along one edge",
+      "D": "there were tiny tooth marks along one edge"
+    },
+    "correct": "C",
+    "explanation": "The introductory modifier “Examining the fossil” must logically describe “the researcher.”"
+  },
+  {
+    "id": "RW7-M2-009",
+    "prompt": "The photographer talked with the editor after the event, and ______ agreed that one caption needed more context.\nWhich choice completes the text so that it conforms to the conventions of Standard English and avoids ambiguity?",
+    "choices": {
+      "A": "they",
+      "B": "the photographer",
+      "C": "she",
+      "D": "it"
+    },
+    "correct": "B",
+    "explanation": "Repeating “the photographer” avoids ambiguity about whether “they” refers to the photographer and editor together."
+  },
+  {
+    "id": "RW7-M2-010",
+    "prompt": "By the time the farmers’ market opened, the vendors ______ their tents and arranged their displays.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "set up",
+      "B": "have set up",
+      "C": "had set up",
+      "D": "setting up"
+    },
+    "correct": "C",
+    "explanation": "The past perfect tense shows that the vendors set up tents before the market opened."
+  },
+  {
+    "id": "RW7-M2-011",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Mabel Keaton Staupers was a nurse and civil rights advocate.\n• She worked to end racial discrimination in nursing organizations.\n• During World War II, she advocated for Black nurses to be accepted into the US Army Nurse Corps.\n• Her efforts helped expand professional opportunities for Black nurses.\n• She later wrote about her work in the book No Time for Prejudice.\nThe student wants to explain the significance of Staupers’s advocacy. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Mabel Keaton Staupers was a nurse who later wrote a book about her work.",
+      "B": "By challenging discrimination in nursing organizations and the US Army Nurse Corps, Mabel Keaton Staupers helped expand opportunities for Black nurses.",
+      "C": "During World War II, the US Army Nurse Corps included nurses who served in many locations.",
+      "D": "No Time for Prejudice is a book about one nurse’s experiences and advocacy."
+    },
+    "correct": "B",
+    "explanation": "This choice explains the significance of Staupers’s advocacy by connecting it to expanded professional opportunities."
+  },
+  {
+    "id": "RW7-M2-012",
+    "prompt": "A student is revising an essay about using adaptive sports equipment in school physical education classes. The student wants to add a sentence that explains a possible advantage of this equipment. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "Adaptive sports equipment can allow students with different physical abilities to participate more fully in class activities.",
+      "B": "Sports equipment may include balls, nets, rackets, mats, and other materials.",
+      "C": "Physical education classes often take place in gyms, fields, or outdoor courts.",
+      "D": "Some schools store equipment in closets or carts between class periods."
+    },
+    "correct": "A",
+    "explanation": "This sentence directly explains a possible advantage of adaptive sports equipment."
+  },
+  {
+    "id": "RW7-M2-013",
+    "prompt": "The following text is from a draft of a student’s essay.\n(1) Some historians study ship logs to learn about ocean travel in the past. (2) These records may include dates, locations, weather conditions, and notes about repairs. (3) Because they were often written during voyages, ship logs can provide day-by-day details. (4) Researchers can use those details to reconstruct routes and challenges faced at sea.\nWhere should the following sentence be placed to best support the logical flow of the paragraph?\nA ship log is a written record kept during a vessel’s journey.",
+    "choices": {
+      "A": "After sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "A",
+    "explanation": "The added sentence defines “ship log” immediately after the term is introduced."
+  },
+  {
+    "id": "RW7-M2-014",
+    "prompt": "The novelist’s description of the city is not ______; instead of naming only streets and buildings, it includes sounds, smells, and small movements that make the setting feel alive.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "flat",
+      "B": "accurate",
+      "C": "public",
+      "D": "recent"
+    },
+    "correct": "A",
+    "explanation": "The description is rich with sensory details, so it is not flat."
+  },
+  {
+    "id": "RW7-M2-015",
+    "prompt": "Researchers studying an orchard found that trees located near patches of wildflowers produced more fruit than trees farther from the flowers. Because wildflowers can attract pollinating insects, the researchers concluded that planting wildflower patches may improve fruit production.\nWhich choice best describes the relationship between the evidence and the researchers’ conclusion?",
+    "choices": {
+      "A": "The higher fruit production near wildflowers supports the conclusion that wildflower patches may help attract pollinators.",
+      "B": "The evidence proves that fruit trees cannot grow unless they are surrounded by wildflowers.",
+      "C": "The conclusion rejects the idea that insects can pollinate plants.",
+      "D": "The evidence shows that wildflowers prevent orchards from producing fruit."
+    },
+    "correct": "A",
+    "explanation": "The evidence links trees near wildflowers with more fruit, supporting the idea that pollinator-attracting flowers may improve production."
+  },
+  {
+    "id": "RW7-M2-016",
+    "prompt": "The article describes the artist’s early training, ______ it also explains how her style changed over time.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "training, it",
+      "B": "training and",
+      "C": "training; and",
+      "D": "training, and"
+    },
+    "correct": "D",
+    "explanation": "A comma plus “and” correctly joins two independent clauses."
+  },
+  {
+    "id": "RW7-M2-017",
+    "prompt": "A school tested two reminder systems to see which helped students return library books on time. One group of students received email reminders, and another group received text-message reminders. After four weeks, the text-message group had returned a larger percentage of books by the due date.\nWhich conclusion is best supported by the text?",
+    "choices": {
+      "A": "Under the conditions tested, text-message reminders were more effective than email reminders at encouraging on-time returns.",
+      "B": "Email reminders prevent students from returning library books.",
+      "C": "Text messages are effective only when students do not borrow books.",
+      "D": "Reminder systems cannot influence whether books are returned on time."
+    },
+    "correct": "A",
+    "explanation": "The text-message group returned a larger percentage of books by the due date."
+  },
+  {
+    "id": "RW7-M2-018",
+    "prompt": "The paragraph first explains that some cities paint bus lanes red to make them more visible to drivers. ______ it describes one city where red bus lanes were followed by fewer cars entering those lanes.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Then,",
+      "B": "Even so,",
+      "C": "In contrast,",
+      "D": "Nevertheless,"
+    },
+    "correct": "A",
+    "explanation": "The paragraph moves from a general explanation of red bus lanes to a specific city example."
+  },
+  {
+    "id": "RW7-M2-019",
+    "prompt": "The folder of documents from the town meeting ______ the agenda, speaker list, and budget summary.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "contain",
+      "B": "contains",
+      "C": "containing",
+      "D": "are containing"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “folder” requires the singular verb “contains.”"
+  },
+  {
+    "id": "RW7-M2-020",
+    "prompt": "The ______ tail helps it balance while leaping between branches.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "squirrel’s",
+      "B": "squirrels",
+      "C": "squirrels’",
+      "D": "squirreles’"
+    },
+    "correct": "A",
+    "explanation": "The sentence refers to one squirrel, so the singular possessive “squirrel’s” is correct."
+  },
+  {
+    "id": "RW7-M2-021",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• The Haudenosaunee Confederacy is a political alliance of Native nations.\n• Its system includes councils and shared decision-making.\n• Some historians have studied possible influences of Haudenosaunee political ideas on early US leaders.\n• The confederacy existed before the founding of the United States.\n• Haudenosaunee governance traditions continue today.\nThe student wants to introduce the Haudenosaunee Confederacy as a political system. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "The Haudenosaunee Confederacy is a political alliance of Native nations with governance traditions involving councils and shared decision-making.",
+      "B": "Some historians study many possible influences on early US leaders.",
+      "C": "The United States was founded after the Haudenosaunee Confederacy already existed.",
+      "D": "Political alliances can include groups that make decisions in different ways."
+    },
+    "correct": "A",
+    "explanation": "This choice introduces the confederacy as a political system and includes key features of its governance."
+  },
+  {
+    "id": "RW7-M2-022",
+    "prompt": "A student is revising the following sentence.\nThe local radio station broadcasts student poetry, and it also announces scholarship deadlines.\nThe student wants to emphasize that the radio station both showcases creative work and shares useful opportunities. Which choice best revises the sentence to accomplish this goal?",
+    "choices": {
+      "A": "The local radio station showcases student creativity by broadcasting poetry while also sharing useful scholarship deadlines.",
+      "B": "The local radio station broadcasts poetry, and poetry is written by some students.",
+      "C": "Scholarship deadlines are announced on the local radio station, which is a station that broadcasts locally.",
+      "D": "Students sometimes listen to the radio station because it includes announcements."
+    },
+    "correct": "A",
+    "explanation": "This revision emphasizes both creative work and practical opportunity information."
+  },
+  {
+    "id": "RW7-M2-023",
+    "prompt": "When Daniel found the chipped blue bowl at the back of the cabinet, he almost set it aside for donation. Then he remembered how his mother used to fill it with oranges every winter, turning the kitchen table into a bright spot during the coldest months. The bowl suddenly seemed less like an old dish than a small piece of family weather.\nWhich choice best describes what the text suggests about Daniel?",
+    "choices": {
+      "A": "Remembering the bowl’s connection to his mother changes how he values it.",
+      "B": "He plans to replace the bowl with a new one before winter begins.",
+      "C": "He believes the bowl is too large to fit inside the cabinet.",
+      "D": "He dislikes the color blue because it reminds him of cold weather."
+    },
+    "correct": "A",
+    "explanation": "Daniel first considers donating the bowl, but a memory of his mother makes it seem meaningful."
+  },
+  {
+    "id": "RW7-M2-024",
+    "prompt": "The organizers placed signs at each entrance, ______ visitors to the correct registration table.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "directing",
+      "B": "directed",
+      "C": "directs",
+      "D": "and directing"
+    },
+    "correct": "A",
+    "explanation": "The participle “directing” correctly shows the result or function of placing the signs."
+  },
+  {
+    "id": "RW7-M2-025",
+    "prompt": "Because the old map used street names that had changed over time, the researcher compared it with modern records to ______ the locations.\nWhich choice completes the text with the most logical and precise word?",
+    "choices": {
+      "A": "identify",
+      "B": "decorate",
+      "C": "postpone",
+      "D": "imitate"
+    },
+    "correct": "A",
+    "explanation": "Comparing old and modern records helps the researcher determine the locations despite changed street names."
+  },
+  {
+    "id": "RW7-M2-026",
+    "prompt": "The training manual explains three responsibilities for team leaders: setting meeting goals, encouraging participation, and ______.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "summarizing decisions afterward",
+      "B": "decisions were summarized afterward",
+      "C": "to summarize decisions afterward",
+      "D": "summarized decisions afterward"
+    },
+    "correct": "A",
+    "explanation": "This choice keeps the list grammatically parallel: “setting,” “encouraging,” and “summarizing.”"
+  },
+  {
+    "id": "RW7-M2-027",
+    "prompt": "While researching a topic, a student has taken the following notes:\n• Eelgrass grows in shallow coastal waters.\n• Its long blades can slow water movement.\n• Slower water can allow sediment to settle.\n• Eelgrass beds provide shelter for young crabs, fish, and shellfish.\n• Some coastal restoration projects include planting eelgrass.\nThe student wants to emphasize how eelgrass can support coastal ecosystems. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Eelgrass grows in shallow coastal waters and has long blades.",
+      "B": "By slowing water so sediment can settle and by sheltering young marine animals, eelgrass can support coastal ecosystems.",
+      "C": "Some coastal restoration projects plant eelgrass in areas where it can grow.",
+      "D": "Young crabs, fish, and shellfish live in many coastal areas."
+    },
+    "correct": "B",
+    "explanation": "This choice emphasizes two ecosystem benefits of eelgrass: slowing water and providing shelter."
+  }
+]
