@@ -100,5 +100,102 @@
       ]
     }
   ],
-  "printables": []
+  "printables": [
+    {
+      "label": "Reading and Writing Practice Exam 1",
+      "file": "r&w_exam_01.pdf"
+    },
+    {
+      "label": "Reading and Writing Practice Exam 2",
+      "file": "r&w_exam_02.pdf"
+    },
+    {
+      "label": "Reading and Writing Practice Exam 3",
+      "file": "r&w_exam_03.pdf"
+    },
+    {
+      "label": "Reading and Writing Practice Exam 4",
+      "file": "r&w_exam_04.pdf"
+    },
+    {
+      "label": "Reading and Writing Practice Exam 5",
+      "file": "r&w_exam_05.pdf"
+    },
+    {
+      "label": "Reading and Writing Practice Exam 6",
+      "file": "r&w_exam_06.pdf"
+    },
+    {
+      "label": "Reading and Writing Practice Exam 7",
+      "file": "r&w_exam_07.pdf"
+    },
+    {
+      "label": "Reading and Writing Practice Exam 8",
+      "file": "r&w_exam_08.pdf"
+    },
+    {
+      "label": "Reading and Writing Practice Exam 9",
+      "file": "r&w_exam_09.pdf"
+    },
+    {
+      "label": "Reading and Writing Practice Exam 10",
+      "file": "r&w_exam_10.pdf"
+    },
+    {
+      "label": "Reading and Writing Practice Exam 11",
+      "file": "r&w_exam_11.pdf"
+    },
+    {
+      "label": "Reading and Writing Practice Exam 12",
+      "file": "r&w_exam_12.pdf"
+    },
+    {
+      "label": "Math Practice Exam 1",
+      "file": "math_exam_01.pdf"
+    },
+    {
+      "label": "Math Practice Exam 2",
+      "file": "math_exam_02.pdf"
+    },
+    {
+      "label": "Math Practice Exam 3",
+      "file": "math_exam_03.pdf"
+    },
+    {
+      "label": "Math Practice Exam 4",
+      "file": "math_exam_04.pdf"
+    },
+    {
+      "label": "Math Practice Exam 5",
+      "file": "math_exam_05.pdf"
+    },
+    {
+      "label": "Math Practice Exam 6",
+      "file": "math_exam_06.pdf"
+    },
+    {
+      "label": "Math Practice Exam 7",
+      "file": "math_exam_07.pdf"
+    },
+    {
+      "label": "Math Practice Exam 8",
+      "file": "math_exam_08.pdf"
+    },
+    {
+      "label": "Math Practice Exam 9",
+      "file": "math_exam_09.pdf"
+    },
+    {
+      "label": "Math Practice Exam 10",
+      "file": "math_exam_10.pdf"
+    },
+    {
+      "label": "Math Practice Exam 11",
+      "file": "math_exam_11.pdf"
+    },
+    {
+      "label": "Math Practice Exam 12",
+      "file": "math_exam_12.pdf"
+    }
+  ]
 }
